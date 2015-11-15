@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Okusalungiswa</item>
+        <item quantity="one">Okusalungiswa</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Susa lezi zingxoxo ezingu-%1$d?</item>
+        <item quantity="one">Susa le ngxoxo?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Faka lezi zingxoxo ezingu-%1$d kungobo yomlando?</item>
+        <item quantity="one">Ufuna ukufaka lengxoxo kungobo yomlando?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Lahla le milayezo engu-%1$d?</item>
+        <item quantity="one">Lahla lo mlayezo?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Isusa inkanyezi kuzingxoxo ezingu-%1$d</item>
+        <item quantity="one">Isusa inkanyezi kungxoxo engu-%1$d</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ithulisiwe</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ithulisiwe</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> kubikwe njengogaxekile</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> kubikwe njengogaxekile</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> kumakwe njengokungawona ugaxekile</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> kumakwe njengokungawona ugaxekile</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> kumakwe njengokungabalulekile</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> kumakwe njengokungabalulekile</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> kubikwe njengobugebengu bokweba imininingwane ebucayi</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> kubikwe njengobugebengu bokweba imininingwane ebucayi</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> kufakwe kungobo yomlando</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> kufakwe kungobo yomlando</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> kususiwe</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> kususiwe</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Amafolda ashintshiwe</item>
+        <item quantity="one">Ifolda eshintshiwe</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d imilayezo emisha</item>
+        <item quantity="one">%1$d umlayezo omusha</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Nweba %1$d imiyalezo emidala</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Imilayezo engu-%1$d enwetshiwe</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d akufundiwe</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d imilayezo emisha</item>
+        <item quantity="one">%1$d umlayezo omusha</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d imilayezo ezosuswa unaphakade.</item>
+        <item quantity="one">%1$d umlayezo ozosuswa unaphakade.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d imilayezo</item>
+        <item quantity="one">%1$d umlayezo</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d okunamathiselwe kwi-imeyili</item>
+        <item quantity="one">%1$d okunamathiselwe kwi-imeyili</item>
+    </plurals>
+</resources>

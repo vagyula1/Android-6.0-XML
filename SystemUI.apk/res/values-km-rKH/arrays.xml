@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>កំពុង​វិភាគ​រក…</item>
+        <item>កំពុង​ត​ភ្ជាប់​…</item>
+        <item>កំពុង​ផ្ទៀងផ្ទាត់...</item>
+        <item>កំពុង​ទទួល​អាសយដ្ឋាន IP…</item>
+        <item>បាន​តភ្ជាប់</item>
+        <item>បាន​ពន្យារ​ពេល</item>
+        <item>កំពុង​ផ្ដាច់…</item>
+        <item>បាន​ផ្ដាច់</item>
+        <item>មិន​ជោគជ័យ</item>
+        <item>បាន​ទប់​ស្កាត់</item>
+        <item>ជៀសវាង​ការ​តភ្ជាប់​ដែល​ខ្សោយ​ជា​បណ្ដោះ​អាសន្ន</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>កំពុង​វិភាគ​រក…</item>
+        <item>កំពុង​តភ្ជាប់​ទៅ %1$s…</item>
+        <item>កំពុង​ផ្ទៀងផ្ទាត់​ជា​មួយ %1$s…</item>
+        <item>កំពុង​យក​អាសយដ្ឋាន IP ពី %1$s…</item>
+        <item>បាន​តភ្ជាប់​ទៅ %1$s</item>
+        <item>បាន​ផ្អាក</item>
+        <item>កំពុង​ផ្ដាច់​ពីរ %1$s…</item>
+        <item>បាន​ផ្ដាច់</item>
+        <item>មិន​ជោគជ័យ</item>
+        <item>បាន​ទប់ស្កាត់</item>
+        <item>ជៀសវាង​ការ​តភ្ជាប់​​ខ្សោយ​ជា​បណ្ដោះអាសន្ន</item>
+    </string-array>
+</resources>

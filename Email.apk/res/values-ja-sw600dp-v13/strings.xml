@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">フォルダを管理</string>
+    <string name="add_cc_label">Cc/Bccを追加</string>
+    <string name="add_bcc_label">Bccを追加</string>
+    <string name="preferences_default_reply_all_summary">メッセージ通知への返信時の既定値として使用する</string>
+</resources>

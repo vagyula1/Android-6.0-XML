@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>=Abidjan</item>
+        <item>=Accra</item>
+        <item>=Addisz-Abeba</item>
+        <item>=Algír</item>
+        <item>=Blantyre</item>
+        <item>=Brazzaville</item>
+        <item>=Kairó</item>
+        <item>=Casablanca</item>
+        <item>=Conakry</item>
+        <item>=Dakar</item>
+        <item>=Dar es-Salaam</item>
+        <item>Dzs=Dzsibuti</item>
+        <item>=Freetown</item>
+        <item>=Gaborone</item>
+        <item>=Harare</item>
+        <item>=Johannesburg</item>
+        <item>=Kampala</item>
+        <item>=Kartúm</item>
+        <item>=Kigali</item>
+        <item>=Kinshasa</item>
+        <item>=Lagos</item>
+        <item>=Maseru</item>
+        <item>=Mogadishu</item>
+        <item>=Nairobi</item>
+        <item>=São Tomé</item>
+        <item>=Timbuktu</item>
+        <item>=Tripoli</item>
+        <item>=Tunisz</item>
+        <item>=Anchorage</item>
+        <item>=Mendoza</item>
+        <item>=Aruba</item>
+        <item>=Asunción</item>
+        <item>=Barbados</item>
+        <item>=Belize</item>
+        <item>=Bogotá</item>
+        <item>=Buenos Aires</item>
+        <item>=Cancún</item>
+        <item>=Caracas</item>
+        <item>=Kajmán-szigetek</item>
+        <item>=Chicago</item>
+        <item>=Costa Rica</item>
+        <item>=Curaçao</item>
+        <item>=Dawson Creek</item>
+        <item>=Denver</item>
+        <item>=Detroit</item>
+        <item>=Dominika</item>
+        <item>=Edmonton</item>
+        <item>=El Salvador</item>
+        <item>=Fortaleza</item>
+        <item>=Grand Turk-sziget</item>
+        <item>=Grenada</item>
+        <item>=Guatemala</item>
+        <item>=Guyana</item>
+        <item>=Halifax</item>
+        <item>=Havanna</item>
+        <item>=Indianapolis</item>
+        <item>=Knox</item>
+        <item>=Marengo</item>
+        <item>=Petersburg</item>
+        <item>=Tell City</item>
+        <item>=Vevay</item>
+        <item>=Vincennes</item>
+        <item>=Winamac</item>
+        <item>=Kingston</item>
+        <item>=Nuestra Señora de La Paz</item>
+        <item>=Lima</item>
+        <item>=Los Angeles</item>
+        <item>=Louisville</item>
+        <item>=Managua</item>
+        <item>=Martinique</item>
+        <item>=Mendoza</item>
+        <item>=Metlakatla</item>
+        <item>=Mexikóváros</item>
+        <item>=Monterrey</item>
+        <item>=Montevideo</item>
+        <item>=Montreal</item>
+        <item>=Nassau</item>
+        <item>=New York</item>
+        <item>=Beulah</item>
+        <item>=Center</item>
+        <item>=New Salem</item>
+        <item>=Panama</item>
+        <item>=Phoenix</item>
+        <item>=Port of Spain</item>
+        <item>=Port-au-Prince</item>
+        <item>=Puerto Rico</item>
+        <item>=Santo Domingo</item>
+        <item>=São Paulo</item>
+        <item>=St. Johns</item>
+        <item>=St. Kitts</item>
+        <item>=St. Lucia</item>
+        <item>=St. Thomas</item>
+        <item>=Tijuana</item>
+        <item>=Toronto</item>
+        <item>=Vancouver</item>
+        <item>=Winnipeg</item>
+        <item>=Déli-sark</item>
+        <item>=Longyearbyen</item>
+        <item>=Almati</item>
+        <item>=Ammán</item>
+        <item>=Anadir</item>
+        <item>=Aktau</item>
+        <item>=Bagdad</item>
+        <item>=Bahrein</item>
+        <item>=Baku</item>
+        <item>=Bangkok</item>
+        <item>=Bejrút</item>
+        <item>=Kalkutta</item>
+        <item>=Damaszkusz</item>
+        <item>=Dakka</item>
+        <item>=Dubaj</item>
+        <item>=Gáza</item>
+        <item>=Hebron</item>
+        <item>=Ho Si Minh-város</item>
+        <item>=Hongkong</item>
+        <item>=Isztambul</item>
+        <item>=Jakarta</item>
+        <item>=Jeruzsálem</item>
+        <item>=Kabul</item>
+        <item>=Karacsi</item>
+        <item>=Katmandu</item>
+        <item>=Kuala Lumpur</item>
+        <item>=Kuvaitváros</item>
+        <item>=Makaó</item>
+        <item>=Manila</item>
+        <item>=Maszkat</item>
+        <item>=Phnompen</item>
+        <item>=Phenjan</item>
+        <item>=Katar</item>
+        <item>=Rangun</item>
+        <item>=Rijád</item>
+        <item>=Saigon</item>
+        <item>Sz=Szöul</item>
+        <item>=Sanghaj</item>
+        <item>Sz=Szingapúr</item>
+        <item>=Tajpej</item>
+        <item>=Teherán</item>
+        <item>=Tel-Aviv</item>
+        <item>=Tokió</item>
+        <item>=Ulánbátor</item>
+        <item>=Bermuda</item>
+        <item>=Kanári-szigetek</item>
+        <item>=Zöld-foki Köztársaság</item>
+        <item>=Reykjavík</item>
+        <item>=Stanley</item>
+        <item>=Adelaide</item>
+        <item>=Brisbane</item>
+        <item>=Canberra</item>
+        <item>=Darwin</item>
+        <item>=Melbourne</item>
+        <item>Ú=Új-Dél-Wales</item>
+        <item>=Perth</item>
+        <item>=Queensland</item>
+        <item>=Sydney</item>
+        <item>=Victoria</item>
+        <item>Ú=Új-Fundland</item>
+        <item>=Saskatchewan</item>
+        <item>=Húsvét-sziget</item>
+        <item>=Amszterdam</item>
+        <item>=Andorra</item>
+        <item>=Athén</item>
+        <item>=Belfast</item>
+        <item>=Belgrád</item>
+        <item>=Berlin</item>
+        <item>=Pozsony</item>
+        <item>=Brüsszel</item>
+        <item>=Bukarest</item>
+        <item>=Budapest</item>
+        <item>=Chisinau</item>
+        <item>=Koppenhága</item>
+        <item>=Dublin</item>
+        <item>=Gibraltár</item>
+        <item>=Helsinki</item>
+        <item>=Man-sziget</item>
+        <item>=Isztambul</item>
+        <item>=Kijev</item>
+        <item>=Lisszabon</item>
+        <item>=London</item>
+        <item>=Luxemburg</item>
+        <item>=Madrid</item>
+        <item>=Málta</item>
+        <item>=Minszk</item>
+        <item>=Monaco</item>
+        <item>=Moszkva</item>
+        <item>=Oslo</item>
+        <item>=Párizs</item>
+        <item>=Prága</item>
+        <item>=Riga</item>
+        <item>=Róma</item>
+        <item>=San Marino</item>
+        <item>Sz=Szarajevó</item>
+        <item>Sz=Szimferopol</item>
+        <item>Sz=Szkopje</item>
+        <item>Sz=Szófia</item>
+        <item>=Stockholm</item>
+        <item>=Tallinn</item>
+        <item>=Vatikán</item>
+        <item>=Bécs</item>
+        <item>=Vilnius</item>
+        <item>=Varsó</item>
+        <item>=Zágráb</item>
+        <item>=Zürich</item>
+        <item>=Antananarivo</item>
+        <item>=Maldív-szigetek</item>
+        <item>=Mauritius</item>
+        <item>=Auckland</item>
+        <item>=Fidzsi-szigetek</item>
+        <item>=Guam</item>
+        <item>=Honolulu</item>
+        <item>=Kiritimati</item>
+        <item>=Noumea</item>
+        <item>Sz=Szamoa</item>
+        <item>=Tahiti</item>
+        <item>=Antigua</item>
+        <item>=Austin</item>
+        <item>=Boston</item>
+        <item>=Calgary</item>
+        <item>=Columbus</item>
+        <item>=Dallas</item>
+        <item>=Knoxville</item>
+        <item>=Memphis</item>
+        <item>=Miami</item>
+        <item>=Minneapolis</item>
+        <item>=Ottawa</item>
+        <item>=Philadelphia</item>
+        <item>=Portland</item>
+        <item>=San Diego</item>
+        <item>=San Francisco</item>
+        <item>=Salt Lake City</item>
+        <item>=San José</item>
+        <item>=San Salvador</item>
+        <item>=Seattle</item>
+        <item>=St. Louis</item>
+        <item>=Washington D.C.</item>
+        <item>=Houston</item>
+        <item>=San Antonio</item>
+        <item>=Jacksonville</item>
+        <item>=Baltimore</item>
+        <item>=Nashville</item>
+        <item>=Milwaukee</item>
+        <item>=Oklahoma City</item>
+        <item>=Las Vegas</item>
+        <item>=Albuquerque</item>
+        <item>=Tucson</item>
+        <item>=Sacramento</item>
+        <item>=Atlanta</item>
+        <item>=Cleveland</item>
+        <item>=New Orleans</item>
+        <item>=Tampa</item>
+        <item>=Pittsburgh</item>
+        <item>=Cincinnati</item>
+        <item>=Mountain View</item>
+        <item>=Reno</item>
+        <item>=Black Rock City</item>
+        <item>=Doha</item>
+        <item>=Peking</item>
+        <item>=Mumbai</item>
+        <item>=Delhi</item>
+        <item>=Oszaka</item>
+        <item>=Lahor</item>
+        <item>Sz=Szanaa</item>
+        <item>=Barcelona</item>
+        <item>=München</item>
+        <item>=Milánó</item>
+        <item>=Frankfurt</item>
+        <item>=Hanoi</item>
+        <item>=Ankara</item>
+        <item>=Bengaluru</item>
+        <item>=Brazíliaváros</item>
+        <item>=Fokváros</item>
+        <item>=Iszlámábád</item>
+        <item>=Rio de Janeiro</item>
+        <item>=Ann Arbor</item>
+        <item>=Boulder</item>
+        <item>=Cambridge</item>
+        <item>=Kirkland</item>
+        <item>=Madison</item>
+        <item>=Kanton</item>
+        <item>=Haidarábád</item>
+        <item>=Reston</item>
+        <item>=Belo Horizonte</item>
+        <item>=Santiago</item>
+        <item>=Monrovia</item>
+        <item>=Colombo</item>
+        <item>=Chihuahua</item>
+        <item>=Salvador</item>
+        <item>=Gurgáon</item>
+        <item>=Manchester</item>
+        <item>=Kijev</item>
+        <item>=Szentpétervár</item>
+        <item>=Krakkó</item>
+        <item>=Wroclaw</item>
+        <item>=Hamburg</item>
+        <item>=Oulu</item>
+        <item>=Haifa</item>
+        <item>=San Juan</item>
+        <item>=Tegucigalpa</item>
+        <item>=Paramaribo</item>
+        <item>=Quito</item>
+        <item>=Ljubljana</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>Kevesebb mint 1 perc van hátra</item>
+        <item>%1$s van hátra</item>
+        <item>%2$s van hátra</item>
+        <item>%1$s %2$s van hátra</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Riasztás beállítva: a jelenlegi időponttól számított kevesebb mint 1 perc múlva.</item>
+        <item>Riasztás beállítva: a jelenlegi időponttól számított %1$s múlva.</item>
+        <item>Riasztás beállítva: a jelenlegi időponttól számított %2$s múlva.</item>
+        <item>Riasztás beállítva: a jelenlegi időponttól számított %1$s és %2$s múlva.</item>
+        <item>Riasztás beállítva: a jelenlegi időponttól számított %3$s perc múlva.</item>
+        <item>Riasztás beállítva: a jelenlegi időponttól számított %1$s és %3$s múlva.</item>
+        <item>Riasztás beállítva: a jelenlegi időponttól számított %2$s és %3$s múlva.</item>
+        <item>Riasztás beállítva: a jelenlegi időponttól számított %1$s, %2$s és %3$s múlva.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>1 perc</item>
+        <item>5 perc</item>
+        <item>10 perc</item>
+        <item>15 perc</item>
+        <item>20 perc</item>
+        <item>25 perc</item>
+        <item>Soha</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>Szombat</item>
+        <item>Vasárnap</item>
+        <item>Hétfő</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Szundi</item>
+        <item>Elvetés</item>
+        <item>Nincs funkciójuk</item>
+    </string-array>
+    <string-array name="sw_lap_number_set">
+        <item>Körök száma %d</item>
+        <item>Körök száma %02d</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>Ön valósággal a sebesség ördöge.</item>
+        <item>Élvezze a munkája gyümölcsét.</item>
+        <item>Az androidok köztudottan gyorsak, de nem annyira, mint Ön!</item>
+        <item>Tyű.</item>
+        <item>L33t idő.</item>
+        <item>Micsoda bődületes sebesség.</item>
+        <item>Állítsuk meg újra az időt.</item>
+        <item>Csak egy ugrás balra.</item>
+        <item>Van érzéke a sietséghez.</item>
+        <item>Fotonikus sebesség!</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>Analóg</item>
+        <item>Digitális</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Marshall-szigetek</item>
+        <item>Midway-szigetek</item>
+        <item>Hawaii</item>
+        <item>Alaszka</item>
+        <item>Csendes-óceáni idő</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Hegyi idő</item>
+        <item>Közép-Amerika</item>
+        <item>Amerikai középidő</item>
+        <item>Mexikóváros</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Keleti idő</item>
+        <item>Venezuela</item>
+        <item>Atlanti-óceáni idő (Barbados)</item>
+        <item>Atlanti-óceáni idő (Kanada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brasília</item>
+        <item>Buenos Aires</item>
+        <item>Grönland</item>
+        <item>Montevideo</item>
+        <item>közép-atlanti</item>
+        <item>Azori-szigetek</item>
+        <item>Zöld-foki-szigetek</item>
+        <item>Casablanca</item>
+        <item>London, Dublin</item>
+        <item>Amszterdam, Berlin</item>
+        <item>Belgrád</item>
+        <item>Brüsszel</item>
+        <item>Szarajevó</item>
+        <item>Windhoek</item>
+        <item>Nyugat-afrikai idő</item>
+        <item>Ammán, Jordánia</item>
+        <item>Athén, Isztambul</item>
+        <item>Bejrút, Libanon</item>
+        <item>Kairó</item>
+        <item>Helsinki</item>
+        <item>Jeruzsálem</item>
+        <item>Minszk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moszkva</item>
+        <item>Kuvait</item>
+        <item>Nairobi</item>
+        <item>Teherán</item>
+        <item>Baku</item>
+        <item>Tbiliszi</item>
+        <item>Jereván</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Iszlámábád, Karacsi</item>
+        <item>Ural</item>
+        <item>Jekatyerinburg</item>
+        <item>Kolkata</item>
+        <item>Srí Lanka</item>
+        <item>Katmandu</item>
+        <item>Asztana</item>
+        <item>Rangun</item>
+        <item>Krasznojarszk</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hongkong</item>
+        <item>Irkutszk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Tajpej</item>
+        <item>Szöul</item>
+        <item>Tokió, Oszaka</item>
+        <item>Jakutszk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vlagyivosztok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fidzsi</item>
+        <item>Tonga</item>
+        <item>Jakarta</item>
+    </string-array>
+</resources>

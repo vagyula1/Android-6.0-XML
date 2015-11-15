@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה אחת</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה אחת</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה אחת</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d ימים</item>
+        <item quantity="one">יום אחד</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">שבוע %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d פעמים</item>
+        <item quantity="one">; פעם אחת</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">כל %d ימים</item>
+        <item quantity="one">יומי</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">כל %1$d שבועות ביום %2$s</item>
+        <item quantity="one">שבועי ביום %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d אירועים</item>
+        <item quantity="one">אירוע אחד</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d אירועים</item>
+        <item quantity="one">+אירוע אחד</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">כל %d ימים</item>
+        <item quantity="one">כל יום %d</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">כל %d שבועות</item>
+        <item quantity="one">כל שבוע %d</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">כל %d חודשים</item>
+        <item quantity="one">כל חודש %d</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">כל %d שנים</item>
+        <item quantity="one">כל שנה %d</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">עבור %d אירועים</item>
+        <item quantity="one">עבור אירוע %d</item>
+    </plurals>
+</resources>

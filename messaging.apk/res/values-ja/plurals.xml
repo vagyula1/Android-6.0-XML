@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d分</item>
+        <item quantity="one">%d分</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d時間</item>
+        <item quantity="one">%d時間</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d日</item>
+        <item quantity="one">%d日</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d週間</item>
+        <item quantity="one">1週間</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%dか月</item>
+        <item quantity="one">1か月</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d年</item>
+        <item quantity="one">1年</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d件のスレッドのメッセージ%2$d件</item>
+        <item quantity="one">1件のスレッドのメッセージ%d件</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d件のスレッドのメッセージ%2$d件</item>
+        <item quantity="one">1件のスレッドのメッセージ%d件</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d件の新しいメッセージ</item>
+        <item quantity="one">新しいメッセージ</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">これらのスレッドを削除しますか？</item>
+        <item quantity="one">このスレッドを削除しますか？</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">参加者%d人</item>
+        <item quantity="one">参加者%d人</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">添付ファイルを破棄</item>
+        <item quantity="one">添付ファイルを破棄</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d枚の写真を「%2$s」アルバムに保存しました</item>
+        <item quantity="one">%1$d枚の写真を「%2$s」アルバムに保存しました</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d本の動画を「%2$s」アルバムに保存しました</item>
+        <item quantity="one">%1$d本の動画を「%2$s」アルバムに保存しました</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d個の添付ファイルを「%2$s」アルバムに保存しました</item>
+        <item quantity="one">%1$d個の添付ファイルを「%2$s」アルバムに保存しました</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d個の添付ファイルを「ダウンロード」に保存しました</item>
+        <item quantity="one">%d個の添付ファイルを「ダウンロード」に保存しました</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">%d個の添付ファイルを保存しました</item>
+        <item quantity="one">%d個の添付ファイルを保存しました</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">%d個の添付ファイルを保存できませんでした</item>
+        <item quantity="one">%d個の添付ファイルを保存できませんでした</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">写真を送信します</item>
+        <item quantity="one">写真を送信します</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">音声を送信します</item>
+        <item quantity="one">音声を送信します</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">動画を送信します</item>
+        <item quantity="one">動画を送信します</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">連絡先カードを送信します</item>
+        <item quantity="one">連絡先カードを送信します</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">添付ファイルを送信します</item>
+        <item quantity="one">添付ファイルを送信します</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d個の添付ファイルを送信する準備ができました</item>
+        <item quantity="one">1個の添付ファイルを送信する準備ができました</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d件の連絡先</item>
+        <item quantity="one">%d件の連絡先</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">連絡先が無効です</item>
+        <item quantity="one">連絡先が無効です</item>
+    </plurals>
+</resources>

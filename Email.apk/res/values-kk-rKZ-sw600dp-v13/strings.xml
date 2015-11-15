@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">Қалталарды басқару</string>
+    <string name="add_cc_label">+ Көш./Жасырын көш.</string>
+    <string name="add_bcc_label">+ Жасырын көшірме</string>
+    <string name="preferences_default_reply_all_summary">Хабар туралы хабарландырулар үшін әдепкі ретінде пайдалану</string>
+</resources>

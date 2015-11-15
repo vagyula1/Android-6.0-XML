@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Kopijuojama %1$d failų.</item>
+        <item quantity="one">Kopijuojamas %1$d failas.</item>
+        <item quantity="few">Kopijuojami %1$d failai.</item>
+        <item quantity="many">Kopijuojama %1$d failo.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Nepavyko nukopijuoti %1$d failų</item>
+        <item quantity="one">Nepavyko nukopijuoti %1$d failo</item>
+        <item quantity="few">Nepavyko nukopijuoti %1$d failų</item>
+        <item quantity="many">Nepavyko nukopijuoti %1$d failo</item>
+    </plurals>
+</resources>

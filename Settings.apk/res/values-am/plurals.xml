@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">አሁን ገንቢ ለመሆን %1$d ደረጃዎች ይቀርዎታል።</item>
+        <item quantity="one">አሁን ገንቢ ለመሆን %1$d ደረጃዎች ይቀርዎታል።</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">የ%1$d ጣት አሻራዎች ማዋቀር</item>
+        <item quantity="one">የ%1$d ጣት አሻራዎች ማዋቀር</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">የይለፍ ቃል ቢያንስ %d ፊደሎች መያዝ አለበት።</item>
+        <item quantity="one">የይለፍ ቃል ቢያንስ %d ፊደሎች መያዝ አለበት።</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">የይለፍ ቃል ቢያንስ %d ንዑስ ፊደሎች መያዝ አለበት።</item>
+        <item quantity="one">የይለፍ ቃል ቢያንስ %d ንዑስ ፊደሎች መያዝ አለበት።</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">የይለፍ ቃል ቢያንስ %d አቢይ ፊደሎች መያዝ አለበት።</item>
+        <item quantity="one">የይለፍ ቃል ቢያንስ %d አቢይ ፊደሎች መያዝ አለበት።</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">የይለፍ ቃል ቢያንስ %d ቁጥር አሀዞች መያዝ አለበት።</item>
+        <item quantity="one">የይለፍ ቃል ቢያንስ %d ቁጥር አሀዞች መያዝ አለበት።</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">የይለፍ ቃል ቢያንስ %d ልዩ ምልክቶች መያዝ አለበት።</item>
+        <item quantity="one">የይለፍ ቃል ቢያንስ %d ልዩ ምልክቶች መያዝ አለበት።</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">የይለፍ ቃል ቢያንስ %d ፊደል ያልሆኑ ቁምፊዎች መያዝ አለበት።</item>
+        <item quantity="one">የይለፍ ቃል ቢያንስ %d ፊደል ያልሆኑ ቁምፊዎች መያዝ አለበት።</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">ልክ ያልሆነ የሲም ፒን ኮድ፣ %d ሙከራዎች ይቀርዎታል።</item>
+        <item quantity="one">ልክ ያልሆነ የሲም ፒን ኮድ፣ %d ሙከራዎች ይቀርዎታል።</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">የ%d መተግበሪያዎች ማሳወቂያዎችን ማንበብ ይችላሉ</item>
+        <item quantity="one">የ%d መተግበሪያዎች ማሳወቂያዎችን ማንበብ ይችላሉ</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">ወደ ማንቂያዎች ለ%1$d ደቂቃዎች ብቻ ለውጥ (እስከ %2$s)</item>
+        <item quantity="one">ወደ ማንቂያዎች ለ%1$d ደቂቃዎች ብቻ ለውጥ (እስከ %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">ወደ ማንቂያዎች ለ%1$d ሰዓቶች ብቻ እስከ %2$s ድረስ ለውጥ</item>
+        <item quantity="one">ወደ ማንቂያዎች ለ%1$d ሰዓቶች ብቻ እስከ %2$s ድረስ ለውጥ</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d ፈቃዶች ተሰጥተዋል</item>
+        <item quantity="one">%d ፈቃዶች ተሰጥተዋል</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d ከ%2$d ፈቃዶች ተሰጥተዋል</item>
+        <item quantity="one">%1$d ከ%2$d ፈቃዶች ተሰጥቷል</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d ተጨማሪ ፈቃዶች</item>
+        <item quantity="one">%d ተጨማሪ ፈቃዶች</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d መተግበሪያዎች የሚደገፉ አገናኞቻቸውን መክፈት ይችላሉ</item>
+        <item quantity="one">%d መተግበሪያዎች የሚደገፉ አገናኞቻቸውን መክፈት ይችላሉ</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d መተግበሪያዎች ባትሪን ማትባት ችላ እንዲባል ፈቅደዋል</item>
+        <item quantity="one">%d መተግበሪያዎች ባትሪን ማትባት ችላ እንዲባል ፈቅደዋል</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d መተግበሪያዎች ባለፈው %2$s ጊዜ ውስጥ ማህደረ ትውስታን ተጠቅመዋል</item>
+        <item quantity="one">%1$d መተግበሪያዎች ባለፈው %2$s ጊዜ ውስጥ ማህደረ ትውስታን ተጠቅመዋል</item>
+    </plurals>
+</resources>

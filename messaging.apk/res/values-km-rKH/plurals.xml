@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d នាទី</item>
+        <item quantity="one">%d នាទី</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d ម៉ោង</item>
+        <item quantity="one">%d ម៉ោង</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d ថ្ងៃ</item>
+        <item quantity="one">%d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d សប្តាហ៍</item>
+        <item quantity="one">មួយសប្តាហ៍</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d ខែ</item>
+        <item quantity="one">មួយខែ</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d ឆ្នាំ</item>
+        <item quantity="one">មួយឆ្នាំ</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">សារ %1$d នៅក្នុងការសន្ទនា %2$d</item>
+        <item quantity="one">សារ %d នៅក្នុងការសន្ទនាមួយ</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">សារ %1$d នៅក្នុងការសន្ទនា %2$d</item>
+        <item quantity="one">សារ %d នៅក្នុងការសន្ទនាមួយ</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">សារថ្មី %d</item>
+        <item quantity="one">សារថ្មី</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">លុបការសន្ទនាទាំងនេះ?</item>
+        <item quantity="one">លុបការសន្ទនានេះ?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">អ្នកចូលរួម %d នាក់</item>
+        <item quantity="one">អ្នកចូលរួម %d នាក់</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">បោះបង់ឯកសារភ្ជាប់</item>
+        <item quantity="one">បោះបង់ឯកសារភ្ជាប់</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">បានរក្សាទុករូបថត %1$d ទៅក្នុងអាល់ប៊ុម \"%2$s\"</item>
+        <item quantity="one">បានរក្សាទុករូបថត %1$d ទៅក្នុងអាល់ប៊ុម \"%2$s\"</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">បានរក្សាទុកវីដេអូ %1$d ទៅក្នុងអាល់ប៊ុម \"%2$s\"</item>
+        <item quantity="one">បានរក្សាទុកវីដេអូ %1$d ទៅក្នុងអាល់ប៊ុម \"%2$s\"</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">បានរក្សាទុកឯកសារភ្ជាប់ %1$d ទៅក្នុងអាល់ប៊ុម \"%2$s\"</item>
+        <item quantity="one">បានរក្សាទុកឯកសារភ្ជាប់ %1$d ទៅក្នុងអាល់ប៊ុម \"%2$s\"</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">បានរក្សាទុកឯកសារភ្ជាប់ %d ទៅក្នុង \"ទាញយក\"</item>
+        <item quantity="one">បានរក្សាទុកឯកសារភ្ជាប់ %d ទៅក្នុង \"ទាញយក\"</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">បានរក្សាទុកឯកសារភ្ជាប់ %d</item>
+        <item quantity="one">បានរក្សាទុកឯកសារភ្ជាប់ %d</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">មិនអាចរក្សាទុកឯកសារភ្ជាប់ %d</item>
+        <item quantity="one">មិនអាចរក្សាទុកឯកសារភ្ជាប់ %d</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">ផ្ញើរូបថត</item>
+        <item quantity="one">ផ្ញើរូបថត</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">ផ្ញើសំឡេង</item>
+        <item quantity="one">ផ្ញើសំឡេង</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">ផ្ញើវីដេអូ</item>
+        <item quantity="one">ផ្ញើវីដេអូ</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">ផ្ញើកាតទំនាក់ទំនង</item>
+        <item quantity="one">ផ្ញើកាតទំនាក់ទំនង</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">ផ្ញើឯកសារភ្ជាប់</item>
+        <item quantity="one">ផ្ញើឯកសារភ្ជាប់</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">ឯកសារភ្ជាប់ %d ត្រៀមសម្រាប់ផ្ញើ</item>
+        <item quantity="one">ឯកសារភ្ជាប់មួយត្រៀមសម្រាប់ផ្ញើ</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">ទំនាក់ទំនង %d</item>
+        <item quantity="one">ទំនាក់ទំនង %d</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">ទំនាក់ទំនងមិនត្រឹមត្រូវ</item>
+        <item quantity="one">ទំនាក់ទំនងមិនត្រឹមត្រូវ</item>
+    </plurals>
+</resources>

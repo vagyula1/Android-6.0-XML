@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">Gestiona les carpetes</string>
+    <string name="add_cc_label">+ Cc/Cco</string>
+    <string name="add_bcc_label">+ Cco</string>
+    <string name="preferences_default_reply_all_summary">Usa com a opció predeterminada per respondre notificacions de missatge</string>
+</resources>

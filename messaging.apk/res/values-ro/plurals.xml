@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d de minute</item>
+        <item quantity="one">%d minut</item>
+        <item quantity="few">%d minute</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d de ore</item>
+        <item quantity="one">%d oră</item>
+        <item quantity="few">%d ore</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d de zile</item>
+        <item quantity="one">%d zi</item>
+        <item quantity="few">%d zile</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d de săptămâni</item>
+        <item quantity="one">o săptămână</item>
+        <item quantity="few">%d săptămâni</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d de luni</item>
+        <item quantity="one">o lună</item>
+        <item quantity="few">%d luni</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d de ani</item>
+        <item quantity="one">un an</item>
+        <item quantity="few">%d ani</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d (de) mesaje în %2$d de conversații</item>
+        <item quantity="one">%d (de) mesaje într-o conversație</item>
+        <item quantity="few">%1$d (de) mesaje în %2$d conversații</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d (de) mesaje în %2$d de conversații</item>
+        <item quantity="one">%d (de) mesaje într-o conversație</item>
+        <item quantity="few">%1$d (de) mesaje în %2$d conversații</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d de mesaje noi</item>
+        <item quantity="one">Mesaj nou</item>
+        <item quantity="few">%d mesaje noi</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">Ștergeți aceste conversații?</item>
+        <item quantity="one">Ștergeți această conversație?</item>
+        <item quantity="few">Ștergeți aceste conversații?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d de participanți</item>
+        <item quantity="one">%d participant</item>
+        <item quantity="few">%d participanți</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">Eliminați atașamentele</item>
+        <item quantity="one">Eliminați atașamentul</item>
+        <item quantity="few">Eliminați atașamentele</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d de fotografii salvate în albumul „%2$s”</item>
+        <item quantity="one">%1$d fotografie salvată în albumul „%2$s”</item>
+        <item quantity="few">%1$d fotografii salvate în albumul „%2$s”</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d de videoclipuri salvate în albumul „%2$s”</item>
+        <item quantity="one">%1$d videoclip salvat în albumul „%2$s”</item>
+        <item quantity="few">%1$d videoclipuri salvate în albumul „%2$s”</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d de atașamente salvate în albumul „%2$s”</item>
+        <item quantity="one">%1$d atașament salvat în albumul „%2$s”</item>
+        <item quantity="few">%1$d atașamente salvate în albumul „%2$s”</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d de atașamente salvate în „Descărcări”</item>
+        <item quantity="one">%d atașament salvat în „Descărcări”</item>
+        <item quantity="few">%d atașamente salvate în „Descărcări”</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">%d de atașamente au fost salvate</item>
+        <item quantity="one">%d atașament a fost salvat</item>
+        <item quantity="few">%d atașamente au fost salvate</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">Nu s-au putut salva %d de atașamente</item>
+        <item quantity="one">Nu s-a putut salva %d atașament</item>
+        <item quantity="few">Nu s-au putut salva %d atașamente</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">Trimiteți fotografiile</item>
+        <item quantity="one">Trimiteți fotografia</item>
+        <item quantity="few">Trimiteți fotografiile</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">Trimiteți fișierele audio</item>
+        <item quantity="one">Trimiteți fișierul audio</item>
+        <item quantity="few">Trimiteți fișierele audio</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">Trimiteți videoclipurile</item>
+        <item quantity="one">Trimiteți videoclipul</item>
+        <item quantity="few">Trimiteți videoclipurile</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">Trimiteți cărțile de vizită</item>
+        <item quantity="one">Trimiteți cartea de vizită</item>
+        <item quantity="few">Trimiteți cărțile de vizită</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">Trimiteți atașamentele</item>
+        <item quantity="one">Trimiteți atașamentul</item>
+        <item quantity="few">Trimiteți atașamentele</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d de atașamente gata de trimis</item>
+        <item quantity="one">Un atașament gata de trimis</item>
+        <item quantity="few">%d atașamente gata de trimis</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d de persoane de contact</item>
+        <item quantity="one">%d persoană de contact</item>
+        <item quantity="few">%d persoane de contact</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">Persoane de contact nevalide</item>
+        <item quantity="one">Persoană de contact nevalidă</item>
+        <item quantity="few">Persoane de contact nevalide</item>
+    </plurals>
+</resources>

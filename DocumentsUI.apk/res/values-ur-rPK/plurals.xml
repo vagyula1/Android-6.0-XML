@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">%1$d فائلیں کاپی کی جا رہی ہیں۔</item>
+        <item quantity="one">%1$d فائل کاپی کی جا رہی ہے۔</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">%1$d فائلز کاپی نہیں کی جا سکیں</item>
+        <item quantity="one">%1$d فائل کاپی نہیں کی جا سکی</item>
+    </plurals>
+</resources>

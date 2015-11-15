@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Od zostania programistą dzieli Cię już tylko %1$d kroku.</item>
+        <item quantity="one">Od zostania programistą dzieli Cię już tylko %1$d krok.</item>
+        <item quantity="few">Od zostania programistą dzielą Cię już tylko %1$d kroki.</item>
+        <item quantity="many">Od zostania programistą dzieli Cię już tylko %1$d kroków.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">Ustawiono %1$d odcisku palca</item>
+        <item quantity="one">Ustawiono %1$d odcisk palca</item>
+        <item quantity="few">Ustawiono %1$d odciski palców</item>
+        <item quantity="many">Ustawiono %1$d odcisków palców</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Hasło musi zawierać co najmniej %d litery.</item>
+        <item quantity="one">Hasło musi zawierać co najmniej jedną literę.</item>
+        <item quantity="few">Hasło musi zawierać co najmniej %d litery.</item>
+        <item quantity="many">Hasło musi zawierać co najmniej %d liter.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Hasło musi zawierać co najmniej %d małej litery.</item>
+        <item quantity="one">Hasło musi zawierać co najmniej jedną małą literę.</item>
+        <item quantity="few">Hasło musi zawierać co najmniej %d małe litery.</item>
+        <item quantity="many">Hasło musi zawierać co najmniej %d małych liter.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Hasło musi zawierać co najmniej %d wielkiej litery.</item>
+        <item quantity="one">Hasło musi zawierać co najmniej jedną wielką literę.</item>
+        <item quantity="few">Hasło musi zawierać co najmniej %d wielkie litery.</item>
+        <item quantity="many">Hasło musi zawierać co najmniej %d wielkich liter.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Hasło musi zawierać co najmniej %d cyfry.</item>
+        <item quantity="one">Hasło musi zawierać co najmniej jedną cyfrę.</item>
+        <item quantity="few">Hasło musi zawierać co najmniej %d cyfry.</item>
+        <item quantity="many">Hasło musi zawierać co najmniej %d cyfr.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Hasło musi zawierać co najmniej %d symbolu specjalnego.</item>
+        <item quantity="one">Hasło musi zawierać co najmniej jeden symbol specjalny.</item>
+        <item quantity="few">Hasło musi zawierać co najmniej %d symbole specjalne.</item>
+        <item quantity="many">Hasło musi zawierać co najmniej %d symboli specjalnych.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Hasło musi zawierać co najmniej %d znaku niebędącego literą.</item>
+        <item quantity="one">Hasło musi zawierać co najmniej jeden znak niebędący literą.</item>
+        <item quantity="few">Hasło musi zawierać co najmniej %d znaki niebędące literą.</item>
+        <item quantity="many">Hasło musi zawierać co najmniej %d znaków niebędących literą.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Nieprawidłowy kod PIN karty SIM. Masz jeszcze %d próby.</item>
+        <item quantity="one">Nieprawidłowy kod PIN karty SIM. Masz jeszcze %d próbę, zanim będziesz musiał skontaktować się z operatorem, by odblokować swoje urządzenie.</item>
+        <item quantity="few">Nieprawidłowy kod PIN karty SIM. Masz jeszcze %d próby.</item>
+        <item quantity="many">Nieprawidłowy kod PIN karty SIM. Masz jeszcze %d prób.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d aplikacji może odczytywać powiadomienia</item>
+        <item quantity="one">%d aplikacja może odczytywać powiadomienia</item>
+        <item quantity="few">%d aplikacje mogą odczytywać powiadomienia</item>
+        <item quantity="many">%d aplikacji może odczytywać powiadomienia</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Zmień na same alarmy przez %1$d minuty, do %2$s</item>
+        <item quantity="one">Zmień na same alarmy przez minutę, do %2$s</item>
+        <item quantity="few">Zmień na same alarmy przez %1$d minuty, do %2$s</item>
+        <item quantity="many">Zmień na same alarmy przez %1$d minut, do %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Zmień na same alarmy przez %1$d godziny, do %2$s</item>
+        <item quantity="one">Zmień na same alarmy przez godzinę, do %2$s</item>
+        <item quantity="few">Zmień na same alarmy przez %1$d godziny, do %2$s</item>
+        <item quantity="many">Zmień na same alarmy przez %1$d godzin, do %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">Przyznano %d uprawnienia</item>
+        <item quantity="one">Przyznano %d uprawnienie</item>
+        <item quantity="few">Przyznano %d uprawnienia</item>
+        <item quantity="many">Przyznano %d uprawnień</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">Przyznane uprawnienia: %1$d z %2$d</item>
+        <item quantity="one">Przyznane uprawnienia: %1$d z %2$d</item>
+        <item quantity="few">Przyznane uprawnienia: %1$d z %2$d</item>
+        <item quantity="many">Przyznane uprawnienia: %1$d z %2$d</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d dodatkowego uprawnienia</item>
+        <item quantity="one">%d dodatkowe uprawnienie</item>
+        <item quantity="few">%d dodatkowe uprawnienia</item>
+        <item quantity="many">%d dodatkowych uprawnień</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d aplikacji może otwierać obsługiwane przez siebie linki</item>
+        <item quantity="one">Jedna aplikacja może otwierać obsługiwane przez siebie linki</item>
+        <item quantity="few">%d aplikacje mogą otwierać obsługiwane przez siebie linki</item>
+        <item quantity="many">%d aplikacji może otwierać obsługiwane przez siebie linki</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d aplikacji może ignorować optymalizację baterii</item>
+        <item quantity="one">1 aplikacja może ignorować optymalizację baterii</item>
+        <item quantity="few">%d aplikacje mogą ignorować optymalizację baterii</item>
+        <item quantity="many">%d aplikacji może ignorować optymalizację baterii</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d aplikacji używało pamięci w ciągu ostatnich %2$s</item>
+        <item quantity="one">Jedna aplikacja używała pamięci w ciągu ostatnich %2$s</item>
+        <item quantity="few">%1$d aplikacje używały pamięci w ciągu ostatnich %2$s</item>
+        <item quantity="many">%1$d aplikacji używało pamięci w ciągu ostatnich %2$s</item>
+    </plurals>
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Недовршене поруке</item>
+        <item quantity="one">Недовршена порука</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Желите ли да избришете ове преписке (%1$d)?</item>
+        <item quantity="one">Желите ли да избришете ову преписку?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Желите ли да архивирате ове преписке (%1$d)?</item>
+        <item quantity="one">Желите ли да архивирате ову преписку?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Желите ли да одбаците ове поруке (%1$d)?</item>
+        <item quantity="one">Желите ли да одбаците ову поруку?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Уклања се звездица са преписки (%1$d)</item>
+        <item quantity="one">Уклања се звездица са %1$d преписке</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">Игнорисаних: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Игнорисаних: &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">Пријављених као непожељне: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Пријављених као непожељне: &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">Пријављених да нису непожељне: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Пријављених да нису непожељне: &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">Означених као неважне: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Означених као неважне: &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">Пријављених као „пецање“: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Пријављених као „пецање“: &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">Архивираних: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Архивираних: &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">Избрисаних: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Избрисаних: &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Промењени су директоријуми</item>
+        <item quantity="one">Промењен је директоријум</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">Нових порука: %1$d</item>
+        <item quantity="one">Нових порука: %1$d</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Прошири старије поруке (%1$d)</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Проширене су старије поруке (%1$d)</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">Непрочитаних: %1$d</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">Нових порука: %1$d</item>
+        <item quantity="one">%1$d нова порука</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Поруке (%1$d) ће бити трајно избрисане.</item>
+        <item quantity="one">%1$d порука ће бити трајно избрисана.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d поруке(а)</item>
+        <item quantity="one">%1$d порука</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d прилога</item>
+        <item quantity="one">%1$d прилог</item>
+    </plurals>
+</resources>

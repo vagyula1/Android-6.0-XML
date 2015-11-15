@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>walang paksa</item>
+        <item>nosubject</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Oo</item>
+        <item>Hindi</item>
+        <item>OK</item>
+        <item>Hehe</item>
+        <item>Salamat</item>
+        <item>Sang-ayon ako</item>
+        <item>Ayos</item>
+        <item>Papunta na ako</item>
+        <item>OK, balikan na lang kita mamaya</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

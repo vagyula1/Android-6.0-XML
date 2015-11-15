@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">ड्राफ्ट</item>
+        <item quantity="one">ड्राफ्ट</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">यी %1$d कुराकानीहरू मेटाउनु हुन्छ?</item>
+        <item quantity="one">यो कुराकानी मेटाउने हो?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">यी %1$d कुराकानीहरू अभिलेख गर्नुहुन्छ?</item>
+        <item quantity="one">यस कुराकानीको सङ्ग्रह राख्ने हो?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">यी %1$d सन्देशहरू खारेज गर्नुहुन्छ?</item>
+        <item quantity="one">यो सन्देश खारेज गर्नुहुन्छ?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">ताराङ्कित नरहेका %1$d कुराकानीहरू</item>
+        <item quantity="one">ताराङ्कित नरहेको %1$d कुराकानी</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> मौन गरियो</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> मौन गरियो</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> स्प्यामको रूपमा रिपोर्ट गरियो</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> स्प्यामको रूपमा रिपोर्ट गरियो</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> स्प्याम नभएको रूपमा रिपोर्ट गरियो</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> स्प्याम नभएको रूपमा रिपोर्ट गरियो</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> महत्त्वपूर्ण होइन भनी चिन्ह लगाइयो</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> महत्त्वपूर्ण होइन भनी चिन्ह लगाइयो</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> फिसिङको रूपमा रिपोर्ट गरियो</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> फिसिङको रूपमा रिपोर्ट गरियो</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> सङ्ग्रहित</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> सङ्ग्रहित</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> मेटाइयो</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> मेटाइयो</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">फोल्डरहरू परिवर्तन भए।</item>
+        <item quantity="one">फोल्डर परिवर्तन भयो।</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d नयाँ सन्देशहरू</item>
+        <item quantity="one">%1$d नयाँ सन्देश</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d पुराना सन्देशहरू विस्तार गर्नुहोस्</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">विस्तारित %1$d पुराना सन्देशहरू</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d नपढेको</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d नयाँ सन्देशहरू</item>
+        <item quantity="one">%1$d नयाँ सन्देश</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d सन्देशहरू स्थायी रूपमा मेटाईनेछन्।</item>
+        <item quantity="one">%1$d सन्देश स्थायी रूपमा मेटाईनेछ।</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d सन्देशहरू</item>
+        <item quantity="one">%1$d सन्देश</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d एट्याच्मेन्टहरू</item>
+        <item quantity="one">%1$d एट्याच्मेन्ट</item>
+    </plurals>
+</resources>

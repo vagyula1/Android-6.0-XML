@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">ცოცხალი ფონების ამომრჩეველი</string>
+    <string name="live_wallpaper_picker_title">შეარჩიეთ ცოცხალი ფონი</string>
+    <string name="live_wallpaper_picker_label">ცოცხალი ფონები</string>
+    <string name="live_wallpaper_preview_title">ცოცხალი ფონის გადახედვა</string>
+    <string name="configure_wallpaper">პარამეტრები...</string>
+    <string name="wallpaper_instructions">ფონის დაყენება</string>
+    <string name="live_wallpaper_empty">ცოცხალი ფონები არ არის.</string>
+    <string name="set_live_wallpaper">ფონის დაყენება</string>
+    <string name="wallpaper_title_and_author">%1$s ავტორი: %2$s</string>
+    <string name="live_wallpaper_loading">იტვირთება ცოცხალი ფონი…</string>
+    <string name="wallpaper_cancel">გაუქმება</string>
+</resources>

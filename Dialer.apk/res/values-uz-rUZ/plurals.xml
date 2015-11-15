@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d ta topildi</item>
+        <item quantity="one">1 found</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d soniya</item>
+        <item quantity="one">1 soniya</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d daqiqa</item>
+        <item quantity="one">1 daqiqa</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d soat</item>
+        <item quantity="one">1 soat</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d ta ovozli xabar</item>
+        <item quantity="one">Ovozli xabar</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d ta yangi ovozli xabar</item>
+        <item quantity="one">%d ta yangi ovozli xabar</item>
+    </plurals>
+</resources>

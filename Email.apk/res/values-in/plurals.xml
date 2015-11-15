@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Draf</item>
+        <item quantity="one">Draf</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Hapus %1$d percakapan ini?</item>
+        <item quantity="one">Hapus percakapan ini?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Arsipkan %1$d percakapan ini?</item>
+        <item quantity="one">Arsipkan percakapan ini?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Buang %1$d pesan ini?</item>
+        <item quantity="one">Buang pesan ini?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Hapus bintang %1$d percakapan</item>
+        <item quantity="one">Hapus bintang %1$d percapakan</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> tidak ditampilkan</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> tidak ditampilkan</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> dilaporkan sebagai spam</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> dilaporkan sebagai spam</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> dilaporkan sebagai bukan spam</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> dilaporkan sebagai bukan spam</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ditandai tidak penting</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ditandai tidak penting</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> dilaporkan sebagai phishing</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> dilaporkan sebagai phishing</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> diarsipkan</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> diarsipkan</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> dihapus</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> dihapus</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Folder diubah</item>
+        <item quantity="one">Folder diubah</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d pesan baru</item>
+        <item quantity="one">%1$d pesan baru</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Luaskan %1$d pesan lama</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Luaskan %1$d pesan lama</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d belum dibaca</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d pesan baru</item>
+        <item quantity="one">%1$d pesan baru</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d pesan akan dihapus secara permanen.</item>
+        <item quantity="one">%1$d pesan akan dihapus secara permanen.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d pesan</item>
+        <item quantity="one">%1$d pesan</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d lampiran</item>
+        <item quantity="one">%1$d lampiran</item>
+    </plurals>
+</resources>

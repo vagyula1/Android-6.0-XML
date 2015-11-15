@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d minut</item>
+        <item quantity="one">1 minuta</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d hod.</item>
+        <item quantity="one">1 hodina</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d dnů</item>
+        <item quantity="one">1 den</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">%d. TÝDEN</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">, %dkrát</item>
+        <item quantity="one">; jednorázově</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Jednou za %d d.</item>
+        <item quantity="one">denně</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Jednou za %1$d týd. v %2$s</item>
+        <item quantity="one">Týdně (%2$s)</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">Události: %d</item>
+        <item quantity="one">1 událost</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+ další události (%d)</item>
+        <item quantity="one">+ 1 událost</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Jednou za %d d.</item>
+        <item quantity="one">Jednou za %d d.</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Jednou za %d týd.</item>
+        <item quantity="one">Jednou za %d týd.</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Jedno za %d měs.</item>
+        <item quantity="one">Jednou za %d měs.</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Jednou za %d r.</item>
+        <item quantity="one">Jednou za %d r.</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Pro následující počet událostí: %d</item>
+        <item quantity="one">Pro %d událost</item>
+    </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">正在複製 %1$d 個檔案。</item>
+        <item quantity="one">正在複製 %1$d 個檔案。</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">無法複製 %1$d 個檔案</item>
+        <item quantity="one">無法複製 %1$d 個檔案</item>
+    </plurals>
+</resources>

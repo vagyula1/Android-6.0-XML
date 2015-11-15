@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d minit</item>
+        <item quantity="one">1 minit</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">1 jam</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d hari</item>
+        <item quantity="one">1 hari</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">MINGGU %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; utk %d kali</item>
+        <item quantity="one">; utk satu kali</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Setiap %d hari</item>
+        <item quantity="one">Harian</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Setiap %1$d minggu pada %2$s</item>
+        <item quantity="one">Mingguan pada %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d acara</item>
+        <item quantity="one">1 acara</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d acara</item>
+        <item quantity="one">+1 acara</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Setiap %d hari</item>
+        <item quantity="one">Setiap %d hari</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Setiap %d minggu</item>
+        <item quantity="one">Setiap %d minggu</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Setiap %d bulan</item>
+        <item quantity="one">Setiap %d bulan</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Setiap %d tahun</item>
+        <item quantity="one">Setiap %d tahun</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Untuk %d acara</item>
+        <item quantity="one">Untuk %d acara</item>
+    </plurals>
+</resources>

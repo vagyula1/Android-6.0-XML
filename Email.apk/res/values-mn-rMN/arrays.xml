@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Хариулах</item>
+        <item>Бүгдэд хариу илгээх</item>
+        <item>Дамжуулах</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Амжилттай</item>
+        <item>Холбогдоогүй</item>
+        <item>Нэвтэрч чадсангүй</item>
+        <item>Нууцлалын алдаа</item>
+        <item>Синк хийж чадсангүй</item>
+        <item>Дотоод алдаа</item>
+        <item>Сервэрийн алдаа</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Шинэ</item>
+        <item>Хуучин</item>
+        <item>Харилцааны жагсаалт</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Устгасны дараа харилцааг хэзээ ч харуулахгүй</item>
+        <item>Устгасны дараа хуучин харилцааг харуулах</item>
+        <item>Устгасны дараа харилцааны жагсаалтыг харуулах</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Архивлах</item>
+        <item>Устгах</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Архивлах</item>
+        <item>Устгах</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Зурвасын үйлдлийг байнга дэлгэцний дээд хэсэгт харуулах</item>
+        <item>Босоо байдлаар эргүүлсэн үед дэлгэцний дээд хэсэгт зөвхөн зурвасын үйлдлийг харуулах</item>
+        <item>Зурвасын үйлдлийг зурвасын толгойн гадна харуулахгүй</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Байнга харуулах</item>
+        <item>Зөвхөн босоогоор харуулах</item>
+        <item>Харуулахгүй</item>
+    </string-array>
+</resources>

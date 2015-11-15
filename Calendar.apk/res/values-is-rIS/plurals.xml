@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d mínútur</item>
+        <item quantity="one">1 mínúta</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d mín.</item>
+        <item quantity="one">1 mín.</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d klukkustundir</item>
+        <item quantity="one">1 klukkustund</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d dagar</item>
+        <item quantity="one">1 dagur</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">VIKA %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">, %d sinnum</item>
+        <item quantity="one">, í eitt skipti</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Á %d daga fresti</item>
+        <item quantity="one">Daglega</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Á %1$d þriggja vikna fresti á %2$s</item>
+        <item quantity="one">Vikulega á %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d viðburðir</item>
+        <item quantity="one">1 viðburður</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d viðburðir</item>
+        <item quantity="one">+1 viðburður</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Á %d daga fresti</item>
+        <item quantity="one">Á %d dags fresti</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Á %d vikna fresti</item>
+        <item quantity="one">Á %d viku fresti</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Á %d mánaða fresti</item>
+        <item quantity="one">Á %d mánaðar fresti</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Á %d ára fresti</item>
+        <item quantity="one">Á %d árs fresti</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Fyrir %d viðburði</item>
+        <item quantity="one">Fyrir %d viðburði</item>
+    </plurals>
+</resources>

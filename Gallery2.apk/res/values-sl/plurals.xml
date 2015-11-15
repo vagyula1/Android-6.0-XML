@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Želite izbrisati te elemente?</item>
+        <item quantity="one">Želite izbrisati ta element?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Št. izbranih: %1$d</item>
+        <item quantity="zero">Št. izbranih: %1$d</item>
+        <item quantity="one">Št. izbranih: %1$d</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">Št. izbranih: %1$d</item>
+        <item quantity="zero">Št. izbranih: %1$d</item>
+        <item quantity="one">Št. izbranih: %1$d</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">Št. izbranih: %1$d</item>
+        <item quantity="zero">Št. izbranih: %1$d</item>
+        <item quantity="one">Št. izbranih: %1$d</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Priprava albumov, da bodo na voljo brez povezave.</item>
+        <item quantity="one">Priprava albuma, da bo na voljo brez povezave.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">Št. pregledanih elementov: %1$d</item>
+        <item quantity="zero">Št. pregledanih elementov: %1$d</item>
+        <item quantity="one">%1$d pregledan element</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">%d s</item>
+        <item quantity="one">1 s</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">Št. fotografij: %1$d</item>
+        <item quantity="one">%1$d fotografija</item>
+    </plurals>
+</resources>

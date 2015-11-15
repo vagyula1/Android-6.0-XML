@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>=I-Abidjan</item>
+        <item>=I-Accra</item>
+        <item>=I-Addis Ababa</item>
+        <item>=I-Algiers</item>
+        <item>=I-Blantyre</item>
+        <item>=I-Brazzaville</item>
+        <item>=I-Cairo</item>
+        <item>=I-Casablanca</item>
+        <item>=I-Conakry</item>
+        <item>=I-Dakar</item>
+        <item>=I-Dar es Salaam</item>
+        <item>=I-Djibouti</item>
+        <item>=I-Freetown</item>
+        <item>=I-Gaborone</item>
+        <item>=I-Harare</item>
+        <item>=I-Johannesburg</item>
+        <item>=I-Kampala</item>
+        <item>=I-Khartoum</item>
+        <item>=I-Kigali</item>
+        <item>=I-Kinshasa</item>
+        <item>=I-Lagos</item>
+        <item>=I-Maseru</item>
+        <item>=I-Mogadishu</item>
+        <item>=I-Nairobi</item>
+        <item>=I-São Tomé</item>
+        <item>=I-Timbuktu</item>
+        <item>=I-Tripoli</item>
+        <item>=I-Tunis</item>
+        <item>=I-Anchorage</item>
+        <item>=I-Mendoza</item>
+        <item>=I-Aruba</item>
+        <item>=I-Asunción</item>
+        <item>=I-Barbados</item>
+        <item>=I-Belize</item>
+        <item>=I-Bogotá</item>
+        <item>=I-Buenos Aires</item>
+        <item>=I-Cancun</item>
+        <item>=I-Caracas</item>
+        <item>=I-Cayman</item>
+        <item>=I-Chicago</item>
+        <item>=I-Costa Rica</item>
+        <item>=I-Curaçao</item>
+        <item>=I-Dawson Creek</item>
+        <item>=I-Denver</item>
+        <item>=I-Detroit</item>
+        <item>=I-Dominica</item>
+        <item>=I-Edmonton</item>
+        <item>=I-El Salvador</item>
+        <item>=I-Fortaleza</item>
+        <item>=I-Grand Turk</item>
+        <item>=I-Grenada</item>
+        <item>=I-Guatemala</item>
+        <item>=I-Guyana</item>
+        <item>=I-Halifax</item>
+        <item>=I-Havana</item>
+        <item>=I-Indianapolis</item>
+        <item>=I-Knox</item>
+        <item>=I-Marengo</item>
+        <item>=I-Petersburg</item>
+        <item>=I-Tell City</item>
+        <item>=I-Vevay</item>
+        <item>=I-Vincennes</item>
+        <item>=I-Winamac</item>
+        <item>=I-Kingston</item>
+        <item>=I-Nuestra Señora de La Paz</item>
+        <item>=I-Lima</item>
+        <item>=I-Los Angeles</item>
+        <item>=I-Louisville</item>
+        <item>=I-Managua</item>
+        <item>=I-Martinique</item>
+        <item>=I-Mendoza</item>
+        <item>=I-Metlakatla</item>
+        <item>=I-Mexico City</item>
+        <item>=I-Monterrey</item>
+        <item>=I-Montevideo</item>
+        <item>=I-Montreal</item>
+        <item>=I-Nassau</item>
+        <item>=I-New York</item>
+        <item>=I-Beulah</item>
+        <item>=I-Center</item>
+        <item>=I-New Salem</item>
+        <item>=I-Panama</item>
+        <item>=I-Phoenix</item>
+        <item>=I-Port of Spain</item>
+        <item>=I-Port-au-Prince</item>
+        <item>=I-Puerto Rico</item>
+        <item>=I-Santo Domingo</item>
+        <item>=I-São Paulo</item>
+        <item>=I-St. Johns</item>
+        <item>=I-St. Kitts</item>
+        <item>=I-St. Lucia</item>
+        <item>=I-St. Thomas</item>
+        <item>=I-Tijuana</item>
+        <item>=I-Toronto</item>
+        <item>=I-Vancouver</item>
+        <item>=I-Winnipeg</item>
+        <item>=I-South Pole</item>
+        <item>=I-Longyearbyen</item>
+        <item>=I-Almaty</item>
+        <item>=I-Amman</item>
+        <item>=I-Anadyr</item>
+        <item>=I-Aqtau</item>
+        <item>=I-Baghdad</item>
+        <item>=I-Bahrain</item>
+        <item>=I-Baku</item>
+        <item>=I-Bangkok</item>
+        <item>=I-Beirut</item>
+        <item>=I-Calcutta</item>
+        <item>=I-Damascus</item>
+        <item>=I-Dhaka</item>
+        <item>=I-Dubai</item>
+        <item>=I-Gaza</item>
+        <item>=I-Hebron</item>
+        <item>=I-Ho Chi Minh</item>
+        <item>=I-Hong Kong</item>
+        <item>=I-Istanbul</item>
+        <item>=I-Jakarta</item>
+        <item>=I-Jerusalem</item>
+        <item>=I-Kabul</item>
+        <item>=I-Karachi</item>
+        <item>=I-Kathmandu</item>
+        <item>=I-Kuala Lumpur</item>
+        <item>=I-Kuwait</item>
+        <item>=I-Macau</item>
+        <item>=I-Manila</item>
+        <item>=I-Muscat</item>
+        <item>=I-Phnom Penh</item>
+        <item>=I-Pyongyang</item>
+        <item>=I-Qatar</item>
+        <item>=I-Rangoon</item>
+        <item>=I-Riyadh</item>
+        <item>=I-Saigon</item>
+        <item>=I-Seoul</item>
+        <item>=I-Shanghai</item>
+        <item>=I-Singapore</item>
+        <item>=I-Taipei</item>
+        <item>=I-Tehran</item>
+        <item>=I-Tel Aviv</item>
+        <item>=I-Tokyo</item>
+        <item>=I-Ulaanbaatar</item>
+        <item>=I-Bermuda</item>
+        <item>=I-Canary</item>
+        <item>=I-Cape Verde</item>
+        <item>=I-Reykjavik</item>
+        <item>=I-Stanley</item>
+        <item>=I-Adelaide</item>
+        <item>=I-Brisbane</item>
+        <item>=I-Canberra</item>
+        <item>=I-Darwin</item>
+        <item>=I-Melbourne</item>
+        <item>=I-New South Wales</item>
+        <item>=I-Perth</item>
+        <item>=I-Queensland</item>
+        <item>=I-Sydney</item>
+        <item>=I-Victoria</item>
+        <item>=I-Newfoundland</item>
+        <item>=I-Saskatchewan</item>
+        <item>=I-Easter Island</item>
+        <item>=I-Amsterdam</item>
+        <item>=I-Andorra</item>
+        <item>=I-Athens</item>
+        <item>=I-Belfast</item>
+        <item>=I-Belgrade</item>
+        <item>=I-Berlin</item>
+        <item>=I-Bratislava</item>
+        <item>=I-Brussels</item>
+        <item>=I-Bucharest</item>
+        <item>=I-Budapest</item>
+        <item>=I-Chisinau</item>
+        <item>=I-Copenhagen</item>
+        <item>=I-Dublin</item>
+        <item>=I-Gibraltar</item>
+        <item>=I-Helsinki</item>
+        <item>=I-Isle of Man</item>
+        <item>=I-Istanbul</item>
+        <item>=I-Kiev</item>
+        <item>=I-Lisbon</item>
+        <item>=I-London</item>
+        <item>=I-Luxembourg</item>
+        <item>=I-Madrid</item>
+        <item>=I-Malta</item>
+        <item>=I-Minsk</item>
+        <item>=I-Monaco</item>
+        <item>=I-Moscow</item>
+        <item>=I-Oslo</item>
+        <item>=I-Paris</item>
+        <item>=I-Prague</item>
+        <item>=I-Riga</item>
+        <item>=I-Rome</item>
+        <item>=I-San Marino</item>
+        <item>=I-Sarajevo</item>
+        <item>=I-Simferopol</item>
+        <item>=I-Skopje</item>
+        <item>=I-Sofia</item>
+        <item>=I-Stockholm</item>
+        <item>=I-Tallinn</item>
+        <item>=I-Vatican</item>
+        <item>=I-Vienna</item>
+        <item>=I-Vilnius</item>
+        <item>=I-Warsaw</item>
+        <item>=I-Zagreb</item>
+        <item>=I-Zurich</item>
+        <item>=I-Antananarivo</item>
+        <item>=I-Maldives</item>
+        <item>=I-Mauritius</item>
+        <item>=I-Auckland</item>
+        <item>=I-Fiji</item>
+        <item>=I-Guam</item>
+        <item>=I-Honolulu</item>
+        <item>=I-Kiritimati</item>
+        <item>=I-Noumea</item>
+        <item>=I-Samoa</item>
+        <item>=I-Tahiti</item>
+        <item>=I-Antigua</item>
+        <item>=I-Austin</item>
+        <item>=I-Boston</item>
+        <item>=I-Calgary</item>
+        <item>=I-Columbus</item>
+        <item>=I-Dallas</item>
+        <item>=I-Knoxville</item>
+        <item>=I-Memphis</item>
+        <item>=I-Miami</item>
+        <item>=I-Minneapolis</item>
+        <item>=I-Ottawa</item>
+        <item>=I-Philadelphia</item>
+        <item>=I-Portland</item>
+        <item>=I-San Diego</item>
+        <item>=I-San Francisco</item>
+        <item>=I-Salt Lake City</item>
+        <item>=I-San Jose</item>
+        <item>=I-San Salvador</item>
+        <item>=I-Seattle</item>
+        <item>=I-St. Louis</item>
+        <item>=I-Washington D.C.</item>
+        <item>=I-Houston</item>
+        <item>=I-San Antonio</item>
+        <item>=I-Jacksonville</item>
+        <item>=I-Baltimore</item>
+        <item>=I-Nashville</item>
+        <item>=I-Milwaukee</item>
+        <item>=I-Oklahoma City</item>
+        <item>=I-Las Vegas</item>
+        <item>=I-Albuquerque</item>
+        <item>=I-Tucson</item>
+        <item>=I-Sacramento</item>
+        <item>=I-Atlanta</item>
+        <item>=I-Cleveland</item>
+        <item>=I-New Orleans</item>
+        <item>=I-Tampa</item>
+        <item>=I-Pittsburgh</item>
+        <item>=I-Cincinnati</item>
+        <item>=I-Mountain View</item>
+        <item>=I-Reno</item>
+        <item>=I-Black Rock City</item>
+        <item>=I-Doha</item>
+        <item>=I-Beijing</item>
+        <item>=I-Mumbai</item>
+        <item>=I-Delhi</item>
+        <item>=I-Osaka</item>
+        <item>=I-Lahore</item>
+        <item>"=I-Sana'a"</item>
+        <item>=I-Barcelona</item>
+        <item>=I-Munich</item>
+        <item>=I-Milan</item>
+        <item>=I-Frankfurt</item>
+        <item>=I-Hanoi</item>
+        <item>=I-Ankara</item>
+        <item>=I-Bangalore</item>
+        <item>=I-Brasília</item>
+        <item>=I-Cape Town</item>
+        <item>=I-Islamabad</item>
+        <item>=I-Rio de Janeiro</item>
+        <item>=I-Ann Arbor</item>
+        <item>=I-Boulder</item>
+        <item>=I-Cambridge</item>
+        <item>=I-Kirkland</item>
+        <item>=I-Madison</item>
+        <item>=I-Guangzhou</item>
+        <item>=I-Hyderabad</item>
+        <item>=I-Reston</item>
+        <item>=I-Belo Horizonte</item>
+        <item>=I-Santiago</item>
+        <item>=I-Monrovia</item>
+        <item>=I-Colombo</item>
+        <item>=I-Chihuahua</item>
+        <item>=I-Salvador</item>
+        <item>=I-Gurgaon</item>
+        <item>=I-Manchester</item>
+        <item>=I-Kyiv</item>
+        <item>=I-St. Petersburg</item>
+        <item>=I-Kraków</item>
+        <item>=I-Wroclaw</item>
+        <item>=I-Hamburg</item>
+        <item>=I-Oulu</item>
+        <item>=I-Haifa</item>
+        <item>=I-San Juan</item>
+        <item>=I-Tegucigalpa</item>
+        <item>=I-Paramaribo</item>
+        <item>=I-Quito</item>
+        <item>=I-Ljubljana</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>Ngaphansi kweminithi okusele</item>
+        <item>%1$s asele</item>
+        <item>%2$s asele</item>
+        <item>%1$s %2$s asele</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>I-alamu isethelwe iminithi elingaphansi ku-1 kusukela manje.</item>
+        <item>I-alamu isethelwe %1$s ukusuka manje.</item>
+        <item>I-alamu ihlelelwe angu-%2$s ukusuka manje.</item>
+        <item>I-alamu isethelwe %1$s %2$s ukusuka manje.</item>
+        <item>i-alamu isethelwe %3$s ukusuka manje.</item>
+        <item>I-Alamu isethelwe %1$s %3$s ukusuka manje.</item>
+        <item>I-alamu ihlelelwe u-%2$s kanye no-%3$s ukusuka manje.</item>
+        <item>I-alamu isethelwe %1$s, %2$s, %3$s kusuka manje.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>1 iminithi</item>
+        <item>5 amaminithi</item>
+        <item>10 amaminithi</item>
+        <item>15 amaminithi</item>
+        <item>20 amaminithi</item>
+        <item>25 amaminithi</item>
+        <item>Ungalokothi</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>Mgqibelo</item>
+        <item>Sonto</item>
+        <item>Msombuluko</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Snuza</item>
+        <item>Chitha</item>
+        <item>Ungenzi lutho</item>
+    </string-array>
+    <string-array name="sw_lap_number_set">
+        <item>\# %d</item>
+        <item>\# %02d</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>Ulidimoni elisheshayo.</item>
+        <item>Thokozela izithelo zomsebenzi wakho.</item>
+        <item>Ama-Android aziwa ashesha, kepha hhayi njengawe!</item>
+        <item>Hawu.</item>
+        <item>L33t izikhathi.</item>
+        <item>Isivinini esimangazayo.</item>
+        <item>Masenze ukugoqa kwesikhathi futhi.</item>
+        <item>Ukweqa okukodwa nje kwesokunxele.</item>
+        <item>Unothando lezinto ezisheshayo.</item>
+        <item>Isivinini sefonetiki.</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>I-Analog</item>
+        <item>Idijithali</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>esase-Marshall Islands</item>
+        <item>esase-Midway Island</item>
+        <item>esase-Hawaii</item>
+        <item>esase-Alaskae</item>
+        <item>esase-Pacific Time</item>
+        <item>esase-Tijuana</item>
+        <item>esase-Arizona</item>
+        <item>sase-Chihuahua</item>
+        <item>esase-Mountain Time</item>
+        <item>esase-Central America</item>
+        <item>esase-Central Time</item>
+        <item>esase-Mexico City</item>
+        <item>esase-Saskatchewan</item>
+        <item>esase-Bogota</item>
+        <item>esase-Eastern Time</item>
+        <item>esase-Venezuela</item>
+        <item>esase-Atlantic Time (Barbados)</item>
+        <item>esase-Atlantic Time (Canada)</item>
+        <item>esase-Manaus</item>
+        <item>esase-Santiago</item>
+        <item>esase-Newfoundland</item>
+        <item>esase-Brasilia</item>
+        <item>esase-Buenos Aires</item>
+        <item>esase-Greenland</item>
+        <item>esase-Montevideo</item>
+        <item>esase-Mid-Atlantic</item>
+        <item>esase-Azores</item>
+        <item>esase-Cape Verde Islands</item>
+        <item>esase-Casablanca</item>
+        <item>esase-London, Dublin</item>
+        <item>esase-Amsterdam, Berlin</item>
+        <item>esase-Belgrade</item>
+        <item>esase-Brussels</item>
+        <item>esase-Sarajevo</item>
+        <item>esase-Windhoek</item>
+        <item>esase-W. Africa Time</item>
+        <item>esase-Amman, Jordan</item>
+        <item>esese-Athens, Istanbul</item>
+        <item>esase-Beirut, Lebanon</item>
+        <item>esase-Cairo</item>
+        <item>esase-Helsinki</item>
+        <item>esase-Jerusalem</item>
+        <item>esase-Minsk</item>
+        <item>esase-Harare</item>
+        <item>esase-Baghdad</item>
+        <item>esase-Moscow</item>
+        <item>esase-Kuwait</item>
+        <item>esase-Nairobi</item>
+        <item>esase-Tehran</item>
+        <item>esase-Baku</item>
+        <item>esase-Tbilisi</item>
+        <item>esase-Yerevan</item>
+        <item>esase-Dubai</item>
+        <item>esase-Kabul</item>
+        <item>esase-Islamabad, Karachi</item>
+        <item>"esase-Ural'sk"</item>
+        <item>esase-Yekaterinburg</item>
+        <item>esase-Kolkata</item>
+        <item>esase-Sri Lanka</item>
+        <item>esase-Kathmandu</item>
+        <item>esase-Astana</item>
+        <item>esase-Yangon</item>
+        <item>esase-Krasnoyarsk</item>
+        <item>esase-Bangkok</item>
+        <item>esase-Beijing</item>
+        <item>esase-Hong Kong</item>
+        <item>esase-Irkutsk</item>
+        <item>esase-Kuala Lumpur</item>
+        <item>esase-Perth</item>
+        <item>esase-Taipei</item>
+        <item>esase-Seoul</item>
+        <item>esase-Tokyo, Osaka</item>
+        <item>esase-Yakutsk</item>
+        <item>esase-Adelaide</item>
+        <item>esase-Darwin</item>
+        <item>esase-Brisbane</item>
+        <item>esase-Hobart</item>
+        <item>esase-Sydney, Canberra</item>
+        <item>esase-Vladivostok</item>
+        <item>esase-Guam</item>
+        <item>esase-Magadan</item>
+        <item>esase-Auckland</item>
+        <item>esase-Fiji</item>
+        <item>esase-Tonga</item>
+        <item>I-Jakarta</item>
+    </string-array>
+</resources>

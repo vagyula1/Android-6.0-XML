@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">छानिएका आइटमहरू हटाउने हो ?</item>
+        <item quantity="one">चयन गरिएकालाई हटाउने हो?</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">एल्बमहरू अफलाइन उपलब्ध गराइँदैं</item>
+        <item quantity="one">एल्बम बनाउनलाई अफलाइन उपलब्ध छ।</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d आइटमहरू स्क्यान गरियो</item>
+        <item quantity="zero">%1$d वस्तुहरू स्कयान गरिएका</item>
+        <item quantity="one">%1$d वस्तु स्कयान गरिएको</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">%d सेकन्ड</item>
+        <item quantity="one">१ सेकेन्ड</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">%1$d तस्बिरहरू</item>
+        <item quantity="one">%1$d तस्बिर</item>
+    </plurals>
+</resources>

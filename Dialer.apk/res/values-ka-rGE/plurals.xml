@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d მოიძებნა</item>
+        <item quantity="one">1 მოიძებნა</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d წამი</item>
+        <item quantity="one">1 წამი</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d წუთი</item>
+        <item quantity="one">1 წუთი</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d საათი</item>
+        <item quantity="one">1 საათი</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d ხმოვანი ფოსტა</item>
+        <item quantity="one">ხმოვანი ფოსტა</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d ახალი ხმოვანი ფოსტა</item>
+        <item quantity="one">%d ახალი ხმოვანი ფოსტა</item>
+    </plurals>
+</resources>

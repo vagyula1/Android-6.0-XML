@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d फेला पर्‍यो</item>
+        <item quantity="one">1 फेला पर्‍यो</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%dसम्पर्कहरू फोन नम्बर सहित</item>
+        <item quantity="one">फोन नम्बर सहित 1 सम्पर्क</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d फेला पर्‍यो</item>
+        <item quantity="one">१ फेला पर्‍यो</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">यस %0$d स्रोतबाट मर्ज गरियो</item>
+        <item quantity="one">मर्ज गरिएको छैन</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d समूहहरू</item>
+        <item quantity="one">1 समूह</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d व्यक्तिहरू %2$s बाट</item>
+        <item quantity="one">%1$d व्यक्ति %2$s बाट</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d व्यक्तिहरु</item>
+        <item quantity="one">%1$d व्यक्ति</item>
+    </plurals>
+</resources>

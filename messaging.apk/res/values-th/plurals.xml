@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d นาที</item>
+        <item quantity="one">%d นาที</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d ชั่วโมง</item>
+        <item quantity="one">%d ชั่วโมง</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d วัน</item>
+        <item quantity="one">%d วัน</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d สัปดาห์</item>
+        <item quantity="one">1 สัปดาห์</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d เดือน</item>
+        <item quantity="one">1 เดือน</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d ปี</item>
+        <item quantity="one">1 ปี</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d ข้อความใน %2$d การสนทนา</item>
+        <item quantity="one">%d ข้อความใน 1 การสนทนา</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d ข้อความใน %2$d การสนทนา</item>
+        <item quantity="one">%d ข้อความใน 1 การสนทนา</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d ข้อความใหม่</item>
+        <item quantity="one">ข้อความใหม่</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">ลบการสนทนาเหล่านี้ใช่ไหม</item>
+        <item quantity="one">ลบการสนทนานี้ใช่ไหม</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">ผู้เข้าร่วม %d คน</item>
+        <item quantity="one">ผู้เข้าร่วม %d คน</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">ยกเลิกไฟล์แนบ</item>
+        <item quantity="one">ยกเลิกไฟล์แนบ</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">บันทึก %1$d ภาพไปยังอัลบั้ม \"%2$s\" แล้ว</item>
+        <item quantity="one">บันทึก %1$d ภาพไปยังอัลบั้ม \"%2$s\" แล้ว</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">บันทึกวิดีโอ %1$d รายการไปยังอัลบั้ม \"%2$s\" แล้ว</item>
+        <item quantity="one">บันทึกวิดีโอ %1$d รายการไปยังอัลบั้ม \"%2$s\" แล้ว</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">บันทึก %1$d ไฟล์แนบไปยังอัลบั้ม \"%2$s\" แล้ว</item>
+        <item quantity="one">บันทึก %1$d ไฟล์แนบไปยังอัลบั้ม \"%2$s\" แล้ว</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">บันทึก %d ไฟล์แนบไปยัง \"ดาวน์โหลด\" แล้ว</item>
+        <item quantity="one">บันทึก %d ไฟล์แนบไปยัง \"ดาวน์โหลด\" แล้ว</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">บันทึกไฟล์แนบ %d รายการแล้ว</item>
+        <item quantity="one">บันทึกไฟล์แนบ %d รายการแล้ว</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">ไม่สามารถบันทึกไฟล์แนบ %d รายการ</item>
+        <item quantity="one">ไม่สามารถบันทึกไฟล์แนบ %d รายการ</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">ส่งรูปภาพ</item>
+        <item quantity="one">ส่งรูปภาพ</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">ส่งไฟล์เสียง</item>
+        <item quantity="one">ส่งไฟล์เสียง</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">ส่งวิดีโอ</item>
+        <item quantity="one">ส่งวิดีโอ</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">ส่งการ์ดรายชื่อติดต่อ</item>
+        <item quantity="one">ส่งการ์ดรายชื่อติดต่อ</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">ส่งไฟล์แนบ</item>
+        <item quantity="one">ส่งไฟล์แนบ</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d ไฟล์แนบพร้อมส่ง</item>
+        <item quantity="one">1 ไฟล์แนบพร้อมส่ง</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">รายชื่อติดต่อ %d ราย</item>
+        <item quantity="one">รายชื่อติดต่อ %d ราย</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">รายชื่อติดต่อไม่ถูกต้อง</item>
+        <item quantity="one">รายชื่อติดต่อไม่ถูกต้อง</item>
+    </plurals>
+</resources>

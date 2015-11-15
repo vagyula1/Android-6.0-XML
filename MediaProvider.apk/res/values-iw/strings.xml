@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">מדיה</string>
+    <string name="app_label">אחסון מדיה</string>
+    <string name="artist_label">אמן</string>
+    <string name="ringtone_default">רינגטון ברירת מחדל</string>
+    <string name="notification_sound_default">צליל ברירת מחדל להתראה</string>
+    <string name="alarm_sound_default">צליל ברירת מחדל להתרעה</string>
+    <string name="root_images">תמונות</string>
+    <string name="root_videos">סרטונים</string>
+    <string name="root_audio">אודיו</string>
+</resources>

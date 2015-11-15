@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Seçilmiş elementlər silinsin?</item>
+        <item quantity="one">Seçilmiş element silinsin?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d seçilib</item>
+        <item quantity="zero">%1$d seçildi</item>
+        <item quantity="one">%1$d seçildi</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">%1$d seçilib</item>
+        <item quantity="zero">%1$d seçilib</item>
+        <item quantity="one">%1$d seçildi</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">%1$d seçildi</item>
+        <item quantity="zero">%1$d seçildi</item>
+        <item quantity="one">%1$d seçilib</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Albomları oflayn zamanı əlçatımlı edilir.</item>
+        <item quantity="one">Albomu oflayn olanda əlçatımlı etmək</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d element skan edildi</item>
+        <item quantity="zero">%1$d maddə skan olunub</item>
+        <item quantity="one">%1$d maddə skan olunub</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">%d saniyə</item>
+        <item quantity="one">1 saniyə</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">%1$d fotolar</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Balas</item>
+        <item>Balas kepada semua</item>
+        <item>Kirim semula</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Berjaya</item>
+        <item>Tiada sambungan</item>
+        <item>Tidak dapat melog masuk</item>
+        <item>Ralat keselamatan</item>
+        <item>Tidak dapat menyegerak</item>
+        <item>Ralat Dalaman</item>
+        <item>Ralat Pelayan</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Lebih baharu</item>
+        <item>Lebih lama</item>
+        <item>Senarai perbualan</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Tunjukkan perbualan yang lebih baharu selepas memadamkan</item>
+        <item>Tunjukkan perbualan yang lebih lama selepas memadamkan</item>
+        <item>Tunjukkan senarai perbualan selepas memadamkan</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Arkib</item>
+        <item>Padam</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Arkib</item>
+        <item>Padam</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Sentiasa tunjukkan tindakan mesej di bahagian atas skrin</item>
+        <item>Hanya tunjukkan tindakan mesej di bahagian atas skrin apabila diputarkan kepada potret</item>
+        <item>Jangan tunjukkan tindakan mesej di luar pengepala mesej</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Sentiasa tunjukkan</item>
+        <item>Tunjukkan hanya dalam potret</item>
+        <item>Jangan tunjukkan</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="image">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="primary">false</item>
+    <item type="id" name="secondary">false</item>
+    <item type="id" name="list">false</item>
+</resources>

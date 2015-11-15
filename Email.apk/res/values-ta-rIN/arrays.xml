@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>பதிலளி</item>
+        <item>எல்லோருக்கும் பதிலளி</item>
+        <item>முன்னனுப்பு</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>வெற்றி</item>
+        <item>இணைப்பு இல்லை</item>
+        <item>உள்நுழைய முடியவில்லை</item>
+        <item>பாதுகாப்புப் பிழை</item>
+        <item>ஒத்திசைக்க முடியவில்லை</item>
+        <item>அகப் பிழை</item>
+        <item>சேவையகப் பிழை</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>புதியது</item>
+        <item>பழையது</item>
+        <item>உரையாடல் பட்டியல்</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>நீக்கிய பின்னர் புதிய உரையாடலைக் காட்டு</item>
+        <item>நீக்கிய பின்னர் பழைய உரையாடலைக் காட்டு</item>
+        <item>நீக்கிய பின்னர் உரையாடல் பட்டியலைக் காட்டு</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>காப்பகப்படுத்து</item>
+        <item>நீக்கு</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>காப்பகப்படுத்து</item>
+        <item>நீக்கு</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>எப்போதும் திரையின் மேல் பகுதியில் செய்தியின் செயல்களைக் காட்டு</item>
+        <item>நீளவாக்கிற்கு சுழற்றும் போது, திரையில் மேல்பகுதியில் மட்டும் செய்தியின் செயல்களைக் காட்டு</item>
+        <item>செய்தியின் தலைப்பிற்கு வெளியே செய்தியின் செயல்களைக் காட்டாதே</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>எப்போதும் காட்டு</item>
+        <item>நீளவாக்கில் மட்டும் காட்டு</item>
+        <item>காட்டாதே</item>
+    </string-array>
+</resources>

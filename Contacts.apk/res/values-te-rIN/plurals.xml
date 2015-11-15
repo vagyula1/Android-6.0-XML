@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d కనుగొనబడ్డాయి</item>
+        <item quantity="one">1 కనుగొనబడింది</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">ఫోన్ నంబర్‌లు ఉన్న %d పరిచయాలు</item>
+        <item quantity="one">ఫోన్ నంబర్ ఉన్న 1 పరిచయం</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d కనుగొనబడ్డాయి</item>
+        <item quantity="one">1 కనుగొనబడింది</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">%0$d మూలాల నుండి విలీనం చేయబడ్డాయి</item>
+        <item quantity="one">విలీనం చేయబడలేదు</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d సమూహాలు</item>
+        <item quantity="one">1 సమూహం</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%2$s నుండి %1$d మంది వ్యక్తులు</item>
+        <item quantity="one">%2$s నుండి %1$d వ్యక్తి</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d మంది వ్యక్తులు</item>
+        <item quantity="one">%1$d వ్యక్తి</item>
+    </plurals>
+</resources>

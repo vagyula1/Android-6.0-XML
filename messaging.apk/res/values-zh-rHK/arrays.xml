@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>沒有主旨</item>
+        <item>無主旨</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>是</item>
+        <item>否</item>
+        <item>確定</item>
+        <item>呵呵</item>
+        <item>謝謝</item>
+        <item>我同意</item>
+        <item>很好</item>
+        <item>我正在路上</item>
+        <item>好，我稍後再回覆您</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_height">64.0dip</dimen>
+    <dimen name="list_item_padding">24.0dip</dimen>
+    <dimen name="list_divider_inset">80.0dip</dimen>
+</resources>

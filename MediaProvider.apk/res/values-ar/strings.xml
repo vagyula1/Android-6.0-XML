@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">وسائط</string>
+    <string name="app_label">تخزين الوسائط</string>
+    <string name="artist_label">الفنان</string>
+    <string name="ringtone_default">نغمة الرنين الافتراضية</string>
+    <string name="notification_sound_default">صوت الإشعار الافتراضي</string>
+    <string name="alarm_sound_default">صوت التنبيه الافتراضي</string>
+    <string name="root_images">صور</string>
+    <string name="root_videos">مقاطع فيديو</string>
+    <string name="root_audio">الصوت</string>
+</resources>

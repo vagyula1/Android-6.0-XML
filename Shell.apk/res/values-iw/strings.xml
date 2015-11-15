@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">מעטפת</string>
+    <string name="bugreport_finished_title">דוח הבאגים צולם</string>
+    <string name="bugreport_finished_text">גע כדי לשתף את דוח הבאגים שלך</string>
+    <string name="bugreport_confirm">דוחות על באגים כוללים נתונים מקובצי היומן השונים במערכת, כולל מידע אישי ופרטי. שתף דוחות באגים רק עם אפליקציות ואנשים שאתה סומך עליהם.</string>
+    <string name="bugreport_confirm_repeat">הצג את ההודעה הזו בפעם הבאה</string>
+    <string name="bugreport_storage_title">דוחות באגים</string>
+</resources>

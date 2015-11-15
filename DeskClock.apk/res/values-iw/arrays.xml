@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>"א=אביג'אן"</item>
+        <item>א=אקרה</item>
+        <item>א=אדיס אבבה</item>
+        <item>"א=אלג'יר"</item>
+        <item>ב=בלאנטיר</item>
+        <item>ב=ברזוויל</item>
+        <item>ק=קהיר</item>
+        <item>ק=קזבלנקה</item>
+        <item>ק=קונאקרי</item>
+        <item>ד=דקר</item>
+        <item>ד=דאר א-סלאם</item>
+        <item>"ג=ג'יבוטי"</item>
+        <item>פ=פריטאון</item>
+        <item>ג=גאבורון</item>
+        <item>ה=הארארה</item>
+        <item>י=יוהנסבורג</item>
+        <item>ק=קמפלה</item>
+        <item>ח=חרטום</item>
+        <item>ק=קיגאלי</item>
+        <item>ק=קינשאסה</item>
+        <item>ל=לאגוס</item>
+        <item>מ=מסרו</item>
+        <item>מ=מוגדישו</item>
+        <item>נ=ניירובי</item>
+        <item>ס=סאו טומה</item>
+        <item>ט=טימבקטו</item>
+        <item>ט=טריפולי</item>
+        <item>ט=טוניס</item>
+        <item>"א=אנקורג'"</item>
+        <item>מ=מנדוזה</item>
+        <item>א=ארובה</item>
+        <item>א=אסונסיון</item>
+        <item>ב=ברבדוס</item>
+        <item>ב=בליז</item>
+        <item>ב=בוגוטה</item>
+        <item>ב=בואנוס איירס</item>
+        <item>ק=קנקון</item>
+        <item>ק=קראקס</item>
+        <item>ק=קיימן</item>
+        <item>ש=שיקגו</item>
+        <item>ק=קוסטה ריקה</item>
+        <item>ק=קוראסאו</item>
+        <item>ד=דוסון קריק</item>
+        <item>ד=דנבר</item>
+        <item>ד=דטרויט</item>
+        <item>ד=דומיניקה</item>
+        <item>א=אדמונטון</item>
+        <item>א=אל סלבדור</item>
+        <item>פ=פורטלזה</item>
+        <item>ג=גראנד טורק</item>
+        <item>ג=גרנדה</item>
+        <item>ג=גואטמלה</item>
+        <item>ג=גיאנה</item>
+        <item>ה=האליפקס</item>
+        <item>ה=הוואנה</item>
+        <item>א=אינדיאנפוליס</item>
+        <item>נ=נוקס</item>
+        <item>מ=מרנגו</item>
+        <item>פ=פטרסבורג</item>
+        <item>ט=טל סיטי</item>
+        <item>ו=וויי</item>
+        <item>ו=וינסנס</item>
+        <item>ו=ווינאמאק</item>
+        <item>ק=קינגסטון</item>
+        <item>נ=נואסטרה סניורה דה לה פז</item>
+        <item>ל=לימה</item>
+        <item>"ל=לוס אנג'לס"</item>
+        <item>ל=לואיוויל</item>
+        <item>מ=מנאגואה</item>
+        <item>מ=מרטיניק</item>
+        <item>מ=מנדוזה</item>
+        <item>מ=מטלאקאטלה</item>
+        <item>מ=מקסיקו סיטי</item>
+        <item>מ=מונטריי</item>
+        <item>מ=מונטווידאו</item>
+        <item>מ=מונטריאול</item>
+        <item>נ=נסאו</item>
+        <item>נ=ניו יורק</item>
+        <item>ב=ביולה</item>
+        <item>ס=סנטר</item>
+        <item>נ=ניו סיילם</item>
+        <item>פ=פנמה</item>
+        <item>פ=פניקס</item>
+        <item>פ=פורט אוף ספיין</item>
+        <item>פ=פורט-או-פרנס</item>
+        <item>פ=פוארטו ריקו</item>
+        <item>ס=סנטו דומינגו</item>
+        <item>ס=סאו פאולו</item>
+        <item>"ס=סנט ג'ונס"</item>
+        <item>ס=סנט קיטס</item>
+        <item>ס=סנט לוסיה</item>
+        <item>ס=סנט תומס</item>
+        <item>ט=טיחואנה</item>
+        <item>ט=טורונטו</item>
+        <item>ו=ונקובר</item>
+        <item>ו=וויניפג</item>
+        <item>ק=הקוטב הדרומי</item>
+        <item>ל=לונגיירביאן</item>
+        <item>א=אלמטי</item>
+        <item>ע=עמאן</item>
+        <item>א=אנאדיר</item>
+        <item>א=אקטאו</item>
+        <item>ב=בגדד</item>
+        <item>ב=בחריין</item>
+        <item>ב=באקו</item>
+        <item>ב=בנגקוק</item>
+        <item>ב=ביירות</item>
+        <item>כ=כלכותה</item>
+        <item>ד=דמשק</item>
+        <item>ד=דאקה</item>
+        <item>ד=דובאי</item>
+        <item>ע=עזה</item>
+        <item>ח=חברון</item>
+        <item>"ה=הו צ'י מין"</item>
+        <item>ה=הונג קונג</item>
+        <item>א=איסטנבול</item>
+        <item>"ג=ג'קרטה"</item>
+        <item>י=ירושלים</item>
+        <item>ק=קבול</item>
+        <item>"ק=קאראצ'י"</item>
+        <item>ק=קטמנדו</item>
+        <item>ק=קואלה לומפור</item>
+        <item>כ=כוויית</item>
+        <item>מ=מקאו</item>
+        <item>מ=מנילה</item>
+        <item>מ=מוסקט</item>
+        <item>פ=פנום פן</item>
+        <item>פ=פיונגיאנג</item>
+        <item>ק=קטאר</item>
+        <item>י=ינגון</item>
+        <item>ר=ריאד</item>
+        <item>ס=סייגון</item>
+        <item>ס=סיאול</item>
+        <item>ש=שנגחאי</item>
+        <item>ס=סינגפור</item>
+        <item>ט=טאיפיי</item>
+        <item>ט=טהרן</item>
+        <item>ת=תל אביב</item>
+        <item>ט=טוקיו</item>
+        <item>א=אולאנבאטר</item>
+        <item>ב=ברמודה</item>
+        <item>ק=קנארי</item>
+        <item>ק=קייפ ורדה</item>
+        <item>ר=רייקיאוויק</item>
+        <item>ס=סטנלי</item>
+        <item>א=אדלייד</item>
+        <item>ב=בריסביין</item>
+        <item>ק=קנברה</item>
+        <item>ד=דרווין</item>
+        <item>מ=מלבורן</item>
+        <item>"נ=ניו-סאות' ווילס"</item>
+        <item>"פ=פרת'"</item>
+        <item>ק=קווינסלנד</item>
+        <item>ס=סידני</item>
+        <item>ו=ויקטוריה</item>
+        <item>נ=ניופאונדלנד</item>
+        <item>"ס=ססקצו'אן"</item>
+        <item>א=אי הפסחא</item>
+        <item>א=אמסטרדם</item>
+        <item>א=אנדורה</item>
+        <item>א=אתונה</item>
+        <item>ב=בלפאסט</item>
+        <item>ב=בלגרד</item>
+        <item>ב=ברלין</item>
+        <item>ב=ברטיסלאבה</item>
+        <item>ב=בריסל</item>
+        <item>ב=בוקרשט</item>
+        <item>ב=בודפשט</item>
+        <item>ק=קישינב</item>
+        <item>ק=קופנהגן</item>
+        <item>ד=דבלין</item>
+        <item>ג=גיברלטר</item>
+        <item>ה=הלסינקי</item>
+        <item>א=האי מאן</item>
+        <item>א=איסטנבול</item>
+        <item>ק=קייב</item>
+        <item>ל=ליסבון</item>
+        <item>ל=לונדון</item>
+        <item>ל=לוקסמבורג</item>
+        <item>מ=מדריד</item>
+        <item>מ=מלטה</item>
+        <item>מ=מינסק</item>
+        <item>מ=מונקו</item>
+        <item>מ=מוסקבה</item>
+        <item>א=אוסלו</item>
+        <item>פ=פריז</item>
+        <item>פ=פראג</item>
+        <item>ר=ריגה</item>
+        <item>ר=רומא</item>
+        <item>ס=סן מרינו</item>
+        <item>ס=סרייבו</item>
+        <item>ס=סימפרופול</item>
+        <item>ס=סקופיה</item>
+        <item>ס=סופיה</item>
+        <item>ש=שטוקהולם</item>
+        <item>ט=טאלין</item>
+        <item>ו=ותיקן</item>
+        <item>ו=וינה</item>
+        <item>ו=וילניוס</item>
+        <item>ו=ורשה</item>
+        <item>ז=זאגרב</item>
+        <item>צ=ציריך</item>
+        <item>א=אנטננריבו</item>
+        <item>מ=האיים המלדיביים</item>
+        <item>מ=מאוריציוס</item>
+        <item>א=אוקלנד</item>
+        <item>"פ=פיג'י"</item>
+        <item>ג=גואם</item>
+        <item>ה=הונולולו</item>
+        <item>ק=קיריטימאטי</item>
+        <item>נ=נומאה</item>
+        <item>ס=סמואה</item>
+        <item>ט=טהיטי</item>
+        <item>א=אנטיגואה</item>
+        <item>א=אוסטין</item>
+        <item>ב=בוסטון</item>
+        <item>ק=קלגרי</item>
+        <item>ק=קולומובוס</item>
+        <item>ד=דאלאס</item>
+        <item>נ=נוקסוויל</item>
+        <item>מ=ממפיס</item>
+        <item>מ=מיאמי</item>
+        <item>מ=מיניאפוליס</item>
+        <item>א=אוטווה</item>
+        <item>פ=פילדלפיה</item>
+        <item>פ=פורטלנד</item>
+        <item>ס=סן דייגו</item>
+        <item>ס=סן פרנסיסקו</item>
+        <item>ס=סולט לייק סיטי</item>
+        <item>ס=סן חוזה</item>
+        <item>ס=סן סלבדור</item>
+        <item>ס=סיאטל</item>
+        <item>ס=סנט לואיס</item>
+        <item>ו=וושינגטון הבירה</item>
+        <item>י=יוסטון</item>
+        <item>ס=סן אנטוניו</item>
+        <item>"ג=ג'קסונוויל"</item>
+        <item>ב=בולטימור</item>
+        <item>נ=נאשוויל</item>
+        <item>מ=מילווקי</item>
+        <item>א=אוקלהומה סיטי</item>
+        <item>ל=לאס וגאס</item>
+        <item>א=אלבקרקי</item>
+        <item>ט=טוסון</item>
+        <item>ס=סקרמנטו</item>
+        <item>א=אטלנטה</item>
+        <item>ק=קליבלנד</item>
+        <item>נ=ניו אורלינס</item>
+        <item>ט=טמפה</item>
+        <item>פ=פיטסבורג</item>
+        <item>ס=סינסינטי</item>
+        <item>מ=מאונטיין ויו</item>
+        <item>ר=רינו</item>
+        <item>ב=בלאק רוק סיטי</item>
+        <item>ד=דוחה</item>
+        <item>"ב=בייג'ינג"</item>
+        <item>מ=מומבאי</item>
+        <item>ד=דלהי</item>
+        <item>א=אוסקה</item>
+        <item>ל=לאהור</item>
+        <item>צ=צנעא</item>
+        <item>ב=ברצלונה</item>
+        <item>מ=מינכן</item>
+        <item>מ=מילנו</item>
+        <item>פ=פרנקפורט</item>
+        <item>ה=האנוי</item>
+        <item>א=אנקרה</item>
+        <item>ב=בנגלור</item>
+        <item>ב=ברזיליה</item>
+        <item>ק=קייפטאון</item>
+        <item>א=איסלמבד</item>
+        <item>"ר=ריו דה ז'ניירו"</item>
+        <item>א=אן ארבור</item>
+        <item>ב=בולדר</item>
+        <item>"ק=קיימברידג'"</item>
+        <item>ק=קירקלנד</item>
+        <item>מ=מדיסון</item>
+        <item>"ג=גואנגג'ו"</item>
+        <item>ה=היידראבאד</item>
+        <item>ר=רסטון</item>
+        <item>ב=בלו הוריזונטה</item>
+        <item>ס=סנטיאגו</item>
+        <item>מ=מונרוביה</item>
+        <item>ק=קולומבו</item>
+        <item>"צ=צ'יוואווה"</item>
+        <item>ס=סלבדור</item>
+        <item>ג=גורגאון</item>
+        <item>"מ=מנצ'סטר"</item>
+        <item>ק=קייב</item>
+        <item>ס=סנט פטרסבורג</item>
+        <item>ק=קרקוב</item>
+        <item>ו=ורוצלב</item>
+        <item>ה=המבורג</item>
+        <item>א=אולו</item>
+        <item>ח=חיפה</item>
+        <item>ס=סן חואן</item>
+        <item>ט=טגוסיגלפה</item>
+        <item>פ=פרמאריבו</item>
+        <item>ק=קיטו</item>
+        <item>ל=לובליאנה</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>נותרה פחות מדקה</item>
+        <item>נותרו %1$s</item>
+        <item>נותרו %2$s</item>
+        <item>נותרו %1$s %2$s</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>ההתראה הוגדרה לעוד פחות מדקה מעכשיו.</item>
+        <item>ההתראה הוגדרה לעוד %1$s מעכשיו.</item>
+        <item>ההתראה הוגדרה לעוד %2$s מעכשיו.</item>
+        <item>ההתראה הוגדרה לעוד %1$s ו-%2$s מעכשיו.</item>
+        <item>הוגדרה התראה לעוד %3$s מעכשיו.</item>
+        <item>ההתראה הוגדרה לעוד %1$s ו-%3$s מעכשיו.</item>
+        <item>ההתראה הוגדרה לעוד %2$s ו-%3$s מעכשיו.</item>
+        <item>ההתראה הוגדרה לעוד %1$s, %2$s ו-%3$s מעכשיו.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>דקה</item>
+        <item>5 דקות</item>
+        <item>10 דקות</item>
+        <item>15 דקות</item>
+        <item>20 דקות</item>
+        <item>25 דקות</item>
+        <item>לעולם לא</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>שבת</item>
+        <item>ראשון</item>
+        <item>שני</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>נודניק</item>
+        <item>דחה</item>
+        <item>אל תעשה דבר</item>
+    </string-array>
+    <string-array name="sw_lap_number_set">
+        <item>"מס' %d"</item>
+        <item>"מס' %02d"</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>אתה מהיר כשד משחת.</item>
+        <item>תיהנה מפירות עמלך.</item>
+        <item>ידוע שאנדרואידים מהירים, אבל לא מהירים כמוך!</item>
+        <item>אוף.</item>
+        <item>‏זמני L33t.</item>
+        <item>איזו מהירות עצומה.</item>
+        <item>"Let's do the time warp again."</item>
+        <item>Just a jump to the left.</item>
+        <item>יש לך תאבון לחיפזון.</item>
+        <item>מהירות פוטונית.</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>אנלוגי</item>
+        <item>דיגיטלי</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>איי מרשל</item>
+        <item>האי מידוויי</item>
+        <item>הוואי</item>
+        <item>אלסקה</item>
+        <item>אזור זמן פסיפי</item>
+        <item>טיחואנה</item>
+        <item>אריזונה</item>
+        <item>"צ'יוואווה"</item>
+        <item>זמן הרים</item>
+        <item>מרכז אמריקה</item>
+        <item>אזור זמן מרכז</item>
+        <item>מקסיקו סיטי</item>
+        <item>"ססקאצ'וון"</item>
+        <item>בוגוטה</item>
+        <item>אזור זמן מזרח</item>
+        <item>ונצואלה</item>
+        <item>אזור זמן אטלנטי (ברבדוס)</item>
+        <item>אזור זמן אטלנטי (קנדה)</item>
+        <item>מנאוס</item>
+        <item>סנטיאגו</item>
+        <item>ניופאונדלנד</item>
+        <item>ברזיליה</item>
+        <item>בואנוס איירס</item>
+        <item>גרינלנד</item>
+        <item>מונטווידאו</item>
+        <item>מרכז-אטלנטי</item>
+        <item>האיים האזורים</item>
+        <item>איי כף ורדה</item>
+        <item>קזבלנקה</item>
+        <item>לונדון, דבלין</item>
+        <item>אמסטרדם, ברלין</item>
+        <item>בלגרד</item>
+        <item>בריסל</item>
+        <item>סרייבו</item>
+        <item>ווינדהוק</item>
+        <item>אזור זמן מערב אפריקה</item>
+        <item>עמאן, ירדן</item>
+        <item>אתונה, איסטנבול</item>
+        <item>ביירות, לבנון</item>
+        <item>קהיר</item>
+        <item>הלסינקי</item>
+        <item>ירושלים</item>
+        <item>מינסק</item>
+        <item>הררה</item>
+        <item>בגדד</item>
+        <item>מוסקבה</item>
+        <item>כוויית</item>
+        <item>ניירובי</item>
+        <item>טהרן</item>
+        <item>באקו</item>
+        <item>טביליסי</item>
+        <item>ירבאן</item>
+        <item>דובאי</item>
+        <item>קאבול</item>
+        <item>"איסלמבאד, קאראצ'י"</item>
+        <item>אורל</item>
+        <item>יקטרינבורג</item>
+        <item>כלכותה</item>
+        <item>סרי לנקה</item>
+        <item>קטמנדו</item>
+        <item>אסטנה</item>
+        <item>יאנגון</item>
+        <item>קרסנויארסק</item>
+        <item>בנגקוק</item>
+        <item>"בייג'ינג"</item>
+        <item>הונג קונג</item>
+        <item>אירקוטסק</item>
+        <item>קואלה לומפור</item>
+        <item>"פרת'"</item>
+        <item>טאיפה</item>
+        <item>סיאול</item>
+        <item>טוקיו, אוסקה</item>
+        <item>יקוטסק</item>
+        <item>אדלייד</item>
+        <item>דארווין</item>
+        <item>בריסביין</item>
+        <item>הובארט</item>
+        <item>סידני, קנברה</item>
+        <item>ולדיווסטוק</item>
+        <item>גואם</item>
+        <item>מגדן</item>
+        <item>אוקלנד</item>
+        <item>"פיג'י"</item>
+        <item>טונגה</item>
+        <item>"ג'אקארטה"</item>
+    </string-array>
+</resources>

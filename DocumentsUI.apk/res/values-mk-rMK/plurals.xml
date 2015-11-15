@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Се копираат %1$d датотеки.</item>
+        <item quantity="one">Се копира %1$d датотека.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Не може да копираат %1$d датотеки</item>
+        <item quantity="one">Не може да копира %1$d датотека</item>
+    </plurals>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Înregistrare sunet</string>
+    <string name="record_your_message">Înregistraţi mesajul</string>
+    <string name="message_recorded">Mesaj înregistrat</string>
+    <string name="review_message">Consultaţi mesajul</string>
+    <string name="recording">Se înregistrează</string>
+    <string name="recording_stopped">Înregistrare oprită</string>
+    <string name="storage_is_full">Spaţiul de stocare este plin</string>
+    <string name="max_length_reached">A fost atinsă lungimea maximă</string>
+    <string name="insert_sd_card">Montaţi stocarea USB</string>
+    <string name="min_available">%d minute disponibile</string>
+    <string name="sec_available">%d (de) secunde disponibile</string>
+    <string name="accept">Terminat</string>
+    <string name="discard">Renunţaţi</string>
+    <string name="button_ok">OK</string>
+    <string name="audio_db_artist_name">Înregistrările dvs.</string>
+    <string name="audio_db_album_name">Înregistrări audio</string>
+    <string name="audio_db_playlist_name">Înregistrările mele</string>
+    <string name="error_sdcard_access">Nu se poate accesa stocarea USB.</string>
+    <string name="error_app_internal">Eroare internă de aplicație.</string>
+    <string name="error_mediadb_new_record">Conţinutul audio înregistrat nu a putut fi salvat.</string>
+</resources>

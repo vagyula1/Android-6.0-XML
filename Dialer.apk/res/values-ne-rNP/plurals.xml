@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d फेला पर्यो</item>
+        <item quantity="one">1 फेला पर्यो</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d सेकेन्ड</item>
+        <item quantity="one">१ सेकेन्ड</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d मिनेट</item>
+        <item quantity="one">१ मिनेट</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d घन्टा</item>
+        <item quantity="one">१ घन्टा</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d भ्वाइसमेलहरू</item>
+        <item quantity="one">भ्वाइसमेल</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d नयाँ भ्वाइस मेलहरू</item>
+        <item quantity="one">%d नयाँ भ्वाइस मेल</item>
+    </plurals>
+</resources>

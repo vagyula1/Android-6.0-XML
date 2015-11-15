@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Jibu</item>
+        <item>Jibu wote</item>
+        <item>Sambaza</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Mafanikio</item>
+        <item>Hakuna muunganisho</item>
+        <item>Haikuweza kuingia</item>
+        <item>Hitilafu ya usalama</item>
+        <item>Haikuweza kusawazisha</item>
+        <item>Hitilafu ya Ndani</item>
+        <item>Hitilafu katika Seva</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Mpya zaidi</item>
+        <item>Nzee zaidi</item>
+        <item>Orodha ya mazungumzo</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Onyesha mazungumzo mapya zaidi baada ya kufuta</item>
+        <item>Onyesha mazungumzo ya zamani zaidi baada ya kufuta</item>
+        <item>Onyesha orodha ya mazungumzo baada ya kufuta</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Weka kwenye kumbukumbu</item>
+        <item>Futa</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Weka kwenye kumbukumbu</item>
+        <item>Futa</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Onyesha yanayoweza kufanyiwa barua pepe juu ya skrini kila wakati</item>
+        <item>Onyesha yanayoweza kufanyiwa barua pepe juu ya skrini wakati iko wima</item>
+        <item>Usionyeshe yanayoweza kufanyiwa ujumbe nje ya kichwa cha ujumbe</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Onyesha kila wakati</item>
+        <item>Onyesha katika wima pekee</item>
+        <item>Usionyeshe</item>
+    </string-array>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Διαχείριση τηλεφωνικών κλήσεων</string>
+    <string name="userCallActivityLabel">Τηλέφωνο</string>
+    <string name="unknown">Άγνωστος</string>
+    <string name="notification_missedCallTitle">Αναπάντητη κλήση</string>
+    <string name="notification_missedCallsTitle">Αναπάντητες κλήσεις</string>
+    <string name="notification_missedCallsMsg">%s αναπάντητες κλήσεις</string>
+    <string name="notification_missedCallTicker">Αναπάντητη κλήση από %s</string>
+    <string name="notification_missedCall_call_back">Επανάκληση</string>
+    <string name="notification_missedCall_message">Μήνυμα</string>
+    <string name="accessibility_call_muted">Η κλήση τέθηκε σε σίγαση.</string>
+    <string name="accessibility_speakerphone_enabled">Η ανοικτή συνομιλία ενεργοποιήθηκε.</string>
+    <string name="respond_via_sms_canned_response_1">Δεν μπορώ τώρα. Συμβαίνει κάτι;</string>
+    <string name="respond_via_sms_canned_response_2">Θα σου τηλεφωνήσω αμέσως.</string>
+    <string name="respond_via_sms_canned_response_3">Θα σου τηλεφωνήσω αργότερα.</string>
+    <string name="respond_via_sms_canned_response_4">Δεν μπορώ τώρα. Πάρε με αργότερα.</string>
+    <string name="respond_via_sms_setting_title">Γρήγορες απαντήσεις</string>
+    <string name="respond_via_sms_setting_title_2">Επεξεργασία</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Γρήγορη απάντηση</string>
+    <string name="respond_via_sms_confirmation_format">Το μήνυμα εστάλη στο %s.</string>
+    <string name="enable_account_preference_title">Λογαριασμοί κλήσης</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Από τον κάτοχο της συσκευής επιτρέπονται μόνο κλήσεις έκτακτης ανάγκης.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Αυτή η εφαρμογή δεν μπορεί να πραγματοποιήσει εξερχόμενες κλήσεις χωρίς την άδεια \"Τηλέφωνο\".</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Για να πραγματοποιήσετε μια κλήση, εισαγάγετε έναν έγκυρο αριθμό.</string>
+    <string name="duplicate_video_call_not_allowed">Δεν είναι δυνατή η προσθήκη κλήσης αυτήν τη στιγμή.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Απενεργοποιήστε τη λειτουργία TTY για να πραγματοποιήσετε βιντεοκλήσεις.</string>
+    <string name="no_vm_number">Λείπει ο αριθμός αυτόματου τηλεφωνητή</string>
+    <string name="no_vm_number_msg">Δεν έχει αποθηκευτεί αριθμός για τον αυτόματο τηλεφωνητή στην κάρτα SIM.</string>
+    <string name="add_vm_number_str">Προσθήκη αριθμού</string>
+    <string name="change_default_dialer_dialog_title">Αλλαγή της προεπιλεγμένης εφαρμογής Dialer;</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Χρήση της εφαρμογής %1$s αντί για την εφαρμογή %2$s ως προεπιλεγμένης εφαρμογής Dialer;</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Χρήση της εφαρμογής %s ως προεπιλεγμένης εφαρμογής Dialer;</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>konu yok</item>
+        <item>konu yok</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Evet</item>
+        <item>Hayır</item>
+        <item>Tamam</item>
+        <item>Olur</item>
+        <item>Teşekkürler</item>
+        <item>Kabul ediyorum</item>
+        <item>Güzel</item>
+        <item>Yoldayım</item>
+        <item>Tamam, sana sonra dönerim</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

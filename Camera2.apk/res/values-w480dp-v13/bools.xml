@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="show_action_bar_title">true</bool>
+    <bool name="APKTOOL_DUMMY_0001">false</bool>
+    <bool name="APKTOOL_DUMMY_0002">false</bool>
+</resources>

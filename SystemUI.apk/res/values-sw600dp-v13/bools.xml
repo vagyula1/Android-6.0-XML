@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="recents_has_transposed_search_bar">true</bool>
+    <bool name="recents_has_transposed_nav_bar">false</bool>
+    <bool name="config_keyguardUserSwitcher">true</bool>
+    <bool name="kg_sim_puk_account_full_screen">false</bool>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d ekranu w widoku przeglądu</item>
+        <item quantity="one">1 ekran w widoku przeglądu</item>
+        <item quantity="few">%d ekrany w widoku przeglądu</item>
+        <item quantity="many">%d ekranów w widoku przeglądu</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Nieprawidłowy kod PIN karty SIM. Masz jeszcze %d próby.</item>
+        <item quantity="one">Nieprawidłowy kod PIN karty SIM. Masz jeszcze %d próbę, zanim będziesz musiał skontaktować się z operatorem, by odblokować swoje urządzenie.</item>
+        <item quantity="few">Nieprawidłowy kod PIN karty SIM. Masz jeszcze %d próby.</item>
+        <item quantity="many">Nieprawidłowy kod PIN karty SIM. Masz jeszcze %d prób.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Nieprawidłowy kod PUK karty SIM. Masz jeszcze %d próby, zanim karta SIM zostanie trwale zablokowana.</item>
+        <item quantity="one">Nieprawidłowy kod PUK karty SIM. Masz jeszcze %d próbę, zanim karta SIM zostanie trwale zablokowana.</item>
+        <item quantity="few">Nieprawidłowy kod PUK karty SIM. Masz jeszcze %d próby, zanim karta SIM zostanie trwale zablokowana.</item>
+        <item quantity="many">Nieprawidłowy kod PUK karty SIM. Masz jeszcze %d prób, zanim karta SIM zostanie trwale zablokowana.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Urządzenie nie zostało odblokowane od %d godziny. Potwierdź wzór.</item>
+        <item quantity="one">Urządzenie nie zostało odblokowane od %d godziny. Potwierdź wzór.</item>
+        <item quantity="few">Urządzenie nie zostało odblokowane od %d godzin. Potwierdź wzór.</item>
+        <item quantity="many">Urządzenie nie zostało odblokowane od %d godzin. Potwierdź wzór.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">Urządzenie nie zostało odblokowane od %d godziny. Potwierdź kod PIN.</item>
+        <item quantity="one">Urządzenie nie zostało odblokowane od %d godziny. Potwierdź kod PIN.</item>
+        <item quantity="few">Urządzenie nie zostało odblokowane od %d godzin. Potwierdź kod PIN.</item>
+        <item quantity="many">Urządzenie nie zostało odblokowane od %d godzin. Potwierdź kod PIN.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Urządzenie nie zostało odblokowane od %d godziny. Potwierdź hasło.</item>
+        <item quantity="one">Urządzenie nie zostało odblokowane od %d godziny. Potwierdź hasło.</item>
+        <item quantity="few">Urządzenie nie zostało odblokowane od %d godzin. Potwierdź hasło.</item>
+        <item quantity="many">Urządzenie nie zostało odblokowane od %d godzin. Potwierdź hasło.</item>
+    </plurals>
+</resources>

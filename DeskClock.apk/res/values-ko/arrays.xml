@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>ㅇ=아비장</item>
+        <item>ㅇ=아크라</item>
+        <item>ㅇ=아디스아바바</item>
+        <item>ㅇ=알제</item>
+        <item>ㅂ=블랜타이어</item>
+        <item>ㅂ=브라자빌</item>
+        <item>ㅋ=카이로</item>
+        <item>ㅋ=카사블랑카</item>
+        <item>ㅋ=코나크리</item>
+        <item>ㄷ=다카르</item>
+        <item>ㄷ=다르에스살람</item>
+        <item>ㅈ=지부티</item>
+        <item>ㅍ=프리타운</item>
+        <item>ㄱ=가보론</item>
+        <item>ㅎ=하라레</item>
+        <item>ㅇ=요하네스버그</item>
+        <item>ㅋ=캄팔라</item>
+        <item>ㅋ=카르툼</item>
+        <item>ㅋ=키갈리</item>
+        <item>ㅋ=킨샤사</item>
+        <item>ㄹ=라고스</item>
+        <item>ㅁ=마세루</item>
+        <item>ㅁ=모가디슈</item>
+        <item>ㄴ=나이로비</item>
+        <item>ㅅ=상투메</item>
+        <item>ㅌ=팀북투</item>
+        <item>ㅌ=트리폴리</item>
+        <item>ㅌ=튀니스</item>
+        <item>ㅇ=앵커리지</item>
+        <item>ㅁ=멘도사</item>
+        <item>ㅇ=아루바</item>
+        <item>ㅇ=아순시온</item>
+        <item>ㅂ=바베이도스</item>
+        <item>ㅂ=벨리즈</item>
+        <item>ㅂ=보고타</item>
+        <item>ㅂ=부에노스아이레스</item>
+        <item>ㅋ=칸쿤</item>
+        <item>ㅋ=카라카스</item>
+        <item>ㅋ=카이만</item>
+        <item>ㅅ=시카고</item>
+        <item>ㅋ=코스타리카</item>
+        <item>ㅋ=큐라소</item>
+        <item>ㄷ=도손크릭</item>
+        <item>ㄷ=덴버</item>
+        <item>ㄷ=디트로이트</item>
+        <item>ㄷ=도미니카</item>
+        <item>ㅇ=에드먼턴</item>
+        <item>ㅇ=엘살바도르</item>
+        <item>ㅍ=포르탈레자</item>
+        <item>ㄱ=그랜드터크</item>
+        <item>ㄱ=그라나다</item>
+        <item>ㄱ=과테말라</item>
+        <item>ㄱ=가이아나</item>
+        <item>ㅎ=할리팩스</item>
+        <item>ㅎ=하바나</item>
+        <item>ㅇ=인디애나폴리스</item>
+        <item>ㄴ=녹스</item>
+        <item>ㅁ=마렝고</item>
+        <item>ㅍ=피터즈버그</item>
+        <item>ㅌ=텔시티</item>
+        <item>ㅂ=비비</item>
+        <item>ㅂ=빈세네스</item>
+        <item>ㅇ=위너맥</item>
+        <item>ㅋ=킹스턴</item>
+        <item>ㄴ=누에스트라 세뇨라 데 라 파스</item>
+        <item>ㄹ=리마</item>
+        <item>ㄹ=로스앤젤레스</item>
+        <item>ㄹ=루이빌</item>
+        <item>ㅁ=마나과</item>
+        <item>ㅁ=마르티니크</item>
+        <item>ㅁ=멘도사</item>
+        <item>ㅁ=메틀라카틀라</item>
+        <item>ㅁ=멕시코시티</item>
+        <item>ㅁ=몬테레이</item>
+        <item>ㅁ=몬테비데오</item>
+        <item>ㅁ=몬트리올</item>
+        <item>ㄴ=나소</item>
+        <item>ㄴ=뉴욕</item>
+        <item>ㅂ=뷸라</item>
+        <item>ㅅ=센터</item>
+        <item>ㄴ=뉴세일럼</item>
+        <item>ㅍ=파나마</item>
+        <item>ㅍ=피닉스</item>
+        <item>ㅍ=포트오브스페인</item>
+        <item>ㅍ=포르토프랭스</item>
+        <item>ㅍ=푸에르토리코</item>
+        <item>ㅅ=산토도밍고</item>
+        <item>ㅅ=상파울루</item>
+        <item>ㅅ=세인트존스</item>
+        <item>ㅅ=세인트키츠</item>
+        <item>ㅅ=세인트루시아</item>
+        <item>ㅅ=세인트토마스</item>
+        <item>ㅌ=티후아나</item>
+        <item>ㅌ=토론토</item>
+        <item>ㅂ=밴쿠버</item>
+        <item>ㅇ=위니펙</item>
+        <item>ㄴ=남극</item>
+        <item>ㄹ=롱위에아르비엔</item>
+        <item>ㅇ=알마티</item>
+        <item>ㅇ=암만</item>
+        <item>ㅇ=아나디리</item>
+        <item>ㅇ=아크타우</item>
+        <item>ㅂ=바그다드</item>
+        <item>ㅂ=바레인</item>
+        <item>ㅂ=바쿠</item>
+        <item>ㅂ=방콕</item>
+        <item>ㅂ=베이루트</item>
+        <item>ㅋ=캘커타</item>
+        <item>ㄷ=다마스쿠스</item>
+        <item>ㄷ=다카</item>
+        <item>ㄷ=두바이</item>
+        <item>ㄱ=가자</item>
+        <item>ㅎ=헤브론</item>
+        <item>ㅎ=호치민</item>
+        <item>ㅎ=홍콩</item>
+        <item>ㅇ=이스탄불</item>
+        <item>ㅈ=자카르타</item>
+        <item>ㅇ=예루살렘</item>
+        <item>ㅋ=카불</item>
+        <item>ㅋ=카라치</item>
+        <item>ㅋ=카트만두</item>
+        <item>ㅋ=콸라룸푸르</item>
+        <item>ㅋ=쿠웨이트</item>
+        <item>ㅁ=마카오</item>
+        <item>ㅁ=마닐라</item>
+        <item>ㅁ=무스카트</item>
+        <item>ㅍ=프놈펜</item>
+        <item>ㅍ=평양</item>
+        <item>ㅋ=카타르</item>
+        <item>ㄹ=랑군</item>
+        <item>ㄹ=리야드</item>
+        <item>ㅅ=사이공</item>
+        <item>ㅅ=서울</item>
+        <item>ㅅ=상하이</item>
+        <item>ㅅ=싱가포르</item>
+        <item>ㅌ=타이페이</item>
+        <item>ㅌ=테헤란</item>
+        <item>ㅌ=텔아비브</item>
+        <item>ㄷ=도쿄</item>
+        <item>ㅇ=울란바토르</item>
+        <item>ㅂ=버뮤다</item>
+        <item>ㅋ=카나리아</item>
+        <item>ㅋ=카보베르데</item>
+        <item>ㄹ=레이캬비크</item>
+        <item>ㅅ=스탠리</item>
+        <item>ㅇ=애들레이드</item>
+        <item>ㅂ=브리즈번</item>
+        <item>ㅋ=캔버라</item>
+        <item>ㄷ=다윈</item>
+        <item>ㅁ=멜버른</item>
+        <item>ㄴ=뉴사우스웨일스</item>
+        <item>ㅍ=퍼스</item>
+        <item>ㅋ=퀸즐랜드</item>
+        <item>ㅅ=시드니</item>
+        <item>ㅂ=빅토리아</item>
+        <item>ㄴ=뉴펀들랜드</item>
+        <item>ㅅ=서스캐처원</item>
+        <item>ㅇ=이스터 섬</item>
+        <item>ㅇ=암스테르담</item>
+        <item>ㅇ=안도라</item>
+        <item>ㅇ=아테네</item>
+        <item>ㅂ=벨파스트</item>
+        <item>ㅂ=벨그라드</item>
+        <item>ㅂ=베를린</item>
+        <item>ㅂ=브라티슬라바</item>
+        <item>ㅂ=브뤼셀</item>
+        <item>ㅂ=부카레스트</item>
+        <item>ㅂ=부다페스트</item>
+        <item>ㅋ=키시나우</item>
+        <item>ㅋ=코펜하겐</item>
+        <item>ㄷ=더블린</item>
+        <item>ㅈ=지브롤터</item>
+        <item>ㅎ=헬싱키</item>
+        <item>ㅁ=맨 섬</item>
+        <item>ㅇ=이스탄불</item>
+        <item>ㅋ=키예프</item>
+        <item>ㄹ=리스본</item>
+        <item>ㄹ=런던</item>
+        <item>ㄹ=룩셈부르크</item>
+        <item>ㅁ=마드리드</item>
+        <item>ㅁ=몰타</item>
+        <item>ㅁ=민스크</item>
+        <item>ㅁ=모나코</item>
+        <item>ㅁ=모스크바</item>
+        <item>ㅇ=오슬로</item>
+        <item>ㅍ=파리</item>
+        <item>ㅍ=프라하</item>
+        <item>ㄹ=리가</item>
+        <item>ㄹ=로마</item>
+        <item>ㅅ=산마리노</item>
+        <item>ㅅ=사라예보</item>
+        <item>ㅅ=심페로폴</item>
+        <item>ㅅ=스코폐</item>
+        <item>ㅅ=소피아</item>
+        <item>ㅅ=스톡홀름</item>
+        <item>ㅌ=탈린</item>
+        <item>ㅂ=바티칸</item>
+        <item>ㅂ=비엔나</item>
+        <item>ㅂ=빌니우스</item>
+        <item>ㅂ=바르샤바</item>
+        <item>ㅈ=자그레브</item>
+        <item>ㅊ=취리히</item>
+        <item>ㅇ=안타나나리보</item>
+        <item>ㅁ=몰디브</item>
+        <item>ㅁ=모리셔스</item>
+        <item>ㅇ=오클랜드</item>
+        <item>ㅍ=피지</item>
+        <item>ㄱ=괌</item>
+        <item>ㅎ=호놀룰루</item>
+        <item>ㅋ=키리티마티</item>
+        <item>ㄴ=누메아</item>
+        <item>ㅅ=사모아</item>
+        <item>ㅌ=타히티</item>
+        <item>ㅇ=안티가</item>
+        <item>ㅇ=오스틴</item>
+        <item>ㅂ=보스턴</item>
+        <item>ㅋ=캘거리</item>
+        <item>ㅋ=콜롬버스</item>
+        <item>ㄷ=댈러스</item>
+        <item>ㄴ=녹스빌</item>
+        <item>ㅁ=멤피스</item>
+        <item>ㅁ=마이애미</item>
+        <item>ㅁ=미네아폴리스</item>
+        <item>ㅇ=오타와</item>
+        <item>ㅍ=필라델피아</item>
+        <item>ㅍ=포틀랜드</item>
+        <item>ㅅ=샌디에이고</item>
+        <item>ㅅ=샌프란시스코</item>
+        <item>ㅅ=솔트레이크시티</item>
+        <item>ㅅ=산호세</item>
+        <item>ㅅ=산살바도르</item>
+        <item>ㅅ=시애틀</item>
+        <item>ㅅ=세인트루이스</item>
+        <item>ㅇ=워싱턴 D.C.</item>
+        <item>ㅎ=휴스턴</item>
+        <item>ㅅ=샌안토니오</item>
+        <item>ㅈ=잭슨빌</item>
+        <item>ㅂ=볼티모어</item>
+        <item>ㄴ=내슈빌</item>
+        <item>ㅁ=밀워키</item>
+        <item>ㅇ=오클라호마시티</item>
+        <item>ㄹ=라스베가스</item>
+        <item>ㅇ=앨버커키</item>
+        <item>ㅌ=투손</item>
+        <item>ㅅ=새크라멘토</item>
+        <item>ㅇ=아틀란타</item>
+        <item>ㅋ=클리블랜드</item>
+        <item>ㄴ=뉴올리언스</item>
+        <item>ㅌ=탬파</item>
+        <item>ㅍ=피츠버그</item>
+        <item>ㅅ=신시내티</item>
+        <item>ㅁ=마운틴 뷰</item>
+        <item>ㄹ=리노</item>
+        <item>ㅂ=블랙록시티</item>
+        <item>ㄷ=도하</item>
+        <item>ㅂ=베이징</item>
+        <item>ㅁ=뭄바이</item>
+        <item>ㄷ=델리</item>
+        <item>ㅇ=오사카</item>
+        <item>ㄹ=라호르</item>
+        <item>ㅅ=사나</item>
+        <item>ㅂ=바르셀로나</item>
+        <item>ㅁ=뮌헨</item>
+        <item>ㅁ=밀란</item>
+        <item>ㅍ=프랑크푸르트</item>
+        <item>ㅎ=하노이</item>
+        <item>ㅇ=앙카라</item>
+        <item>ㅂ=방갈로르</item>
+        <item>ㅂ=브라질리아</item>
+        <item>ㅋ=케이프타운</item>
+        <item>ㅇ=이슬라마바드</item>
+        <item>ㄹ=리우데자네이루</item>
+        <item>ㅇ=앤아버</item>
+        <item>ㅂ=볼더</item>
+        <item>ㅋ=캠브리지</item>
+        <item>ㅋ=커크랜드</item>
+        <item>ㅁ=매디슨</item>
+        <item>ㄱ=광저우</item>
+        <item>ㅎ=하이데라바드</item>
+        <item>ㄹ=레스턴</item>
+        <item>ㅂ=벨루오리존치</item>
+        <item>ㅅ=산티아고</item>
+        <item>ㅁ=몬로비아</item>
+        <item>ㅋ=콜롬보</item>
+        <item>ㅊ=치와와</item>
+        <item>ㅅ=살바도르</item>
+        <item>ㄱ=구르가온</item>
+        <item>ㅁ=맨체스터</item>
+        <item>ㅋ=키예프</item>
+        <item>ㅅ=상트페테르부르크</item>
+        <item>ㅋ=크라쿠프</item>
+        <item>ㅂ=브로츠와프</item>
+        <item>ㅎ=함부르크</item>
+        <item>ㅇ=오울루</item>
+        <item>ㅎ=하이파</item>
+        <item>ㅅ=산후안</item>
+        <item>ㅌ=테구시갈파</item>
+        <item>ㅍ=파라마리보</item>
+        <item>ㅋ=키토</item>
+        <item>ㄹ=류블랴나</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>1분 미만 남음</item>
+        <item>%1$s 남음</item>
+        <item>%2$s 남음</item>
+        <item>%1$s %2$s 남음</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>알람 시간이 지금으로부터 1분 이내입니다.</item>
+        <item>지금부터 %1$s 후로 알람이 설정됩니다.</item>
+        <item>지금부터 %2$s 후로 알람이 설정됩니다.</item>
+        <item>지금부터 %1$s, %2$s 후로 알람이 설정됩니다.</item>
+        <item>지금부터 %3$s 후로 알람이 설정됩니다.</item>
+        <item>지금부터 %1$s %3$s 후로 알람이 설정됩니다.</item>
+        <item>지금부터 %2$s %3$s 후로 알람이 설정됩니다.</item>
+        <item>지금부터 %1$s %2$s %3$s 후로 알람이 설정되었습니다.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>1분</item>
+        <item>5분</item>
+        <item>10분</item>
+        <item>15분</item>
+        <item>20분</item>
+        <item>25분</item>
+        <item>사용 안함</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>토요일</item>
+        <item>일요일</item>
+        <item>월요일</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>다시 울림</item>
+        <item>알람 해제</item>
+        <item>기능 없음</item>
+    </string-array>
+    <string-array name="sw_lap_number_set">
+        <item>%d번</item>
+        <item>%02d번</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>속도광이시군요.</item>
+        <item>결과를 확인하세요.</item>
+        <item>Android의 속도도 아주 빠르지만 당신이 더 빠르군요.</item>
+        <item>휴...</item>
+        <item>엄청나게 많군요.</item>
+        <item>엄청난 속도군요.</item>
+        <item>다시 타임 와프를 하세요.</item>
+        <item>왼쪽으로 점프하세요.</item>
+        <item>서두르세요.</item>
+        <item>엄청난 속도입니다.</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>아날로그</item>
+        <item>디지털</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>마샬 제도</item>
+        <item>미드웨이 제도</item>
+        <item>하와이</item>
+        <item>알래스카</item>
+        <item>태평양 표준시</item>
+        <item>티후아나</item>
+        <item>애리조나</item>
+        <item>치와와</item>
+        <item>산지 표준시</item>
+        <item>중앙 아메리카</item>
+        <item>중부 표준시</item>
+        <item>멕시코시티</item>
+        <item>서스캐처원</item>
+        <item>보고타</item>
+        <item>동부 표준시</item>
+        <item>베네수엘라</item>
+        <item>대서양(바베이도스)</item>
+        <item>대서양(캐나다)</item>
+        <item>마나우스</item>
+        <item>산티아고</item>
+        <item>뉴펀들랜드</item>
+        <item>브라질리아</item>
+        <item>부에노스아이레스</item>
+        <item>그린란드</item>
+        <item>몬테비데오</item>
+        <item>중부 대서양</item>
+        <item>아조레스</item>
+        <item>카보베르데 제도</item>
+        <item>카사블랑카</item>
+        <item>런던, 더블린</item>
+        <item>암스테르담, 베를린</item>
+        <item>베오그라드</item>
+        <item>브뤼셀</item>
+        <item>사라예보</item>
+        <item>빈트후크</item>
+        <item>서아프리카 시간대</item>
+        <item>암만, 요르단</item>
+        <item>아테네, 이스탄불</item>
+        <item>베이루트, 레바논</item>
+        <item>카이로</item>
+        <item>헬싱키</item>
+        <item>예루살렘</item>
+        <item>민스크</item>
+        <item>하라레</item>
+        <item>바그다드</item>
+        <item>모스크바</item>
+        <item>쿠웨이트</item>
+        <item>나이로비</item>
+        <item>테헤란</item>
+        <item>바쿠</item>
+        <item>트빌리시</item>
+        <item>예레반</item>
+        <item>두바이</item>
+        <item>카불</item>
+        <item>이슬라마바드, 카라치</item>
+        <item>우랄스크</item>
+        <item>에카테린부르크</item>
+        <item>콜카타</item>
+        <item>스리랑카</item>
+        <item>카트만두</item>
+        <item>아스타나</item>
+        <item>양곤</item>
+        <item>크라스노야르스크</item>
+        <item>방콕</item>
+        <item>베이징</item>
+        <item>홍콩</item>
+        <item>이르쿠츠크</item>
+        <item>쿠알라룸푸르</item>
+        <item>퍼스</item>
+        <item>타이페이</item>
+        <item>서울</item>
+        <item>도쿄, 오사카</item>
+        <item>야쿠츠크</item>
+        <item>애들레이드</item>
+        <item>다윈</item>
+        <item>브리즈번</item>
+        <item>호바트</item>
+        <item>시드니, 캔버라</item>
+        <item>블라디보스토크</item>
+        <item>괌</item>
+        <item>마가단</item>
+        <item>오클랜드</item>
+        <item>피지</item>
+        <item>통가</item>
+        <item>자카르타</item>
+    </string-array>
+</resources>

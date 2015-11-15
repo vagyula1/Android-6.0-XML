@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Wersje robocze</item>
+        <item quantity="one">Wersja robocza</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Usunąć wątki (%1$d)?</item>
+        <item quantity="one">Usunąć wątek?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Zarchiwizować wątki (%1$d)?</item>
+        <item quantity="one">Zarchiwizować wątek?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Odrzucić %1$d wiadomości?</item>
+        <item quantity="one">Odrzucić tę wiadomość?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Cofanie oznaczenia gwiazdką %1$d wątków</item>
+        <item quantity="one">Cofanie oznaczenia gwiazdką %1$d wątku</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">Zignorowane: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Zignorowane: &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">Zgłoszone jako spam: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Zgłoszone jako spam: &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">Zgłoszone jako nie spam: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Zgłoszone jako nie spam: &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">Oznaczone jako mało ważne: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Oznaczone jako mało ważne: &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">Zgłoszone jako wyłudzanie informacji: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Zgłoszone jako wyłudzanie informacji: &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">Zarchiwizowane: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Zarchiwizowane: &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">Usunięte: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Usunięte: &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Zmieniono foldery</item>
+        <item quantity="one">Zmieniono folder</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">Nowe wiadomości: %1$d</item>
+        <item quantity="one">%1$d nowa wiadomość</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Rozwiń starsze wiadomości: %1$d</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Rozwinięto starsze wiadomości: %1$d</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">Nieprzeczytane: %1$d</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">Nowe wiadomości: %1$d</item>
+        <item quantity="one">%1$d nowa wiadomość</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Liczba wiadomości, które zostaną trwale usunięte: %1$d.</item>
+        <item quantity="one">%1$d wiadomość zostanie trwale usunięta.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d wiadomości</item>
+        <item quantity="one">%1$d wiadomość</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d załączniki(ów)</item>
+        <item quantity="one">%1$d załącznik</item>
+    </plurals>
+</resources>

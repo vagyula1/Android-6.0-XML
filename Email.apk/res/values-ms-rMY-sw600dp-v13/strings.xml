@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">Urus folder</string>
+    <string name="add_cc_label">+ Sk/Skt</string>
+    <string name="add_bcc_label">+ Skt</string>
+    <string name="preferences_default_reply_all_summary">Gunakan sebagai tetapan lalai untuk balasan kepada pemberitahuan mesej</string>
+</resources>

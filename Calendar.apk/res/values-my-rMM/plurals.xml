@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d မိနစ်</item>
+        <item quantity="one">၁ မိနစ်</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d မိနစ်</item>
+        <item quantity="one">၁ မိနစ်</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d နာရီ</item>
+        <item quantity="one">၁ နာရီ</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d ရက်</item>
+        <item quantity="one">၁ ရက်</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">အပတ် %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">;၊ %d ကြိမ်</item>
+        <item quantity="one">၊ တစ်ကြိမ်</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d ရက်တိုင်း</item>
+        <item quantity="one">နေ့စဉ်</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d ပတ်တိုင်း %2$s တွင်</item>
+        <item quantity="one">အပတ်စဉ် %2$s တွင်</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+၁</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d ဖြစ်ရပ်များ</item>
+        <item quantity="one">၁ ဖြစ်ရပ်</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d ဖြစ်ရပ်များ</item>
+        <item quantity="one">+၁ ဖြစ်ရပ်</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">%d ရက်တိုင်း</item>
+        <item quantity="one">%d ရက်တိုင်း</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">%d ပတ်တိုင်း</item>
+        <item quantity="one">%d ပတ်တိုင်း</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">%d လတိုင်း</item>
+        <item quantity="one">%d လတိုင်း</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">%d နှစ်တိုင်း</item>
+        <item quantity="one">%d နှစ်တိုင်း</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">ဖြစ်ရပ်များ %d အတွက်</item>
+        <item quantity="one">ဖြစ်ရပ် %d အတွက်</item>
+    </plurals>
+</resources>

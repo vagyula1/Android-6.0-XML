@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 sek.</item>
+        <item>4 sek.</item>
+        <item>6 sek.</item>
+        <item>8 sek.</item>
+        <item>10 sek.</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>Kartą</item>
+        <item>Kas 2 min.</item>
+        <item>Kas 15 min.</item>
+        <item>Išjungta</item>
+    </string-array>
+</resources>

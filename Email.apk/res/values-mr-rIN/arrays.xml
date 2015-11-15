@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>प्रत्युत्तर द्या</item>
+        <item>सर्वांना प्रत्युत्तर द्या</item>
+        <item>अग्रेषित करा</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>यशस्वी</item>
+        <item>कोणतेही कनेक्शन नाही</item>
+        <item>साइन इन करू शकलो नाही</item>
+        <item>सुरक्षा त्रुटी</item>
+        <item>संकालन करू शकलो नाही</item>
+        <item>अंतर्गत त्रुटी</item>
+        <item>सर्व्हर त्रुटी</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>नवीनतर</item>
+        <item>अधिक जुने</item>
+        <item>संभाषण सूची</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>आपण हटवल्यानंतर नवीनतर संभाषण दर्शवा</item>
+        <item>आपण हटवल्यानंतर अधिक जुने संभाषण दर्शवा</item>
+        <item>आपण हटवल्यानंतर संभाषण सूची दर्शवा</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>संग्रहण करा</item>
+        <item>हटवा</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>संग्रहण करा</item>
+        <item>हटवा</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>नेहमी स्क्रीनच्या शीर्षस्थानी संदेश क्रिया दर्शवा</item>
+        <item>केवळ पोर्ट्रेटवर फिरविले जाते तेव्हा स्क्रीनच्या शीर्षस्थानी संदेश कृती दर्शवा</item>
+        <item>संदेश शीर्षलेखाबाहेर संदेश क्रिया दर्शवू नका</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>नेहमी दर्शवा</item>
+        <item>केवळ पोर्ट्रेटमध्ये दर्शवा</item>
+        <item>दर्शवू नका</item>
+    </string-array>
+</resources>

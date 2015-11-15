@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Одговори</item>
+        <item>Одговори свима</item>
+        <item>Проследи</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Успешно</item>
+        <item>Веза није успостављена</item>
+        <item>Пријављивање није успело</item>
+        <item>Безбедносна грешка</item>
+        <item>Синхронизација није успела</item>
+        <item>Интерна грешка</item>
+        <item>Грешка сервера</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Новије</item>
+        <item>Старије</item>
+        <item>Листа преписки</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Приказ новије преписке након брисања</item>
+        <item>Приказ старије преписке након брисања</item>
+        <item>Приказ листе преписки након брисања</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Архивирај</item>
+        <item>Избриши</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Архивирај</item>
+        <item>Избриши</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Увек приказуј радње са порукама у врху екрана</item>
+        <item>Приказуј активности са порукама у врху екрана само када је положај промењен у вертикални</item>
+        <item>Не приказуј радње са порукама ван заглавља поруке</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Увек прикажи</item>
+        <item>Приказуј само у усправном положају</item>
+        <item>Не приказуј</item>
+    </string-array>
+</resources>

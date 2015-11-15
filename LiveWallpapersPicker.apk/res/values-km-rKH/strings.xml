@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">កម្មវិធី​ជ្រើស​ផ្ទាំង​រូបភាព​មាន​ចលនា</string>
+    <string name="live_wallpaper_picker_title">ជ្រើស​ផ្ទាំង​រូបភាព​មាន​ចលនា</string>
+    <string name="live_wallpaper_picker_label">ផ្ទាំងរូបភាព​មាន​ចលនា</string>
+    <string name="live_wallpaper_preview_title">មើល​ផ្ទាំង​រូបភាព​មាន​ចលនា​ជា​មុន</string>
+    <string name="configure_wallpaper">ការ​កំណត់...</string>
+    <string name="wallpaper_instructions">កំណត់​ផ្ទាំង​រូបភាព</string>
+    <string name="live_wallpaper_empty">គ្មាន​ផ្ទាំង​រូបភាព​មាន​ចលនា។</string>
+    <string name="set_live_wallpaper">កំណត់​ផ្ទាំង​រូបភាព</string>
+    <string name="wallpaper_title_and_author">%1$s ដោយ %2$s</string>
+    <string name="live_wallpaper_loading">កំពុង​ផ្ទុក​ផ្ទាំង​រូបភាព​មាន​ចលនា...</string>
+    <string name="wallpaper_cancel">បោះ​បង់​</string>
+</resources>

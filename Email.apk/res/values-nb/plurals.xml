@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Utkast</item>
+        <item quantity="one">Utkast</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Vil du slette disse %1$d samtalene?</item>
+        <item quantity="one">Vil du slette denne samtalen?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Vil du arkivere disse %1$d samtalene?</item>
+        <item quantity="one">Vil du arkivere denne samtalen?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Vil du forkaste disse %1$d e-postene?</item>
+        <item quantity="one">Vil du forkaste e-posten?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Fjerner stjernemerking fra %1$d samtaler</item>
+        <item quantity="one">Fjerner stjernemerking fra %1$d samtale</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ignorert</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ignorert</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> rapportert som søppelpost</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> rapportert som søppelpost</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> rapportert som ikke søppelpost</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> rapportert som ikke søppelpost</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> merket som ikke viktig</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> merket som ikke viktig</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> rapportert som nettfisking</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> rapportert som nettfisking</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> arkivert</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> arkivert</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> slettet</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> slettet</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Byttet mapper</item>
+        <item quantity="one">Byttet mappe</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d nye meldinger</item>
+        <item quantity="one">%1$d ny melding</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Vis %1$d eldre meldinger</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d eldre meldinger vises</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d uleste</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d nye e-poster</item>
+        <item quantity="one">%1$d ny e-post</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d meldinger slettes permanent.</item>
+        <item quantity="one">%1$d melding slettes permanent.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d e-poster</item>
+        <item quantity="one">%1$d e-post</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d vedlegg</item>
+        <item quantity="one">%1$d vedlegg</item>
+    </plurals>
+</resources>

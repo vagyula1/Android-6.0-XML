@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">សេចក្ដី​ព្រាង</item>
+        <item quantity="one">សេចក្ដី​ព្រាង</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">លុប​ការ​សន្ទនា​ទាំង​ %1$d ​នេះ?</item>
+        <item quantity="one">លុប​ការ​សន្ទនា​នេះ​​?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">ទុក​ការ​សន្ទនា​ទាំង %1$d នេះ​ក្នុង​ប័ណ្ណសារ?</item>
+        <item quantity="one">ទុក​​ការ​សន្ទនា​​នេះ​ក្នុង​ប័ណ្ណសារ​​​​?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">បោះបង់​សារ​ទាំង %1$d នេះ​?</item>
+        <item quantity="one">បោះបង់​សារ​នេះ​?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">ដោះ​ផ្កាយ​ %1$d ការ​សន្ទនា</item>
+        <item quantity="one">ដោះ​ផ្កាយ​ %1$d ការ​សន្ទនា</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> បាន​បិទ​សំឡេង</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> បាន​បិទ​សំឡេង</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> បាន​រាយការណ៍​ថា​ជា​សារ​ឥត​បាន​ការ</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> បាន​រាយការណ៍​ថា​ជា​សារ​ឥត​បាន​ការ</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> បាន​រាយការណ៍​ថា​មិន​មែន​ជា​សារ​ឥត​បាន​ការ</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> បាន​រាយការណ៍​ថា​មិន​មែន​ជា​សារ​ឥត​បាន​ការ</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> បាន​សម្គាល់​ថា​មិន​សំខាន់</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> បាន​សម្គាល់​ថា​មិន​សំខាន់</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> បាន​រាយការណ៍​ថា​ជា​ការ​ឆបោក</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> បាន​រាយការណ៍​ថា​ជា​ការ​ឆបោក</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> បាន​ទុក​ក្នុង​ប័ណ្ណ​សារ</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> បាន​ទុក​ក្នុង​ប័ណ្ណ​សារ</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> បាន​លុប</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> បាន​លុប</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">ថត​ដែល​បាន​ផ្លាស់​ប្តូរ</item>
+        <item quantity="one">ថត​ដែល​បាន​ផ្លាស់​ប្តូរ</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">សារ​ថ្មី​ %1$d</item>
+        <item quantity="one">សារ​ថ្មី​ %1$d</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">ពង្រីក​សារ​ចាស់ៗ​ %1$d</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">បាន​ពង្រីក​​សារ​ចាស់ៗ %1$d</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">មិន​ទាន់​អាន %1$d</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">សារ​ថ្មី %1$d</item>
+        <item quantity="one">សារ​ថ្មី %1$d</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">សារ %1$d ​នឹង​ត្រូវ​បាន​លុប​ជា​​អចិន្ត្រៃយ៍។</item>
+        <item quantity="one">សារ %1$d ​​នឹង​ត្រូវ​បាន​លុប​ជា​អចិន្ត្រៃយ៍។</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">សារ %1$d</item>
+        <item quantity="one">សារ​ %1$d</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">ឯកសារ​ភ្ជាប់ %1$d</item>
+        <item quantity="one">ឯកសារ​ភ្ជាប់ %1$d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d najdenih</item>
+        <item quantity="one">%d najden</item>
+        <item quantity="two">%d najdena</item>
+        <item quantity="few">%d najdeni</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d stikov s telefonsko številko</item>
+        <item quantity="one">%d stik s telefonsko številko</item>
+        <item quantity="two">%d stika s telefonsko številko</item>
+        <item quantity="few">%d stiki s telefonsko številko</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d najdenih</item>
+        <item quantity="one">%d najden</item>
+        <item quantity="two">%d najdena</item>
+        <item quantity="few">%d najdeni</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">združeno iz %0$d virov</item>
+        <item quantity="one">združeno iz %0$d vira</item>
+        <item quantity="two">združeno iz %0$d virov</item>
+        <item quantity="few">združeno iz %0$d virov</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d skupin</item>
+        <item quantity="one">%0$d skupina</item>
+        <item quantity="two">%0$d skupini</item>
+        <item quantity="few">%0$d skupine</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d oseb iz skupine %2$s</item>
+        <item quantity="one">%1$d oseba iz skupine %2$s</item>
+        <item quantity="two">%1$d osebi iz skupine %2$s</item>
+        <item quantity="few">%1$d osebe iz skupine %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d oseb</item>
+        <item quantity="one">%1$d oseba</item>
+        <item quantity="two">%1$d osebi</item>
+        <item quantity="few">%1$d osebe</item>
+    </plurals>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>ምላሽ ስጥ</item>
+        <item>ለሁሉም ምላሽ ስጥ</item>
+        <item>አስተላልፍ</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>ተሳክቷል</item>
+        <item>ምንም ግንኙነት የለም</item>
+        <item>በመለያ መግባት አልተቻለም</item>
+        <item>የደህንነት ስህተት</item>
+        <item>ማመሳሰል አልተቻለም</item>
+        <item>ውስጣዊ ስህተት</item>
+        <item>የአገልጋይ ስህተት</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>ይበልጥ አዲስ</item>
+        <item>የቆዩ</item>
+        <item>የውይይት ዝርዝር</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>ከሰረዙ በኋላ ይበልጥ አዲስ ውይይትን ያሳዩ</item>
+        <item>ከሰረዙ በኋላ ይበልጥ የቆዩ ውይይትን ያሳዩ</item>
+        <item>ከሰረዙ በኋላ የውይይት ዝርዝርን ያሳዩ</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>በማህደር አስቀምጥ</item>
+        <item>ሰርዝ</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>በማህደር አስቀምጥ</item>
+        <item>ሰርዝ</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>ሁልጊዜ የመልዕክት ድርጊቶችን ከማያ በላይ አሳይ</item>
+        <item>በቁመት ስታሽከረክር ከማያው ላይ የመልዕክት እርምጃዎችን ብቻ አሳይ።</item>
+        <item>የመልዕክት እርምጃዎችን ከመልዕክት ራስጌ ውጪ አታሳይ</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>ሁልጊዜ አሳይ</item>
+        <item>በቁም ሁነታ ብቻ አሳይ</item>
+        <item>አታሳይ</item>
+    </string-array>
+</resources>

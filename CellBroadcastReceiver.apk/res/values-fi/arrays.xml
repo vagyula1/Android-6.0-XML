@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 sekuntia</item>
+        <item>4 sekuntia</item>
+        <item>6 sekuntia</item>
+        <item>8 sekuntia</item>
+        <item>10 sekuntia</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>Kerran</item>
+        <item>Kahden minuutin välein</item>
+        <item>15 minuutin välein</item>
+        <item>Pois</item>
+    </string-array>
+</resources>

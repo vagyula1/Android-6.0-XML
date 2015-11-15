@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ხმის ჩამწერი</string>
+    <string name="record_your_message">ჩაწერეთ შეტყობინება</string>
+    <string name="message_recorded">შეტყობინება ჩაწერილია</string>
+    <string name="review_message">შეტყობინების გადახედვა</string>
+    <string name="recording">მიმდინარეობს ჩაწერა</string>
+    <string name="recording_stopped">ჩაწერა შეჩერდა</string>
+    <string name="storage_is_full">მეხსიერება გაივსო</string>
+    <string name="max_length_reached">მაქსიმუმი სიგრძე მიღწეულია</string>
+    <string name="insert_sd_card">USB მეხსიერების მიერთება</string>
+    <string name="min_available">ხელმისაწვდომია %d წუთი</string>
+    <string name="sec_available">დარჩენილია %d წმ</string>
+    <string name="accept">დასრულდა</string>
+    <string name="discard">გაუქმება</string>
+    <string name="button_ok">კარგი</string>
+    <string name="audio_db_artist_name">თქვენი ჩანაწერები</string>
+    <string name="audio_db_album_name">აუდიო ჩანაწერები</string>
+    <string name="audio_db_playlist_name">ჩემი ჩანაწერები</string>
+    <string name="error_sdcard_access">USB მეხსიერება მიუწვდომელია.</string>
+    <string name="error_app_internal">აპლიკაციის შიდა შეცდომა.</string>
+    <string name="error_mediadb_new_record">ჩაწერილი აუდიოს შენახვა ვერ მოხერხდა.</string>
+</resources>

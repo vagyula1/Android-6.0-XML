@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="current_permission_template">%1$s / %2$s</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">ငြင်းဆိုပြီး ထပ်မံ မမေးပါနှင့်</string>
+    <string name="grant_dialog_how_to_change">နောင်တွင် ဤသည်အား ဆက်တင်များ > App များတွင် ပြင်နိုင်၏</string>
+    <string name="preference_show_system_apps">စနစ်အပ်ဖ်များ ပြသရန်</string>
+</resources>

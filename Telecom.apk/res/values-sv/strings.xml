@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Samtalshantering</string>
+    <string name="userCallActivityLabel">Telefon</string>
+    <string name="unknown">Okänd</string>
+    <string name="notification_missedCallTitle">Missat samtal</string>
+    <string name="notification_missedCallsTitle">Missade samtal</string>
+    <string name="notification_missedCallsMsg">%s missade samtal</string>
+    <string name="notification_missedCallTicker">Missat samtal från %s</string>
+    <string name="notification_missedCall_call_back">Ring upp</string>
+    <string name="notification_missedCall_message">Sms:a</string>
+    <string name="accessibility_call_muted">Samtalets ljud avstängt.</string>
+    <string name="accessibility_speakerphone_enabled">Högtalartelefon aktiverad.</string>
+    <string name="respond_via_sms_canned_response_1">Kan inte prata nu. Läget?</string>
+    <string name="respond_via_sms_canned_response_2">Jag ringer tillbaka alldeles strax.</string>
+    <string name="respond_via_sms_canned_response_3">Jag ringer dig senare.</string>
+    <string name="respond_via_sms_canned_response_4">Kan inte prata nu. Ring senare!</string>
+    <string name="respond_via_sms_setting_title">Snabbsvar</string>
+    <string name="respond_via_sms_setting_title_2">Redigera snabbsvar</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Snabbsvar</string>
+    <string name="respond_via_sms_confirmation_format">Meddelandet har skickats till %s.</string>
+    <string name="enable_account_preference_title">Konton för samtal</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Endast nödsamtal är tillåtna av enhetens ägare.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Den här appen kan inte göra utgående samtal utan behörigheten Telefon.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Ange ett giltigt nummer om du vill ringa ett samtal.</string>
+    <string name="duplicate_video_call_not_allowed">Det går inte att lägga till samtalet just nu.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Inaktivera texttelefonläget om du vill ringa videosamtal.</string>
+    <string name="no_vm_number">Nummer till röstbrevlåda saknas</string>
+    <string name="no_vm_number_msg">Det finns inget nummer till röstbrevlådan sparat på SIM-kortet.</string>
+    <string name="add_vm_number_str">Lägg till nummer</string>
+    <string name="change_default_dialer_dialog_title">Vill du byta standardapp för uppringning?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Vill du använda %1$s i stället för %2$s som standardapp för uppringning?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Vill du använda %s som standardapp för uppringning?</string>
+</resources>

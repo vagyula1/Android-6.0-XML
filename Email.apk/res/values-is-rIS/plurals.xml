@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Drög</item>
+        <item quantity="one">Drög</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Eyða þessum %1$d samtölum?</item>
+        <item quantity="one">Eyða þessu samtali?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Setja þessi %1$d samtöl í geymslu?</item>
+        <item quantity="one">Setja þetta samtal í geymslu?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Fleygja þessum %1$d skeytum?</item>
+        <item quantity="one">Fleygja þessu skeyti?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Fjarlægir stjörnu af %1$d samtölum</item>
+        <item quantity="one">Fjarlægir stjörnu af %1$d samtali</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> þögguð</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> þaggað</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> tilkynnt sem ruslpóstur</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> tilkynnt sem ruslpóstur</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> merkt sem ekki ruslpóstur</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> merkt sem ekki ruslpóstur</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> merkt sem léttvæg</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> merkt sem léttvægt</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> tilkynnt sem vefveiðar</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> tilkynnt sem vefveiðar</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> í geymslu</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> í geymslu</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> eytt</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> eytt</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Möppum breytt</item>
+        <item quantity="one">Möppu breytt</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d ný skeyti</item>
+        <item quantity="one">%1$d nýtt skeyti</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Stækka %1$d eldri skeyti</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d eldri skeyti stækkuð</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d ólesin</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d ný skeyti</item>
+        <item quantity="one">%1$d nýtt skeyti</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d skeytum verður eytt fyrir fullt og allt.</item>
+        <item quantity="one">%1$d skeyti verður eytt fyrir fullt og allt.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d skeyti</item>
+        <item quantity="one">%1$d skeyti</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d viðhengi</item>
+        <item quantity="one">%1$d viðhengi</item>
+    </plurals>
+</resources>

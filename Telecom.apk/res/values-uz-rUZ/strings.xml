@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Telefon – qo‘ng‘iroqlarni boshqarish</string>
+    <string name="userCallActivityLabel">Telefon</string>
+    <string name="unknown">Noma’lum</string>
+    <string name="notification_missedCallTitle">Javobsiz qo‘ng‘iroq</string>
+    <string name="notification_missedCallsTitle">Javobsiz qo‘ng‘iroqlar</string>
+    <string name="notification_missedCallsMsg">%s ta javobsiz qo‘ng‘iroq</string>
+    <string name="notification_missedCallTicker">%s qo‘ng‘irog‘i javobsiz qoldirildi</string>
+    <string name="notification_missedCall_call_back">Telefon</string>
+    <string name="notification_missedCall_message">SMS</string>
+    <string name="accessibility_call_muted">Qo‘ng‘iroq ovozi o‘chirildi.</string>
+    <string name="accessibility_speakerphone_enabled">Karnaychalar yoqildi.</string>
+    <string name="respond_via_sms_canned_response_1">Hozir gaplasholmayman. Tinchlikmi?</string>
+    <string name="respond_via_sms_canned_response_2">Hozir telefon qilaman.</string>
+    <string name="respond_via_sms_canned_response_3">Keyinroq telefon qilaman.</string>
+    <string name="respond_via_sms_canned_response_4">Bandman, keyinroq telefon qiling.</string>
+    <string name="respond_via_sms_setting_title">Tezkor javoblar</string>
+    <string name="respond_via_sms_setting_title_2">Tezkor javoblar</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Tezkor javob</string>
+    <string name="respond_via_sms_confirmation_format">Xabar %sga jo‘natildi.</string>
+    <string name="enable_account_preference_title">Qo‘ng‘iroq hisoblari</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Qurilma egasi faqat favqulodda qo‘ng‘iroqlarga ruxsat bergan.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Bu ilova Telefon ruxsatnomasisiz chiquvchi qo‘ng‘iroqlarni amalga oshira olmaydi.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Qo‘ng‘iroq qilish uchun raqamni to‘g‘ri kiriting.</string>
+    <string name="duplicate_video_call_not_allowed">Hozirgi vaqtda qo‘ng‘iroq qo‘shib bo‘lmaydi.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">"Video qo'ng'iroqlarni amalga oshirish uchun TTY rejimini o‘chirib qo‘yish kerak"</string>
+    <string name="no_vm_number">Ovozli pochta raqami ko‘rsatilmagan</string>
+    <string name="no_vm_number_msg">SIM kartada birorta ham ovozli pochta raqami yo‘q.</string>
+    <string name="add_vm_number_str">Raqam qo‘shish</string>
+    <string name="change_default_dialer_dialog_title">Birlamchi raqam terish ilovasi o‘zgartirilsinmi?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Raqam terish uchun birlamchi ilova sifatida %2$s o‘rniga %1$s ilovasi tanlansinmi?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">%s raqam terish uchun birlamchi ilova sifatida tanlansinmi?</string>
+</resources>

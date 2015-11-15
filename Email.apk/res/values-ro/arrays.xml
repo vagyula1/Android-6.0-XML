@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Răspundeţi</item>
+        <item>Răsp. tuturor</item>
+        <item>Redirecţionaţi</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Finalizat</item>
+        <item>Nicio conexiune</item>
+        <item>Nu s-a putut conecta</item>
+        <item>Eroare de securitate</item>
+        <item>Nu s-a putut sincroniza</item>
+        <item>Eroare internă</item>
+        <item>Eroare de server</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Mai noi</item>
+        <item>Mai vechi</item>
+        <item>Lista de conversaţii</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Afişaţi conversaţia mai nouă după ce ştergeţi</item>
+        <item>Afişaţi conversaţia mai veche după ce ştergeţi</item>
+        <item>Afişaţi lista de conversaţii după ce ştergeţi</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Arhivați</item>
+        <item>Ștergeți</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Arhivați</item>
+        <item>Ștergeți</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Afişaţi întotdeauna acţiunile pentru mesaje în partea de sus a ecranului</item>
+        <item>Afişaţi acţiunile pentru mesaje în partea de sus a ecranului numai când acesta este rotit în modul Portret</item>
+        <item>Nu afişaţi acţiunile pentru mesaje în afara antetului mesajului</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Afişaţi întotdeauna</item>
+        <item>Se afișează numai în modul Portret</item>
+        <item>Nu afişaţi</item>
+    </string-array>
+</resources>

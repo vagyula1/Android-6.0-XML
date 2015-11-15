@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">ഫോൺ കോൾ മാനേജ്‌മെന്റ്</string>
+    <string name="userCallActivityLabel">ഫോണ്‍</string>
+    <string name="unknown">അജ്ഞാതം</string>
+    <string name="notification_missedCallTitle">മിസ്‌ഡ് കോൾ</string>
+    <string name="notification_missedCallsTitle">മിസ്‌ഡ് കോളുകൾ</string>
+    <string name="notification_missedCallsMsg">%s മിസ്‌ഡ് കോളുകൾ</string>
+    <string name="notification_missedCallTicker">%s എന്നതിൽ നിന്നുള്ള മിസ്‌ഡ് കോൾ</string>
+    <string name="notification_missedCall_call_back">കോൾബാക്ക്</string>
+    <string name="notification_missedCall_message">സന്ദേശം</string>
+    <string name="accessibility_call_muted">കോൾ നിശബ്‌ദമാക്കി.</string>
+    <string name="accessibility_speakerphone_enabled">സ്‌പീക്കർഫോൺ പ്രവർത്തനക്ഷമമാക്കി.</string>
+    <string name="respond_via_sms_canned_response_1">ഇപ്പോൾ സംസാരിക്കാനാകില്ല. എന്തുചെയ്യുന്നു?</string>
+    <string name="respond_via_sms_canned_response_2">ഞാൻ നിങ്ങളെ ഉടൻ തിരിച്ചുവിളിക്കാം.</string>
+    <string name="respond_via_sms_canned_response_3">ഞാൻ നിങ്ങളെ പിന്നീട് വിളിക്കാം.</string>
+    <string name="respond_via_sms_canned_response_4">ഇപ്പോൾ സംസാരിക്കാനാകില്ല. എന്നെ പിന്നീട് വിളിക്കാമോ?</string>
+    <string name="respond_via_sms_setting_title">ദ്രുത പ്രതികരണങ്ങൾ</string>
+    <string name="respond_via_sms_setting_title_2">പ്രതികരണം എഡിറ്റുചെയ്യൂ</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">ദ്രുത പ്രതികരണം</string>
+    <string name="respond_via_sms_confirmation_format">%s എന്നതിലേക്ക് സന്ദേശമയച്ചു.</string>
+    <string name="enable_account_preference_title">കോളിംഗ് അക്കൗണ്ട്</string>
+    <string name="outgoing_call_not_allowed_user_restriction">ഉപകരണ ഉടമ അടിയന്തിര കോളുകൾ മാത്രമേ അനുവദിച്ചിട്ടുള്ളൂ.</string>
+    <string name="outgoing_call_not_allowed_no_permission">ഫോൺ അനുമതിയില്ലാതെ ഈ അപ്ലിക്കേഷന് ഔട്ട്‌ഗോയിംഗ് കോളുകൾ വിളിക്കാൻ കഴിയില്ല.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">ഒരു കോൾ ചെയ്യുന്നതിന്, സാധുതയുള്ള നമ്പർ നൽകുക.</string>
+    <string name="duplicate_video_call_not_allowed">കോൾ ഇപ്പോൾ ചേർക്കാനാകില്ല.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">വീഡിയോ കോളുകൾ നടത്താൻ TTY മോഡ് പ്രവർത്തനരഹിതമാക്കുക.</string>
+    <string name="no_vm_number">വോയ്‌സ്മെയിൽ നമ്പർ കാണുന്നില്ല</string>
+    <string name="no_vm_number_msg">സിം കാർഡിൽ വോയ്‌സ്‌മെയിൽ നമ്പറൊന്നും സംഭരിച്ചിട്ടില്ല.</string>
+    <string name="add_vm_number_str">നമ്പർ ചേർക്കുക</string>
+    <string name="change_default_dialer_dialog_title">സ്ഥിര ഡയലർ ആപ്പ് മാറ്റണോ?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">%2$s എന്നതിനുപകരം %1$s എന്നതിനെ നിങ്ങളുടെ സ്ഥിര ഡയലർ ആപ്പ് ആയി ഉപയോഗിക്കണോ?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">%s എന്നതിനെ നിങ്ങളുടെ സ്ഥിര ഡയലർ ആപ്പ് ആയി ഉപയോഗിക്കണോ?</string>
+</resources>

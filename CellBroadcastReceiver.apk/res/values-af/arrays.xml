@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 sekondes</item>
+        <item>4 sekondes</item>
+        <item>6 sekondes</item>
+        <item>8 sekondes</item>
+        <item>10 sekondes</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>Een keer</item>
+        <item>Elke 2 minute</item>
+        <item>Elke 15 minute</item>
+        <item>Af</item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="appicon">false</item>
+    <item type="id" name="applabel">false</item>
+    <item type="id" name="banner">false</item>
+    <item type="id" name="resolver_list">false</item>
+    <item type="id" name="fireflies">false</item>
+    <item type="id" name="calltoaction">false</item>
+    <item type="id" name="screenshot">false</item>
+    <item type="id" name="blacklayer">false</item>
+    <item type="id" name="retrytext">false</item>
+    <item type="id" name="textview">false</item>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">اکنون %1$d قدم با برنامه‌نویس شدن فاصله دارید.</item>
+        <item quantity="one">اکنون %1$d قدم با برنامه‌نویس شدن فاصله دارید.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d تنظیم اثر انگشت</item>
+        <item quantity="one">%1$d تنظیم اثر انگشت</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">‏گذرواژه باید دارای حداقل %d حرف باشد.</item>
+        <item quantity="one">‏گذرواژه باید دارای حداقل %d حرف باشد.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">‏ گذرواژه باید دارای حداقل %d حرف کوچک باشد.</item>
+        <item quantity="one">‏ گذرواژه باید دارای حداقل %d حرف کوچک باشد.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">‏گذرواژه باید دارای حداقل %d حرف بزرگ باشد.</item>
+        <item quantity="one">‏گذرواژه باید دارای حداقل %d حرف بزرگ باشد.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">‏گذرواژه باید دارای حداقل %d رقم باشد.</item>
+        <item quantity="one">‏گذرواژه باید دارای حداقل %d رقم باشد.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">‏گذرواژه باید دارای حداقل %d نماد ویژه باشد.</item>
+        <item quantity="one">‏گذرواژه باید دارای حداقل %d نماد ویژه باشد.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">‏گذرواژه باید حداقل دارای %d نویسه غیرحرفی باشد.</item>
+        <item quantity="one">‏گذرواژه باید حداقل دارای %d نویسه غیرحرفی باشد.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">کد پین سیم‌کارت اشتباه است، %d بار دیگر می‌توانید تلاش کنید.</item>
+        <item quantity="one">کد پین سیم‌کارت اشتباه است، %d بار دیگر می‌توانید تلاش کنید.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">‏%d برنامه می‌تواند اعلان‌ها را بخواند</item>
+        <item quantity="one">‏%d برنامه می‌تواند اعلان‌ها را بخواند</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">تغییر در هشدارها تنها به مدت %1$d دقیقه (تا %2$s)</item>
+        <item quantity="one">تغییر در هشدارها تنها به مدت %1$d دقیقه (تا %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">تغییر در هشدارها تنها به مدت %1$d ساعت تا %2$s</item>
+        <item quantity="one">تغییر در هشدارها تنها به مدت %1$d ساعت تا %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d مجوز اعطا شده</item>
+        <item quantity="one">%d مجوز اعطا شده</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">‏%1$d از %2$d اجازه اعطا شد</item>
+        <item quantity="one">‏%1$d از %2$d اجازه اعطا شد</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d مجوز اضافی</item>
+        <item quantity="one">%d مجوز اضافی</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d برنامه می‌توانند پیوندهای پشتیبانی شده خود را باز کنند</item>
+        <item quantity="one">%d برنامه می‌توانند پیوندهای پشتیبانی شده خود را باز کنند</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">به %d برنامه اجازه داده شد بهینه‌سازی مصرف باتری را نادیده بگیرند</item>
+        <item quantity="one">به %d برنامه اجازه داده شد بهینه‌سازی مصرف باتری را نادیده بگیرد</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d برنامه در %2$s گذشته از حافظه استفاده کرده‌اند</item>
+        <item quantity="one">%1$d برنامه در %2$s گذشته از حافظه استفاده کرده‌اند</item>
+    </plurals>
+</resources>

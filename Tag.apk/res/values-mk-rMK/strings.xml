@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ознаки</string>
+    <string name="title_scanned_tag">Собрана нова ознака</string>
+    <string name="title_existing_tag">Ознака</string>
+    <string name="tag_unknown">Непознат тип ознака</string>
+    <string name="tag_empty">Празна ознака</string>
+    <string name="button_done">Готово</string>
+    <string name="action_text">Текстуална порака %s</string>
+    <string name="action_call">Повикај %s</string>
+    <string name="empty_tag_prompt">Оваа ознака е празна.</string>
+    <string name="import_vcard">Увези ^1</string>
+    <string name="mime_display_name">Податоци од ознака на NFC</string>
+    <string name="vcard_title">Информации за контакт за ^1</string>
+</resources>

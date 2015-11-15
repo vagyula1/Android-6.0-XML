@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d ນ​ທ</item>
+        <item quantity="one">%d ນ​ທ</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d ຊົ່ວ​ໂມງ</item>
+        <item quantity="one">%d ຊົ່ວ​ໂມງ</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d ວັນ</item>
+        <item quantity="one">%d ວັນ</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d ອາ​ທິດ</item>
+        <item quantity="one">ໜຶ່ງອາ​ທິດ</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d ເດືອນ</item>
+        <item quantity="one">ໜຶ່ງ​ເດືອນ</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d ປີ</item>
+        <item quantity="one">ໜຶ່ງ​ປີ</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d ຂໍ້​ຄວາມ​ໃນ %2$d ບົດ​ສົນ​ທະ​ນາ</item>
+        <item quantity="one">%d ຂໍ້​ຄວາມ​ໃນ​ຫນຶ່ງ​ບົດ​ສົນ​ທະ​ນາ</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d ຂໍ້​ຄວາມ​ໃນ %2$d ບົດ​ສົນ​ທະ​ນາ</item>
+        <item quantity="one">%d ຂໍ້​ຄວາມ​ໃນ​ຫນຶ່ງ​ບົດ​ສົນ​ທະ​ນາ</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d ຂໍ້ຄວາມ​ໃໝ່.</item>
+        <item quantity="one">ຂໍ້ຄວາມ​ໃໝ່.</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">ລຶບການສົນທະນານີ້ບໍ?</item>
+        <item quantity="one">ລຶບການສົນທະນານີ້ບໍ?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d ຜູ້ເຂົ້າ​ຮ່ວມ</item>
+        <item quantity="one">%d ຜູ້ເຂົ້າ​ຮ່ວມ</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">ເອົາ​ໄຟ​ລ໌​ຄັດ​ຕິດ​ຖິ້ມ</item>
+        <item quantity="one">ເອົາ​ໄຟ​ລ໌​ຄັດ​ຕິດ​ຖິ້ມ</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d ຮູບ​ຖືກ​ບັນ​ທຶກ​ໄປ​ໃສ່​ອາ​ລະ​ບັ້ມ \"%2$s\"</item>
+        <item quantity="one">%1$d ຮູບ​ຖືກ​ບັນ​ທຶກ​ໄປ​ໃສ່​ອາ​ລະ​ບັ້ມ \"%2$s\"</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d ວິ​ດີ​ໂອ​ຖືກ​ບັນ​ທຶກ​ໄປ​ໃສ່​ອາ​ລະ​ບັ້ມ \"%2$s\"</item>
+        <item quantity="one">%1$d ວິ​ດີ​ໂອ​ຖືກ​ບັນ​ທຶກ​ໄປ​ໃສ່​ອາ​ລະ​ບັ້ມ \"%2$s\"</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d ໄຟ​ລ໌​ຄັດ​ຕິດ​ຖືກ​ບັນ​ທຶ​ກ​ໄປ​ໃສ່ອາ​ລະບັ້ມ \"%2$s\"</item>
+        <item quantity="one">%1$d ໄຟ​ລ໌​ຄັດ​ຕິດ​ຖືກ​ບັນ​ທຶ​ກ​ໄປ​ໃສ່ອາ​ລະ​ບັ້ມ \"%2$s\"</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%dໄຟ​ລ໌​ຄັດ​ຕິດ​ຖືກ​ບັນ​ທຶກ​ໄປ​ໃສ່ \"ດາວ​ໂຫຼດ\"</item>
+        <item quantity="one">%d ໄຟ​ລ໌​ຄັດ​ຕິດ​ຖືກ​ບັນ​ທຶກ​ໄປ​ໃສ່ \"ດາວ​ໂຫຼດ\"</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">%d ໄຟ​ລ໌​ຄັດ​ຕິດ​ຖືກ​ບັນ​ທຶກ​ແລ້ວ</item>
+        <item quantity="one">%d ໄຟ​ລ໌​ຄັດ​ຕິດ​ຖືກ​ບັນ​ທຶກ​ແລ້ວ</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">ບໍ່​ສາ​ມາດ​ບັນ​ທຶກ %d ໄຟ​ລ໌​ຄັດ​ຕິດ​ໄດ້</item>
+        <item quantity="one">ບໍ່​ສາ​ມາດ​ບັນ​ທຶກ %d ໄຟ​ລ໌​ຄັດ​ຕິດ​ໄດ້</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">​ສົ່ງ​ຮູບ​ພາບ</item>
+        <item quantity="one">​ສົ່ງ​ຮູບ​ພາບ</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">​ສົ່ງ​ສຽງ</item>
+        <item quantity="one">​ສົ່ງ​ສຽງ</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">ສົ່ງ​ວິດີໂອ</item>
+        <item quantity="one">ສົ່ງ​ວິດີໂອ</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">​ສົ່ງ​ບັດ​ລາຍ​ຊື່​ຜູ້ຕິດ​ຕໍ່</item>
+        <item quantity="one">​ສົ່ງ​ບັດ​ລາຍ​ຊື່​ຜູ້ຕິດ​ຕໍ່</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">​ສົ່ງ​ໄຟລ໌​ຄັດ​ຕິດ</item>
+        <item quantity="one">​ສົ່ງ​ໄຟລ໌​ຄັດ​ຕິດ</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d ​ໄຟ​ລ໌​ຄັດ​ຕິດ​ພ້ອມ​ສົ່ງ​ໄດ້​ແລ້ວ</item>
+        <item quantity="one">ໜຶ່ງ​ໄຟ​ລ໌​ຄັດ​ຕິດ​ພ້ອມ​ສົ່ງ​ໄດ້​ແລ້ວ</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d ລາຍ​ຊື່</item>
+        <item quantity="one">%d ລາຍ​ຊື່</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">ລາຍ​ຊື່​ຕິດ​ຕໍ່​ບໍ່​ຖືກ​ຕ້ອງ</item>
+        <item quantity="one">ລາຍ​ຊື່​ຕິດ​ຕໍ່​ບໍ່​ຖືກ​ຕ້ອງ</item>
+    </plurals>
+</resources>

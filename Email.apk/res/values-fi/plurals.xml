@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Luonnokset</item>
+        <item quantity="one">Luonnos</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Poistetaanko nämä %1$d keskustelua?</item>
+        <item quantity="one">Poistetaanko tämä keskustelu?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Arkistoidaanko nämä %1$d keskustelua?</item>
+        <item quantity="one">Arkistoidaanko tämä keskustelu?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Hylätäänkö nämä %1$d viestiä?</item>
+        <item quantity="one">Hylätäänkö tämä viesti?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Poistetaan tähti %1$d keskustelusta</item>
+        <item quantity="one">Poistetaan tähti %1$d keskustelusta</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ohitettu</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ohitettu</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> merkitty roskapostiksi</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> merkitty roskapostiksi</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> merkitty muuksi kuin roskapostiksi</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> merkitty muuksi kuin roskapostiksi</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> merkitty ei-tärkeäksi</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> merkitty ei-tärkeäksi</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> merkitty tietojenkalasteluksi</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> merkitty tietojenkalasteluksi</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> arkistoitu</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> arkistoitu</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> poistettu</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> poistettu</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Muuttuneet kansiot</item>
+        <item quantity="one">Muuttunut kansio</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d uutta viestiä</item>
+        <item quantity="one">%1$d uusi viesti</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Laajenna %1$d vanhempaa viestiä</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d vanhempaa viestiä laajennettu</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d lukematonta</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d uutta viestiä</item>
+        <item quantity="one">%1$d uusi viesti</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d viestiä poistetaan pysyvästi.</item>
+        <item quantity="one">%1$d viesti poistetaan pysyvästi.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d viestiä</item>
+        <item quantity="one">%1$d viesti</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d liitettä</item>
+        <item quantity="one">%1$d liite</item>
+    </plurals>
+</resources>

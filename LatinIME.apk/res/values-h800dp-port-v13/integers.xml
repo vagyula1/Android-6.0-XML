@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="setup_title_weight_in_screen">40</integer>
+    <integer name="setup_body_weight_in_screen">60</integer>
+    <integer name="setup_welcome_video_weight_in_screen">70</integer>
+    <integer name="setup_welcome_video_end_padding_weight_in_screen">30</integer>
+</resources>

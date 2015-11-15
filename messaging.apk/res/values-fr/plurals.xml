@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d heures</item>
+        <item quantity="one">%d heure</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d jours</item>
+        <item quantity="one">%d jour</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d semaines</item>
+        <item quantity="one">%d semaine</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d mois</item>
+        <item quantity="one">%d mois</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d ans</item>
+        <item quantity="one">%d an</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d messages dans %2$d conversations</item>
+        <item quantity="one">%1$d messages dans %2$d conversation</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d messages dans %2$d conversations</item>
+        <item quantity="one">%1$d messages dans %2$d conversation</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d nouveaux messages</item>
+        <item quantity="one">%d nouveau message</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">Supprimer ces conversations ?</item>
+        <item quantity="one">Supprimer cette conversation ?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d participants</item>
+        <item quantity="one">%d participant</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">Supprimer les pièces jointes</item>
+        <item quantity="one">Supprimer la pièce jointe</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">"%1$d photos ont été enregistrées dans l'album \"%2$s\"."</item>
+        <item quantity="one">"%1$d photo a été enregistrée dans l'album \"%2$s\""</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">"%1$d vidéos ont été enregistrées dans l'album \"%2$s\"."</item>
+        <item quantity="one">"%1$d vidéo a été enregistrée dans l'album \"%2$s\"."</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">"%1$d pièces jointes ont été enregistrées dans l'album \"%2$s\"."</item>
+        <item quantity="one">"%1$d pièce jointe a été enregistrée dans l'album \"%2$s\"."</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d pièces jointes ont été enregistrées dans le dossier \"Téléchargements\".</item>
+        <item quantity="one">%d pièce jointe a été enregistrée dans le dossier \"Téléchargements\".</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">%d pièces jointes ont été enregistrées.</item>
+        <item quantity="one">%d pièce jointe a été enregistrée.</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">"Impossible d'enregistrer %d pièces jointes."</item>
+        <item quantity="one">"Impossible d'enregistrer %d pièce jointe."</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">Envoyer les photos</item>
+        <item quantity="one">Envoyer la photo</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">Envoyer les fichiers audio</item>
+        <item quantity="one">Envoyer le fichier audio</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">Envoyer les vidéos</item>
+        <item quantity="one">Envoyer la vidéo</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">Envoyer les cartes de visite</item>
+        <item quantity="one">Envoyer la carte de visite</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">Envoyer les pièces jointes</item>
+        <item quantity="one">Envoyer la pièce jointe</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d pièces jointes sont prêtes à être envoyées.</item>
+        <item quantity="one">%d pièce jointe est prête à être envoyée.</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d contacts</item>
+        <item quantity="one">%d contact</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">Contacts non valides.</item>
+        <item quantity="one">Contact non valide.</item>
+    </plurals>
+</resources>

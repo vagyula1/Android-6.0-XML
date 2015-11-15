@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">U moet nog %1$d stappen uitvoeren om ontwikkelaar te worden.</item>
+        <item quantity="one">U moet nog %1$d stap uitvoeren om ontwikkelaar te worden.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d vingerafdrukken ingesteld</item>
+        <item quantity="one">%1$d vingerafdruk ingesteld</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Wachtwoord moet ten minste %d letters bevatten.</item>
+        <item quantity="one">Wachtwoord moet ten minste 1 letter bevatten.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Wachtwoord moet ten minste %d kleine letters bevatten.</item>
+        <item quantity="one">Wachtwoord moet ten minste 1 kleine letter bevatten.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Wachtwoord moet ten minste %d hoofdletters bevatten.</item>
+        <item quantity="one">Wachtwoord moet ten minste 1 hoofdletter bevatten.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Wachtwoord moet ten minste %d cijfers bevatten.</item>
+        <item quantity="one">Wachtwoord moet ten minste 1 cijfer bevatten.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Wachtwoord moet ten minste %d speciale symbolen bevatten.</item>
+        <item quantity="one">Wachtwoord moet ten minste 1 speciaal symbool bevatten.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Wachtwoord moet ten minste %d andere tekens dan letters bevatten.</item>
+        <item quantity="one">Wachtwoord moet ten minste 1 ander teken dan letters bevatten.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Onjuiste pincode voor simkaart. U heeft nog %d pogingen over.</item>
+        <item quantity="one">Onjuiste pincode voor simkaart. U heeft nog %d poging over voordat u contact met uw provider moet opnemen om uw apparaat te ontgrendelen.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d apps kunnen meldingen lezen</item>
+        <item quantity="one">%d app kan meldingen lezen</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">"Wijzigen in 'Alleen alarmen' gedurende %1$d minuten (tot %2$s)"</item>
+        <item quantity="one">"Wijzigen in 'Alleen alarmen' gedurende één minuut (tot %2$s)"</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">"Wijzigen in 'Alleen alarmen' gedurende %1$d uur (tot %2$s)"</item>
+        <item quantity="one">"Wijzigen in 'Alleen alarmen' gedurende één uur (tot %2$s)"</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d machtigingen verleend</item>
+        <item quantity="one">%d machtiging verleend</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d van %2$d rechten verleend</item>
+        <item quantity="one">%1$d van %2$d recht verleend</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d aanvullende rechten</item>
+        <item quantity="one">%d aanvullend recht</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d apps kunnen links openen</item>
+        <item quantity="one">Eén app kan links openen</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d apps mogen accuoptimalisatie negeren</item>
+        <item quantity="one">1 app mag accuoptimalisatie negeren</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d apps hebben geheugen gebruikt in de afgelopen %2$s</item>
+        <item quantity="one">1 app heeft geheugen gebruikt in de afgelopen %2$s</item>
+    </plurals>
+</resources>

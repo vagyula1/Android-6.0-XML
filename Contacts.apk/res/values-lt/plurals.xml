@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Rasta %d kontaktų</item>
+        <item quantity="one">Rastas %d kontaktas</item>
+        <item quantity="few">Rasti %d kontaktai</item>
+        <item quantity="many">Rasta %d kontakto</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d kontaktų su telefonų numeriais</item>
+        <item quantity="one">%d kontaktas su telefonų numeriais</item>
+        <item quantity="few">%d kontaktai su telefonų numeriais</item>
+        <item quantity="many">%d kontakto su telefonų numeriais</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Rasta %d kontaktų</item>
+        <item quantity="one">Rastas %d kontaktas</item>
+        <item quantity="few">Rasti %d kontaktai</item>
+        <item quantity="many">Rasta %d kontakto</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">sujungta iš %0$d šaltinių</item>
+        <item quantity="one">sujungta iš %0$d šaltinio</item>
+        <item quantity="few">sujungta iš %0$d šaltinių</item>
+        <item quantity="many">sujungta iš %0$d šaltinio</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d grupių</item>
+        <item quantity="one">%0$d grupė</item>
+        <item quantity="few">%0$d grupės</item>
+        <item quantity="many">%0$d grupės</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d žmonių iš %2$s</item>
+        <item quantity="one">%1$d žmogus iš %2$s</item>
+        <item quantity="few">%1$d žmonės iš %2$s</item>
+        <item quantity="many">%1$d žmogaus iš %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d žmonių</item>
+        <item quantity="one">%1$d žmogus</item>
+        <item quantity="few">%1$d žmonės</item>
+        <item quantity="many">%1$d žmogaus</item>
+    </plurals>
+</resources>

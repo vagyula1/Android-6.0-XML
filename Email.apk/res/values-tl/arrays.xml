@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Tumugon</item>
+        <item>Tumugon sa lahat</item>
+        <item>Ipasa</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Tagumpay</item>
+        <item>Walang koneksyon</item>
+        <item>Hindi makapag-sign in</item>
+        <item>Error sa seguridad</item>
+        <item>Hindi ma-sync</item>
+        <item>Panloob na Error</item>
+        <item>Error sa Server</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Mas bago</item>
+        <item>Mas luma</item>
+        <item>Listahan ng pag-uusap</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Magpakita ng mas bagong pag-uusap pagkatapos mong magtanggal</item>
+        <item>Magpakita ng mas lumang pag-uusap pagkatapos mong magtanggal</item>
+        <item>Ipakita ang listahan ng pag-uusap pagkatapos mong magtanggal</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>I-archive</item>
+        <item>Tanggalin</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>I-archive</item>
+        <item>Tanggalin</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Palaging ipakita ang mga pagkilos sa mensahe sa itaas ng screen</item>
+        <item>Ipakita lang ang mga pagkilos sa mensahe sa itaas ng screen kapag ni-rotate sa portrait</item>
+        <item>Huwag ipakita ang mga pagkilos sa mensahe sa labas ng header ng mensahe</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Palaging ipakita</item>
+        <item>Ipakita lang sa portrait</item>
+        <item>Huwag ipakita</item>
+    </string-array>
+</resources>

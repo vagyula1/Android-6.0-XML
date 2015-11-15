@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">%1$d fitxategi kopiatzen.</item>
+        <item quantity="one">%1$d fitxategi kopiatzen.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Ezin izan dira kopiatu %1$d fitxategi</item>
+        <item quantity="one">Ezin izan da kopiatu %1$d fitxategi</item>
+    </plurals>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="config_default_keyboard_height">283.5dip</dimen>
+    <dimen name="config_more_keys_keyboard_key_height">81.899994dip</dimen>
+    <dimen name="config_key_shifted_letter_hint_padding">4.0dip</dimen>
+    <dimen name="config_suggestions_strip_height">44.0dip</dimen>
+    <dimen name="config_suggestions_strip_horizontal_margin">180.0dip</dimen>
+    <dimen name="config_suggestions_strip_edge_key_width">54.0dip</dimen>
+    <dimen name="config_gesture_floating_preview_text_size">26.0dip</dimen>
+    <dimen name="config_gesture_floating_preview_text_offset">76.0dip</dimen>
+    <dimen name="config_gesture_floating_preview_horizontal_padding">26.0dip</dimen>
+    <dimen name="config_gesture_floating_preview_vertical_padding">17.0dip</dimen>
+</resources>

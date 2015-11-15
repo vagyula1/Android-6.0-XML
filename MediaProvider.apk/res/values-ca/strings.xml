@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Multimèdia</string>
+    <string name="app_label">Emmagatzematge de mitjans</string>
+    <string name="artist_label">Intèrpret</string>
+    <string name="ringtone_default">So predeterminat</string>
+    <string name="notification_sound_default">So de notificació predeterminat</string>
+    <string name="alarm_sound_default">"So d'alarma predeterminat"</string>
+    <string name="root_images">Imatges</string>
+    <string name="root_videos">Vídeos</string>
+    <string name="root_audio">Àudio</string>
+</resources>

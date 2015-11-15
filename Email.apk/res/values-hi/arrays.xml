@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>उत्तर दें</item>
+        <item>सभी प्रषकों को उत्तर दें</item>
+        <item>आगे भेजें</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>सफल</item>
+        <item>कोई कनेक्शन नहीं</item>
+        <item>प्रवेश नहीं किया जा सका</item>
+        <item>सुरक्षा त्रुटि</item>
+        <item>समन्‍वयन नहीं किया जा सका</item>
+        <item>आंतरिक त्रुटि</item>
+        <item>सर्वर त्रुटि</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>नया</item>
+        <item>पुराना</item>
+        <item>वार्तालाप सूची</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>आपके द्वारा हटाए जाने के बाद नया वार्तालाप दिखाएं</item>
+        <item>आपके द्वारा हटाए जाने के बाद पुराना वार्तालाप दिखाएं</item>
+        <item>आपके द्वारा हटाए जाने के बाद वार्तालाप सूची दिखाएं</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>संग्रह</item>
+        <item>हटाएं</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>संग्रह</item>
+        <item>हटाएं</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>स्‍क्रीन में ऊपर हमेशा संदेश कार्रवाइयां दिखाएं</item>
+        <item>जब पोट्रेट पर घुमाया जाए, केवल तब ही स्‍क्रीन में ऊपर संदेश कार्रवाइयां दिखाएं</item>
+        <item>संदेश शीर्षलेख के बाहर संदेश कार्यवाहियां न दिखाएं</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>हमेशा दिखाएं</item>
+        <item>केवल पोर्ट्रेट में दिखाएं</item>
+        <item>न दिखाएं</item>
+    </string-array>
+</resources>

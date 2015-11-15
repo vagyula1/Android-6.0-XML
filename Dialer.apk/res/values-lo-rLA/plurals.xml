@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d ພົບແລ້ວ</item>
+        <item quantity="one">1 ພົບແລ້ວ</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d ວິ​ນາ​ທີ</item>
+        <item quantity="one">1 ວິ​ນາ​ທີ</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d ນາ​ທີ</item>
+        <item quantity="one">1 ນາ​ທີ</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d ຊົ່ວ​ໂມງ</item>
+        <item quantity="one">1 ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d ຂໍ້ຄວາມສຽງ</item>
+        <item quantity="one">ຂໍ້ຄວາມສຽງ</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d ຂໍ້​ຄວາມ​ສຽງ​ໃໝ່</item>
+        <item quantity="one">%d ຂໍ້​ຄວາມ​ສຽງ​ໃໝ່</item>
+    </plurals>
+</resources>

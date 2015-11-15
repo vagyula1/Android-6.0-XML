@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Жауап беру</item>
+        <item>Барл. жау. беру</item>
+        <item>Қайта жіберу</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Жаңалауы</item>
+        <item>Ескілеу</item>
+        <item>Сөйлесімдер тізімі</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Жойғаннан кейін жаңарақ сөйлесімді көрсету</item>
+        <item>Жойғаннан кейін ескірек сөйлесімді көрсету</item>
+        <item>Жойғаннан кейін сөйлесімдер тізімін көрсету</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Әрқашан хабар әрекеттерін экранның жоғарғы жағында көрсету</item>
+        <item>Портреттік бағдарға бұрылғанда ғана хабар әрекеттерін экранның жоғарғы жағында көрсету</item>
+        <item>Хабар әрекеттерін хабар тақырыбынан тыс көрсетпеу</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Әрқашан көрсету</item>
+        <item>Тек портретте көрсету</item>
+        <item>Көрсетпеу</item>
+    </string-array>
+</resources>

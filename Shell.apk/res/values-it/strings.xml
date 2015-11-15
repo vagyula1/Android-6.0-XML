@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Segnalazione di bug acquisita</string>
+    <string name="bugreport_finished_text">Tocca per condividere la segnalazione di bug</string>
+    <string name="bugreport_confirm">Le segnalazioni di bug contengono dati da vari file di log del sistema, incluse informazioni personali e private. Condividi le segnalazioni di bug solo con app e persone attendibili.</string>
+    <string name="bugreport_confirm_repeat">Mostra questo messaggio la prossima volta</string>
+    <string name="bugreport_storage_title">Rapporti sui bug</string>
+</resources>

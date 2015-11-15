@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sound Recorder</string>
+    <string name="record_your_message">메시지 녹음</string>
+    <string name="message_recorded">메시지 녹음됨</string>
+    <string name="review_message">메시지 재생</string>
+    <string name="recording">녹음</string>
+    <string name="recording_stopped">녹음이 중지되었습니다.</string>
+    <string name="storage_is_full">저장공간이 꽉 찼습니다.</string>
+    <string name="max_length_reached">최대 길이에 도달했습니다.</string>
+    <string name="insert_sd_card">USB 저장소 마운트</string>
+    <string name="min_available">%d분 녹음 가능</string>
+    <string name="sec_available">%d초 녹음 가능</string>
+    <string name="accept">완료</string>
+    <string name="discard">취소</string>
+    <string name="button_ok">확인</string>
+    <string name="audio_db_artist_name">내 콘텐츠</string>
+    <string name="audio_db_album_name">오디오 녹음</string>
+    <string name="audio_db_playlist_name">내 콘텐츠</string>
+    <string name="error_sdcard_access">USB 저장소에 액세스할 수 없습니다.</string>
+    <string name="error_app_internal">내부 애플리케이션 오류</string>
+    <string name="error_mediadb_new_record">녹음된 오디오를 저장할 수 없습니다.</string>
+</resources>

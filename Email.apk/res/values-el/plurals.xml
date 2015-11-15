@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Πρόχειρα</item>
+        <item quantity="one">Πρόχειρο</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Να διαγραφούν αυτές οι %1$d συνομιλίες;</item>
+        <item quantity="one">Να διαγραφεί αυτή η συνομιλία;</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Να αρχειοθετηθούν αυτές οι %1$d συνομιλίες;</item>
+        <item quantity="one">Να αρχειοθετηθεί αυτή η συνομιλία;</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Απόρριψη αυτών των %1$d μηνυμάτων;</item>
+        <item quantity="one">Απόρριψη αυτού του μηνύματος;</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Κατάργηση αστεριού για %1$d συνομιλίες</item>
+        <item quantity="one">Κατάργηση αστεριού για %1$d συνομιλία</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> συνομιλίες σε σίγαση</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> συνομιλία σε σίγαση</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> συνομιλίες αναφέρθηκαν ως ανεπιθύμητες</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> συνομιλία αναφέρθηκε ως ανεπιθύμητη</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> συνομιλίες αναφέρθηκαν ως μη ανεπιθύμητες</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> συνομιλία αναφέρθηκε ως μη ανεπιθύμητη</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> συνομιλίες επισημάνθηκαν ως μη σημαντικές</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> συνομιλία επισημάνθηκε ως μη σημαντική</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> συνομιλίες αναφέρθηκαν ως απόπειρες ηλεκτρονικού ψαρέματος (phishing)</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> συνομιλία αναφέρθηκε ως απόπειρα ηλεκτρονικού ψαρέματος (phishing)</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> συνομιλίες αρχειοθετήθηκαν</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> συνομιλία αρχειοθετήθηκε</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> συνομιλίες διαγράφτηκαν</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> συνομιλία διαγράφτηκε</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Αλλαγή φακέλων</item>
+        <item quantity="one">Αλλαγή φακέλου</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d νέα μηνύματα</item>
+        <item quantity="one">%1$d νέο μήνυμα</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Ανάπτυξη %1$d παλαιότερων μηνυμάτων</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Έγινε ανάπτυξη %1$d παλαιότερων μηνυμάτων</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d μη αναγνωσμένα</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d νέα μηνύματα</item>
+        <item quantity="one">%1$d νέο μήνυμα</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d μηνύματα θα διαγραφούν οριστικά.</item>
+        <item quantity="one">%1$d μήνυμα θα διαγραφεί οριστικά.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d μηνύματα</item>
+        <item quantity="one">%1$d μήνυμα</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d συνημμένα</item>
+        <item quantity="one">%1$d συνημμένο</item>
+    </plurals>
+</resources>

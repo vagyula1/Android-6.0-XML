@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Pengelola Unduhan</string>
+    <string name="permlab_downloadManager">Akses pengelola unduhan.</string>
+    <string name="permdesc_downloadManager">Mengizinkan aplikasi mengakses pengelola unduhan dan menggunakannya untuk mengunduh file. Aplikasi berbahaya dapat menggunakan ini untuk mengganggu unduhan dan mengakses informasi pribadi.</string>
+    <string name="permlab_downloadManagerAdvanced">Fungsi pengelola unduhan lanjutan</string>
+    <string name="permdesc_downloadManagerAdvanced">Mengizinkan aplikasi mengakses fungsi lanjutan pengelola unduhan. Aplikasi berbahaya dapat menggunakan ini untuk mengganggu unduhan dan mengakses informasi pribadi.</string>
+    <string name="permlab_downloadCompletedIntent">Kirim pemberitahuan unduhan.</string>
+    <string name="permdesc_downloadCompletedIntent">Mengizinkan aplikasi mengirim pemberitahuan tentang unduhan yang telah diselesaikan. Aplikasi berbahaya dapat menggunakan ini untuk mengacaukan aplikasi lain yang mengunduh file.</string>
+    <string name="permlab_seeAllExternal">Lihat semua unduhan pada penyimpanan USB</string>
+    <string name="permdesc_seeAllExternal">Mengizinkan apl melihat semua unduhan ke kartu SD, terlepas apl apa yang mengunduhnya.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Ruang penyimpanan dalam cache unduhan</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Mengizinkan apl mengunduh file ke cache unduhan yang tidak dapat dihapus secara otomatis saat pengelola unduhan memerlukan lebih banyak ruang.</string>
+    <string name="permlab_downloadWithoutNotification">unduh file tanpa pemberitahuan</string>
+    <string name="permdesc_downloadWithoutNotification">Mengizinkan apl mengunduh file melalui pengelola unduhan tanpa menampilkan pemberitahuan apa pun kepada pengguna.</string>
+    <string name="permlab_accessAllDownloads">Akses semua unduhan sistem</string>
+    <string name="permdesc_accessAllDownloads">Mengizinkan apl melihat dan memodifikasi semua unduhan yang dimulai oleh apl apa pun pada sistem.</string>
+    <string name="download_unknown_title">&lt;Tanpa judul></string>
+    <string name="notification_download_complete">Unduhan selesai.</string>
+    <string name="notification_download_failed">Unduhan gagal.</string>
+    <string name="notification_need_wifi_for_size">Ukuran unduhan memerlukan Wi-Fi.</string>
+    <string name="notification_paused_in_background">Dijeda di latar belakang.</string>
+    <string name="wifi_required_title">Unduhan terlalu besar untuk jaringan operator</string>
+    <string name="wifi_required_body" formatted="false">"Anda harus menggunakan Wi-Fi untuk menyelesaikan unduhan %s  ini. 
+
+Sentuh %s  untuk memulai unduhan ini saat Anda tersambung lagi ke jaringan Wi-Fi."</string>
+    <string name="wifi_recommended_title">Antrekan untuk diunduh nanti?</string>
+    <string name="wifi_recommended_body" formatted="false">"Memulai unduhan %s  ini sekarang dapat mempersingkat masa pakai baterai Anda dan/atau menyebabkan penggunaan berlebih dari sambungan data seluler, yang dapat berakibat dikenai tagihan oleh operator ponsel, tergantung paket data Anda.
+
+ Sentuh %s untuk memulai unduhan ini saat Anda tersambung lagi ke jaringan Wi-Fi."</string>
+    <string name="button_queue_for_wifi">Antrean</string>
+    <string name="button_cancel_download">Batal</string>
+    <string name="button_start_now">Mulai sekarang</string>
+    <string name="download_remaining">%s lagi</string>
+    <string name="download_no_application_title">Tidak dapat membuka file</string>
+    <string name="root_downloads">Unduhan</string>
+    <string name="download_queued">Diantrekan</string>
+    <string name="download_running">Sedang berlangsung</string>
+    <string name="download_error">Gagal</string>
+    <string name="download_running_percent">Sedang berlangsung, %s</string>
+</resources>

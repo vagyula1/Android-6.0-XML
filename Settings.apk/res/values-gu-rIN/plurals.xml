@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">તમે હવે એક વિકાસકર્તા બનવાથી %1$d પગલાં દૂર છો.</item>
+        <item quantity="one">તમે હવે એક વિકાસકર્તા બનવાથી %1$d પગલાં દૂર છો.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d ફિંગરપ્રિન્ટ્સ સેટ અપ</item>
+        <item quantity="one">%1$d ફિંગરપ્રિન્ટ્સ સેટ અપ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">પાસવર્ડમાં ઓછામાં ઓછા %d અક્ષરો હોવા આવશ્યક છે.</item>
+        <item quantity="one">પાસવર્ડમાં ઓછામાં ઓછા %d અક્ષરો હોવા આવશ્યક છે.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">પાસવર્ડમાં ઓછામાં ઓછા %d લોઅરકેસ અક્ષર હોવા આવશ્યક છે.</item>
+        <item quantity="one">પાસવર્ડમાં ઓછામાં ઓછા %d લોઅરકેસ અક્ષર હોવા આવશ્યક છે.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">પાસવર્ડમાં ઓછામાં ઓછા %d અપરકેસ અક્ષરો હોવા આવશ્યક છે.</item>
+        <item quantity="one">પાસવર્ડમાં ઓછામાં ઓછા %d અપરકેસ અક્ષરો હોવા આવશ્યક છે.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">પાસવર્ડમાં ઓછામાં ઓછા %d સાંખ્યિકીય આંકડા હોવા આવશ્યક છે.</item>
+        <item quantity="one">પાસવર્ડમાં ઓછામાં ઓછા %d સાંખ્યિકીય આંકડા હોવા આવશ્યક છે.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">પાસવર્ડમાં ઓછામાં ઓછા %d વિશેષ પ્રતીકો હોવા આવશ્યક છે.</item>
+        <item quantity="one">પાસવર્ડમાં ઓછામાં ઓછા %d વિશેષ પ્રતીકો હોવા આવશ્યક છે.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">પાસવર્ડમાં ઓછામાં ઓછા %d બિન-વર્ણ અક્ષરો હોવા આવશ્યક છે.</item>
+        <item quantity="one">પાસવર્ડમાં ઓછામાં ઓછા %d બિન-વર્ણ અક્ષરો હોવા આવશ્યક છે.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Iખોટો SIM PIN કોડ, તમારી પાસે %d પ્રયાસ બાકી છે.</item>
+        <item quantity="one">Iખોટો SIM PIN કોડ, તમારી પાસે %d પ્રયાસ બાકી છે.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d એપ્લિકેશનો સૂચનાઓ વાંચી શકે છે</item>
+        <item quantity="one">%d એપ્લિકેશનો સૂચનાઓ વાંચી શકે છે</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">ફક્ત %1$d મિનિટ માટે એલાર્મ્સ પર બદલો (%2$s સુધી)</item>
+        <item quantity="one">ફક્ત %1$d મિનિટ માટે એલાર્મ્સ પર બદલો (%2$s સુધી)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">%2$s સુધી ફક્ત %1$d કલાક માટે એલાર્મ્સ પર બદલો</item>
+        <item quantity="one">%2$s સુધી ફક્ત %1$d કલાક માટે એલાર્મ્સ પર બદલો</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d પરવાનગીઓ આપી</item>
+        <item quantity="one">%d પરવાનગીઓ આપી</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d માંથી %2$d પરવાનગી આપી</item>
+        <item quantity="one">%1$d માંથી %2$d પરવાનગી આપી</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d વધારાની પરવાનગીઓ</item>
+        <item quantity="one">%d વધારાની પરવાનગીઓ</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d એપ્લિકેશનો તેમની સમર્થિત લિંક્સ ખોલી શકે છે</item>
+        <item quantity="one">%d એપ્લિકેશનો તેમની સમર્થિત લિંક્સ ખોલી શકે છે</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d એપ્લિકેશન્સને બૅટરી ઓપ્ટિમાઇઝેશનને અવગણવાની મંજૂરી છે</item>
+        <item quantity="one">%d એપ્લિકેશન્સને બૅટરી ઓપ્ટિમાઇઝેશનને અવગણવાની મંજૂરી છે</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d એપ્લિકેશન એ છેલ્લા %2$s માં મેમરી ઉપયોગ કરી</item>
+        <item quantity="one">%1$d એપ્લિકેશન એ છેલ્લા %2$s માં મેમરી ઉપયોગ કરી</item>
+    </plurals>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">ການ​ຮ້ອງ​ຂໍ​ການ​ເຊື່ອມ​ຕໍ່</string>
+    <string name="warning">%s ຕ້ອງ​ການ​ຕັ້​ງ​ຄ່າ​ການ​ເຊື່ອມ​ຕໍ່ VPN ທີ່​ອະ​ນຸ​ຍາດ​ໃຫ້​ຕິດ​ຕາມ​ທຣາບ​ຟິກ​ເຄືອ​ຂ່າຍ​ໄດ້. ​ທ່ານ​​ຄວນ​​ຍິນຍອມ​ສະ​ເພາະ​ໃນ​ກໍ​ລະ​ນີ​ທີ່​ທ່ານ​ເຊື່ອ​ຖື​ແຫລ່ງ​ຂໍ້​ມູນ​ເທົ່າ​ນັ້ນ. &lt;br /> &lt;br /> &lt;img src=vpn_icon /> ຈະ​ປາ​ກົດ​ຢູ່​ດ້ານ​ເທິງ​ຂອງ​ໜ້າ​ຈໍ​ເມື່ອ​ມີ​ການ​ເປີດ​ໃຊ້ VPN.</string>
+    <string name="legacy_title">ເຊື່ອມຕໍ່ VPN ແລ້ວ</string>
+    <string name="configure">ປັບຄ່າ</string>
+    <string name="disconnect">ຕັດການເຊື່ອມຕໍ່</string>
+    <string name="session">ເຊສຊັນ:</string>
+    <string name="duration">ໄລຍະເວລາ:</string>
+    <string name="data_transmitted">ສົ່ງ:</string>
+    <string name="data_received">ຮັບ:</string>
+    <string name="data_value_format">%1$s ໄບ / %2$s ແພັກເກັດ</string>
+</resources>

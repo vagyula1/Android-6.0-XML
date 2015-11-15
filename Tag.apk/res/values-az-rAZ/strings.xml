@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Etiketlər</string>
+    <string name="title_scanned_tag">Yeni etiket əldə edildi</string>
+    <string name="title_existing_tag">Etiket</string>
+    <string name="tag_unknown">Bilinməyən etiket növü</string>
+    <string name="tag_empty">Boş etiket</string>
+    <string name="button_done">Bitdi</string>
+    <string name="action_text">%s nömrəsinə yazın</string>
+    <string name="action_call">%s nömrəsinə zəng edin</string>
+    <string name="empty_tag_prompt">Bu etiket boşdur.</string>
+    <string name="import_vcard">İdxal ^1</string>
+    <string name="mime_display_name">NFC etiketindən data</string>
+    <string name="vcard_title">^1 üçün əlaqə məlumatları</string>
+</resources>

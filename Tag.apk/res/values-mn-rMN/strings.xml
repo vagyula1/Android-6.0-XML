@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Шошго</string>
+    <string name="title_scanned_tag">Шинэ шошго цуглуулсан</string>
+    <string name="title_existing_tag">Шошго</string>
+    <string name="tag_unknown">Шошгоны тодорхойгүй төрөл</string>
+    <string name="tag_empty">Хоосон шошго</string>
+    <string name="button_done">Дууссан</string>
+    <string name="action_text">%s-рүү текст илгээх</string>
+    <string name="action_call">%s руу залгаж байна</string>
+    <string name="empty_tag_prompt">Энэ шошго хоосон байна.</string>
+    <string name="import_vcard">Импортлох ^1</string>
+    <string name="mime_display_name">NFC шошгоны дата</string>
+    <string name="vcard_title">^1-н холбоо барих мэдээлэл</string>
+</resources>

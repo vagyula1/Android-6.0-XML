@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">[Ðéļéţé šéļéçţéð îţéḿš¿ one two three]</item>
+        <item quantity="one">[Ðéļéţé šéļéçţéð îţéḿ¿ one two three]</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">[»%1$d« šéļéçţéð one two]</item>
+        <item quantity="zero">[»%1$d« šéļéçţéð one two]</item>
+        <item quantity="one">[»%1$d« šéļéçţéð one two]</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">[»%1$d« šéļéçţéð one two]</item>
+        <item quantity="zero">[»%1$d« šéļéçţéð one two]</item>
+        <item quantity="one">[»%1$d« šéļéçţéð one two]</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">[»%1$d« šéļéçţéð one two]</item>
+        <item quantity="zero">[»%1$d« šéļéçţéð one two]</item>
+        <item quantity="one">[»%1$d« šéļéçţéð one two]</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">[Ḿåķîñĝ åļɓûḿš åVåîļåɓļé öƒƒļîñé. one two three four]</item>
+        <item quantity="one">[Ḿåķîñĝ åļɓûḿ åVåîļåɓļé öƒƒļîñé. one two three four]</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">[»%1$d« îţéḿš šçåññéð one two three]</item>
+        <item quantity="zero">[»%1$d« îţéḿš šçåññéð one two three]</item>
+        <item quantity="one">[»%1$d« îţéḿ šçåññéð one two]</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">[»%1$d« îţéḿš šéļéçţéð one two three]</item>
+        <item quantity="zero">[»%1$d« îţéḿš šéļéçţéð one two three]</item>
+        <item quantity="one">[»%1$d« îţéḿ šéļéçţéð one two three]</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">[»%d« šéçöñðš one two]</item>
+        <item quantity="one">[1 šéçöñð one two]</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">[»%1$d« þĥöţöš one two]</item>
+        <item quantity="one">[»%1$d« þĥöţö one two]</item>
+    </plurals>
+</resources>

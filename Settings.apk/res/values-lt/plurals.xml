@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Liko atlikti %1$d veiksmų ir būsite kūrėjas.</item>
+        <item quantity="one">Liko atlikti %1$d veiksmą ir būsite kūrėjas.</item>
+        <item quantity="few">Liko atlikti %1$d veiksmus ir būsite kūrėjas.</item>
+        <item quantity="many">Liko atlikti %1$d veiksmo ir būsite kūrėjas.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">Nustatyta %1$d kontrolinių kodų</item>
+        <item quantity="one">Nustatytas %1$d kontrolinis kodas</item>
+        <item quantity="few">Nustatyti %1$d kontroliniai kodai</item>
+        <item quantity="many">Nustatyta %1$d kontrolinio kodo</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Slaptažodyje turi būti bent %d raidžių.</item>
+        <item quantity="one">Slaptažodyje turi būti bent %d raidė.</item>
+        <item quantity="few">Slaptažodyje turi būti bent %d raidės.</item>
+        <item quantity="many">Slaptažodyje turi būti bent %d raidės.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Slaptažodyje turi būti bent %d mažųjų raidžių.</item>
+        <item quantity="one">Slaptažodyje turi būti bent %d mažoji raidė.</item>
+        <item quantity="few">Slaptažodyje turi būti bent %d mažosios raidės.</item>
+        <item quantity="many">Slaptažodyje turi būti bent %d mažosios raidės.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Slaptažodyje turi būti bent %d didžiųjų raidžių.</item>
+        <item quantity="one">Slaptažodyje turi būti bent %d didžioji raidė.</item>
+        <item quantity="few">Slaptažodyje turi būti bent %d didžiosios raidės.</item>
+        <item quantity="many">Slaptažodyje turi būti bent %d didžiosios raidės.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Slaptažodyje turi būti bent %d skaičių.</item>
+        <item quantity="one">Slaptažodyje turi būti bent %d skaičius.</item>
+        <item quantity="few">Slaptažodyje turi būti bent %d skaičiai.</item>
+        <item quantity="many">Slaptažodyje turi būti bent %d skaičiaus.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Slaptažodyje turi būti bent %d specialiųjų simbolių.</item>
+        <item quantity="one">Slaptažodyje turi būti bent %d specialusis simbolis.</item>
+        <item quantity="few">Slaptažodyje turi būti bent %d specialieji simboliai.</item>
+        <item quantity="many">Slaptažodyje turi būti bent %d specialiojo simbolio.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Slaptažodyje turi būti bent %d neraidinių simbolių.</item>
+        <item quantity="one">Slaptažodyje turi būti bent %d neraidinis simbolis.</item>
+        <item quantity="few">Slaptažodyje turi būti bent %d neraidiniai simboliai.</item>
+        <item quantity="many">Slaptažodyje turi būti bent %d neraidinio simbolio.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Netinkamas SIM kortelės PIN kodas. Liko %d bandymų.</item>
+        <item quantity="one">Netinkamas SIM kortelės PIN kodas. Liko %d bandymas.</item>
+        <item quantity="few">Netinkamas SIM kortelės PIN kodas. Liko %d bandymai.</item>
+        <item quantity="many">Netinkamas SIM kortelės PIN kodas. Liko %d bandymo.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d programų gali skaityti pranešimus</item>
+        <item quantity="one">%d programa gali skaityti pranešimus</item>
+        <item quantity="few">%d programos gali skaityti pranešimus</item>
+        <item quantity="many">%d programos gali skaityti pranešimus</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Pakeisti tik į signalus %1$d minučių (iki %2$s)</item>
+        <item quantity="one">Pakeisti tik į signalus %1$d minutei (iki %2$s)</item>
+        <item quantity="few">Pakeisti tik į signalus %1$d minutėms (iki %2$s)</item>
+        <item quantity="many">Pakeisti tik į signalus %1$d minutės (iki %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Pakeisti tik į signalus %1$d valandų iki %2$s</item>
+        <item quantity="one">Pakeisti tik į signalus %1$d valandai iki %2$s</item>
+        <item quantity="few">Pakeisti tik į signalus %1$d valandoms iki %2$s</item>
+        <item quantity="many">Pakeisti tik į signalus %1$d valandos iki %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">Suteikta %d leidimų</item>
+        <item quantity="one">Suteiktas %d leidimas</item>
+        <item quantity="few">Suteikti %d leidimai</item>
+        <item quantity="many">Suteikta %d leidimo</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">Suteikta %1$d leidimų iš %2$d</item>
+        <item quantity="one">Suteiktas %1$d leidimas iš %2$d</item>
+        <item quantity="few">Suteikti %1$d leidimai iš %2$d</item>
+        <item quantity="many">Suteikta %1$d leidimo iš %2$d</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d papildomų leidimų</item>
+        <item quantity="one">%d papildomas leidimas</item>
+        <item quantity="few">%d papildomi leidimai</item>
+        <item quantity="many">%d papildomo leidimo</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d programų gali atidaryti palaikomas nuorodas</item>
+        <item quantity="one">%d programa gali atidaryti palaikomas nuorodas</item>
+        <item quantity="few">%d programos gali atidaryti palaikomas nuorodas</item>
+        <item quantity="many">%d programos gali atidaryti palaikomas nuorodas</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d programų leista nepaisyti akumuliatoriaus optimizavimo nustatymų</item>
+        <item quantity="one">%d programai leista nepaisyti akumuliatoriaus optimizavimo nustatymų</item>
+        <item quantity="few">%d programoms leista nepaisyti akumuliatoriaus optimizavimo nustatymų</item>
+        <item quantity="many">%d programos leista nepaisyti akumuliatoriaus optimizavimo nustatymų</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">Per pastar. %2$s atmintį naudojo %1$d programų</item>
+        <item quantity="one">Per pastar. %2$s atmintį naudojo %1$d programa</item>
+        <item quantity="few">Per pastar. %2$s atmintį naudojo %1$d programos</item>
+        <item quantity="many">Per pastar. %2$s atmintį naudojo %1$d programos</item>
+    </plurals>
+</resources>

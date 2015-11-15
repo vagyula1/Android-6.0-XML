@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mga Tag</string>
+    <string name="title_scanned_tag">Nakoletang bagong tag</string>
+    <string name="title_existing_tag">Tag</string>
+    <string name="tag_unknown">Di-kilalang uri ng tag</string>
+    <string name="tag_empty">Walang laman na tag</string>
+    <string name="button_done">Tapos na</string>
+    <string name="action_text">Teksto %s</string>
+    <string name="action_call">Tawagan %s</string>
+    <string name="empty_tag_prompt">Ang album na ito ay walang laman.</string>
+    <string name="import_vcard">I-import</string>
+    <string name="mime_display_name">Data mula sa NFC tag</string>
+    <string name="vcard_title">Impormasyon ng contact para sa ^1</string>
+</resources>

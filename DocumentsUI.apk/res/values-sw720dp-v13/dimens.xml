@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="grid_item_padding">8.0dip</dimen>
+    <dimen name="grid_padding_horiz">24.0dip</dimen>
+    <dimen name="grid_padding_vert">16.0dip</dimen>
+    <item type="dimen" name="dialog_width">85.0%</item>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>brez zadeve</item>
+        <item>nizadeve</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Da</item>
+        <item>Ne</item>
+        <item>V redu</item>
+        <item>Hehe</item>
+        <item>Hvala</item>
+        <item>Strinjam se</item>
+        <item>Lepo</item>
+        <item>Prihajam</item>
+        <item>V redu, oglasim se pozneje</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

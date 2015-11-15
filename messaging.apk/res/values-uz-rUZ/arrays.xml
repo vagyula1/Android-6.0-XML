@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>mavzu yo‘q</item>
+        <item>mavzu yo‘q</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Ha</item>
+        <item>Yo‘q</item>
+        <item>OK</item>
+        <item>Ha-ha</item>
+        <item>Rahmat</item>
+        <item>Yaxshi</item>
+        <item>Ajoyib</item>
+        <item>Yo‘ldaman</item>
+        <item>OK, keyinroq telefon qilaman</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

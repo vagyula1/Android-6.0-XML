@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>۲ ثانیه</item>
+        <item>۴ ثانیه</item>
+        <item>۶ ثانیه</item>
+        <item>۸ ثانیه</item>
+        <item>۱۰ ثانیه</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>یک بار</item>
+        <item>هر ۲ دقیقه</item>
+        <item>هر ۱۵ دقیقه</item>
+        <item>خاموش</item>
+    </string-array>
+</resources>

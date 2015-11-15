@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Μέσα</string>
+    <string name="app_label">Χώρος αποθήκευσης μέσων</string>
+    <string name="artist_label">Καλλιτέχνης</string>
+    <string name="ringtone_default">Προεπιλεγμένος ήχος κλήσης</string>
+    <string name="notification_sound_default">Προεπιλεγμένος ήχος ειδοποίησης</string>
+    <string name="alarm_sound_default">Προεπιλεγμένος ήχος ειδοποίησης</string>
+    <string name="root_images">Εικόνες</string>
+    <string name="root_videos">Βίντεο</string>
+    <string name="root_audio">Ήχος</string>
+</resources>

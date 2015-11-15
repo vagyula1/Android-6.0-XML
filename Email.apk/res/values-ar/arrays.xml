@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>رد</item>
+        <item>رد على الكل</item>
+        <item>إعادة توجيه</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>تم بنجاح</item>
+        <item>ليس هناك اتصال</item>
+        <item>تعذر تسجيل الدخول</item>
+        <item>خطأ متعلق بالأمان</item>
+        <item>تعذرت المزامنة</item>
+        <item>خطأ داخلي</item>
+        <item>خطأ في الخادم</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>أحدث</item>
+        <item>أقدم</item>
+        <item>قائمة المحادثات</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>عرض المحادثة الأحدث بعد الحذف</item>
+        <item>عرض المحادثة الأقدم بعد الحذف</item>
+        <item>عرض قائمة المحادثات بعد الحذف</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>وضع في الأرشيف</item>
+        <item>الحذف</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>وضع في الأرشيف</item>
+        <item>الحذف</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>عرض إجراءات الرسائل أعلى الشاشة دومًا</item>
+        <item>عرض إجراءات الرسائل أعلى الشاشة عند التدوير إلى الوضع العمودي فقط</item>
+        <item>عدم عرض إجراءات الرسائل خارج رأس الرسالة</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>إظهار بشكل دائم</item>
+        <item>عرض عموديًا فقط</item>
+        <item>عدم العرض</item>
+    </string-array>
+</resources>

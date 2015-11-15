@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>không có chủ đề</item>
+        <item>không có chủ đề</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Có</item>
+        <item>Không</item>
+        <item>OK</item>
+        <item>Hehe</item>
+        <item>Xin cảm ơn</item>
+        <item>Tôi đồng ý</item>
+        <item>Tuyệt vời</item>
+        <item>Đang trên đường</item>
+        <item>OK, tôi sẽ liên hệ lại với bạn sau</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

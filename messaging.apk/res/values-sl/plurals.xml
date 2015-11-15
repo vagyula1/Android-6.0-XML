@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+        <item quantity="two">%d min</item>
+        <item quantity="few">%d min</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d ur</item>
+        <item quantity="one">%d ura</item>
+        <item quantity="two">%d uri</item>
+        <item quantity="few">%d ure</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">%d dan</item>
+        <item quantity="two">%d dneva</item>
+        <item quantity="few">%d dni</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d tednov</item>
+        <item quantity="one">%d teden</item>
+        <item quantity="two">%d tedna</item>
+        <item quantity="few">%d tedne</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d mesecev</item>
+        <item quantity="one">%d mesec</item>
+        <item quantity="two">%d meseca</item>
+        <item quantity="few">%d mesece</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d let</item>
+        <item quantity="one">%d leto</item>
+        <item quantity="two">%d leti</item>
+        <item quantity="few">%d leta</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d sporočil v %2$d pogovorih</item>
+        <item quantity="one">%1$d sporočilo v %2$d pogovoru</item>
+        <item quantity="two">%1$d sporočili v %2$d pogovorih</item>
+        <item quantity="few">%1$d sporočila v %2$d pogovorih</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d sporočil v %2$d pogovorih</item>
+        <item quantity="one">%1$d sporočilo v %2$d pogovoru</item>
+        <item quantity="two">%1$d sporočili v %2$d pogovorih</item>
+        <item quantity="few">%1$d sporočila v %2$d pogovorih</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d novih sporočil</item>
+        <item quantity="one">%d novo sporočilo</item>
+        <item quantity="two">%d novi sporočili</item>
+        <item quantity="few">%d nova sporočila</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">Želite izbrisati te pogovore?</item>
+        <item quantity="one">Želite izbrisati te pogovore?</item>
+        <item quantity="two">Želite izbrisati te pogovore?</item>
+        <item quantity="few">Želite izbrisati te pogovore?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d udeležencev</item>
+        <item quantity="one">%d udeleženec</item>
+        <item quantity="two">%d udeleženca</item>
+        <item quantity="few">%d udeleženci</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">Zavrzi priloge</item>
+        <item quantity="one">Zavrzi priloge</item>
+        <item quantity="two">Zavrzi priloge</item>
+        <item quantity="few">Zavrzi priloge</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d fotografij shranjenih v album »%2$s«</item>
+        <item quantity="one">%1$d fotografija shranjena v album »%2$s«</item>
+        <item quantity="two">%1$d fotografiji shranjeni v album »%2$s«</item>
+        <item quantity="few">%1$d fotografije shranjene v album »%2$s«</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d videoposnetkov shranjenih v album »%2$s«</item>
+        <item quantity="one">%1$d videoposnetek shranjen v album »%2$s«</item>
+        <item quantity="two">%1$d videoposnetka shranjena v album »%2$s«</item>
+        <item quantity="few">%1$d videoposnetki shranjeni v album »%2$s«</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d prilog shranjenih v album »%2$s«</item>
+        <item quantity="one">%1$d priloga shranjena v album »%2$s«</item>
+        <item quantity="two">%1$d prilogi shranjeni v album »%2$s«</item>
+        <item quantity="few">%1$d priloge shranjene v album »%2$s«</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d prilog shranjenih v »Prenosi«</item>
+        <item quantity="one">%d priloga shranjena v »Prenosi«</item>
+        <item quantity="two">%d prilogi shranjeni v »Prenosi«</item>
+        <item quantity="few">%d priloge shranjene v »Prenosi«</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">%d prilog je bilo shranjenih</item>
+        <item quantity="one">%d priloga je bila shranjena</item>
+        <item quantity="two">%d prilogi sta bili shranjeni</item>
+        <item quantity="few">%d priloge so bile shranjene</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">%d prilog ni bilo mogoče shraniti</item>
+        <item quantity="one">%d priloge ni bilo mogoče shraniti</item>
+        <item quantity="two">%d prilog ni bilo mogoče shraniti</item>
+        <item quantity="few">%d prilog ni bilo mogoče shraniti</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">Pošljite fotografije</item>
+        <item quantity="one">Pošljite fotografije</item>
+        <item quantity="two">Pošljite fotografije</item>
+        <item quantity="few">Pošljite fotografije</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">Pošljite zvočne posnetke</item>
+        <item quantity="one">Pošljite zvočne posnetke</item>
+        <item quantity="two">Pošljite zvočne posnetke</item>
+        <item quantity="few">Pošljite zvočne posnetke</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">Pošljite videoposnetke</item>
+        <item quantity="one">Pošljite videoposnetke</item>
+        <item quantity="two">Pošljite videoposnetke</item>
+        <item quantity="few">Pošljite videoposnetke</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">Pošljite osebne vizitke</item>
+        <item quantity="one">Pošljite osebne vizitke</item>
+        <item quantity="two">Pošljite osebne vizitke</item>
+        <item quantity="few">Pošljite osebne vizitke</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">Pošljite priloge</item>
+        <item quantity="one">Pošljite priloge</item>
+        <item quantity="two">Pošljite priloge</item>
+        <item quantity="few">Pošljite priloge</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d prilog je pripravljenih za pošiljanje</item>
+        <item quantity="one">%d priloga je pripravljena za pošiljanje</item>
+        <item quantity="two">%d prilogi sta pripravljeni za pošiljanje</item>
+        <item quantity="few">%d priloge so pripravljene za pošiljanje</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d stikov</item>
+        <item quantity="one">%d stik</item>
+        <item quantity="two">%d stika</item>
+        <item quantity="few">%d stiki</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">Neveljavni stiki</item>
+        <item quantity="one">Neveljavni stiki</item>
+        <item quantity="two">Neveljavni stiki</item>
+        <item quantity="few">Neveljavni stiki</item>
+    </plurals>
+</resources>

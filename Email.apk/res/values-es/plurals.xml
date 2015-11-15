@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Borradores</item>
+        <item quantity="one">Borrador</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">¿Eliminar estas %1$d conversaciones?</item>
+        <item quantity="one">¿Eliminar esta conversación?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">¿Archivar estas %1$d conversaciones?</item>
+        <item quantity="one">¿Archivar esta conversación?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">¿Quieres descartar estos %1$d mensajes?</item>
+        <item quantity="one">¿Quieres descartar este mensaje?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d conversaciones sin destacar</item>
+        <item quantity="one">%1$d conversación sin destacar</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">Se han silenciado %1$d conversaciones</item>
+        <item quantity="one">Se ha silenciado %1$d conversación</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">Se ha informado de &amp;lt;b>%1$d&amp;lt;/b> conversaciones como spam</item>
+        <item quantity="one">Se ha informado de &amp;lt;b>%1$d&amp;lt;/b> conversación como spam</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">Se ha informado de que &amp;lt;b>%1$d&amp;lt;/b> conversaciones no son spam</item>
+        <item quantity="one">Se ha informado de que &amp;lt;b>%1$d&amp;lt;/b> conversación no es spam</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">Se han marcado %1$d conversaciones como no importantes</item>
+        <item quantity="one">Se ha marcado %1$d conversación como no importante</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">Se han denunciado &amp;lt;b>%1$d&amp;lt;/b> conversaciones por suplantación de identidad</item>
+        <item quantity="one">Se ha denunciado &amp;lt;b>%1$d&amp;lt;/b> conversación por suplantación de identidad</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">Se han archivado %1$d conversaciones</item>
+        <item quantity="one">Se ha archivado %1$d conversación</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">Se han eliminado %1$d conversaciones</item>
+        <item quantity="one">Se ha eliminado %1$d conversación</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Se han cambiado las carpetas</item>
+        <item quantity="one">Se ha cambiado la carpeta</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d mensajes nuevos</item>
+        <item quantity="one">%1$d mensaje nuevo</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Expandir %1$d mensajes anteriores</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Se han expandido %1$d mensajes anteriores</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d no leídos</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d mensajes nuevos</item>
+        <item quantity="one">%1$d mensaje nuevo</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d mensajes se eliminarán de forma permanente.</item>
+        <item quantity="one">%1$d mensaje se eliminará de forma permanente.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d mensajes</item>
+        <item quantity="one">%1$d mensaje</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d adjuntos</item>
+        <item quantity="one">%1$d adjunto</item>
+    </plurals>
+</resources>

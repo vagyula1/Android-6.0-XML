@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d મિનિટ</item>
+        <item quantity="one">%d મિનિટ</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d કલાક</item>
+        <item quantity="one">%d કલાક</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d દિવસ</item>
+        <item quantity="one">%d દિવસ</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d અઠવાડિયા</item>
+        <item quantity="one">%d અઠવાડિયા</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d મહિના</item>
+        <item quantity="one">%d મહિના</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d વર્ષ</item>
+        <item quantity="one">%d વર્ષ</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d વાર્તાલાપમાં %2$d સંદેશા</item>
+        <item quantity="one">%1$d વાર્તાલાપમાં %2$d સંદેશા</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d વાર્તાલાપમાં %2$d સંદેશા</item>
+        <item quantity="one">%1$d વાર્તાલાપમાં %2$d સંદેશા</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d નવા સંદેશા</item>
+        <item quantity="one">%d નવા સંદેશા</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">આ વાર્તાલાપ કાઢી નાખીએ?</item>
+        <item quantity="one">આ વાર્તાલાપ કાઢી નાખીએ?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d સહભાગીઓ</item>
+        <item quantity="one">%d સહભાગીઓ</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">જોડાણો નિકાળો</item>
+        <item quantity="one">જોડાણો નિકાળો</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">\"%1$s\" આલ્બમમાં %2$d ફોટા સાચવ્યાં</item>
+        <item quantity="one">\"%1$s\" આલ્બમમાં %2$d ફોટા સાચવ્યાં</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">\"%1$s\" આલ્બમમાં %2$d વિડિઓઝ સાચવી</item>
+        <item quantity="one">\"%1$s\" આલ્બમમાં %2$d વિડિઓઝ સાચવી</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">\"%1$s\" આલ્બમમાં %2$d જોડાણો સાચવ્યાં</item>
+        <item quantity="one">\"%1$s\" આલ્બમમાં %2$d જોડાણો સાચવ્યાં</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">\"ડાઉનલોડ્સ\"માં %d જોડાણો સાચવ્યાં</item>
+        <item quantity="one">\"ડાઉનલોડ્સ\"માં %d જોડાણો સાચવ્યાં</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">%d જોડાણ સાચવ્યાં</item>
+        <item quantity="one">%d જોડાણ સાચવ્યાં</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">%d જોડાણ સાચવી શક્યાં નથી</item>
+        <item quantity="one">%d જોડાણ સાચવી શક્યાં નથી</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">ફોટા મોકલો</item>
+        <item quantity="one">ફોટા મોકલો</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">ઑડિઓ મોકલો</item>
+        <item quantity="one">ઑડિઓ મોકલો</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">વિડિઓઝ મોકલો</item>
+        <item quantity="one">વિડિઓઝ મોકલો</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">સંપર્ક કાર્ડ્સ મોકલો</item>
+        <item quantity="one">સંપર્ક કાર્ડ્સ મોકલો</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">જોડાણ મોકલો</item>
+        <item quantity="one">જોડાણ મોકલો</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">મોકલવા માટે %d જોડાણ તૈયાર છે</item>
+        <item quantity="one">મોકલવા માટે %d જોડાણ તૈયાર છે</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d સંપર્કો</item>
+        <item quantity="one">%d સંપર્કો</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">અમાન્ય સંપર્કો</item>
+        <item quantity="one">અમાન્ય સંપર્કો</item>
+    </plurals>
+</resources>

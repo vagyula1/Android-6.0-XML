@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Erantzun</item>
+        <item>Erantzun guztiei</item>
+        <item>Birbidali</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Behar bezala burutu da</item>
+        <item>Ez dago konektatuta</item>
+        <item>Ezin izan da saioa hasi</item>
+        <item>Segurtasun-errorea</item>
+        <item>Ezin izan da sinkronizatu</item>
+        <item>Barneko errorea</item>
+        <item>Zerbitzariaren errorea</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Berriagoa</item>
+        <item>Zaharragoa</item>
+        <item>Elkarrizketa-zerrenda</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Ezabatu ondoren, erakutsi elkarrizketa berriagoa</item>
+        <item>Ezabatu ondoren, erakutsi elkarrizketa zaharragoa</item>
+        <item>Ezabatu ondoren, erakutsi elkarrizketa-zerrenda</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Artxibatu</item>
+        <item>Ezabatu</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Artxibatu</item>
+        <item>Ezabatu</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Erakutsi beti mezuei buruzko ekintzak pantailaren goialdean</item>
+        <item>Erakutsi mezuei buruzko ekintzak pantailaren goialdean orientazio bertikalean bakarrik</item>
+        <item>Ez erakutsi mezuei buruzko ekintzarik mezuen goiburutik kanpo</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Erakutsi beti</item>
+        <item>Erakutsi orientazio bertikalean bakarrik</item>
+        <item>Ez erakutsi</item>
+    </string-array>
+</resources>

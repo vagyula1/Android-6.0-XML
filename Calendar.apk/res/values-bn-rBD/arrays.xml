@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>বিজ্ঞপ্তি</item>
+        <item>ইমেল</item>
+        <item>SMS</item>
+        <item>অ্যালার্ম</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>০ মিনিট</item>
+        <item>১ মিনিট</item>
+        <item>৫ মিনিট</item>
+        <item>১০ মিনিট</item>
+        <item>১৫ মিনিট</item>
+        <item>২০ মিনিট</item>
+        <item>২৫ মিনিট</item>
+        <item>৩০ মিনিট</item>
+        <item>৪৫ মিনিট</item>
+        <item>১ ঘন্টা</item>
+        <item>২ ঘন্টা</item>
+        <item>৩ ঘন্টা</item>
+        <item>১২ ঘন্টা</item>
+        <item>২৪ ঘন্টা</item>
+        <item>২ দিন</item>
+        <item>১ সপ্তাহ</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>কিছুই নয়</item>
+        <item>০ মিনিট</item>
+        <item>১ মিনিট</item>
+        <item>৫ মিনিট</item>
+        <item>১০ মিনিট</item>
+        <item>১৫ মিনিট</item>
+        <item>২০ মিনিট</item>
+        <item>২৫ মিনিট</item>
+        <item>৩০ মিনিট</item>
+        <item>৪৫ মিনিট</item>
+        <item>১ ঘন্টা</item>
+        <item>২ ঘন্টা</item>
+        <item>৩ ঘন্টা</item>
+        <item>১২ ঘন্টা</item>
+        <item>২৪ ঘন্টা</item>
+        <item>২ দিন</item>
+        <item>১ সপ্তাহ</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>স্থানীয় ডিফল্ট</item>
+        <item>শনিবার</item>
+        <item>রবিবার</item>
+        <item>সোমবার</item>
+    </string-array>
+    <string-array name="availability">
+        <item>ব্যস্ত</item>
+        <item>উপলব্ধ</item>
+        <item>সম্ভাব্য</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>ডিফল্ট</item>
+        <item>ব্যক্তিগত</item>
+        <item>সর্বজনীন</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>প্রথম</item>
+        <item>সেকেন্ড</item>
+        <item>তৃতীয়</item>
+        <item>চতুর্থ</item>
+        <item>অন্তিম</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>কোনো প্রতিক্রিয়া নেই</item>
+        <item>হ্যাঁ</item>
+        <item>হয়তো</item>
+        <item>না</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>শুধুমাত্র এই ইভেন্ট</item>
+        <item>এটি এবং ভবিষ্যতের ইভেন্টগুলি</item>
+        <item>সমস্ত ইভেন্ট</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>এটি &amp; ভবিষ্যতের ইভেন্টগুলি</item>
+        <item>সমস্ত ইভেন্ট</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>শুধুমাত্র এই ইভেন্ট</item>
+        <item>এই সিরিজের প্রতিটি ইভেন্ট</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>দিন</item>
+        <item>সপ্তাহ</item>
+        <item>মাস</item>
+        <item>আলোচ্যসূচি</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>শুধুমাত্র যদি অস্বীকৃত হয়</item>
+        <item>অস্বীকৃত হলে বা প্রতিক্রিয়া না দিলে</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>দৈনিক পুনরাবৃত্তি</item>
+        <item>সাপ্তাহিক পুনরাবৃত্তি</item>
+        <item>মাসিক পুনরাবৃত্তি</item>
+        <item>পুনরাবৃত্তি বাৎসরিক</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>প্রতি মাসের প্রথম রবিবারে</item>
+        <item>প্রতি মাসের দ্বিতীয় রবিবারে</item>
+        <item>প্রতি মাসের তৃতীয় রবিবারে</item>
+        <item>প্রতি মাসের চতুর্থ রবিবারে</item>
+        <item>প্রতি মাসের শেষ রবিবারে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>প্রতি মাসের প্রথম সোমবারে</item>
+        <item>প্রতি মাসের দ্বিতীয় সোমবারে</item>
+        <item>প্রতি মাসের তৃতীয় সোমবারে</item>
+        <item>প্রতি মাসের চতুর্থ সোমবারে</item>
+        <item>প্রতি মাসের শেষ সোমবারে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>প্রতি মাসের প্রথম মঙ্গলবারে</item>
+        <item>প্রতি মাসের দ্বিতীয় মঙ্গলবারে</item>
+        <item>প্রতি মাসের তৃতীয় মঙ্গলবারে</item>
+        <item>প্রতি মাসের চতুর্থ মঙ্গলবারে</item>
+        <item>প্রতি মাসের শেষ মঙ্গলবারে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>প্রতি মাসের প্রথম বুধবারে</item>
+        <item>প্রতি মাসের দ্বিতীয় বুধবারে</item>
+        <item>প্রতি মাসের তৃতীয় বুধবারে</item>
+        <item>প্রতি মাসের চতুর্থ বুধবারে</item>
+        <item>প্রতি মাসের শেষ বুধবারে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>প্রতি মাসের প্রথম বৃহস্পতিবারে</item>
+        <item>প্রতি মাসের দ্বিতীয় বৃহস্পতিবারে</item>
+        <item>প্রতি মাসের তৃতীয় বৃহস্পতিবারে</item>
+        <item>প্রতি মাসের চতুর্থ বৃহস্পতিবারে</item>
+        <item>প্রতি মাসের শেষ বৃহস্পতিবারে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>প্রতি মাসের প্রথম শুক্রবারে</item>
+        <item>প্রতি মাসের দ্বিতীয় শুক্রবারে</item>
+        <item>প্রতি মাসের তৃতীয় শুক্রবারে</item>
+        <item>প্রতি মাসের চতুর্থ শুক্রবারে</item>
+        <item>প্রতি মাসের শেষ শুক্রবারে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>প্রতি মাসের প্রথম শনিবারে</item>
+        <item>প্রতি মাসের দ্বিতীয় শনিবারে</item>
+        <item>প্রতি মাসের তৃতীয় শনিবারে</item>
+        <item>প্রতি মাসের চতুর্থ শনিবারে</item>
+        <item>প্রতি মাসের শেষ শনিবারে</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>মাত্র কয়েক মিনিট দেরীতে চলছে৷</item>
+        <item>১০ মিনিটের মধ্যে উপস্থিত হোন৷</item>
+        <item>চালিয়ে যান এবং আমাকে ছাড়াই শুরু করুন৷</item>
+        <item>দুঃখিত, আমি আসতে পারছি না৷ আমাদেরকে আবার সময়সূচী নির্ধারণ করতে হবে৷</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>অস্ট্রেলিয়ার মধ্য - NT</item>
+        <item>অস্ট্রেলিয়ার মধ্য - SA</item>
+        <item>অস্ট্রেলিয়ার পূর্বাঞ্চলীয় - QLD</item>
+        <item>অস্ট্রেলিয়ার পূর্বাঞ্চলীয় - NSW</item>
+        <item>মাউন্টেন মানক - ডসন ক্রিক</item>
+        <item>মধ্য মানক - সাসকাচেওয়ান</item>
+        <item>পূর্বাঞ্চলীয় মানক - অ্যাটিকোকান</item>
+        <item>আটলান্টিক মানক - ক্যুবেক</item>
+        <item>হাওয়াই-আলেউত - হাওয়াই</item>
+        <item>হাওয়াই-আলেউত - আলাস্কা</item>
+        <item>প্যাসিফিক মানক - মেটলাকাটলা</item>
+        <item>মাউন্টেন মানক - আরিজোনা</item>
+        <item>প্যাসিফিক - বাজা ক্যালিফোর্নিয়া</item>
+        <item>মাউন্টেন - চিহুয়াহুয়া</item>
+        <item>মধ্য - তামাউলিপাস</item>
+        <item>মাউন্টেন - সোনোরা</item>
+        <item>পূর্ব আফ্রিকা সময়</item>
+        <item>আটলান্টিক মানক সময়</item>
+        <item>আটলান্টিক মানক সময়</item>
+        <item>পূর্ব ইউরোপীয় সময়</item>
+        <item>কালিনিনগ্রাদ সময়</item>
+        <item>আমাজন - রনডনিয়া</item>
+        <item>ব্রাসিলিয়া - পারা</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>সিন্ট মারটিন</item>
+        <item>ক্যারিবিয়ান নেদারল্যান্ডস</item>
+        <item>কিউরাসো</item>
+        <item>দক্ষিণ সুদান</item>
+    </string-array>
+</resources>

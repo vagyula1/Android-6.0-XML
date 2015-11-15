@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Er is al %s minuten geen gegevensverbinding</item>
+        <item quantity="one">Er is al %s minuut geen gegevensverbinding</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">De telefoon bevindt zich %s minuten in de modus voor noodoproepen. In deze modus kunnen geen apps worden gebruikt waarvoor een gegevensverbinding nodig is. Wilt u nu afsluiten?</item>
+        <item quantity="one">De telefoon bevindt zich %s minuut in de modus voor noodoproepen. In deze modus kunnen geen apps worden gebruikt waarvoor een gegevensverbinding nodig is. Wilt u nu afsluiten?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">De geselecteerde actie is niet beschikbaar in de modus voor noodoproepen. De telefoon bevindt zich %s minuten in deze modus. Wilt u nu afsluiten?</item>
+        <item quantity="one">De geselecteerde actie is niet beschikbaar in de modus voor noodoproepen. De telefoon bevindt zich %s minuut in deze modus. Wilt u nu afsluiten?</item>
+    </plurals>
+</resources>

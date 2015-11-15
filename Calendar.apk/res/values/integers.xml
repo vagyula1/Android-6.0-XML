@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="text_size_event_title">14</integer>
+    <integer name="text_size_month_number">14</integer>
+    <integer name="event_info_desc_line_num">8</integer>
+    <integer name="noresponse_attendee_photo_alpha_level">64</integer>
+    <integer name="default_attendee_photo_alpha_level">255</integer>
+    <integer name="month_day_number_margin">6</integer>
+    <integer name="color_chip_all_day_height">48</integer>
+    <integer name="color_chip_height">24</integer>
+    <integer name="work_start_minutes">360</integer>
+    <integer name="work_end_minutes">1200</integer>
+    <integer name="calendar_controls_animation_time">400</integer>
+    <integer name="chips_max_lines">-1</integer>
+</resources>

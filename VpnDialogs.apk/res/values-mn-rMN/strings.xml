@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">Холболтын хүсэлт</string>
+    <string name="warning">%s нь сүлжээний трафикыг хянах боломж бүхий VPN холболт үүсгэхийг хүсэж байна. Та зөвхөн эх үүсвэрт итгэж байгаа бол зөвшөөрнө үү. &lt;br /> &lt;br /> &lt;img src=vpn_icon /> таны дэлгэц дээр VPN идэвхтэй үед гарч ирнэ.</string>
+    <string name="legacy_title">VPN холбогдов</string>
+    <string name="configure">Тохируулах</string>
+    <string name="disconnect">Салгах</string>
+    <string name="session">Сешн:</string>
+    <string name="duration">Үргэлжлэх хугацаа:</string>
+    <string name="data_transmitted">Илгээсэн:</string>
+    <string name="data_received">Хүлээн авсан:</string>
+    <string name="data_value_format">%1$s байт/ %2$s пакет</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tovush yozgich</string>
+    <string name="record_your_message">Xabaringizni yozib oling</string>
+    <string name="message_recorded">Xabar yozib olindi</string>
+    <string name="review_message">Xabarni ko‘rib chiqish</string>
+    <string name="recording">Yozilmoqda</string>
+    <string name="recording_stopped">Yozish to‘xtatildi</string>
+    <string name="storage_is_full">Xotira to‘lgan</string>
+    <string name="max_length_reached">Belgilangan maksimal uzunlikka yetdi.</string>
+    <string name="insert_sd_card">USB xotirasi ulash</string>
+    <string name="min_available">%d daqiqa mavjud</string>
+    <string name="sec_available">%d soniya mavjud</string>
+    <string name="accept">Tayyor</string>
+    <string name="discard">Bekor qilish</string>
+    <string name="button_ok">OK</string>
+    <string name="audio_db_artist_name">Sizning qayd yozuvlaringiz</string>
+    <string name="audio_db_album_name">Audio qayd yozuvlari</string>
+    <string name="audio_db_playlist_name">Mening qayd yozuvlarim</string>
+    <string name="error_sdcard_access">USB xotirasiga kirib bo‘lmadi.</string>
+    <string name="error_app_internal">Ichki ilova xatosi.</string>
+    <string name="error_mediadb_new_record">Yozib olingan audioni saqlab bo‘lmadi.</string>
+</resources>

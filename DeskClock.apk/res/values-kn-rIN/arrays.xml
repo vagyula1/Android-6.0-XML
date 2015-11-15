@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>A=ಅಬಿಜಾನ್</item>
+        <item>A=ಅಕ್ರಾ</item>
+        <item>A=ಅಡಿಸ್ ಅಬಾಬ</item>
+        <item>A=ಅಲ್ಜೀರ್ಸ್</item>
+        <item>B=ಬ್ಲಾಂಟೈರ್</item>
+        <item>B=ಬ್ರಜಾವಿಲ್ಲೆ</item>
+        <item>C=ಕೈರೋ</item>
+        <item>C=ಕಾಸಾಬ್ಲಾಂಕಾ</item>
+        <item>C=ಕೊನಾಕ್ರಿ</item>
+        <item>D=ಡಾಕರ್</item>
+        <item>D=ಡಾರ್ ಎಸ್ ಸಲಾಮ್</item>
+        <item>D=ಜಿಬೌಟಿ</item>
+        <item>F=ಫ್ರೀಟೌನ್</item>
+        <item>G=ಗಾಬೊರೋನ್</item>
+        <item>H=ಹರಾರೆ</item>
+        <item>J=ಜೊಹಾನ್ಸ್‌ಬರ್ಗ್</item>
+        <item>K=ಕಂಪಾಲಾ</item>
+        <item>K=ಖಾರ್ಟೋಮ್</item>
+        <item>K=ಕಿಗಾಲಿ</item>
+        <item>K=ಕಿನ್‌ಶಾಸಾ</item>
+        <item>L=ಲಾಗೋಸ್</item>
+        <item>M=ಮಸೇರು</item>
+        <item>M=ಮೊಗಾದಿಶು</item>
+        <item>N=ನೈರೋಬಿ</item>
+        <item>S=ಸಾವೊ ಟೋಮ್</item>
+        <item>T=ಟಿಂಬಕ್ಟು</item>
+        <item>T=ಟ್ರಿಪೊಲಿ</item>
+        <item>T=ಟುನಿಸ್</item>
+        <item>A=ಆನ್ಕೊರೇಜ್</item>
+        <item>M=ಮೆಂಡೋಜ</item>
+        <item>A=ಅರುಬಾ</item>
+        <item>A=ಅಸುಂಕಿಯನ್</item>
+        <item>B=ಬಾರ್ಬಡೋಸ್</item>
+        <item>B=ಬೆಲೀಜ್</item>
+        <item>B=ಬೊಗೊಟಾ</item>
+        <item>B=ಬ್ಯೂನಸ್ ಐರಿಸ್</item>
+        <item>C=ಕ್ಯಾನ್‌ಕನ್</item>
+        <item>C=ಕರಾಕಸ್</item>
+        <item>C=ಕೇಮನ್</item>
+        <item>C=ಚಿಕಾಗೊ</item>
+        <item>C=ಕೋಸ್ಟ ರಿಕಾ</item>
+        <item>C=ಕ್ಯುರಾಕಾವೊ</item>
+        <item>D=ಡಾಸನ್ ಕ್ರೀಕ್</item>
+        <item>D=ಡೆನ್ವರ್</item>
+        <item>D=ಡೆಟ್ರಾಯ್ಟ್</item>
+        <item>D=ಡೊಮಿನಿಕಾ</item>
+        <item>E=ಎಡ್ಮಂಟನ್</item>
+        <item>E=ಎಲ್ ಸಾಲ್ವಡಾರ್</item>
+        <item>F=ಫೋರ್ಟಲೀಜಾ</item>
+        <item>G=ಗ್ರ್ಯಾಂಡ್ ಟರ್ಕ್</item>
+        <item>G=ಗ್ರೆನಡಾ</item>
+        <item>G=ಗ್ವಾಟೆಮಾಲಾ</item>
+        <item>G=ಗಯಾನ</item>
+        <item>H=ಹ್ಯಾಲಿಫ್ಯಾಕ್ಸ್</item>
+        <item>H=ಹವಾನಾ</item>
+        <item>I=ಇಂಡಿಯಾನಾಪೊಲಿಸ್</item>
+        <item>K=ನಾಕ್ಸ್</item>
+        <item>M=ಮರೆಂಗೊ</item>
+        <item>P=ಪೀಟರ್ಸ್‌ಬರ್ಗ್</item>
+        <item>T=ಟೆಲ್ ಸಿಟಿ</item>
+        <item>V=ವೇವಾಯ್</item>
+        <item>V=ವಿನ್‌ಸೆನ್ನೀಸ್</item>
+        <item>W=ವಿನಾಮೆಕ್</item>
+        <item>K=ಕಿಂಗ್‌ಸ್ಟನ್</item>
+        <item>N=ನ್ಯೂಸ್ಟ್ರಾ ಸೆನೊರಾ ಡಿ ಲಾ ಪಾಜ್</item>
+        <item>L=ಲಿಮಾ</item>
+        <item>L=ಲಾಸ್ ಏಂಜಲೀಸ್</item>
+        <item>L=ಲೂಯಿಸ್‌ವಿಲ್ಲೆ</item>
+        <item>M=ಮನಾಗುವಾ</item>
+        <item>M=ಮಾರ್ಟಿನಿಕ್</item>
+        <item>M=ಮೆಂಡೋಜ</item>
+        <item>M=ಮೆಟ್ಲಕಟ್ಲ</item>
+        <item>M=ಮೆಕ್ಸಿಕೋ ನಗರ</item>
+        <item>M=ಮಾಂಟೆರ್ರಿ</item>
+        <item>M=ಮಾಂಟೆವೀಡಿಯೊ</item>
+        <item>M=ಮಾಂಟ್ರಿಯಲ್</item>
+        <item>N=ನಸ್ಸಾವ್</item>
+        <item>N=ನ್ಯೂಯಾರ್ಕ್</item>
+        <item>B=ಬ್ಯುಲಾಹ್</item>
+        <item>C=ಸೆಂಟರ್</item>
+        <item>N=ಹೊಸ ಸೇಲಂ</item>
+        <item>P=ಪನಾಮ</item>
+        <item>P=ಫೀನಿಕ್ಸ್</item>
+        <item>P=ಪೋರ್ಟ್ ಆಫ್ ಸ್ಪೇನ್</item>
+        <item>P=ಪೋರ್ಟ್-ಔ-ಪ್ರಿನ್ಸ್</item>
+        <item>P=ಪ್ಯುಟೊ ರಿಕೊ</item>
+        <item>S=ಸ್ಯಾಂಟೊ ಡೊಮಿಂಗೊ</item>
+        <item>S=ಸಾವೊ ಪಾಲೊ</item>
+        <item>S=ಸೇಂಟ್ ಜಾನ್ಸ್</item>
+        <item>S=ಸೇಂಟ್ ಕಿಟ್ಸ್</item>
+        <item>S=ಸೇಂಟ್ ಲೂಸಿಯಾ</item>
+        <item>S=ಸೇಂಟ್ ಥಾಮಸ್</item>
+        <item>T=ಟಿಜುವಾನಾ</item>
+        <item>T=ಟೊರೊಂಟೊ</item>
+        <item>V=ವ್ಯಾಂಕೋವರ್</item>
+        <item>W=ವಿನ್ನಿಪೆಗ್</item>
+        <item>S=ದಕ್ಷಿಣ ಧ್ರುವ</item>
+        <item>L=ಲಾಂಗ್ಇಯರ್‌ಬೈನ್</item>
+        <item>A=ಅಲ್ಮಾಟಿ</item>
+        <item>A=ಅಮ್ಮಾನ್</item>
+        <item>A=ಅನಡೈರ್</item>
+        <item>A=ಅಕ್ತೌ</item>
+        <item>B=ಬಾಗ್‌‌ದಾದ್</item>
+        <item>B=ಬಹ್ರೇನ್</item>
+        <item>B=ಬಾಕು</item>
+        <item>B=ಬ್ಯಾಂಕಾಕ್</item>
+        <item>B=ಬೀರಟ್</item>
+        <item>C=ಕಲ್ಕತ್ತಾ</item>
+        <item>D=ಡಮಾಸ್ಕಸ್</item>
+        <item>D=ಢಾಕಾ</item>
+        <item>D=ದುಬೈ</item>
+        <item>G=ಗಾಜಾ</item>
+        <item>H=ಹೆಬ್ರಾನ್</item>
+        <item>H=ಹೊ ಚಿ ಮಿನ್ಹ್</item>
+        <item>H=ಹಾಂಗ್ ಕಾಂಗ್</item>
+        <item>I=ಇಸ್ತಾನ್‌ಬುಲ್</item>
+        <item>J=ಜಕಾರ್ತಾ</item>
+        <item>J=ಜೆರುಸಲೆಮ್</item>
+        <item>K=ಕಾಬೂಲ್</item>
+        <item>K=ಕರಾಚಿ</item>
+        <item>K=ಕಠ್ಮಂಡು</item>
+        <item>K=ಕುಲಾಲಂಪುರ್</item>
+        <item>K=ಕುವೈತ್</item>
+        <item>M=ಮಕಾವು</item>
+        <item>M=ಮನಿಲಾ</item>
+        <item>M=ಮಸ್ಕತ್</item>
+        <item>P=ನೋಮ್ ಪೆನ್</item>
+        <item>P=ಪೋಂಗ್‌ಯಾಂಗ್</item>
+        <item>Q=ಕತಾರ್</item>
+        <item>R=ರಂಗೂನ್</item>
+        <item>R=ರಿಯಾದ್</item>
+        <item>S=ಸೈಗಾನ್</item>
+        <item>S=ಸಿಯೋಲ್</item>
+        <item>S=ಶಾಂಘೈ</item>
+        <item>S=ಸಿಂಗಪುರ್</item>
+        <item>T=ಟೈಪೆ</item>
+        <item>T=ತೆಹ್ರಾನ್</item>
+        <item>T=ಟೆಲ್ ಅವಿವ್</item>
+        <item>T=ಟೋಕಿಯೊ</item>
+        <item>U=ಉಲಾನ್‌ಬಾತರ್</item>
+        <item>B=ಬರ್ಮುಡಾ</item>
+        <item>C=ಕ್ಯಾನರಿ</item>
+        <item>C=ಕೇಪ್ ವರ್ಡೆ</item>
+        <item>R=ರೇಕ್‌ಜಾವಿಕ್</item>
+        <item>S=ಸ್ಟೇನ್ಲೆ</item>
+        <item>A=ಅಡಿಲೇಡ್</item>
+        <item>B=ಬ್ರಿಸ್ಬೇನ್</item>
+        <item>C=ಕ್ಯಾನ್ಬೆರಾ</item>
+        <item>D=ಡಾರ್ವಿನ್</item>
+        <item>M=ಮೆಲ್‌ಬೋರ್ನ್</item>
+        <item>N=ನ್ಯೂ ಸೌತ್ ವೇಲ್ಸ್</item>
+        <item>P=ಪರ್ತ್</item>
+        <item>Q=ಕ್ವೀನ್ಸ್‌ಲ್ಯಾಂಡ್</item>
+        <item>S=ಸಿಡ್ನಿ</item>
+        <item>V=ವಿಕ್ಟೋರಿಯಾ</item>
+        <item>N=ನ್ಯೂಫೌಂಡ್‌ಲ್ಯಾಂಡ್</item>
+        <item>S=ಸಾಸ್ಕಾಚೆವನ್</item>
+        <item>E=ಈಸ್ಟರ್ ದ್ವೀಪ</item>
+        <item>A=ಆಂಸ್ಟರ್‌ಡ್ಯಾಮ್</item>
+        <item>A=ಅಂಡೋರಾ</item>
+        <item>A=ಅಥೆನ್ಸ್</item>
+        <item>B=ಬೆಲ್‌ಫಾಸ್ಟ್</item>
+        <item>B=ಬೆಲ್‌ಗ್ರೇಡ್</item>
+        <item>B=ಬರ್ಲಿನ್</item>
+        <item>B=ಬ್ರಾಟಿಸ್ಲಾವಾ</item>
+        <item>B=ಬ್ರುಸೆಲ್ಸ್</item>
+        <item>B=ಬುಚಾರೆಸ್ಟ್</item>
+        <item>B=ಬುಡಾಪೆಸ್ಟ್</item>
+        <item>C=ಚಿಸಿನಾವ್</item>
+        <item>C=ಕೊಪನ್‌ಹ್ಯಾಗನ್</item>
+        <item>D=ಡಬ್ಲಿನ್</item>
+        <item>G=ಗಿಬ್ರಾಲ್ಟರ್</item>
+        <item>H=ಹೆಲ್‌ಸಿಂಕಿ</item>
+        <item>I=ಐಲ್ ಆಫ್ ಮ್ಯಾನ್</item>
+        <item>I=ಇಸ್ತಾನ್‌ಬುಲ್</item>
+        <item>K=ಕೀವ್</item>
+        <item>L=ಲಿಸ್ಬನ್</item>
+        <item>L=ಲಂಡನ್</item>
+        <item>L=ಲಕ್ಸೆಂಬರ್ಗ್</item>
+        <item>M=ಮ್ಯಾಡ್ರಿಡ್</item>
+        <item>M=ಮಾಲ್ಟಾ</item>
+        <item>M=ಮಿನ್ಸ್ಕ್</item>
+        <item>M=ಮೊನಾಕೊ</item>
+        <item>M=ಮಾಸ್ಕೋ</item>
+        <item>O=ಓಸ್ಲೋ</item>
+        <item>P=ಪ್ಯಾರಿಸ್</item>
+        <item>P=ಪ್ರಾಗ್</item>
+        <item>R=ರಿಗಾ</item>
+        <item>R=ರೋಮ್</item>
+        <item>S=ಸ್ಯಾನ್ ಮ್ಯಾರಿನೋ</item>
+        <item>S=ಸಾರೆಜೀವೊ</item>
+        <item>S=ಸಿಮ್ಫೆರೋಪೋಲ್</item>
+        <item>S=ಸ್ಕೊಪ್ಜೆ</item>
+        <item>S=ಸೋಫಿಯಾ</item>
+        <item>S=ಸ್ಟಾಕ್‌ಹೋಮ್</item>
+        <item>T=ಟ್ಯಾಲಿನ್</item>
+        <item>V=ವ್ಯಾಟಿಕನ್</item>
+        <item>V=ವಿಯೆನ್ನಾ</item>
+        <item>V=ವಿಲ್‌ನಿಯಸ್</item>
+        <item>W=ವಾರ್ಸಾ</item>
+        <item>Z=ಝಾಗ್ರೆಬ್</item>
+        <item>Z=ಜ್ಯೂರಿಚ್</item>
+        <item>A=ಅಂಟಾನನರಿವೊ</item>
+        <item>M=ಮಾಲ್ಡೀವ್ಸ್</item>
+        <item>M=ಮಾರಿಷಸ್</item>
+        <item>A=ಆಕ್‌ಲ್ಯಾಂಡ್</item>
+        <item>F=ಫಿಜಿ</item>
+        <item>G=ಗ್ವಾಮ್</item>
+        <item>H=ಹೊನೊಲುಲು</item>
+        <item>K=ಕಿರಿಟಿಮತಿ</item>
+        <item>N=ನೌಮಿಯ</item>
+        <item>S=ಸಮೋವಾ</item>
+        <item>T=ಟಹೀಟಿ</item>
+        <item>A=ಆಂಟಿಗುವಾ</item>
+        <item>A=ಆಸ್ಟಿನ್</item>
+        <item>B=ಬೋಸ್ಟನ್</item>
+        <item>C=ಕ್ಯಾಲ್ಗರಿ</item>
+        <item>C=ಕೊಲಂಬಸ್</item>
+        <item>D=ಡಲ್ಲಾಸ್</item>
+        <item>K=ನಾಕ್ಸ್‌ವಿಲ್ಲೆ</item>
+        <item>M=ಮೆಂಫಸಿಸ್</item>
+        <item>M=ಮಿಯಾಮಿ</item>
+        <item>M=ಮಿನಿಯಾಪೊಲಿಸ್</item>
+        <item>O=ಒಟ್ಟಾವಾ</item>
+        <item>P=ಫಿಲಡೆಲ್ಫಿಯಾ</item>
+        <item>P=ಪೋರ್ಟ್‌ಲ್ಯಾಂಡ್</item>
+        <item>S=ಸ್ಯಾನ್ ಡಿಯಾಗೋ</item>
+        <item>S=ಸ್ಯಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೋ</item>
+        <item>S=ಸಾಲ್ಟ್ ಲೇಕ್ ಸಿಟಿ</item>
+        <item>S=ಸ್ಯಾನ್ ಜೋಸ್</item>
+        <item>S=ಸ್ಯಾನ್ ಸಾಲ್ವಡೋರ್</item>
+        <item>S=ಸಿಯಾಟಲ್</item>
+        <item>S=ಸೇಂಟ್ ಲೂಯಿಸ್</item>
+        <item>W=ವಾಷಿಂಗ್ಟನ್ D.C.</item>
+        <item>H=ಹೌಸ್ಟನ್</item>
+        <item>S=ಸ್ಯಾನ್ ಆಂಟೋನಿಯೊ</item>
+        <item>J=ಜ್ಯಾಕ್ಸನ್‌ವಿಲ್ಲೆ</item>
+        <item>B=ಬಾಲ್ಟಿಮೋರ್</item>
+        <item>N=ನ್ಯಾಶ್‌ವಿಲ್ಲೆ</item>
+        <item>M=ಮಿಲ್ವಾಕೀ</item>
+        <item>O=ಒಕ್ಲಹೋಮಾ ಸಿಟಿ</item>
+        <item>L=ಲಾಸ್ ವೇಗಾಸ್</item>
+        <item>A=ಆಲ್ಬುಕರ್ಕ್</item>
+        <item>T=ಟಕ್ಸನ್</item>
+        <item>S=ಸ್ಯಾಕ್ರಮೆಂಟೊ</item>
+        <item>A=ಅಟ್ಲಾಂಟಾ</item>
+        <item>C=ಕ್ಲೀವ್‌ಲ್ಯಾಂಡ್</item>
+        <item>N=ನ್ಯೂ ಆರ್ಲಿಯನ್ಸ್</item>
+        <item>T=ಟ್ಯಾಂಪಾ</item>
+        <item>P=ಪಿಟ್ಸ್‌ಬರ್ಗ್</item>
+        <item>C=ಸಿಂಚಿನಾಟಿ</item>
+        <item>M=ಮೌಂಟೇನ್ ವ್ಯೂ</item>
+        <item>R=ರೆನೋ</item>
+        <item>B=ಬ್ಲಾಕ್ ರಾಕ್ ಸಿಟಿ</item>
+        <item>D=ದೋಹಾ</item>
+        <item>B=ಬೀಜಿಂಗ್</item>
+        <item>M=ಮುಂಬೈ</item>
+        <item>D=ದೆಹಲಿ</item>
+        <item>O=ಒಸಾಕಾ</item>
+        <item>L=ಲಾಹೋರ್</item>
+        <item>S=ಸನಾ</item>
+        <item>B=ಬಾರ್ಸಿಲೋನಾ</item>
+        <item>M=ಮ್ಯೂನಿಚ್</item>
+        <item>M=ಮಿಲನ್</item>
+        <item>F=ಫ್ರಾಂಕ್‌ಫರ್ಟ್</item>
+        <item>H=ಹನೋಯಿ</item>
+        <item>A=ಅಂಕಾರಾ</item>
+        <item>B=ಬೆಂಗಳೂರು</item>
+        <item>B=ಬ್ರೆಸಿಲಿಯಾ</item>
+        <item>C=ಕೇಪ್ ಟೌನ್</item>
+        <item>I=ಇಸ್ಲಾಮಾಬಾದ್</item>
+        <item>R=ರಿಯೊ ಡಿ ಜನೈರೊ</item>
+        <item>A=ಆನ್ ಆರ್ಬರ್</item>
+        <item>B=ಬೌಲ್ಡರ್</item>
+        <item>C=ಕೇಂಬ್ರಿಡ್ಜ್</item>
+        <item>K=ಕಿರ್ಕ್‌ಲ್ಯಾಂಡ್</item>
+        <item>M=ಮ್ಯಾಡಿಸನ್</item>
+        <item>G=ಗುವಾಂಗ್ಝೌ</item>
+        <item>H=ಹೈದರಾಬಾದ್</item>
+        <item>R=ರೆಸ್ಟಾನ್</item>
+        <item>B=ಬೆಲೊ ಹೊರಿಜೊಂಟೆ</item>
+        <item>S=ಸ್ಯಾಂಟಿಯಾಗೊ</item>
+        <item>M=ಮೊನ್ರೋವಿಯಾ</item>
+        <item>C=ಕೊಲಂಬೊ</item>
+        <item>C=ಚಿಚುವಾ</item>
+        <item>S=ಸಾಲ್ವಡಾರ್</item>
+        <item>G=ಗುರ್‌ಗಾಂವ್</item>
+        <item>M=ಮ್ಯಾಂಚೆಸ್ಟರ್</item>
+        <item>K=ಕಿವ್</item>
+        <item>S=ಸೇಂಟ್ ಪೀಟರ್ಸ್‌ಬರ್ಗ್</item>
+        <item>K=ಕ್ರಾಕೌ</item>
+        <item>W=ರೊಕ್ಲಾ</item>
+        <item>H=ಹ್ಯಾಂಬರ್ಗ್</item>
+        <item>O=ಔಲು</item>
+        <item>H=ಹೈಫಾ</item>
+        <item>S=ಸ್ಯಾನ್ ಜುವಾನ್</item>
+        <item>T=ತೆಗುಸಿಗಲ್ಪಾ</item>
+        <item>P=ಪರಮರಿಬೊ</item>
+        <item>Q=ಕ್ವಿಟೊ</item>
+        <item>L=ಲುಬ್ಲಿಯಾನಾ</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>ಒಂದಕ್ಕಿಂತ ಕಡಿಮೆ ನಿಮಿಷ ಬಾಕಿಯಿದೆ.</item>
+        <item>%1$s ಉಳಿದಿದೆ</item>
+        <item>%2$s ಉಳಿದಿದೆ</item>
+        <item>%1$s %2$s ಉಳಿದಿದೆ</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>ಈಗಿನಿಂದ 1 ನಿಮಿಷಕ್ಕೂ ಕಡಿಮೆ ಅವಧಿಗೆ ಅಲಾರಂ ಹೊಂದಿಸಲಾಗಿದೆ.</item>
+        <item>ಈಗಿನಿಂದ %1$s ಅಲಾರಂ ಹೊಂದಿಸಲಾಗಿದೆ.</item>
+        <item>ಈಗಿನಿಂದ %2$s ಅಲಾರಂ ಹೊಂದಿಸಲಾಗಿದೆ.</item>
+        <item>ಈಗಿನಿಂದ %1$s ಮತ್ತು %2$s ಅಲಾರಂ ಹೊಂದಿಸಲಾಗಿದೆ.</item>
+        <item>ಈಗಿನಿಂದ %3$s ಅಲಾರಂ ಹೊಂದಿಸಲಾಗಿದೆ.</item>
+        <item>ಈಗಿನಿಂದ %1$s ಮತ್ತು %3$s ಅಲಾರಂ ಹೊಂದಿಸಲಾಗಿದೆ.</item>
+        <item>ಈಗಿನಿಂದ %2$s ಮತ್ತು %3$s ಅಲಾರಂ ಹೊಂದಿಸಲಾಗಿದೆ.</item>
+        <item>ಈಗಿನಿಂದ %1$s, %2$s, %3$s ಅಲಾರಂ ಹೊಂದಿಸಲಾಗಿದೆ.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>1 ನಿಮಿಷ</item>
+        <item>5 ನಿಮಿಷಗಳು</item>
+        <item>10 ನಿಮಿಷಗಳು</item>
+        <item>15 ನಿಮಿಷಗಳು</item>
+        <item>20 ನಿಮಿಷಗಳು</item>
+        <item>25 ನಿಮಿಷಗಳು</item>
+        <item>ಎಂದಿಗೂ ಬೇಡ</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>ಶನಿವಾರ</item>
+        <item>ಭಾನುವಾರ</item>
+        <item>ಸೋಮವಾರ</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>ಸ್ನೂಜ್</item>
+        <item>ವಜಾಗೊಳಿಸು</item>
+        <item>ಏನೂ ಮಾಡಬೇಡ</item>
+    </string-array>
+    <string-array name="sw_lap_number_set">
+        <item>\# %d</item>
+        <item>\# %02d</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>ನೀವು ಸ್ವಲ್ಪ ಹೆಚ್ಚಿನ ವೇಗಿ.</item>
+        <item>ನಿಮ್ಮ ಪರಿಶ್ರಮದ ಪ್ರತಿಫಲವನ್ನು ಆನಂದಿಸಿ.</item>
+        <item>Android ತಮ್ಮ ವೇಗಕ್ಕೆ ಹೆಸರುವಾಸಿ, ಆದರೆ ನಿಮ್ಮಷ್ಟು ವೇಗವೇನು ಅಲ್ಲ!</item>
+        <item>ಥೂ.</item>
+        <item>L33t ಬಾರಿ.</item>
+        <item>ಅಂಥ ಅಸಾಧಾರಣ ವೇಗ.</item>
+        <item>ಕಾಲ್ಪನಿಕ ಸಮಯವನ್ನು ಮತ್ತೆ ಮಾಡೋಣ.</item>
+        <item>ಕೇವಲ ಎಡಕ್ಕೆ ಜಿಗಿ.</item>
+        <item>ವೇಗಕ್ಕಾಗಿ ನಿಮಗೊಂದು ವರ್ಣಫಲಕವಿದೆ.</item>
+        <item>ಫೋಟೋನಿಕ್ ವೇಗ.</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>ಅನಲಾಗ್‌</item>
+        <item>ಡಿಜಿಟಲ್</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>ಮಾರ್ಷಲ್ ದ್ವೀಪಗಳು</item>
+        <item>ಮಿಡ್‌ವೇ ಐಲ್ಯಾಂಡ್‌</item>
+        <item>ಹವಾಯಿ</item>
+        <item>ಅಲಾಸ್ಕಾ</item>
+        <item>ಪೆಸಿಫಿಕ್ ಸಮಯ</item>
+        <item>ತಿಜ್ವಾನಾ</item>
+        <item>ಆರಿಜೋನಾ</item>
+        <item>ಚಿಹುವಾ</item>
+        <item>ಮೌಂಟೇನ್ ಸಮಯ</item>
+        <item>ಮಧ್ಯ ಅಮೆರಿಕ</item>
+        <item>ಕೇಂದ್ರ ಸಮಯ</item>
+        <item>ಮೆಕ್ಸಿಕೋ ನಗರ</item>
+        <item>ಸಾಸ್ಕಷೆವನ್</item>
+        <item>ಬೊಗೋಟಾ</item>
+        <item>ಪೂರ್ವ ಸಮಯ</item>
+        <item>ವೆನಿಜುವೆಲಾ</item>
+        <item>ಅಟ್ಲಾಂಟಿಕ್ ಸಮಯ (ಬಾರ್ಬಡೋಸ್)</item>
+        <item>ಅಟ್ಲಾಂಟಿಕ್ ಸಮಯ (ಕೆನಡಾ)</item>
+        <item>ಮನಾವಸ್</item>
+        <item>ಸ್ಯಾಂಟಿಯಾಗೊ</item>
+        <item>ನ್ಯೂಫೌಂಡ್‌ಲ್ಯಾಂಡ್</item>
+        <item>ಬ್ರೆಜಿಲಿಯಾ</item>
+        <item>ಬ್ಯೂನಸ್ ಏರಿಸ್</item>
+        <item>ಗ್ರೀನ್‌ಲ್ಯಾಂಡ್</item>
+        <item>ಮಾಂಟಿವೀಡಿಯೊ</item>
+        <item>ಮಧ್ಯ-ಅಟ್ಲಾಂಟಿಕ್</item>
+        <item>ಅಝೋರಿಸ್</item>
+        <item>ಕೇಪ್ ವರ್ಡೆ ದ್ವೀಪಗಳು</item>
+        <item>ಕಾಸಾಬ್ಲಾಂಕಾ</item>
+        <item>ಲಂಡನ್, ಡಬ್ಲಿನ್</item>
+        <item>ಆಮ್‌ಸ್ಟರ್‌ಡ್ಯಾಮ್, ಬರ್ಲಿನ್</item>
+        <item>ಬೆಲ್‌ಗ್ರೇಡ್</item>
+        <item>ಬ್ರುಸೆಲ್ಸ್‌‌</item>
+        <item>ಸರಜೆವೊ</item>
+        <item>ವಿಂಡ್‌ಹೋಕ್</item>
+        <item>ಪ. ಆಫ್ರಿಕಾದ ಸಮಯ</item>
+        <item>ಅಮಾನ್, ಜೊರ್ಡಾನ್</item>
+        <item>ಅಥೆನ್ಸ್, ಇಸ್ತಾನ್‌ಬುಲ್</item>
+        <item>ಬೀರಟ್, ಲೆಬನಾನ್</item>
+        <item>ಕೈರೋ</item>
+        <item>ಹೆಲ್ಸಿಂಕಿ</item>
+        <item>ಜೆರುಸಲೆಮ್</item>
+        <item>ಮಿನ್‌ಸ್ಕ್</item>
+        <item>ಹರಾರೆ</item>
+        <item>ಬಾಗ್ದಾದ್</item>
+        <item>ಮಾಸ್ಕೋ</item>
+        <item>ಕುವೈತ್</item>
+        <item>ನೈರೋಬಿ</item>
+        <item>ತೆಹ್ರಾನ್</item>
+        <item>ಬಕು</item>
+        <item>ಬಿಲಿಸಿ</item>
+        <item>ಯೆರೆವನ್</item>
+        <item>ದುಬೈ</item>
+        <item>ಕಾಬೂಲ್</item>
+        <item>ಇಸ್ಲಾಮಾಬಾದ್, ಕರಾಚಿ</item>
+        <item>ಉರಲ್‌ಸ್ಕ್‌</item>
+        <item>ಎಕ್ಯಾಟೆರಿನ್‌ಬರ್ಗ್</item>
+        <item>ಕೊಲ್ಕತ್ತಾ</item>
+        <item>ಶ್ರೀಲಂಕಾ</item>
+        <item>ಕಠ್ಮಂಡು</item>
+        <item>ಆಸ್ತಾನಾ</item>
+        <item>ಯಾನ್ಗಾನ್</item>
+        <item>ಕ್ರಾಸ್ನೊಯಾರ್ಸ್ಕ್</item>
+        <item>ಬ್ಯಾಂಕಾಕ್</item>
+        <item>ಬೀಜಿಂಗ್</item>
+        <item>ಹಾಂಗ್‌ಕಾಂಗ್</item>
+        <item>ಇರ್‌ಕುಟ್ಸ್</item>
+        <item>ಕೌಲಾಲಂಪುರ್</item>
+        <item>ಪರ್ಥ್</item>
+        <item>ತೈಪೆ</item>
+        <item>ಸಿಯೋಲ್</item>
+        <item>ಟೋಕಿಯೋ, ಒಸಾಕಾ</item>
+        <item>ಯಾಕುಟ್ಸ್ಕ್</item>
+        <item>ಅಡಿಲೇಡ್</item>
+        <item>ಡಾರ್ವಿನ್</item>
+        <item>ಬ್ರಿಸ್ಬೇನ್</item>
+        <item>ಹೋಬಾರ್ಟ್‌</item>
+        <item>ಸಿಡ್ನಿ, ಕ್ಯಾನ್‌ಬೆರಾ</item>
+        <item>ವ್ಲಾದಿವೊಸ್ಟಾಕ್‌</item>
+        <item>ಗುವಾಮ್</item>
+        <item>ಮಗದನ್‌</item>
+        <item>ಆಕ್‌ಲ್ಯಾಂಡ್</item>
+        <item>ಫಿಜಿ</item>
+        <item>ಟೊಂಗಾ</item>
+        <item>ಜಕಾರ್ತಾ</item>
+    </string-array>
+</resources>

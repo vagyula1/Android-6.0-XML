@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Nå er du %1$d steg fra å bli utvikler.</item>
+        <item quantity="one">Nå er du %1$d steg fra å bli utvikler.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d fingeravtrykk er registrert</item>
+        <item quantity="one">%1$d fingeravtrykk er registrert</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Passordet må inneholde minst %d bokstaver.</item>
+        <item quantity="one">Passordet må inneholde minst én bokstav.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Passordet må inneholde minst %d små bokstaver.</item>
+        <item quantity="one">Passordet må inneholde minst én liten bokstav.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Passordet må inneholde minst %d store bokstaver.</item>
+        <item quantity="one">Passordet må inneholde minst én stor bokstav.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Passordet må inneholde minst %d sifre.</item>
+        <item quantity="one">Passordet må inneholde minst ett siffer.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Passordet må inneholde minst %d spesialtegn.</item>
+        <item quantity="one">Passordet må inneholde minst ett spesialtegn.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Passordet må inneholde minst %d tegn som ikke er bokstaver.</item>
+        <item quantity="one">Passordet må inneholde minst ett tegn som ikke er en bokstav.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Feil PIN-kode for SIM-kortet. Du har %d forsøk igjen.</item>
+        <item quantity="one">Feil PIN-kode for SIM-kortet. Du har %d forsøk igjen før du må kontakte operatøren din for å låse opp enheten.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d apper kan lese varsler</item>
+        <item quantity="one">%d app kan lese varsler</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Bytt til Bare alarmer i %1$d minutter (til %2$s)</item>
+        <item quantity="one">Bytt til Bare alarmer i ett minutt til %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Bytt til Bare alarmer i %1$d timer til %2$s</item>
+        <item quantity="one">Bytt til Bare alarmer i én time til %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d tillatelser er gitt</item>
+        <item quantity="one">%d tillatelse er gitt</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d av %2$d tillatelser er gitt</item>
+        <item quantity="one">%1$d av %2$d tillatelser er gitt</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d flere tillatelser</item>
+        <item quantity="one">%d tillatelse til</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d apper kan åpne de støttede linkene sine</item>
+        <item quantity="one">Én app kan åpne de støttede linkene sine</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d apper har tillatelse til å ignorere batterioptimalisering</item>
+        <item quantity="one">1 app har tillatelse til å ignorere batterioptimalisering</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d apper brukte minne i løpet av de siste %2$s</item>
+        <item quantity="one">1 app brukte minne i løpet av de siste %2$s</item>
+    </plurals>
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">చిత్తుప్రతులు</item>
+        <item quantity="one">చిత్తుప్రతి</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">ఈ %1$d సంభాషణలను తొలగించాలా?</item>
+        <item quantity="one">ఈ సంభాషణను తొలగించాలా?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">ఈ %1$d సంభాషణలను ఆర్కైవ్ చేయాలా?</item>
+        <item quantity="one">ఈ సంభాషణను ఆర్కైవ్ చేయాలా?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">ఈ %1$d సందేశాలను విస్మరించాలా?</item>
+        <item quantity="one">ఈ సందేశాన్ని విస్మరించాలా?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d సంభాషణలకు నక్షత్రం తీసివేస్తోంది</item>
+        <item quantity="one">%1$d సంభాషణకు నక్షత్రం తీసివేస్తోంది</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> మ్యూట్ చేయబడ్డాయి</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> మ్యూట్ చేయబడింది</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> స్పామ్‌గా నివేదించబడ్డాయి</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> స్పామ్‌గా నివేదించబడింది</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> స్పామ్ కావని నివేదించబడ్డాయి</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> స్పామ్ కాదని నివేదించబడింది</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ముఖ్యం కానివిగా గుర్తు పెట్టబడ్డాయి</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ముఖ్యం కానిదిగా గుర్తు పెట్టబడింది</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ఫిషింగ్ అని నివేదించబడ్డాయి</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ఫిషింగ్ అని నివేదించబడింది</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ఆర్కైవ్ చేయబడ్డాయి</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ఆర్కైవ్ చేయబడింది</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> తొలగించబడ్డాయి</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> తొలగించబడింది</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">ఫోల్డర్‌లు మార్చబడ్డాయి</item>
+        <item quantity="one">ఫోల్డర్ మార్చబడింది</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d కొత్త సందేశాలు</item>
+        <item quantity="one">%1$d కొత్త సందేశం</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d పాత సందేశాలను విస్తరింపజేయి</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d పాత సందేశాలు విస్తరించబడ్డాయి</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d చదవనివి</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d కొత్త సందేశాలు</item>
+        <item quantity="one">%1$d కొత్త సందేశం</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d సందేశాలు శాశ్వతంగా తొలగించబడతాయి.</item>
+        <item quantity="one">%1$d సందేశం శాశ్వతంగా తొలగించబడుతుంది.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d సందేశాలు</item>
+        <item quantity="one">%1$d సందేశం</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d జోడింపులు</item>
+        <item quantity="one">%1$d జోడింపు</item>
+    </plurals>
+</resources>

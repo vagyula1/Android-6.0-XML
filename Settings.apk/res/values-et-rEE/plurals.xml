@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Olete nüüd %1$d sammu kaugusel arendajastaatusest.</item>
+        <item quantity="one">Olete nüüd %1$d sammu kaugusel arendajastaatusest.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d sõrmejälge on seadistatud</item>
+        <item quantity="one">%1$d sõrmejälg on seadistatud</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Parool peab sisaldama vähemalt %d tähte.</item>
+        <item quantity="one">Parool peab sisaldama vähemalt üht tähte.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Parool peab sisaldama vähemalt %d väiketähte.</item>
+        <item quantity="one">Parool peab sisaldama vähemalt üht väiketähte.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Parool peab sisaldama vähemalt %d suurtähte.</item>
+        <item quantity="one">Parool peab sisaldama vähemalt üht suurtähte.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Parool peab sisaldama vähemalt %d numbrit.</item>
+        <item quantity="one">Parool peab sisaldama vähemalt üht numbrit.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Parool peab sisaldama vähemalt %d erisümbolit.</item>
+        <item quantity="one">Parool peab sisaldama vähemalt üht erisümbolit.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Parool peab sisaldama vähemalt %d mittetähelist märki.</item>
+        <item quantity="one">Parool peab sisaldama vähemalt üht mittetähelist märki.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Vale SIM-kaardi PIN-kood, teil on jäänud veel %d katset.</item>
+        <item quantity="one">Vale SIM-kaardi PIN-kood, jäänud on %d katse enne, kui peate seadme avam. operaatoriga ühendust võtma.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d rakendust saavad lugeda märguandeid</item>
+        <item quantity="one">%d rakendus saab lugeda märguandeid</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Muudetakse valikule Ainult alarmid %1$d minutiks (kellani %2$s)</item>
+        <item quantity="one">Muudetakse valikule Ainult alarmid üheks minutiks kellani %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Muudetakse valikule Ainult alarmid %1$d tunniks kellani %2$s</item>
+        <item quantity="one">Muudetakse valikule Ainult alarmid üheks tunniks kellani %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d luba on antud</item>
+        <item quantity="one">%d luba on antud</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d/%2$d loast on antud</item>
+        <item quantity="one">%1$d/%2$d loast on antud</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d täiendavat luba</item>
+        <item quantity="one">%d täiendav luba</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d rakendust saavad avada oma toetatud linke</item>
+        <item quantity="one">Üks rakendus saab avada oma toetatud linke</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d rakendusel lubati aku optimeerimist eirata</item>
+        <item quantity="one">1 rakendusel lubati aku optimeerimist eirata</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d rakendust kasutasid mälu viimase %2$s jooksul</item>
+        <item quantity="one">1 rakendus kasutas mälu viimase %2$s jooksul</item>
+    </plurals>
+</resources>

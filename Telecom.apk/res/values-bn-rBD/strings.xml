@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">ফোন কল ব্যবস্থাপনা</string>
+    <string name="userCallActivityLabel">ফোন</string>
+    <string name="unknown">অজানা</string>
+    <string name="notification_missedCallTitle">মিসড কল</string>
+    <string name="notification_missedCallsTitle">মিসড কলগুলি</string>
+    <string name="notification_missedCallsMsg">%sটি মিসড কল</string>
+    <string name="notification_missedCallTicker">%s এর থেকে মিসড কল</string>
+    <string name="notification_missedCall_call_back">কল ব্যাক করুন</string>
+    <string name="notification_missedCall_message">বার্তা</string>
+    <string name="accessibility_call_muted">কল নিঃশব্দ করা আছে৷</string>
+    <string name="accessibility_speakerphone_enabled">স্পীকারফোন সক্ষম করা আছে৷</string>
+    <string name="respond_via_sms_canned_response_1">এখন কথা বলতে পারছি না৷ কি খবর?</string>
+    <string name="respond_via_sms_canned_response_2">আমি আপনাকে কিছুক্ষণ পরেই কল করছি৷</string>
+    <string name="respond_via_sms_canned_response_3">আমি পরে আপনাকে কল করে নেব৷</string>
+    <string name="respond_via_sms_canned_response_4">এখন কথা বলতে পারছি না৷ আমাকে একটু পরে কল করবেন?</string>
+    <string name="respond_via_sms_setting_title">দ্রুত প্রতিক্রিয়াগুলি</string>
+    <string name="respond_via_sms_setting_title_2">দ্রুত প্রতিক্রিয়াগুলির সম্পাদনা করুন</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">দ্রুত প্রতিক্রিয়া</string>
+    <string name="respond_via_sms_confirmation_format">%s এ বার্তা পাঠানো হয়েছে৷</string>
+    <string name="enable_account_preference_title">কলিং অ্যাকাউন্টগুলি</string>
+    <string name="outgoing_call_not_allowed_user_restriction">ডিভাইসের মালিক শুধুমাত্র জরুরি কলগুলিতে অনুমতি দিয়েছেন৷</string>
+    <string name="outgoing_call_not_allowed_no_permission">এই অ্যাপ্লিকেশানটি ফোনের অনুমতি ছাড়া আউটগোয়িং কলগুলি করতে পারবে না।</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">কোনো কল স্থাপন করতে, একটি বৈধ নম্বর লিখুন৷</string>
+    <string name="duplicate_video_call_not_allowed">এই মুহূর্তে কল যোগ করা যাবে না৷</string>
+    <string name="video_call_not_allowed_if_tty_enabled">অনুগ্রহ করে ভিডিও কলগুলি করতে TTY মোড অক্ষম করুন৷</string>
+    <string name="no_vm_number">ভয়েসমেল নম্বর অনুপস্থিত</string>
+    <string name="no_vm_number_msg">সিম কার্ডটিতে কোনো ভয়েসমেল নম্বর সংরক্ষিত নেই৷</string>
+    <string name="add_vm_number_str">একটি নম্বর যোগ করুন</string>
+    <string name="change_default_dialer_dialog_title">ডিফল্ট ডায়ালার অ্যাপ পরিবর্তন করবেন?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">আপনার ডিফল্ট ডায়লার অ্যাপ হিসেবে %2$s পরিবর্তে %1$s ব্যবহার করবেন?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">আপনার ডিফল্ট ডায়লার অ্যাপ হিসেবে %s ব্যবহার করবেন?</string>
+</resources>

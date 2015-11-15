@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Media</string>
+    <string name="app_label">Median tallennustila</string>
+    <string name="artist_label">Esittäjä</string>
+    <string name="ringtone_default">Oletussoittoääni</string>
+    <string name="notification_sound_default">Ilmoituksen oletusääni</string>
+    <string name="alarm_sound_default">Hälytyksen oletusääni</string>
+    <string name="root_images">Kuvat</string>
+    <string name="root_videos">Videot</string>
+    <string name="root_audio">Ääni</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">Stjórna möppum</string>
+    <string name="add_cc_label">+ Afrit/falið afrit</string>
+    <string name="add_bcc_label">+ Falið afrit</string>
+    <string name="preferences_default_reply_all_summary">Nota sjálfgefið fyrir svör við skeytatilkynningum</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 सेकंड</item>
+        <item>4 सेकंड</item>
+        <item>6 सेकंड</item>
+        <item>8 सेकंड</item>
+        <item>10 सेकंड</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>एक बार</item>
+        <item>प्रत्येक 2 मिनट में</item>
+        <item>प्रत्‍येक 15 मिनट में</item>
+        <item>बंद</item>
+    </string-array>
+</resources>

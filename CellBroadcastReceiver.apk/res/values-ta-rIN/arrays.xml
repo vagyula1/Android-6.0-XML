@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 வினாடிகள்</item>
+        <item>4 வினாடிகள்</item>
+        <item>6 வினாடிகள்</item>
+        <item>8 வினாடிகள்</item>
+        <item>10 வினாடிகள்</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>ஒருமுறை மட்டும்</item>
+        <item>2 நிமிடங்களுக்கு ஒருமுறை</item>
+        <item>15 நிமிடங்களுக்கு ஒருமுறை</item>
+        <item>முடக்கு</item>
+    </string-array>
+</resources>

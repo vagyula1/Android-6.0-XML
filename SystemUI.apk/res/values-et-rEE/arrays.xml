@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Skannimine…</item>
+        <item>Ühenduse loomine…</item>
+        <item>Autentimine…</item>
+        <item>IP-aadressi hankimine…</item>
+        <item>Ühendatud</item>
+        <item>Peatatud</item>
+        <item>Ühenduse katkestamine…</item>
+        <item>Ühendus katkestatud</item>
+        <item>Ebaõnnestus</item>
+        <item>Blokeeritud</item>
+        <item>Kehva ühenduse ajutine vältimine</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Skannimine…</item>
+        <item>Ühendamine võrguga %1$s…</item>
+        <item>Autentimine võrguga %1$s…</item>
+        <item>IP-aadressi hankimine võrgust %1$s…</item>
+        <item>Ühendatud võrguga %1$s</item>
+        <item>Peatatud</item>
+        <item>Ühenduse katkestamine võrguga %1$s…</item>
+        <item>Ühendus katkestatud</item>
+        <item>Ebaõnnestus</item>
+        <item>Blokeeritud</item>
+        <item>Kehva ühenduse ajutine vältimine</item>
+    </string-array>
+</resources>

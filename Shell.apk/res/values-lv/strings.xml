@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Aizsargs</string>
+    <string name="bugreport_finished_title">Izveidots kļūdu pārskats</string>
+    <string name="bugreport_finished_text">Pieskarieties, lai kopīgotu kļūdu pārskatu.</string>
+    <string name="bugreport_confirm">Kļūdu pārskatā ir iekļauti dati no dažādiem sistēmas žurnālfailiem, tostarp personas dati un privāta informācija. Kļūdu pārskatus ieteicams kopīgot tikai ar uzticamām lietotnēm un lietotājiem.</string>
+    <string name="bugreport_confirm_repeat">Rādīt šo ziņojumu nākamajā reizē</string>
+    <string name="bugreport_storage_title">Kļūdu ziņojumi</string>
+</resources>

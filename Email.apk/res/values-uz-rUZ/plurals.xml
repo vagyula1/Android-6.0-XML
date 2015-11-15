@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Qoralamalar</item>
+        <item quantity="one">Qoralama</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Ushbu %1$d ta suhbat o‘chirib tashlansinmi?</item>
+        <item quantity="one">Ushbu suhbat o‘chirib tashlansinmi?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Ushbu %1$d ta suhbat arxivlansinmi?</item>
+        <item quantity="one">Ushbu suhbat arxivlansinmi?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Ushbu %1$d ta xabar bekor qilinsinmi?</item>
+        <item quantity="one">Ushbu xabar bekor qilinsinmi?</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">O‘qilmagan: %1$d</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d ta yangi xabar</item>
+        <item quantity="one">%1$d ta yangi xabar</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d ta xabar butunlay o‘chirib tashlanadi.</item>
+        <item quantity="one">%1$d ta xabar butunlay o‘chirib tashlanadi.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d ta xabar</item>
+        <item quantity="one">%1$d ta xabar</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d ta biriktirma</item>
+        <item quantity="one">%1$d ta biriktirma</item>
+    </plurals>
+</resources>

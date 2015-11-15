@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">錄音程式</string>
+    <string name="record_your_message">錄製簡訊</string>
+    <string name="message_recorded">已錄製簡訊</string>
+    <string name="review_message">檢視簡訊</string>
+    <string name="recording">錄音中</string>
+    <string name="recording_stopped">停止錄音</string>
+    <string name="storage_is_full">儲存空間已滿</string>
+    <string name="max_length_reached">已達長度上限</string>
+    <string name="insert_sd_card">插入 USB 儲存裝置</string>
+    <string name="min_available">還可錄製 %d 分鐘</string>
+    <string name="sec_available">還可錄製 %d 秒</string>
+    <string name="accept">完成</string>
+    <string name="discard">捨棄</string>
+    <string name="button_ok">確定</string>
+    <string name="audio_db_artist_name">您的錄音</string>
+    <string name="audio_db_album_name">錄音</string>
+    <string name="audio_db_playlist_name">我的錄音</string>
+    <string name="error_sdcard_access">無法存取 USB 儲存裝置。</string>
+    <string name="error_app_internal">內部應用程式錯誤。</string>
+    <string name="error_mediadb_new_record">無法儲存錄製的音訊。</string>
+</resources>

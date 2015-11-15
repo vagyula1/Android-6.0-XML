@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ధ్వని రికార్డర్</string>
+    <string name="record_your_message">మీ సందేశాన్ని రికార్డ్ చేయండి</string>
+    <string name="message_recorded">సందేశం రికార్డ్ చేయబడింది</string>
+    <string name="review_message">సందేశాన్ని సమీక్షించండి</string>
+    <string name="recording">రికార్డ్ చేస్తోంది</string>
+    <string name="recording_stopped">రికార్డింగ్ ఆపివేయబడింది</string>
+    <string name="storage_is_full">నిల్వ నిండింది</string>
+    <string name="max_length_reached">గరిష్ట పరిమితిని చేరుకుంది</string>
+    <string name="insert_sd_card">USB నిల్వను మౌంట్ చేయండి</string>
+    <string name="min_available">%d నిమిషాల సమయం అందుబాటులో ఉంది</string>
+    <string name="sec_available">%dసెకన్ల సమయం అందుబాటులో ఉంది</string>
+    <string name="accept">పూర్తయింది</string>
+    <string name="discard">విస్మరించు</string>
+    <string name="button_ok">సరే</string>
+    <string name="audio_db_artist_name">మీ రికార్డింగ్‌లు</string>
+    <string name="audio_db_album_name">ఆడియో రికార్డింగ్‌లు</string>
+    <string name="audio_db_playlist_name">నా రికార్డింగ్‌లు</string>
+    <string name="error_sdcard_access">USB నిల్వను ప్రాప్యత చేయడం సాధ్యపడలేదు.</string>
+    <string name="error_app_internal">అంతర్గత అనువర్తన లోపం.</string>
+    <string name="error_mediadb_new_record">రికార్డ్ చేసిన ఆడియోను సేవ్ చేయడం సాధ్యపడలేదు.</string>
+</resources>

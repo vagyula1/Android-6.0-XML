@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>ए=एबिजान</item>
+        <item>अ=अकरा</item>
+        <item>अ=अदीस अबाबा</item>
+        <item>अ=अल्जीयर्स</item>
+        <item>ब=ब्लांटायर</item>
+        <item>ब=ब्राज़ाविल</item>
+        <item>क=काहिरा</item>
+        <item>क=कासाब्लांका</item>
+        <item>क=कोनाक्री</item>
+        <item>ड=डकार</item>
+        <item>द=दार अस सलाम</item>
+        <item>ज=जि‍बूती</item>
+        <item>फ़=फ़्रीटाउन</item>
+        <item>ग=गबरोनी</item>
+        <item>ह=हरारे</item>
+        <item>ज=जोहान्सबर्ग</item>
+        <item>क=कंपाला</item>
+        <item>ख=खार्तूम</item>
+        <item>क=कीगाली</item>
+        <item>क=किन्शासा</item>
+        <item>ल=लागोस</item>
+        <item>म=मासेरु</item>
+        <item>म=मोगादीशु</item>
+        <item>न=नैरोबी</item>
+        <item>स=साओ टोम</item>
+        <item>ट=टिंबकटु</item>
+        <item>त=त्रिपोली</item>
+        <item>ट=ट्युनिस</item>
+        <item>ए=एंकरेज</item>
+        <item>म=मेंडोज़ा</item>
+        <item>अ=अरूबा</item>
+        <item>अ=असंशियन</item>
+        <item>ब=बारबाडोस</item>
+        <item>ब=बेलीज़</item>
+        <item>ब=बोगोटा</item>
+        <item>ब=ब्यूनस आयर्स</item>
+        <item>क=कैनकून</item>
+        <item>क=कराकास</item>
+        <item>क=कैमैन</item>
+        <item>श=शिकागो</item>
+        <item>क=कोस्टारिका</item>
+        <item>क=क्यूरासाओ</item>
+        <item>ड=डॉसन क्रीक</item>
+        <item>ड=डेनवर</item>
+        <item>ड=डेट्रॉइट</item>
+        <item>ड=डोमिनिका</item>
+        <item>ए=एडमंटन</item>
+        <item>अ=अल साल्वाडोर</item>
+        <item>फ़=फ़ोर्टालेज़ा</item>
+        <item>ग=ग्रांड टर्क</item>
+        <item>ग=ग्रेनेडा</item>
+        <item>ग=ग्वाटेमाला</item>
+        <item>ग=गुयाना</item>
+        <item>ह=हैलिफ़ैक्स</item>
+        <item>ह=हवाना</item>
+        <item>इ=इंडियानापोलिस</item>
+        <item>न=नॉक्स</item>
+        <item>म=मारेंगो</item>
+        <item>प=पीटर्सबर्ग</item>
+        <item>ट=टेल सिटी</item>
+        <item>व=वेवै</item>
+        <item>व=विन्सेंज़</item>
+        <item>व=विनामैक</item>
+        <item>क=किंग्सटन</item>
+        <item>न=न्यूस्ट्रा सनोरा डि ला पाज़</item>
+        <item>ल=लीमा</item>
+        <item>ल=लॉस एंजिलीस</item>
+        <item>ल=लुइसविल</item>
+        <item>म=मानागुआ</item>
+        <item>म=मार्टिनिक</item>
+        <item>म=मेंडोज़ा</item>
+        <item>म=मेटलाकाटला</item>
+        <item>म=मेक्सिको सिटी</item>
+        <item>म=मॉन्टेरे</item>
+        <item>म=मोंटेवीडियो</item>
+        <item>म=मॉन्ट्रियल</item>
+        <item>न=नासाउ</item>
+        <item>न=न्यूयार्क</item>
+        <item>ब=ब्यूला</item>
+        <item>स=सेंटर</item>
+        <item>न=न्यू सालेम</item>
+        <item>प=पनामा</item>
+        <item>फ़=फ़ीनिक्स</item>
+        <item>प=पोर्ट ऑफ़ स्पेन</item>
+        <item>प=पोर्ट-ऑ-प्रिंस</item>
+        <item>प=पोर्टो रिको</item>
+        <item>स=सैन्टो डोमिंगो</item>
+        <item>स=साओ पाउलो</item>
+        <item>स=सेंट जॉन्स</item>
+        <item>स=सेंट किट्स</item>
+        <item>स=सेंट लुसिया</item>
+        <item>स=सेंट थॉमस</item>
+        <item>त=तीवाना</item>
+        <item>ट=टोरंटो</item>
+        <item>व=वैंकूवर</item>
+        <item>व=विनीपेग</item>
+        <item>द=दक्षिणी ध्रुव</item>
+        <item>ल=लॉन्जीरब्येन</item>
+        <item>अ=अल्माटी</item>
+        <item>अ=अम्मान</item>
+        <item>अ=अनाडाइर</item>
+        <item>अ=अक्टाउ</item>
+        <item>ब=बगदाद</item>
+        <item>ब=बहरीन</item>
+        <item>ब=बाकु</item>
+        <item>ब=बैंकॉक</item>
+        <item>ब=बेरुत</item>
+        <item>क=कोलकाता</item>
+        <item>द=दमास्कस</item>
+        <item>ढ=ढाका</item>
+        <item>द=दुबई</item>
+        <item>ग=गाज़ा</item>
+        <item>ह=हीब्रन</item>
+        <item>ह=हो ची मिन्ह</item>
+        <item>ह=हांग कांग</item>
+        <item>इ=इस्तांबुल</item>
+        <item>ज=जकार्ता</item>
+        <item>य=यरूशलम</item>
+        <item>क=काबुल</item>
+        <item>क=कराची</item>
+        <item>क=काठमांडु</item>
+        <item>क=कुआलालांपुर</item>
+        <item>क=कुवैत</item>
+        <item>म=मकाऊ</item>
+        <item>म=मनीला</item>
+        <item>म=मस्कट</item>
+        <item>न=नॉम पेन्ह</item>
+        <item>प=प्योंगयांग</item>
+        <item>क=कतर</item>
+        <item>र=रंगून</item>
+        <item>र=रियाद</item>
+        <item>स=सेगॉन</item>
+        <item>स=सियोल</item>
+        <item>श=शंघाई</item>
+        <item>स=सिंगापुर</item>
+        <item>त=ताईपेई</item>
+        <item>त=तेहरान</item>
+        <item>त=तेल अवीव</item>
+        <item>ट=टोक्यो</item>
+        <item>उ=उलानबाटार</item>
+        <item>ब=बरमूडा</item>
+        <item>क=कैनैरी</item>
+        <item>क=केप वर्दे</item>
+        <item>र=रेक्जाविक</item>
+        <item>स=स्टैनली</item>
+        <item>ए=एडिलेड</item>
+        <item>ब=ब्रिस्बेन</item>
+        <item>क=कैनबरा</item>
+        <item>ड=डार्विन</item>
+        <item>म=मेलबोर्न</item>
+        <item>न=न्यू साउथ वेल्स</item>
+        <item>प=पर्थ</item>
+        <item>क=क्वीन्सलैंड</item>
+        <item>स=सिडनी</item>
+        <item>व=विक्टोरिया</item>
+        <item>न=न्यूफ़ाउंडलैंड</item>
+        <item>स=सास्केचवान</item>
+        <item>ई=ईस्टर द्वीप</item>
+        <item>ए=एम्सटरडम</item>
+        <item>ए=एंडोरा</item>
+        <item>ए=एथेंस</item>
+        <item>ब=बेलफ़ास्ट</item>
+        <item>ब=बेल्ग्रेड</item>
+        <item>ब=बर्लिन</item>
+        <item>ब=ब्रैटिस्लावा</item>
+        <item>ब=ब्रूसेल्स</item>
+        <item>ब=बुखारेस्ट</item>
+        <item>ब=बुडापेस्ट</item>
+        <item>क=किशीनाऊ</item>
+        <item>क=कोपेनहैगेन</item>
+        <item>ड=डबलिन</item>
+        <item>ज=जिब्राल्टर</item>
+        <item>ह=हेलसिंकी</item>
+        <item>अ=आइल ऑफ़ मैन</item>
+        <item>इ=इस्तांबुल</item>
+        <item>क=कीव</item>
+        <item>ल=लिस्बन</item>
+        <item>ल=लंदन</item>
+        <item>ल=लक्ज़मबर्ग</item>
+        <item>म=मैड्रिड</item>
+        <item>म=माल्टा</item>
+        <item>म=मिन्स्क</item>
+        <item>म=मोनाको</item>
+        <item>म=मॉस्को</item>
+        <item>ओ=ओस्लो</item>
+        <item>प=पेरिस</item>
+        <item>प=प्राग</item>
+        <item>र=रिगा</item>
+        <item>र=रोम</item>
+        <item>स=सैन मारिनो</item>
+        <item>स=सारायेवो</item>
+        <item>S=सिंफ़ेरोपॉल</item>
+        <item>स=स्कॉप्ये</item>
+        <item>स=सोफ़िया</item>
+        <item>स=स्टॉकहोम</item>
+        <item>त=तालिन</item>
+        <item>व=वेटिकन</item>
+        <item>व=विएना</item>
+        <item>व=विल्नियस</item>
+        <item>व=वारसा</item>
+        <item>ज़=ज़ागरेब</item>
+        <item>ज़=ज़्यूरिख</item>
+        <item>ए=एंटनानरीवो</item>
+        <item>म=मालदीव</item>
+        <item>म=मॉरिशस</item>
+        <item>अ=ऑकलैंड</item>
+        <item>फ=फ़िजी</item>
+        <item>ग=गुआम</item>
+        <item>ह=होनोलूलू</item>
+        <item>क=किरितिमाटी</item>
+        <item>न=नूमिया</item>
+        <item>स=समोआ</item>
+        <item>त=ताहीती</item>
+        <item>ए=एंटिगुआ</item>
+        <item>अ=ऑस्टिन</item>
+        <item>ब=बोस्टन</item>
+        <item>क=कैलगरी</item>
+        <item>क=कोलंबस</item>
+        <item>ड=डलास</item>
+        <item>न=नॉक्सविल</item>
+        <item>म=मेम्फिस</item>
+        <item>म=मियामी</item>
+        <item>म=मिनियापोलिस</item>
+        <item>ओ=ओटावा</item>
+        <item>फ़=फ़िलाडेल्फ़िया</item>
+        <item>प=पोर्टलैंड</item>
+        <item>स=सैन डिएगो</item>
+        <item>स=सैन फ़्रांसिस्को</item>
+        <item>स=सॉल्ट लेक सिटी</item>
+        <item>स=सैन जोस</item>
+        <item>स=सैन साल्वाडोर</item>
+        <item>स=सिएटल</item>
+        <item>स=सेंट लुइस</item>
+        <item>व=वाशिंगटन डी.सी.</item>
+        <item>ह=ह्यूस्टन</item>
+        <item>स=सैन एंटोनियो</item>
+        <item>ज=जैक्सनविल</item>
+        <item>ब=बाल्‍टीमोर</item>
+        <item>न=नैशविल</item>
+        <item>म=मिलवॉकी</item>
+        <item>ओ=ओक्लाहोमा सिटी</item>
+        <item>ल=लास वेगास</item>
+        <item>अ=अल्‍बुकर्क</item>
+        <item>ट=टूसोन</item>
+        <item>स=सैक्रामेंटो</item>
+        <item>अ=अटलांटा</item>
+        <item>क=क्लीवलैंड</item>
+        <item>न=न्यू ऑर्लीन्स</item>
+        <item>ट=टैम्पा</item>
+        <item>प=पिट्सबर्ग</item>
+        <item>स=सिनसिनाटी</item>
+        <item>म=माउंटेन व्यू</item>
+        <item>र=रेनो</item>
+        <item>ब=ब्लैक रॉक सिटी</item>
+        <item>द=दोहा</item>
+        <item>ब=बीजिंग</item>
+        <item>म=मुंबई</item>
+        <item>द=दिल्ली</item>
+        <item>ओ=ओसाका</item>
+        <item>ल=लाहौर</item>
+        <item>स=साना</item>
+        <item>ब=बार्सीलोना</item>
+        <item>म=म्यूनिख</item>
+        <item>म=मिलान</item>
+        <item>फ़=फ़्रैंकफ़र्ट</item>
+        <item>ह=हनोइ</item>
+        <item>अ=अंकारा</item>
+        <item>ब=बैंगलुरु</item>
+        <item>ब=ब्राज़ीलिया</item>
+        <item>क=केप टाउन</item>
+        <item>इ=इस्लामाबाद</item>
+        <item>र=रियो डि जेनेरो</item>
+        <item>ए=एन ऑर्बर</item>
+        <item>ब=बोल्डर</item>
+        <item>क=कैम्ब्रिज</item>
+        <item>क=किर्कलैंड</item>
+        <item>म=मेडिसन</item>
+        <item>ग=ग्वांगझू</item>
+        <item>ह=हैदराबाद</item>
+        <item>र=रेस्टन</item>
+        <item>ब=बेलो हॉरीज़ोंटे</item>
+        <item>स=सैंटियागो</item>
+        <item>म=मोनरोविया</item>
+        <item>क=कोलंबो</item>
+        <item>च=चिहुआहुआ</item>
+        <item>स=साल्वाडोर</item>
+        <item>ग=गुड़गांव</item>
+        <item>म=मैनचेस्टर</item>
+        <item>क=कीव</item>
+        <item>स=सेंट पीटर्सबर्ग</item>
+        <item>क=क्राकव</item>
+        <item>र=रोक्लॉ</item>
+        <item>ह=हैम्बर्ग</item>
+        <item>अ=ऑउलु</item>
+        <item>ह=हाइफ़ा</item>
+        <item>स=सैन जुआन</item>
+        <item>त=तेगुसिगल्पा</item>
+        <item>प=परामारिबो</item>
+        <item>क=क्वीटो</item>
+        <item>ल=लूब्लीयाना</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>एक मिनट से कम समय शेष है</item>
+        <item>%1$s शेष</item>
+        <item>%2$s शेष</item>
+        <item>%1$s %2$s शेष</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>अब से 1 मिनट या उससे भी कम के भीतर का अलार्म सेट है.</item>
+        <item>अलार्म अब से %1$s के लिए सेट.</item>
+        <item>अलार्म अब से %2$s के लिए सेट.</item>
+        <item>अलार्म अब से %1$s और %2$s के लिए सेट.</item>
+        <item>अलार्म अब से %3$s के लिए सेट.</item>
+        <item>अलार्म अब से %1$s और %3$s के लिए सेट.</item>
+        <item>अलार्म अब से %2$s और %3$s के लिए सेट.</item>
+        <item>अलार्म अब से %1$s, %2$s, और %3$s के लिए सेट हो गया है.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>1 मिनट</item>
+        <item>5 मिनट</item>
+        <item>10 मिनट</item>
+        <item>15 मिनट</item>
+        <item>20 मिनट</item>
+        <item>25 मिनट</item>
+        <item>कभी नहीं</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>शनिवार</item>
+        <item>रविवार</item>
+        <item>सोमवार</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>बाद में याद दिलाएं</item>
+        <item>बंद करें</item>
+        <item>कुछ न करें</item>
+    </string-array>
+    <string-array name="sw_lap_number_set">
+        <item>\# %d</item>
+        <item>\# %02d</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>आप गति को बहुत पसंद करते हैं.</item>
+        <item>अपने परिश्रम के फल का आनंद लें.</item>
+        <item>Android तेज़ होने के लिए जाने जाते हैं, लेकिन उतने नहीं जितने आप हैं!</item>
+        <item>ओह.</item>
+        <item>L33t बार.</item>
+        <item>कितना अद्भुत वेग.</item>
+        <item>आइए फिर से समय को समेटें.</item>
+        <item>बस बाईं ओर जाएं.</item>
+        <item>आपको जल्दबाज़ी की आदत है.</item>
+        <item>फ़ोटॉनिक वेग.</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>ऐनालॉग</item>
+        <item>डिजिटल</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>मार्शल द्वीप समूह</item>
+        <item>मिडवे द्वीप</item>
+        <item>हवाई</item>
+        <item>अलास्का</item>
+        <item>प्रशांत समय</item>
+        <item>तिहुआना</item>
+        <item>ऐरीज़ोना</item>
+        <item>चिहुआहुआ</item>
+        <item>पर्वतीय समय</item>
+        <item>मध्य अमेरिका</item>
+        <item>केंद्रीय समय</item>
+        <item>मेक्सिको सिटी</item>
+        <item>सास्केचवान</item>
+        <item>बोगोटा</item>
+        <item>पूर्वी समय</item>
+        <item>वेनेज़ुएला</item>
+        <item>अटलांटिक समय (बारबाडोस)</item>
+        <item>अटलांटिक समय (कनाडा)</item>
+        <item>मानाउस</item>
+        <item>सैंटियागो</item>
+        <item>न्यूफ़ाउंडलैंड</item>
+        <item>ब्राज़ीलिया</item>
+        <item>ब्यूनस आयर्स</item>
+        <item>ग्रीनलैंड</item>
+        <item>मॉन्टेवीडियो</item>
+        <item>मध्य-अटलांटिक</item>
+        <item>एज़ॉर्स</item>
+        <item>केप वर्दे द्वीप समूह</item>
+        <item>कासाब्लांका</item>
+        <item>लंदन, डबलिन</item>
+        <item>एम्सटर्डम, बर्लिन</item>
+        <item>बेलग्रेड</item>
+        <item>ब्रुसेल्स</item>
+        <item>सारायेवो</item>
+        <item>विंडहोक</item>
+        <item>प. अफ़्रीका समय</item>
+        <item>अम्मान, जॉर्डन</item>
+        <item>एथेंस, इस्तांबुल</item>
+        <item>बेरूत, लेबनॉन</item>
+        <item>काहिरा</item>
+        <item>हेलसिंकी</item>
+        <item>यरुशलम</item>
+        <item>मिन्स्क</item>
+        <item>हरारे</item>
+        <item>बगदाद</item>
+        <item>मॉस्को</item>
+        <item>कुवैत</item>
+        <item>नैरोबी</item>
+        <item>तेहरान</item>
+        <item>बा‍कू</item>
+        <item>तबीलसी</item>
+        <item>येरेवान</item>
+        <item>दुबई</item>
+        <item>काबुल</item>
+        <item>इस्लामाबाद, कराची</item>
+        <item>युराल्स्क</item>
+        <item>येकेतेरिनबर्ग</item>
+        <item>कोलकाता</item>
+        <item>श्रीलंका</item>
+        <item>काठमांडू</item>
+        <item>अस्टाना</item>
+        <item>यांगून</item>
+        <item>क्रास्नोयार्स्क</item>
+        <item>बैंकॉक</item>
+        <item>बीजिंग</item>
+        <item>हांगकांग</item>
+        <item>इर्कुत्स्क</item>
+        <item>कुआलालंपुर</item>
+        <item>पर्थ</item>
+        <item>ताईपेई</item>
+        <item>सिओल</item>
+        <item>टोक्यो, ओसाका</item>
+        <item>याकूत्स्क</item>
+        <item>एडीलेड</item>
+        <item>डार्विन</item>
+        <item>ब्रिस्बेन</item>
+        <item>होबार्ट</item>
+        <item>सिडनी, कैनबरा</item>
+        <item>व्लादीवोस्तोक</item>
+        <item>गुआम</item>
+        <item>मागाडान</item>
+        <item>ऑकलैंड</item>
+        <item>फ़ि‍जी</item>
+        <item>टोंगा</item>
+        <item>जकार्ता</item>
+    </string-array>
+</resources>

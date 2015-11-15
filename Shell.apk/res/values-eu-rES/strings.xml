@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell-interfazea</string>
+    <string name="bugreport_finished_title">Akatsen txostena jaso da</string>
+    <string name="bugreport_finished_text">Akatsen txostena partekatzeko, ukitu</string>
+    <string name="bugreport_confirm">Akatsen txostenek sistemaren erregistro-fitxategietako datuak dauzkate, informazio pertsonala eta pribatua barne. Akatsen txostenak partekatzen badituzu, partekatu soilik aplikazio eta pertsona fidagarriekin.</string>
+    <string name="bugreport_confirm_repeat">Erakutsi mezu hau hurrengoan</string>
+    <string name="bugreport_storage_title">Akatsen txostenak</string>
+</resources>

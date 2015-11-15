@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>pa subjekt</item>
+        <item>pa subjekt</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Po</item>
+        <item>Jo</item>
+        <item>Në rregull!</item>
+        <item>Hehe</item>
+        <item>Faleminderit</item>
+        <item>Pranoj</item>
+        <item>Këndshëm</item>
+        <item>Jam rrugës</item>
+        <item>Në rregull, më lejo të të marr më vonë</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Concepten</item>
+        <item quantity="one">Concept</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Deze %1$d conversaties verwijderen?</item>
+        <item quantity="one">Deze conversatie verwijderen?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Deze %1$d conversaties archiveren?</item>
+        <item quantity="one">Deze conversatie archiveren?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Deze %1$d berichten weggooien?</item>
+        <item quantity="one">Dit bericht weggooien?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Sterren verwijderen uit %1$d gesprekken</item>
+        <item quantity="one">Ster verwijderen uit %1$d gesprek</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> genegeerd</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> genegeerd</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> gerapporteerd als spam</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> gerapporteerd als spam</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> gerapporteerd als geen spam</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> gerapporteerd als geen spam</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> gemarkeerd als niet belangrijk</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> gemarkeerd als niet belangrijk</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> gerapporteerd als phishing</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> gerapporteerd als phishing</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> gearchiveerd</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> gearchiveerd</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> verwijderd</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> verwijderd</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Mappen gewijzigd</item>
+        <item quantity="one">Map gewijzigd</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d nieuwe berichten</item>
+        <item quantity="one">%1$d nieuw bericht</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d oudere berichten uitvouwen</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d oudere berichten uitvouwen</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d ongelezen</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d nieuwe berichten</item>
+        <item quantity="one">%1$d nieuw bericht</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d berichten worden permanent verwijderd.</item>
+        <item quantity="one">%1$d bericht wordt permanent verwijderd.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d berichten</item>
+        <item quantity="one">%1$d bericht</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d bijlagen</item>
+        <item quantity="one">%1$d bijlage</item>
+    </plurals>
+</resources>

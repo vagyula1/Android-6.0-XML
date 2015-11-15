@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Respon</item>
+        <item>Respon a tots</item>
+        <item>Reenvia</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Correcte</item>
+        <item>Sense connexió</item>
+        <item>"No s'ha pogut iniciar la sessió"</item>
+        <item>Error de seguretat</item>
+        <item>"No s'ha pogut fer la sincronització"</item>
+        <item>Error intern</item>
+        <item>Error del servidor</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Més recent</item>
+        <item>Més antiga</item>
+        <item>Llista de converses</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Mostra una conversa més recent després de suprimir</item>
+        <item>Mostra una conversa més antiga després de suprimir</item>
+        <item>Mostra la llista de converses després de suprimir</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Arxiva</item>
+        <item>Suprimeix</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Arxiva</item>
+        <item>Suprimeix</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Mostra sempre les accions de missatges a la part superior de la pantalla</item>
+        <item>Mostra només accions de missatges a la part superior de la pantalla en mode vertical</item>
+        <item>No mostris accions de missatges fora de la capçalera del missatge</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Mostra sempre</item>
+        <item>Mostra només en vertical</item>
+        <item>No mostris</item>
+    </string-array>
+</resources>

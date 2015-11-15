@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">დეველოპერობამდე %1$d ნაბიჯი დაგრჩათ.</item>
+        <item quantity="one">დეველოპერობამდე %1$d ნაბიჯი დაგრჩათ.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d თითის ანაბეჭდის დაყენება</item>
+        <item quantity="one">%1$d თითის ანაბეჭდის დაყენება</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">პაროლი უნდა შეიცავდეს, სულ მცირე, %d ასოს.</item>
+        <item quantity="one">პაროლი უნდა შეიცავდეს, სულ მცირე, 1 ასოს.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">პაროლი უნდა შეიცავდეს, სულ მცირე, %d ქვედა რეგისტრის ასოს.</item>
+        <item quantity="one">პაროლი უნდა შეიცავდეს, სულ მცირე, 1 ქვედა რეგისტრის ასოს.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">პაროლი უნდა შეიცავდეს, სულ მცირე, %d ზედა რეგისტრის ასოს.</item>
+        <item quantity="one">პაროლი უნდა შეიცავდეს, სულ მცირე, 1 ზედა რეგისტრის ასოს.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">პაროლი უნდა შეიცავდეს, სულ მცირე, %d ციფრს.</item>
+        <item quantity="one">პაროლი უნდა შეიცავდეს, სულ მცირე, 1 ციფრს.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">პაროლი უნდა შეიცავდეს, სულ მცირე, %d სპეციალურ სიმბოლოს.</item>
+        <item quantity="one">პაროლი უნდა შეიცავდეს, სულ მცირე, 1 სპეციალურ სიმბოლოს.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">პაროლი უნდა შეიცავდეს, სულ მცირე, %d არაანბანურ სიმბოლოს.</item>
+        <item quantity="one">პაროლი უნდა შეიცავდეს, სულ მცირე, 1 არაანბანურ სიმბოლოს.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM-ის PIN არასწორია. დაგრჩათ %d მცდელობა.</item>
+        <item quantity="one">SIM-ის PIN არასწორია. დაგრჩათ %d მცდელობა, სანამ მოგიწევთ მოწყობილობის განსაბლოკად ოპერატორთან დაკავშირება.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d აპს შეუძლია შეტყობინებების წაკითხვა</item>
+        <item quantity="one">%d აპს შეუძლია შეტყობინებების წაკითხვა</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">მაღვიძარებზე მხოლოდ %1$d წუთით გადაყვანა (%2$s-მდე)</item>
+        <item quantity="one">მაღვიძარებზე მხოლოდ ერთი წუთით გადაყვანა %2$s-მდე</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">მაღვიძარებზე მხოლოდ %1$d საათით გადაყვანა %2$s-მდე</item>
+        <item quantity="one">მაღვიძარებზე მხოლოდ ერთი საათით გადაყვანა %2$s-მდე</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d ნებართვა გაცემულია</item>
+        <item quantity="one">%d ნებართვა გაცემულია</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d-დან %2$d ნებართვა გაცემულია</item>
+        <item quantity="one">%1$d-დან %2$d ნებართვა გაცემულია</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d დამატებითი ნებართვა</item>
+        <item quantity="one">%d დამატებითი ნებართვა</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d აპს შეუძლია გახსნას მათი მხარდაჭერილი ბმულები</item>
+        <item quantity="one">ერთ აპს შეუძლია გახსნას მისი მხარდაჭერილი ბმულები</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d აპს ბატარეის ოპტიმიზაციის იგნორირების უფლება აქვს</item>
+        <item quantity="one">1 აპს ბატარეის ოპტიმიზაციის იგნორირების უფლება აქვს</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d აპმა გამოიყენა მეხსიერება ბოლო %2$s-ში</item>
+        <item quantity="one">1 აპმა გამოიყენა მეხსიერება ბოლო %2$s-ში</item>
+    </plurals>
+</resources>

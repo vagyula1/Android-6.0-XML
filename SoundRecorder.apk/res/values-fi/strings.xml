@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ääninauhuri</string>
+    <string name="record_your_message">Tallenna viesti</string>
+    <string name="message_recorded">Viesti tallennettu</string>
+    <string name="review_message">Tarkista viesti</string>
+    <string name="recording">Tallennetaan</string>
+    <string name="recording_stopped">Tallennus lopetettu</string>
+    <string name="storage_is_full">Tallennustila on täynnä</string>
+    <string name="max_length_reached">Enimmäispituus saavutettu</string>
+    <string name="insert_sd_card">Ota USB-tallennustila käyttöön</string>
+    <string name="min_available">%d min käytettävissä</string>
+    <string name="sec_available">%d s käytettävissä</string>
+    <string name="accept">Valmis</string>
+    <string name="discard">Hylkää</string>
+    <string name="button_ok">OK</string>
+    <string name="audio_db_artist_name">Omat tallenteet</string>
+    <string name="audio_db_album_name">Äänitallenteet</string>
+    <string name="audio_db_playlist_name">Omat tallenteet</string>
+    <string name="error_sdcard_access">USB-tallennustilaa ei voi käyttää.</string>
+    <string name="error_app_internal">Sisäinen sovellusvirhe.</string>
+    <string name="error_mediadb_new_record">Nauhoitettua ääntä ei voitu tallentaa.</string>
+</resources>

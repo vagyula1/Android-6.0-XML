@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>بدون موضوع</item>
+        <item>بدون موضوع</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>بله</item>
+        <item>خیر</item>
+        <item>تأیید</item>
+        <item>هه‌هه</item>
+        <item>سپاسگزارم</item>
+        <item>موافقم</item>
+        <item>خوب</item>
+        <item>در راهم</item>
+        <item>بسیار خوب، بگذارید بعداً با شما تماس بگیرم</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

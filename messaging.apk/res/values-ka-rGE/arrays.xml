@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>უსათაურო</item>
+        <item>nosubject</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>კი</item>
+        <item>არა</item>
+        <item>კარგი</item>
+        <item>ჰე-ჰე</item>
+        <item>დიდი მადლობა</item>
+        <item>თანახმა ვარ</item>
+        <item>მშვენიერია</item>
+        <item>მოვდივარ</item>
+        <item>კარგი, მოგვიანებით შეგეხმიანები</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DialogWhenReallyLarge" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:windowFixedHeightMinor">90.0%</item>
+        <item name="android:windowFixedHeightMajor">79.99999%</item>
+    </style>
+</resources>

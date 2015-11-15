@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Répondre</item>
+        <item>Répondre à tous</item>
+        <item>Transférer</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Opération réussie.</item>
+        <item>Aucune connexion</item>
+        <item>Impossible de se connecter.</item>
+        <item>Erreur liée à la sécurité.</item>
+        <item>"Impossible d'effectuer la synchronisation."</item>
+        <item>Erreur interne</item>
+        <item>Erreur du serveur.</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Conversation précédente</item>
+        <item>Conversation suivante</item>
+        <item>Liste des conversations</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Afficher les conversations plus récentes après suppression</item>
+        <item>Afficher les conversations plus anciennes après suppression</item>
+        <item>Afficher la liste des conversations après suppression</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Archiver</item>
+        <item>Supprimer</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Archiver</item>
+        <item>Supprimer</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>"Toujours afficher les actions relatives aux messages en haut de l'écran"</item>
+        <item>"Afficher les actions relatives aux messages en haut de l'écran uniquement en mode Portrait"</item>
+        <item>"Ne pas afficher les actions relatives aux messages en dehors de l'en-tête des messages"</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Toujours afficher</item>
+        <item>Afficher uniquement en mode Portrait</item>
+        <item>Ne pas afficher</item>
+    </string-array>
+</resources>

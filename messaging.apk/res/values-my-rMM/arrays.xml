@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>အကြောင်းအရာ မရှိ</item>
+        <item>အကြောင်းအရာမဲ့</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>ဟုတ်</item>
+        <item>မဟုတ်</item>
+        <item>အိုကေ</item>
+        <item>ဟဲဟဲ</item>
+        <item>ကျေးဇူးပဲ</item>
+        <item>ကျွန်ုပ် သဘောတူသည်</item>
+        <item>ကောင်း</item>
+        <item>ကျွန်ုပ်၏ လမ်းပေါ်မှာ</item>
+        <item>အိုကေ၊ ကျွန်ုပ် နောက်မှာ ပြန်လာပါရစေ</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

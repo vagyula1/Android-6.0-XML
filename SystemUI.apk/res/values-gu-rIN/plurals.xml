@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">વિહંગાવલોકનમાં %d સ્ક્રીન્સ</item>
+        <item quantity="one">વિહંગાવલોકનમાં %d સ્ક્રીન્સ</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">ખોટો SIM PIN કોડ, તમારી પાસે %d પ્રયાસ બાકી છે.</item>
+        <item quantity="one">ખોટો SIM PIN કોડ, તમારી પાસે %d પ્રયાસ બાકી છે.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">ખોટો SIM PUK કોડ, SIM કાયમી રીતે અનુપયોગી બની જાય તે પહેલા તમારી પાસે %d પ્રયાસ બાકી છે.</item>
+        <item quantity="one">ખોટો SIM PUK કોડ, SIM કાયમી રીતે અનુપયોગી બની જાય તે પહેલા તમારી પાસે %d પ્રયાસ બાકી છે.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">ઉપકરણ %d કલાક માટે અનલૉક કરવામાં આવ્યું નથી. પેટર્નની પુષ્ટિ કરો.</item>
+        <item quantity="one">ઉપકરણ %d કલાક માટે અનલૉક કરવામાં આવ્યું નથી. પેટર્નની પુષ્ટિ કરો.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">ઉપકરણ %d કલાક માટે અનલૉક કરવામાં આવ્યું નથી. PIN ની પુષ્ટિ કરો.</item>
+        <item quantity="one">ઉપકરણ %d કલાક માટે અનલૉક કરવામાં આવ્યું નથી. PIN ની પુષ્ટિ કરો.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">ઉપકરણ %d કલાક માટે અનલૉક કરવામાં આવ્યું નથી. પાસવર્ડની પુષ્ટિ કરો.</item>
+        <item quantity="one">ઉપકરણ %d કલાક માટે અનલૉક કરવામાં આવ્યું નથી. પાસવર્ડની પુષ્ટિ કરો.</item>
+    </plurals>
+</resources>

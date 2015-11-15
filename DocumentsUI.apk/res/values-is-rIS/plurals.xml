@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Afritar %1$d skrár.</item>
+        <item quantity="one">Afritar %1$d skrá.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Ekki var hægt að afrita %1$d skrár</item>
+        <item quantity="one">Ekki var hægt að afrita %1$d skrá</item>
+    </plurals>
+</resources>

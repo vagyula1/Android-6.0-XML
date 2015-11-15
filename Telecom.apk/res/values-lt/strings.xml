@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Telefono skambučių tvarkymas</string>
+    <string name="userCallActivityLabel">Telefonas</string>
+    <string name="unknown">Nežinomas</string>
+    <string name="notification_missedCallTitle">Praleistas skambutis</string>
+    <string name="notification_missedCallsTitle">Praleisti skambučiai</string>
+    <string name="notification_missedCallsMsg">%s praleisti (-ų) skambučiai (-ų)</string>
+    <string name="notification_missedCallTicker">praleistas skambutis nuo %s</string>
+    <string name="notification_missedCall_call_back">Perskambinti</string>
+    <string name="notification_missedCall_message">Pranešimas</string>
+    <string name="accessibility_call_muted">Skambutis nutildytas.</string>
+    <string name="accessibility_speakerphone_enabled">Garsiakalbis įgalintas.</string>
+    <string name="respond_via_sms_canned_response_1">Dabar negaliu kalbėti. Kas nutiko?</string>
+    <string name="respond_via_sms_canned_response_2">Netrukus perskambinsiu.</string>
+    <string name="respond_via_sms_canned_response_3">Paskambinsiu vėliau.</string>
+    <string name="respond_via_sms_canned_response_4">Dabar negaliu kalb. Pask. vėliau.</string>
+    <string name="respond_via_sms_setting_title">Greiti atsakai</string>
+    <string name="respond_via_sms_setting_title_2">Redaguoti greitus atsakus</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Greitas atsakas</string>
+    <string name="respond_via_sms_confirmation_format">Pranešimas išsiųstas numeriu %s.</string>
+    <string name="enable_account_preference_title">Skambinimo paskyros</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Įrenginio savininkas leidžia skambinti tik pagalbos numeriais.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Naudojant šią programą negalima skambinti be telefono leidimo.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Kad galėtumėte paskambinti, įveskite tinkamą numerį.</string>
+    <string name="duplicate_video_call_not_allowed">Šiuo metu dar vieno skambučio atlikti negalima.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Išjunkite TTY režimą, kad galėtumėte atlikti vaizdo skambučius.</string>
+    <string name="no_vm_number">Trūksta balso pašto numerio</string>
+    <string name="no_vm_number_msg">SIM kortelėje nėra išsaugoto balso pašto numerio.</string>
+    <string name="add_vm_number_str">Pridėti numerį</string>
+    <string name="change_default_dialer_dialog_title">Pakeisti numatytąją numerio rinkiklio programą?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Naudoti „%1$s“ vietoje „%2$s“ kaip numatytąją numerio rinkiklio programą?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Naudoti „%s“ kaip numatytąją numerio rinkiklio programą?</string>
+</resources>

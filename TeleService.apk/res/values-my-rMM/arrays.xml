@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>တစ်ကမ္ဘာလုံးဆိုင်ရာ</item>
+        <item>LTE / CDMA</item>
+        <item>LTE / GSM / UMTS</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values_world_mode">
+        <item>၁၀</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>မူရင်း ကွန်ရက်</item>
+        <item>နံပါတ်ကို ကွယ်ဖျောက်ပါ</item>
+        <item>နံပါတ်ကို ပြပါ</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE / WCDMA</item>
+        <item>မြန်နှုန်းမြင့်လိုင်း</item>
+        <item>တစ်ကမ္ဘာလုံးဆိုင်ရာ</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EvDo သာ</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA/EvDo auto</item>
+        <item>GSM/WCDMA auto</item>
+        <item>WCDMA သာ</item>
+        <item>GSM သာ</item>
+        <item>GSM/WCDMA preferred</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>အင်္ဂလိပ်</item>
+        <item>ပြင်သစ်</item>
+        <item>စပိန်</item>
+        <item>ဂျပန်</item>
+        <item>ကိုရီးယား</item>
+        <item>တရုတ်</item>
+        <item>ဟီဘရူး</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>၁</item>
+        <item>၂</item>
+        <item>၃</item>
+        <item>၄</item>
+        <item>၅</item>
+        <item>၆</item>
+        <item>၇</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>အိမ်ကိုသာ</item>
+        <item>အလိုအလျောက်</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>၀</item>
+        <item>၁</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY ပိတ်ထားသည်</item>
+        <item>TTY အပြည့်</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>ပုံမှန်</item>
+        <item>အရှည်</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Etiquetes</string>
+    <string name="title_scanned_tag">Nova etiqueta recollida</string>
+    <string name="title_existing_tag">Etiqueta</string>
+    <string name="tag_unknown">"Tipus d'etiqueta desconegut"</string>
+    <string name="tag_empty">Etiqueta buida</string>
+    <string name="button_done">Fet</string>
+    <string name="action_text">Envia un missatge de text a %s</string>
+    <string name="action_call">Truca a %s</string>
+    <string name="empty_tag_prompt">Aquesta etiqueta és buida.</string>
+    <string name="import_vcard">Importa ^1</string>
+    <string name="mime_display_name">"Dades d'etiqueta NFC"</string>
+    <string name="vcard_title">Informació de contacte per a ^1</string>
+</resources>

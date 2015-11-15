@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Antwoord</item>
+        <item>Antwoord almal</item>
+        <item>Stuur aan</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Sukses</item>
+        <item>Geen verbinding nie</item>
+        <item>Kon nie aanmeld nie</item>
+        <item>Sekuriteitsfout</item>
+        <item>Kon nie sinkroniseer nie</item>
+        <item>Interne fout</item>
+        <item>Bedienerfout</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Jonger</item>
+        <item>Ouer</item>
+        <item>Gespreklys</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Wys jonger gesprek nadat jy uitvee</item>
+        <item>Wys ouer gesprek nadat jy uitvee</item>
+        <item>Wys gespreklys nadat jy uitvee</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Argief</item>
+        <item>Vee uit</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Argief</item>
+        <item>Vee uit</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Wys boodskapshandelinge altyd boaan die skerm</item>
+        <item>Wys boodskapshandelinge boaan die skerm net wanneer dit na portretformaat gedraai is</item>
+        <item>Moenie boodskapshandelinge buite die boodskapkop wys nie</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Wys altyd</item>
+        <item>Wys net in portretformaat</item>
+        <item>Moenie wys nie</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Na-capture ang ulat ng bug</string>
+    <string name="bugreport_finished_text">Pindutin upang ibahagi ang iyong ulat ng bug</string>
+    <string name="bugreport_confirm">"Naglalaman ang mga ulat ng bug ng data mula sa iba't ibang file ng log ng system, kabilang ang personal at pribadong impormasyon. Magbahagi lang ng mga ulat ng bug sa apps at mga tao na pinagkakatiwalaan mo."</string>
+    <string name="bugreport_confirm_repeat">Ipakita ang mensaheng ito sa susunod</string>
+    <string name="bugreport_storage_title">Mga ulat sa bug</string>
+</resources>

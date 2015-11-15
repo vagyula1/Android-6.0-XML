@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="force_thumbnail_no_scaling">true</bool>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
+    <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_closeDialogWhenTouchOutside">true</bool>
+    <bool name="notifications_enabled_pref_default">true</bool>
+    <bool name="notification_vibration_pref_default">true</bool>
+    <bool name="send_sound_pref_default">true</bool>
+    <bool name="delivery_reports_pref_default">false</bool>
+    <bool name="auto_retrieve_mms_pref_default">true</bool>
+    <bool name="auto_retrieve_mms_when_roaming_pref_default">false</bool>
+    <bool name="group_mms_pref_default">true</bool>
+    <bool name="dump_sms_pref_default">false</bool>
+    <bool name="dump_mms_pref_default">false</bool>
+    <bool name="use_local_apn_pref_default">false</bool>
+</resources>

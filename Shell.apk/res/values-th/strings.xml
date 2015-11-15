@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">จับภาพรายงานข้อบกพร่องแล้ว</string>
+    <string name="bugreport_finished_text">แตะเพื่อแชร์รายงานข้อบกพร่องของคุณ</string>
+    <string name="bugreport_confirm">รายงานข้อบกพร่องมีข้อมูลจากไฟล์บันทึกต่างๆ ของระบบ รวมถึงข้อมูลส่วนตัว แชร์รายงานข้อบกพร่องกับแอปและบุคคลที่คุณไว้ใจเท่านั้น</string>
+    <string name="bugreport_confirm_repeat">แสดงข้อความนี้ในครั้งต่อไป</string>
+    <string name="bugreport_storage_title">รายงานข้อบกพร่อง</string>
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Koncepty</item>
+        <item quantity="one">Koncept</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Odstrániť tieto konverzácie (počet: %1$d)?</item>
+        <item quantity="one">Odstrániť túto konverzáciu?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Archivovať tieto konverzácie (počet: %1$d)?</item>
+        <item quantity="one">Archivovať túto konverzáciu?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Zahodiť tieto správy (%1$d)?</item>
+        <item quantity="one">Zahodiť túto správu?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Ruší sa označenie %1$d konverzácií hviezdičkou</item>
+        <item quantity="one">Ruší sa označenie %1$d konverzácie hviezdičkou</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;Konverzácie b>(%1$d)&amp;lt;/b> boli ignorované</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> konverzácia bola ignorovaná</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;Konverzácie b>(%1$d)&amp;lt;/b> boli nahlásené ako spam</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> konverzácia bola nahlásená ako spam</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;Konverzácie b>(%1$d)&amp;lt;/b> boli nahlásené, že nie sú spam</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> konverzácia bola nahlásená, že nie je spam</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;Konverzácie b>(%1$d)&amp;lt;/b> boli označené ako nedôležité</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> konverzácia bola označená ako nedôležitá</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;Konverzácie b>(%1$d)&amp;lt;/b> boli nahlásené ako phishing</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> konverzácia bola nahlásená ako phishing</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;Konverzácie b>(%1$d)&amp;lt;/b> boli archivované</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> konverzácia bola archivovaná</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;Konverzácie b>(%1$d)&amp;lt;/b> boli odstránené</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> konverzácia bola odstránená</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Zmenené priečinky</item>
+        <item quantity="one">Zmenený priečinok</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">Počet nových správ: %1$d</item>
+        <item quantity="one">%1$d nová správa</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Rozbaliť staršie správy (počet: %1$d)</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Staršie správy boli rozbalené (počet: %1$d)</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">Počet neprečítaných správ: %1$d</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">Počet nových správ: %1$d</item>
+        <item quantity="one">%1$d nová správa</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Správy (počet: %1$d) sa natrvalo odstránia.</item>
+        <item quantity="one">%1$d správa sa natrvalo odstráni.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">Počet správ: %1$d</item>
+        <item quantity="one">%1$d správa</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">Počet príloh: %1$d</item>
+        <item quantity="one">%1$d príloha</item>
+    </plurals>
+</resources>

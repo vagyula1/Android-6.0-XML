@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hangrögzítő</string>
+    <string name="record_your_message">Rögzítse üzenetét</string>
+    <string name="message_recorded">Az üzenet rögzítve</string>
+    <string name="review_message">Üzenet visszahallgatása</string>
+    <string name="recording">Rögzítés folyamatban</string>
+    <string name="recording_stopped">A rögzítés leállt</string>
+    <string name="storage_is_full">A tárhely megtelt</string>
+    <string name="max_length_reached">Elérte a maximális hosszúságot</string>
+    <string name="insert_sd_card">Az USB-tár csatlakoztatása</string>
+    <string name="min_available">%d p áll rendelkezésére</string>
+    <string name="sec_available">%d mp áll rendelkezésére</string>
+    <string name="accept">Kész</string>
+    <string name="discard">Elvetés</string>
+    <string name="button_ok">OK</string>
+    <string name="audio_db_artist_name">Saját felvételek</string>
+    <string name="audio_db_album_name">Hangfelvételek</string>
+    <string name="audio_db_playlist_name">Saját felvételeim</string>
+    <string name="error_sdcard_access">Nem lehet hozzáférni az USB-háttértárához.</string>
+    <string name="error_app_internal">Belső alkalmazáshiba.</string>
+    <string name="error_mediadb_new_record">Nem lehet menteni a rögzített hangot.</string>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d മിനിറ്റ്</item>
+        <item quantity="one">ഒരു മിനിറ്റ്</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d മിനിറ്റ്</item>
+        <item quantity="one">ഒരു മിനിറ്റ്</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d മണിക്കൂർ</item>
+        <item quantity="one">ഒരു മണിക്കൂർ</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d ദിവസം</item>
+        <item quantity="one">ഒരു ദിവസം</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">ആഴ്ച %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d തവണ</item>
+        <item quantity="one">; ഒരു തവണ</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">ഓരോ %d ദിവസവും</item>
+        <item quantity="one">പ്രതിദിനം</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">ഓരോ %1$d ആഴ്ച കൂടുമ്പോഴും %2$s</item>
+        <item quantity="one">പ്രതിവാരം %2$s ദിവസം</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d ഇവന്റുകൾ</item>
+        <item quantity="one">ഒരു ഇവന്റ്</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d ഇവന്റുകൾ</item>
+        <item quantity="one">+1 ഇവന്റ്</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">ഓരോ %d ദിവസവും</item>
+        <item quantity="one">ഓരോ %d ദിവസവും</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">ഓരോ %d ആഴ്‌ച കൂടുമ്പോഴും</item>
+        <item quantity="one">ഓരോ %d ആഴ്ച കൂടുമ്പോഴും</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">ഓരോ %d മാസം കൂടുമ്പോഴും</item>
+        <item quantity="one">ഓരോ %d മാസം കൂടുമ്പോഴും</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">ഓരോ %d വർഷം കൂടുമ്പോഴും</item>
+        <item quantity="one">ഓരോ %d വർഷം കൂടുമ്പോഴും</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d ഇവന്റുകൾക്ക്</item>
+        <item quantity="one">%d ഇവന്റിന്</item>
+    </plurals>
+</resources>

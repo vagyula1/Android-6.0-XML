@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">டெவெலப்பராவதற்கு இப்போது %1$d படிகளே உள்ளன.</item>
+        <item quantity="one">டெவெலப்பராவதற்கு இப்போது %1$d படியே உள்ளது.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d கைரேகைகளின் அமைவு</item>
+        <item quantity="one">%1$d கைரேகையின் அமைவு</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">கடவுச்சொல்லில் குறைந்தது %d எழுத்துகள் இருக்க வேண்டும்.</item>
+        <item quantity="one">கடவுச்சொல்லில் குறைந்தது 1 எழுத்து இருக்க வேண்டும்.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">கடவுச்சொல்லில் குறைந்தது %d சிற்றெழுத்துகள் இருக்க வேண்டும்.</item>
+        <item quantity="one">கடவுச்சொல்லில் குறைந்தது 1 சிற்றெழுத்து இருக்க வேண்டும்.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">கடவுச்சொல்லில் குறைந்தது %d பேரெழுத்துகள் இருக்க வேண்டும்.</item>
+        <item quantity="one">கடவுச்சொல்லில் குறைந்தது 1 பேரெழுத்து இருக்க வேண்டும்.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">கடவுச்சொல்லில் குறைந்தது %d எண் இலக்கங்கள் இருக்க வேண்டும்.</item>
+        <item quantity="one">கடவுச்சொல்லில் குறைந்தது 1 எண் இலக்கம் இருக்க வேண்டும்.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">கடவுச்சொல்லில் குறைந்தது %d சிறப்பு குறியீடுகள் இருக்க வேண்டும்.</item>
+        <item quantity="one">கடவுச்சொல்லில் குறைந்தது 1 சிறப்பு குறியீடு இருக்க வேண்டும்.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">கடவுச்சொல்லில் குறைந்தது %d எழுத்து அல்லாத குறிகள் இருக்க வேண்டும்.</item>
+        <item quantity="one">கடவுச்சொல்லில் குறைந்தது 1 எழுத்து அல்லாத குறி இருக்க வேண்டும்.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">சிம்மின் பின் குறியீடு தவறானது, உங்களிடம் %d முயற்சிகள் மீதமுள்ளன.</item>
+        <item quantity="one">சிம்மின் பின் குறியீடு தவறானது, மேலும் %d முயற்சிக்குப் பின்னர், சாதனத்தைத் திறக்க, கண்டிப்பாக உங்கள் மொபைல் நிறுவனத்தைத் தொடர்புகொள்ள வேண்டும்.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d பயன்பாடுகள் அறிவிப்புகளைப் படிக்கலாம்</item>
+        <item quantity="one">%d பயன்பாடு அறிவிப்புகளைப் படிக்கலாம்</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">%1$d நிமிடங்களுக்கு (%2$s வரை) அலாரங்கள் மட்டும் என மாற்றவும்</item>
+        <item quantity="one">%2$s வரை, ஒரு நிமிடத்திற்கு அலாரங்கள் மட்டும் என மாற்றவும்</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">%2$s வரை, %1$d மணிநேரத்திற்கு அலாரங்கள் மட்டும் என மாற்றவும்</item>
+        <item quantity="one">%2$s வரை, ஒரு மணிநேரத்திற்கு அலாரங்கள் மட்டும் என மாற்றவும்</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d அனுமதிகள் வழங்கப்பட்டன</item>
+        <item quantity="one">%d அனுமதி வழங்கப்பட்டது</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d / %2$d அனுமதிகள் வழங்கப்பட்டன</item>
+        <item quantity="one">%1$d / %2$d அனுமதி வழங்கப்பட்டது</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d கூடுதல் அனுமதிகள்</item>
+        <item quantity="one">%d கூடுதல் அனுமதி</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d பயன்பாடுகள் அவை ஆதரிக்கும் இணைப்புகளைத் திறக்கலாம்</item>
+        <item quantity="one">ஒரு பயன்பாடு அது ஆதரிக்கும் இணைப்புகளைத் திறக்கலாம்</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">பேட்டரி மேம்படுத்தலைத் தவிர்க்க, %d பயன்பாடுகள் அனுமதிக்கப்பட்டன</item>
+        <item quantity="one">பேட்டரி மேம்படுத்தலைத் தவிர்க்க, 1 பயன்பாடு அனுமதிக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">கடந்த %2$s இல் %1$d பயன்பாடுகள் நினைவகத்தைப் பயன்படுத்தியுள்ளன</item>
+        <item quantity="one">கடந்த %2$s இல் 1 பயன்பாடு நினைவகத்தைப் பயன்படுத்தியுள்ளது</item>
+    </plurals>
+</resources>

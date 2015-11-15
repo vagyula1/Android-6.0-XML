@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Piszkozatok</item>
+        <item quantity="one">Piszkozat</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Törli ezt a(z) %1$d beszélgetést?</item>
+        <item quantity="one">Törli ezt a beszélgetést?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Archiválja ezt a(z) %1$d beszélgetést?</item>
+        <item quantity="one">Archiválja ezt a beszélgetést?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Elveti ezt a(z) %1$d üzenetet?</item>
+        <item quantity="one">Elveti ezt a levelet?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d beszélgetés csillagozásának megszüntetése</item>
+        <item quantity="one">%1$d beszélgetés csillagozásának megszüntetése</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> lezárva</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> lezárva</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> jelentve spamként</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> jelentve spamként</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> megjelölve nem spamként</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> megjelölve nem spamként</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> megjelölve nem fontosként</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> megjelölve nem fontosként</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> jelentve adathalászatként</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> jelentve adathalászatként</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> archiválva</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> archiválva</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> törölve</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> törölve</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Módosított mappák</item>
+        <item quantity="one">Módosított mappa</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d új üzenet</item>
+        <item quantity="one">%1$d új üzenet</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">További %1$d korábbi üzenet kibontása</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">További %1$d korábbi üzenet kibontva</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d olvasatlan</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d új üzenet</item>
+        <item quantity="one">%1$d új üzenet</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d üzenet véglegesen törölve lesz.</item>
+        <item quantity="one">%1$d üzenet véglegesen törölve lesz.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d üzenet</item>
+        <item quantity="one">%1$d üzenet</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d melléklet</item>
+        <item quantity="one">%1$d melléklet</item>
+    </plurals>
+</resources>

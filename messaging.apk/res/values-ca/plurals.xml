@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d hores</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d dies</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d setmanes</item>
+        <item quantity="one">una setmana</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d mesos</item>
+        <item quantity="one">un mes</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d anys</item>
+        <item quantity="one">un any</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d missatges en %2$d converses</item>
+        <item quantity="one">%d missatges en una conversa</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d missatges en %2$d converses</item>
+        <item quantity="one">%d missatges en una conversa</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d missatges nous</item>
+        <item quantity="one">Missatge nou</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">Vols suprimir aquestes converses?</item>
+        <item quantity="one">Vols suprimir aquesta conversa?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d participants</item>
+        <item quantity="one">%d participant</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">Descarta els fitxers adjunts</item>
+        <item quantity="one">Descarta el fitxer adjunt</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">"S'han desat %1$d fotos a l'àlbum %2$s"</item>
+        <item quantity="one">"S'ha desat %1$d foto a l'àlbum %2$s"</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">"S'han desat %1$d vídeos a l'àlbum %2$s"</item>
+        <item quantity="one">"S'ha desat %1$d vídeo a l'àlbum %2$s"</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">"S'han desat %1$d fitxers adjunts a l'àlbum %2$s"</item>
+        <item quantity="one">"S'ha desat %1$d fitxer adjunt a l'àlbum %2$s"</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">"S'han desat %d fitxers adjunts a Baixades"</item>
+        <item quantity="one">"S'ha desat %d fitxer adjunt a Baixades"</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">"S'han desat %d fitxers adjunts"</item>
+        <item quantity="one">"S'ha desat %d fitxer adjunt"</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">"No s'han pogut desar %d fitxers adjunts"</item>
+        <item quantity="one">"No s'ha pogut desar %d fitxer adjunt"</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">Envia les fotos</item>
+        <item quantity="one">Envia la foto</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">Envia els àudios</item>
+        <item quantity="one">"Envia l'àudio"</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">Envia els vídeos</item>
+        <item quantity="one">Envia el vídeo</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">Envia les targetes de contacte</item>
+        <item quantity="one">Envia la targeta de contacte</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">Envia els fitxers adjunts</item>
+        <item quantity="one">Envia el fitxer adjunt</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">Ja es poden enviar %d fitxers adjunts</item>
+        <item quantity="one">Ja es pot enviar un fitxer adjunt</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d contactes</item>
+        <item quantity="one">%d contacte</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">Els contactes no són vàlids</item>
+        <item quantity="one">El contacte no és vàlid</item>
+    </plurals>
+</resources>

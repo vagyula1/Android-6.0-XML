@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Svar</item>
+        <item>Svar alle</item>
+        <item>Videresend</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Fullført</item>
+        <item>Ingen nettilkobling</item>
+        <item>Kunne ikke logge på</item>
+        <item>Sikkerhetsfeil</item>
+        <item>Kunne ikke synkronisere</item>
+        <item>Intern feil</item>
+        <item>Tjenerfeil</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Nyere</item>
+        <item>Eldre</item>
+        <item>Samtaleliste</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Vis nyere samtaler etter at du har slettet</item>
+        <item>Vis eldre samtaler etter at du har slettet</item>
+        <item>Vis samtaleliste etter at du har slettet</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Arkivér</item>
+        <item>Slett</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Arkivér</item>
+        <item>Slett</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Vis alltid meldingshandlinger øverst på skjermen</item>
+        <item>Vis kun meldingalternativer øverst på skjermen når rotert til stående</item>
+        <item>Ikke vis e-postalternativer utenfor e-postoverskriften</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Vis alltid</item>
+        <item>Kun stående visning</item>
+        <item>Ikke vis</item>
+    </string-array>
+</resources>

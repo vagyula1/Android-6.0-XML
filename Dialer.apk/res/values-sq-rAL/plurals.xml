@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">U gjetën %d</item>
+        <item quantity="one">U gjet 1</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d sekonda</item>
+        <item quantity="one">1 sekondë</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">1 minutë</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d orë</item>
+        <item quantity="one">1 orë</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d posta zanore</item>
+        <item quantity="one">postë zanore</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d posta të reja zanore</item>
+        <item quantity="one">%d postë e re zanore</item>
+    </plurals>
+</resources>

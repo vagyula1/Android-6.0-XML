@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d abatholakele</item>
+        <item quantity="one">%d abatholakele</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d amsekhondi</item>
+        <item quantity="one">%d amsekhondi</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d amaminithi</item>
+        <item quantity="one">%d amaminithi</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d amahora</item>
+        <item quantity="one">%d amahora</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Amavoyisimeyili</item>
+        <item quantity="one">%1$d Amavoyisimeyili</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d amavoyisimeyili amasha</item>
+        <item quantity="one">%d amavoyisimeyili amasha</item>
+    </plurals>
+</resources>

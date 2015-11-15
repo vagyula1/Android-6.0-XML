@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>返信</item>
+        <item>全員に返信</item>
+        <item>転送</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>完了</item>
+        <item>接続なし</item>
+        <item>ログインできませんでした</item>
+        <item>セキュリティエラー</item>
+        <item>同期できませんでした</item>
+        <item>内部エラー</item>
+        <item>サーバーエラー</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>前</item>
+        <item>次</item>
+        <item>スレッドリスト</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>削除後に新しいスレッドを表示する</item>
+        <item>削除後に古いスレッドを表示する</item>
+        <item>削除後にスレッドリストを表示する</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>アーカイブ</item>
+        <item>削除</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>アーカイブ</item>
+        <item>削除</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>画面の上部にメールの操作を常に表示する</item>
+        <item>縦向きの画面の上部にのみメールの操作を表示する</item>
+        <item>メールのヘッダー以外にはメールの操作を表示しない</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>常に表示</item>
+        <item>縦向きでのみ表示</item>
+        <item>表示しない</item>
+    </string-array>
+</resources>

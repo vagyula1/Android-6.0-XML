@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Predstavnost</string>
+    <string name="app_label">Prostor za shranjevanje predstavnosti</string>
+    <string name="artist_label">Izvajalec</string>
+    <string name="ringtone_default">Privzeti ton zvonjenja</string>
+    <string name="notification_sound_default">Privzeti zvok obvestila</string>
+    <string name="alarm_sound_default">Privzeti zvok alarma</string>
+    <string name="root_images">Slike</string>
+    <string name="root_videos">Videoposnetki</string>
+    <string name="root_audio">Zvok</string>
+</resources>

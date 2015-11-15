@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">ဖုန်းခေါ်ဆိုခြင်း စီမံမှု</string>
+    <string name="userCallActivityLabel">ဖုန်း</string>
+    <string name="unknown">အကြောင်းအရာ မသိရှိ</string>
+    <string name="notification_missedCallTitle">လွဲသွားသော ဖုန်းခေါ်မှု</string>
+    <string name="notification_missedCallsTitle">လွဲသွားသော ဖုန်းခေါ်မှုများ</string>
+    <string name="notification_missedCallsMsg">%s လွဲသွားသော ဖုန်းခေါ်မှုများ</string>
+    <string name="notification_missedCallTicker">%s က ဖုန်းခေါ်မှုကို မကိုင်မိပါ</string>
+    <string name="notification_missedCall_call_back">ပြန်ခေါ်ပါ</string>
+    <string name="notification_missedCall_message">စာတို</string>
+    <string name="accessibility_call_muted">နားထောင်ရုံသာ (စကားပြောပိတ်ထားသည်)</string>
+    <string name="accessibility_speakerphone_enabled">စပီကာဖုန်း သုံးလို့ရသည်</string>
+    <string name="respond_via_sms_canned_response_1">အခုပြောလို့မရဘူး။အကြောင်းထူးရှိလား?</string>
+    <string name="respond_via_sms_canned_response_2">ပြန်ခေါ်လိုက်မယ်နော်</string>
+    <string name="respond_via_sms_canned_response_3">နောက်မှ ပြန်ခေါ်လိုက်မယ်</string>
+    <string name="respond_via_sms_canned_response_4">အခုပြောလို့မရဘူး။ထပ်ခေါ်နော်?</string>
+    <string name="respond_via_sms_setting_title">အမြန်တုံ့ပြန်ချက်များ</string>
+    <string name="respond_via_sms_setting_title_2">အမြန်တုံ့ပြန်ချက်များပြင်ခြင်း</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">အမြန်တုံ့ပြန်ချက်</string>
+    <string name="respond_via_sms_confirmation_format">%s ထံ စာတိုပို့လိုက်ပါပြီ</string>
+    <string name="enable_account_preference_title">ခေါ်ဆိုသော အကောင့်များ</string>
+    <string name="outgoing_call_not_allowed_user_restriction">အရေးပေါ်ဖုန်းများကိုသာ ခေါ်ဆိုနိုင်ရန် စက်ကိရိယာပိုင်ရှင်က ခွင့်ပြုထားသည်။</string>
+    <string name="outgoing_call_not_allowed_no_permission">ဤအပ္ပလီကေးရှင်းသည် ဖုန်းခွင့်ပြုချက်မရှိဘဲ အထွက်ခေါ်ဆိုမှု ပြုလုပ်၍မရပါ။</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">ဖုန်းခေါ်ရန်အတွက်၊ သင့်လျော်သည့်နံပါတ် ရိုက်ထည့်ပါ။</string>
+    <string name="duplicate_video_call_not_allowed">ဗွီဒီယိုခေါ်နေစဉ် ထပ်ခေါ်မရပါ။</string>
+    <string name="video_call_not_allowed_if_tty_enabled">ဗီဒီယိုခေါ်ဆိုမှုများ ပြုလုပ်ရန် ကျေးဇူးပြု၍ TTY မုဒ်ကို ပိတ်ထားပါ။</string>
+    <string name="no_vm_number">အသံစာပို့စနစ် နံပါတ် ပျောက်နေပါသည်</string>
+    <string name="no_vm_number_msg">ဆင်းမ်ကဒ်ပေါ်တွင် အသံစာပို့စနစ် နံပါတ် သိမ်းဆည်ထားခြင်း မရှိပါ</string>
+    <string name="add_vm_number_str">နံပါတ်ထပ်ထည့်ရန်</string>
+    <string name="change_default_dialer_dialog_title">စက်ရုံထုတ်ဖုန်းခေါ်အပ်ဖ်ကိုပြောင်းလိုပါသလား</string>
+    <string name="change_default_dialer_with_previous_app_set_text">%2$s အစား %1$s ကိုသင့်ရဲ့ စက်ရုံထုတ်ဖုန်းခေါ်အပ်ဖ်အဖြစ် သုံးလိုပါသလား</string>
+    <string name="change_default_dialer_no_previous_app_set_text">%s ကိုသင့်ရဲ့စက်ရုံထုတ်ဖုန်းခေါ်အပ်ဖ်အဖြစ် သုံးလိုပါသလား</string>
+</resources>

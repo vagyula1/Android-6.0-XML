@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Po kopjon %1$d skedarë.</item>
+        <item quantity="one">Po kopjon %1$d skedar.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">%1$d skedarë nuk mund të kopjoheshin</item>
+        <item quantity="one">%1$d skedar nuk mund të kopjohej</item>
+    </plurals>
+</resources>

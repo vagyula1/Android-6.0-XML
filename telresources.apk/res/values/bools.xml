@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_enable_mms_with_mobile_data_off">true</bool>
+    <bool name="config_allowDataCallWithoutDns">true</bool>
+    <bool name="config_ascii_7bit_support_for_long_message">true</bool>
+    <bool name="config_enable_display_14digit_imei">false</bool>
+    <bool name="config_reject_call_via_sms_enabled">true</bool>
+</resources>

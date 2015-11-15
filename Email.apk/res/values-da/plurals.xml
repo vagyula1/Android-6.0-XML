@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Kladder</item>
+        <item quantity="one">Kladde</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Vil du slette disse %1$d samtaler?</item>
+        <item quantity="one">Vil du slette denne samtale?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Vil du arkivere disse %1$d samtaler?</item>
+        <item quantity="one">Vil du arkivere denne samtale?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Vil du kassere disse %1$d meddelelse?</item>
+        <item quantity="one">Vil du slette denne meddelelse?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Stjernemarkering fjernes fra %1$d samtaler</item>
+        <item quantity="one">Stjernemarkering fjernes fra %1$d samtale</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> bliver ignoreret</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> bliver ignoreret</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> bliver rapporteret som spam</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> bliver rapporteret som spam</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> bliver rapporteret som ikke spam</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> bliver rapporteret som ikke spam</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> er markeret som uvigtig</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> er markeret som uvigtig</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> bliver rapporteret som phishing</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> bliver rapporteret som phishing</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> arkiveret</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> arkiveret</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> er slettet</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> er slettet</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Mapper bliver ændret</item>
+        <item quantity="one">En mappe blive ændret</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d nye meddelelser</item>
+        <item quantity="one">%1$d ny meddelelse</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Udvid %1$d ældre meddelelser</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Udvidede %1$d ældre meddelelser</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d ulæste</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d nye meddelelser</item>
+        <item quantity="one">%1$d ny meddelelse</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d meddelelser vil blive slettet permanent.</item>
+        <item quantity="one">%1$d meddelelse vil blive slettet permanent.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d meddelelser</item>
+        <item quantity="one">%1$d meddelelse</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d vedhæftede filer</item>
+        <item quantity="one">%1$d vedhæftet fil</item>
+    </plurals>
+</resources>

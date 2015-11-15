@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d amaminithi</item>
+        <item quantity="one">1 iminithi</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d amaminithi</item>
+        <item quantity="one">1 iminithi</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d amahora</item>
+        <item quantity="one">1 ihora</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d izinsuku</item>
+        <item quantity="one">1 usuku</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">IVIKI %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; okwezikhathi ezingu-%d</item>
+        <item quantity="one">; okwesikhathi esisodwa</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Njalo ngezinsuku ezingu-%d</item>
+        <item quantity="one">Nsuku zonke</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Njalo ngamaviki angu-%1$d nge-%2$s</item>
+        <item quantity="one">Njalo ngeviki nge-%2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d imicimbi</item>
+        <item quantity="one">1 umcimbi</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d imicimbi</item>
+        <item quantity="one">+1 umcimbi</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Njalo ngezinsuku ezingu-%d</item>
+        <item quantity="one">Njalo ngosuku olungu-%d</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Njalo ngamaviki angu-%d</item>
+        <item quantity="one">Njalo ngeviki elingu-%d</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Njalo ngezinyanga ezingu-%d</item>
+        <item quantity="one">Njalo ngenyanga engu-%d</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Njalo ngeminyaka engu-%d</item>
+        <item quantity="one">Njalo ngonyaka ongu-%d</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Okwemicimbi engu-%d</item>
+        <item quantity="one">Okomcimbi ongu-%d</item>
+    </plurals>
+</resources>

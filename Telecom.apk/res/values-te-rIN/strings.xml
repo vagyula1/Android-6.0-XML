@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">ఫోన్ కాల్ నిర్వహణ</string>
+    <string name="userCallActivityLabel">ఫోన్</string>
+    <string name="unknown">తెలియదు</string>
+    <string name="notification_missedCallTitle">సమాధానం ఇవ్వని కాల్</string>
+    <string name="notification_missedCallsTitle">సమాధానం ఇవ్వని కాల్‌లు</string>
+    <string name="notification_missedCallsMsg">%s సమాధానం ఇవ్వని కాల్‌లు</string>
+    <string name="notification_missedCallTicker">%s నుండి సమాధానం ఇవ్వని కాల్</string>
+    <string name="notification_missedCall_call_back">కాల్ చేయి</string>
+    <string name="notification_missedCall_message">సందేశం</string>
+    <string name="accessibility_call_muted">కాల్ మ్యూట్ చేయబడింది.</string>
+    <string name="accessibility_speakerphone_enabled">స్పీకర్ ఫోన్ ప్రారంభించబడింది.</string>
+    <string name="respond_via_sms_canned_response_1">ఇప్పుడు మాట్లాడలేను. విషయం ఏమిటి?</string>
+    <string name="respond_via_sms_canned_response_2">నేను ఇప్పుడే మీకు కాల్ చేస్తాను.</string>
+    <string name="respond_via_sms_canned_response_3">నేను మీకు తర్వాత కాల్ చేస్తాను.</string>
+    <string name="respond_via_sms_canned_response_4">ఇప్పుడు మాట్లాడలేను. నాకు తర్వాత కాల్ చేస్తారా?</string>
+    <string name="respond_via_sms_setting_title">శీఘ్ర ప్రతిస్పందనలు</string>
+    <string name="respond_via_sms_setting_title_2">శీఘ్ర ప్రతిస్పందనల సవరణ</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">శీఘ్ర ప్రతిస్పందన</string>
+    <string name="respond_via_sms_confirmation_format">%sకు సందేశం పంపబడింది.</string>
+    <string name="enable_account_preference_title">కాలింగ్ ఖాతాలు</string>
+    <string name="outgoing_call_not_allowed_user_restriction">పరికరం యజమాని అత్యవసర కాల్‌లను మాత్రమే అనుమతించారు.</string>
+    <string name="outgoing_call_not_allowed_no_permission">ఈ అనువర్తనం ఫోన్ అనుమతి లేకుండా అవుట్‌గోయింగ్ కాల్‌లను చేయలేదు.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">కాల్ చేయడానికి, చెల్లుబాటు అయ్యే నంబర్‌ను నమోదు చేయండి.</string>
+    <string name="duplicate_video_call_not_allowed">ఈ సమయంలో కాల్‌ను జోడించడం సాధ్యపడదు.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">దయచేసి వీడియో కాల్‌లు చేయడానికి TTY మోడ్ నిలిపివేయండి.</string>
+    <string name="no_vm_number">వాయిస్ మెయిల్ నంబర్ లేదు</string>
+    <string name="no_vm_number_msg">సిమ్ కార్డులో వాయిస్ మెయిల్ నంబర్ ఏదీ నిల్వ చేయబడలేదు.</string>
+    <string name="add_vm_number_str">నంబర్‌ను జోడించు</string>
+    <string name="change_default_dialer_dialog_title">డిఫాల్ట్ డయలర్ అనువర్తనాన్ని మార్చాలా?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">మీ డిఫాల్ట్ డయలర్ అనువర్తనంగా %2$s బదులు %1$sని ఉపయోగించాలా?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">మీ డిఫాల్ట్ డయలర్ అనువర్తనంగా %sని ఉపయోగించాలా?</string>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d хв</item>
+        <item quantity="one">1 хв.</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">1 хв.</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d год.</item>
+        <item quantity="one">1 год.</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d дн.</item>
+        <item quantity="one">1 дн.</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">ТИЖДЕНЬ %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; стільки разів: %d</item>
+        <item quantity="one">; один раз</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Кожні %d дн.</item>
+        <item quantity="one">Щодня</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Кожні %1$d тжн. у %2$s</item>
+        <item quantity="one">Щотижня в %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">Подій: %d</item>
+        <item quantity="one">1 подія</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">Ще події: %d</item>
+        <item quantity="one">і ще 1 подія</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Кожні %d дн.</item>
+        <item quantity="one">Кожен %d день</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Інтервал: %d тжн.</item>
+        <item quantity="one">Кожен %d тжн.</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Кожні %d міс.</item>
+        <item quantity="one">Кожен %d міс.</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Кожні %d р.</item>
+        <item quantity="one">Кожен %d рік</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Для стількох подій: %d</item>
+        <item quantity="one">Для стількох подій: %d</item>
+    </plurals>
+</resources>

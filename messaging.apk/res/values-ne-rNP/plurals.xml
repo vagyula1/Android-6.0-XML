@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d मिनेट</item>
+        <item quantity="one">%d मिनेट</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d घन्टा</item>
+        <item quantity="one">%d घन्टा</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d दिन</item>
+        <item quantity="one">%d दिन</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d हप्ता</item>
+        <item quantity="one">एक हप्ता</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d महिना</item>
+        <item quantity="one">एक महिना</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d वर्ष</item>
+        <item quantity="one">एक वर्ष</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d वार्तालापमा %2$d सन्देशहरू</item>
+        <item quantity="one">एउटा वार्तालापमा %d सन्देशहरू</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d वार्तालापमा %2$d सन्देशहरू</item>
+        <item quantity="one">एउटा वार्तालापमा %d सन्देशहरू</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d नयाँ सन्देशहरू</item>
+        <item quantity="one">नयाँ सन्देश</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">यी वार्तालापहरू मेटाउने हो?</item>
+        <item quantity="one">यो वार्तालाप मेटाउने हो?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d सहभागीहरू</item>
+        <item quantity="one">%d सहभागी</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">संलग्नकहरू खारेज गर्नुहोस्</item>
+        <item quantity="one">संलग्नक खारेज गर्नुहोस्</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d तस्बिरहरू \"%2$s \" एल्बममा सुरक्षित गरियो</item>
+        <item quantity="one">%1$d तस्बिर \"%2$s \" एल्बममा सुरक्षित गरियो</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d भिडियोहरू \"%2$s\" एल्बममा सुरक्षित गरियो</item>
+        <item quantity="one">%1$d भिडियो \"%2$s\" एल्बममा सुरक्षित गरियो</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d संलग्नकहरू \" %2$s \" एल्बममा सुरक्षित गरियो</item>
+        <item quantity="one">%1$d संलग्नक \" %2$s \" एल्बममा सुरक्षित गरियो</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d संलग्नकहरू \"डाउनलोडहरू\" मा सुरक्षित गरियो</item>
+        <item quantity="one">%d संलग्नक \"डाउनलोडहरू\" मा सुरक्षित गरियो</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">%d संलग्नकहरू सुरक्षित गरियो</item>
+        <item quantity="one">%d संलग्नक सुरक्षित गरियो</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">%d संलग्नकहरू सुरक्षित गर्न सकेन</item>
+        <item quantity="one">%d संलग्नक सुरक्षित गर्न सकेन</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">तस्बिरहरू पठाउनुहोस्</item>
+        <item quantity="one">तस्बिर पठाउनुहोस्</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">अडियोहरू पठाउनुहोस्</item>
+        <item quantity="one">अडियो पठाउनुहोस्</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">भिडियोहरू पठाउनुहोस्</item>
+        <item quantity="one">भिडियो पठाउनुहोस्</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">सम्पर्क कार्डहरू पठाउनुहोस्</item>
+        <item quantity="one">सम्पर्क कार्ड पठाउनुहोस्</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">संलग्नक पठाउनुहोस्</item>
+        <item quantity="one">संलग्नक पठाउनुहोस्</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d संलग्नकहरू पठाउनको लागि तयार</item>
+        <item quantity="one">एउटा संलग्नक पठाउनको लागि तयार</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d सम्पर्कहरू</item>
+        <item quantity="one">%d सम्पर्क</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">अमान्य सम्पर्कहरू</item>
+        <item quantity="one">अमान्य सम्पर्क</item>
+    </plurals>
+</resources>

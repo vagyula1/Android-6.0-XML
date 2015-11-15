@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d fundust</item>
+        <item quantity="one">%d fannst</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d sekúndur</item>
+        <item quantity="one">%d sekúnda</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d mínútur</item>
+        <item quantity="one">%d mínúta</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d klukkustundir</item>
+        <item quantity="one">%d klukkustund</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d talhólfsskilaboð</item>
+        <item quantity="one">%1$d talhólfsskilaboð</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d ný talhólfsskilaboð</item>
+        <item quantity="one">%d ný talhólfsskilaboð</item>
+    </plurals>
+</resources>

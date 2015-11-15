@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">אתה כעת במרחק של %1$d צעדים מלהיות מפתח.</item>
+        <item quantity="one">אתה כעת במרחק של צעד %1$d מלהיות מפתח.</item>
+        <item quantity="two">אתה כעת במרחק של %1$d צעדים מלהיות מפתח.</item>
+        <item quantity="many">אתה כעת במרחק של %1$d צעדים מלהיות מפתח.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d טביעות אצבע הוגדרו</item>
+        <item quantity="one">טביעת אצבע %1$d הוגדרה</item>
+        <item quantity="two">%1$d טביעות אצבע הוגדרו</item>
+        <item quantity="many">%1$d טביעות אצבע הוגדרו</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">‏הסיסמה צריכה להכיל %d אותיות לפחות.</item>
+        <item quantity="one">הסיסמה צריכה להכיל אות אחת לפחות.</item>
+        <item quantity="two">‏הסיסמה צריכה להכיל %d אותיות לפחות.</item>
+        <item quantity="many">‏הסיסמה צריכה להכיל %d אותיות לפחות.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">‏הסיסמה צריכה להכיל %d אותיות קטנות לפחות.</item>
+        <item quantity="one">הסיסמה צריכה להכיל אות קטנה אחת לפחות.</item>
+        <item quantity="two">‏הסיסמה צריכה להכיל %d אותיות קטנות לפחות.</item>
+        <item quantity="many">‏הסיסמה צריכה להכיל %d אותיות קטנות לפחות.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">‏הסיסמה צריכה להכיל %d אותיות גדולות לפחות.</item>
+        <item quantity="one">הסיסמה צריכה להכיל אות גדולה אחת לפחות.</item>
+        <item quantity="two">‏הסיסמה צריכה להכיל %d אותיות גדולות לפחות.</item>
+        <item quantity="many">‏הסיסמה צריכה להכיל %d אותיות גדולות לפחות.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">‏הסיסמה צריכה להכיל %d ספרות לפחות.</item>
+        <item quantity="one">הסיסמה צריכה להכיל ספרה אחת לפחות.</item>
+        <item quantity="two">‏הסיסמה צריכה להכיל %d ספרות לפחות.</item>
+        <item quantity="many">‏הסיסמה צריכה להכיל %d ספרות לפחות.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">‏הסיסמה צריכה להכיל %d סמלים מיוחדים לפחות.</item>
+        <item quantity="one">הסיסמה צריכה להכיל סמל מיוחד אחד לפחות.</item>
+        <item quantity="two">‏הסיסמה צריכה להכיל %d סמלים מיוחדים לפחות.</item>
+        <item quantity="many">‏הסיסמה צריכה להכיל %d סמלים מיוחדים לפחות.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">‏הסיסמה צריכה להכיל %d תווים לפחות שאינם אותיות.</item>
+        <item quantity="one">הסיסמה צריכה להכיל תו אחד לפחות שאינו אות.</item>
+        <item quantity="two">‏הסיסמה צריכה להכיל %d תווים לפחות שאינם אותיות.</item>
+        <item quantity="many">‏הסיסמה צריכה להכיל %d תווים לפחות שאינם אותיות.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">‏קוד PIN שגוי של כרטיס SIM. נותרו לך %d ניסיונות.</item>
+        <item quantity="one">‏קוד PIN שגוי של כרטיס SIM. נותר לך ניסיון %d לפני שיהיה עליך ליצור קשר עם הספק כדי לבטל את נעילת המכשיר.</item>
+        <item quantity="two">‏קוד PIN שגוי של כרטיס SIM. נותרו לך %d ניסיונות.</item>
+        <item quantity="many">‏קוד PIN שגוי של כרטיס SIM. נותרו לך %d ניסיונות.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">‏%d אפליקציות יכולות לקרוא הודעות</item>
+        <item quantity="one">‏אפליקציה %d יכולה לקרוא הודעות</item>
+        <item quantity="two">‏%d אפליקציות יכולות לקרוא הודעות</item>
+        <item quantity="many">‏%d אפליקציות יכולות לקרוא הודעות</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">שנה ל‘רק התראות‘ למשך %1$d דקות (עד %2$s)</item>
+        <item quantity="one">שנה ל‘רק התראות‘ למשך דקה אחת, עד %2$s</item>
+        <item quantity="two">שנה ל‘רק התראות‘ למשך %1$d דקות (עד %2$s)</item>
+        <item quantity="many">שנה ל‘רק התראות‘ למשך %1$d דקות (עד %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">שנה ל‘רק התראות‘ למשך %1$d שעות, עד %2$s</item>
+        <item quantity="one">שנה ל‘רק התראות‘ למשך שעה אחת, עד %2$s</item>
+        <item quantity="two">שנה ל‘רק התראות‘ למשך %1$d שעות, עד %2$s</item>
+        <item quantity="many">שנה ל‘רק התראות‘ למשך %1$d שעות, עד %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">הוענקו %d הרשאות</item>
+        <item quantity="one">הוענקה הרשאה %d</item>
+        <item quantity="two">הוענקו %d הרשאות</item>
+        <item quantity="many">הוענקו %d הרשאות</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">הוענקו %1$d הרשאות מתוך %2$d</item>
+        <item quantity="one">הוענקה הרשאה %1$d מתוך %2$d</item>
+        <item quantity="two">הוענקו %1$d הרשאות מתוך %2$d</item>
+        <item quantity="many">הוענקו %1$d הרשאות מתוך %2$d</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d הרשאות נוספות</item>
+        <item quantity="one">הרשאה %d נוספת</item>
+        <item quantity="two">%d הרשאות נוספות</item>
+        <item quantity="many">%d הרשאות נוספות</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d אפליקציות יכולות לפתוח את הקישורים הנתמכים שלהן</item>
+        <item quantity="one">אפליקציה אחת יכולה לפתוח את הקישורים הנתמכים שלה</item>
+        <item quantity="two">%d אפליקציות יכולות לפתוח את הקישורים הנתמכים שלהן</item>
+        <item quantity="many">%d אפליקציות יכולות לפתוח את הקישורים הנתמכים שלהן</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">ל-%d אפליקציות מותר להתעלם מהאופטימיזציה של הסוללה</item>
+        <item quantity="one">לאפליקציה אחת מותר להתעלם מהאופטימיזציה של הסוללה</item>
+        <item quantity="two">ל-%d אפליקציות מותר להתעלם מהאופטימיזציה של הסוללה</item>
+        <item quantity="many">ל-%d אפליקציות מותר להתעלם מהאופטימיזציה של הסוללה</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d אפליקציות השתמשו בזיכרון ב-%2$s האחרונות</item>
+        <item quantity="one">אפליקציה אחת השתמשה בזיכרון ב-%2$s האחרונות</item>
+        <item quantity="two">%1$d אפליקציות השתמשו בזיכרון ב-%2$s האחרונות</item>
+        <item quantity="many">%1$d אפליקציות השתמשו בזיכרון ב-%2$s האחרונות</item>
+    </plurals>
+</resources>

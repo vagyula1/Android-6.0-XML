@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Известие</item>
+        <item>Имейл</item>
+        <item>SMS</item>
+        <item>Будилник</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 минути</item>
+        <item>1 минута</item>
+        <item>5 минути</item>
+        <item>10 минути</item>
+        <item>15 минути</item>
+        <item>20 минути</item>
+        <item>25 минути</item>
+        <item>30 минути</item>
+        <item>45 минути</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>12 часа</item>
+        <item>24 часа</item>
+        <item>2 дни</item>
+        <item>1 седмица</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Няма</item>
+        <item>0 минути</item>
+        <item>1 минута</item>
+        <item>5 минути</item>
+        <item>10 минути</item>
+        <item>15 минути</item>
+        <item>20 минути</item>
+        <item>25 минути</item>
+        <item>30 минути</item>
+        <item>45 минути</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>12 часа</item>
+        <item>24 часа</item>
+        <item>2 дни</item>
+        <item>1 седмица</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Стандартно за локала</item>
+        <item>събота</item>
+        <item>неделя</item>
+        <item>понеделник</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Зает/а</item>
+        <item>На разположение</item>
+        <item>Колебливо</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Стандартно</item>
+        <item>Частно</item>
+        <item>Обществено</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>първо</item>
+        <item>второ</item>
+        <item>трето</item>
+        <item>четвърто</item>
+        <item>посл.</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Няма отговор</item>
+        <item>Да</item>
+        <item>Може би</item>
+        <item>Не</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Само това събитие</item>
+        <item>Това и бъдещи събития</item>
+        <item>Всички събития</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Това и бъдещи събития</item>
+        <item>Всички събития</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Само това събитие</item>
+        <item>Всички събития в поредицата</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Ден</item>
+        <item>Седмица</item>
+        <item>Месец</item>
+        <item>График</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Само при отхвърляне</item>
+        <item>При отхвърляне или липса на отговор</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>ПОВТАРЯНЕ ДНЕВНО</item>
+        <item>ПОВТАРЯНЕ СЕДМИЧНО</item>
+        <item>ПОВТАРЯНЕ МЕСЕЧНО</item>
+        <item>ПОВТАРЯНЕ ГОДИШНО</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>всяка първа неделя</item>
+        <item>всяка втора неделя</item>
+        <item>всяка трета неделя</item>
+        <item>всяка четвърта неделя</item>
+        <item>всяка последна неделя</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>всеки първи понеделник</item>
+        <item>всеки втори понеделник</item>
+        <item>всеки трети понеделник</item>
+        <item>всеки четвърти понеделник</item>
+        <item>всеки последен понеделник</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>всеки първи вторник</item>
+        <item>всеки втори вторник</item>
+        <item>всеки трети вторник</item>
+        <item>всеки четвърти вторник</item>
+        <item>всеки последен вторник</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>всяка първа сряда</item>
+        <item>всяка втора сряда</item>
+        <item>всяка трета сряда</item>
+        <item>всяка четвърта сряда</item>
+        <item>всяка последна сряда</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>всеки първи четвъртък</item>
+        <item>всеки втори четвъртък</item>
+        <item>всеки трети четвъртък</item>
+        <item>всеки четвърти четвъртък</item>
+        <item>всеки последен четвъртък</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>всеки първи петък</item>
+        <item>всеки втори петък</item>
+        <item>всеки трети петък</item>
+        <item>всеки четвърти петък</item>
+        <item>всеки последен петък</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>всяка първа събота</item>
+        <item>всяка втора събота</item>
+        <item>всяка трета събота</item>
+        <item>всяка четвърта събота</item>
+        <item>всяка последна събота</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Ще закъснея няколко минути.</item>
+        <item>Ще пристигна след около 10 минути.</item>
+        <item>Можете да започнете без мен.</item>
+        <item>За съжаление няма да успея. Ще трябва да пренасрочим събитието.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Центр. австрал. – Сев. територия</item>
+        <item>Центр. австрал. – Южна Австралия</item>
+        <item>Австралийско източно – Куинсланд</item>
+        <item>Австр. източно – Нови Южен Уелс</item>
+        <item>Планинско – Доусън Крийк</item>
+        <item>Центр. стандартно – Съскачеуан</item>
+        <item>Източно стандартно – Атикокан</item>
+        <item>Атлантическо стандартно – Квебек</item>
+        <item>Хавайско алеутско – Хаваи</item>
+        <item>Хавайско алеутско – Аляска</item>
+        <item>Тихоокеанско – Метлакатла</item>
+        <item>Планинско – Аризона</item>
+        <item>Тихоокеанско – Долна Калифорния</item>
+        <item>Планинско – Чихуахуа</item>
+        <item>Централно – Тамаулипас</item>
+        <item>Планинско – Сонора</item>
+        <item>Източноафриканско време</item>
+        <item>Атлантическо часово време</item>
+        <item>Атлантическо часово време</item>
+        <item>Източноевропейско време</item>
+        <item>Калининградско време</item>
+        <item>Амазонско – Рондония</item>
+        <item>Бразилско – Пара</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Синт Мартен</item>
+        <item>Карибска Нидерландия</item>
+        <item>Кюрасао</item>
+        <item>Южен Судан</item>
+    </string-array>
+</resources>

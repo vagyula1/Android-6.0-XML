@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Odgovori</item>
+        <item>Odgovori vsem</item>
+        <item>Posreduj</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Uspešno</item>
+        <item>Ni povezave</item>
+        <item>Prijava ni uspela</item>
+        <item>Varnostna napaka</item>
+        <item>Sinhroniziranje ni mogoče</item>
+        <item>Notranja napaka</item>
+        <item>Napaka strežnika</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Novejši</item>
+        <item>Starejši</item>
+        <item>Seznam pogovorov</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Po izbrisu pokaži novejši pogovor</item>
+        <item>Po izbrisu pokaži starejši pogovor</item>
+        <item>Po izbrisu pokaži seznam pogovorov</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Arhiviraj</item>
+        <item>Izbriši</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Arhiviraj</item>
+        <item>Izbriši</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Na vrhu zaslona vedno pokaži dejanja sporočil</item>
+        <item>Dejanja sporočil pokaži na vrhu zaslona samo v pokončnem načinu</item>
+        <item>Ne prikaži dejanj sporočil zunaj glave sporočila</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Vedno pokaži</item>
+        <item>Pokaži samo v pokončnem načinu</item>
+        <item>Ne pokaži</item>
+    </string-array>
+</resources>

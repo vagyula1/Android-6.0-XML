@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Mesaje nefinalizate</item>
+        <item quantity="one">Mesaj nefinalizat</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Ștergeţi aceste %1$d (de) conversaţii?</item>
+        <item quantity="one">Ștergeţi această conversaţie?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Arhivaţi aceste %1$d (de) conversaţii?</item>
+        <item quantity="one">Arhivaţi această conversaţie?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Ștergeți aceste %1$d de mesaje?</item>
+        <item quantity="one">Ștergeți acest mesaj?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Se anulează marcarea cu stea pentru %1$d (de) conversații</item>
+        <item quantity="one">Se anulează marcarea cu stea pentru %1$d conversație</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ignorate</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ignorată</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> raportate ca spam</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> raportată ca spam</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> raportate ca nefiind spam</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> raportată ca nefiind spam</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> marcate ca neimportante</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> marcată ca neimportant</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> raportate ca phishing</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> raportată ca phising</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> arhivate</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> arhivată</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> șterse</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ștearsă</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">S-au schimbat dosarele.</item>
+        <item quantity="one">S-a schimbat dosarul.</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d (de) mesaje noi</item>
+        <item quantity="one">%1$d mesaj nou</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Extindeți %1$d (de) mesaje mai vechi</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Extindeți %1$d (de) mesaje mai vechi</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d necitite</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d (de) mesaje noi</item>
+        <item quantity="one">%1$d mesaj nou</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d mesaje vor fi șterse definitiv.</item>
+        <item quantity="one">%1$d mesaj va fi șters definitiv.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d (de) mesaje</item>
+        <item quantity="one">%1$d mesaj</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d (de) atașamente</item>
+        <item quantity="one">%1$d atașament</item>
+    </plurals>
+</resources>

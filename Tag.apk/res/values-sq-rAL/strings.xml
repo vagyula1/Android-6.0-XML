@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Etiketat</string>
+    <string name="title_scanned_tag">Etiketa e re u mor</string>
+    <string name="title_existing_tag">Etiketa</string>
+    <string name="tag_unknown">Lloji i etiketës është i panjohur</string>
+    <string name="tag_empty">Etiketë boshe</string>
+    <string name="button_done">U krye!</string>
+    <string name="action_text">Dërgo mesazh te %s</string>
+    <string name="action_call">Telefono %s</string>
+    <string name="empty_tag_prompt">Kjo etiketë është bosh.</string>
+    <string name="import_vcard">Importo ^1</string>
+    <string name="mime_display_name">Të dhënat nga etiketa NFC</string>
+    <string name="vcard_title">Informacionet e kontaktit për ^1</string>
+</resources>

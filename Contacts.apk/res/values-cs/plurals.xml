@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Nalezeno: %d</item>
+        <item quantity="one">Nalezeno: 1</item>
+        <item quantity="few">Nalezeno: %d</item>
+        <item quantity="many">Nalezeno: %d</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d kontaktů s telefonním číslem</item>
+        <item quantity="one">1 kontakt s telefonním číslem</item>
+        <item quantity="few">%d kontakty s telefonním číslem</item>
+        <item quantity="many">%d kontaktu s telefonním číslem</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Nalezeno: %d</item>
+        <item quantity="one">Nalezeno: 1</item>
+        <item quantity="few">Nalezeno: %d</item>
+        <item quantity="many">Nalezeno: %d</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">sloučeno z %0$d zdrojů</item>
+        <item quantity="one">sloučení se nezdařilo</item>
+        <item quantity="few">sloučeno ze %0$d zdrojů</item>
+        <item quantity="many">sloučeno z %0$d zdroje</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d skupin</item>
+        <item quantity="one">1 skupina</item>
+        <item quantity="few">%0$d skupiny</item>
+        <item quantity="many">%0$d skupiny</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d lidí ze skupiny %2$s</item>
+        <item quantity="one">%1$d člověk ze skupiny %2$s</item>
+        <item quantity="few">%1$d lidé ze skupiny %2$s</item>
+        <item quantity="many">%1$d člověka ze skupiny %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d lidí</item>
+        <item quantity="one">%1$d člověk</item>
+        <item quantity="few">%1$d lidé</item>
+        <item quantity="many">%1$d člověka</item>
+    </plurals>
+</resources>

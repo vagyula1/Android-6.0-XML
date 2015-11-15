@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">已抓取错误报告</string>
+    <string name="bugreport_finished_text">触摸即可分享您的错误报告</string>
+    <string name="bugreport_confirm">错误报告包含的数据来自于系统的各个日志文件，其中包含个人信息和隐私信息。请务必只与您信任的应用和用户分享错误报告。</string>
+    <string name="bugreport_confirm_repeat">下次再显示这条讯息</string>
+    <string name="bugreport_storage_title">错误报告</string>
+</resources>

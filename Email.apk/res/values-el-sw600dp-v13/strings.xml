@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">Διαχείριση φακέλων</string>
+    <string name="add_cc_label">+ Κοιν./Κρ.κοιν.</string>
+    <string name="add_bcc_label">+ Κρυφή κοιν.</string>
+    <string name="preferences_default_reply_all_summary">Χρήση ως προεπιλογή για απαντήσεις σε ειδοποιήσεις μηνυμάτων</string>
+</resources>

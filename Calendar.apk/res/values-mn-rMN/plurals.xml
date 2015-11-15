@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d минут</item>
+        <item quantity="one">1 минут</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d мин</item>
+        <item quantity="one">1 мин</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d цаг</item>
+        <item quantity="one">1 цаг</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d өдөр</item>
+        <item quantity="one">1 өдөр</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">ДОЛОО ХОНОГ %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d удаа</item>
+        <item quantity="one">; нэг удаа</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d өдөр тутам</item>
+        <item quantity="one">Өдөр тутам</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d долоо хоног тутмын %2$s</item>
+        <item quantity="one">Долоо хоног бүрийн %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d үйл явдал</item>
+        <item quantity="one">1 үйл явдал</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d үйл явдал</item>
+        <item quantity="one">+1 үйл явдал</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">%d өдөр тутам</item>
+        <item quantity="one">%d өдөр тутам</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">%d долоо хоног тутам</item>
+        <item quantity="one">%d долоо хоног тутам</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">%d сар тутам</item>
+        <item quantity="one">%d сар тутам</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">%d жил тутам</item>
+        <item quantity="one">%d жил тутам</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d үйл явдалд</item>
+        <item quantity="one">%d үйл явдалд</item>
+    </plurals>
+</resources>

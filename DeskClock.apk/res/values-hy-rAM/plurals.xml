@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_duration">
+        <item quantity="other">%d րոպե</item>
+        <item quantity="one">%d րոպե</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Ննջում է %d րոպեով:</item>
+        <item quantity="one">Ննջում է %d րոպեով:</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s օր</item>
+        <item quantity="one">%s օր</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s ժամ</item>
+        <item quantity="one">%s ժամ</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s րոպե</item>
+        <item quantity="one">%s րոպե</item>
+    </plurals>
+    <plurals name="snooze_duration">
+        <item quantity="other">%s րոպե</item>
+        <item quantity="one">%s րոպե</item>
+    </plurals>
+    <plurals name="snooze_picker_label">
+        <item quantity="other">րոպե</item>
+        <item quantity="one">րոպե</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">%s րոպե</item>
+        <item quantity="one">%s րոպե</item>
+    </plurals>
+    <plurals name="Nhours_description">
+        <item quantity="other">%d ժամ</item>
+        <item quantity="one">%d ժամ</item>
+    </plurals>
+    <plurals name="Nminutes_description">
+        <item quantity="other">%d րոպե</item>
+        <item quantity="one">%d րոպե</item>
+    </plurals>
+    <plurals name="Nseconds_description">
+        <item quantity="other">%d վայրկյան</item>
+        <item quantity="one">%d վայրկյան</item>
+    </plurals>
+    <plurals name="alarm_delete_confirmation">
+        <item quantity="other">Ջնջե՞լ նշված զգուշացումները:</item>
+        <item quantity="one">Ջնջե՞լ նշված զգուշացումները:</item>
+    </plurals>
+</resources>

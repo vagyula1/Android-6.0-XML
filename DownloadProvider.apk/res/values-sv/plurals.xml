@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">%d filer hämtas</item>
+        <item quantity="one">1 fil hämtas</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d filer väntar</item>
+        <item quantity="one">1 fil väntar</item>
+    </plurals>
+</resources>

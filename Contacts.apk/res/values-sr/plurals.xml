@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">пронађено је %d</item>
+        <item quantity="one">пронађен је %d</item>
+        <item quantity="few">пронађена су %d</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d контаката са бројевима телефона</item>
+        <item quantity="one">%d контакт са бројем телефона</item>
+        <item quantity="few">%d контакта са бројевима телефона</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">пронађено је %d</item>
+        <item quantity="one">пронађен је %d</item>
+        <item quantity="few">пронађена су %d</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">обједињено је из %0$d извора</item>
+        <item quantity="one">обједињено је из %0$d извора</item>
+        <item quantity="few">обједињено је из %0$d извора</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d група</item>
+        <item quantity="one">%0$d група</item>
+        <item quantity="few">%0$d групе</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d особа са налога %2$s</item>
+        <item quantity="one">%1$d особа са налога %2$s</item>
+        <item quantity="few">%1$d особе са налога %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d особа</item>
+        <item quantity="one">%1$d особа</item>
+        <item quantity="few">%1$d особе</item>
+    </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">U gjetën %1$s printerë</item>
+        <item quantity="one">U gjet %1$s printer</item>
+    </plurals>
+    <plurals name="composite_notification_title_template">
+        <item quantity="other">%1$d punë për printim</item>
+        <item quantity="one">%1$d punë për printim</item>
+    </plurals>
+</resources>

@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>7 劃=阿必尚</item>
+        <item>7 劃=阿克拉</item>
+        <item>7 劃=阿迪斯阿貝巴</item>
+        <item>7 劃=阿爾及爾</item>
+        <item>5 劃=布藍泰爾</item>
+        <item>5 劃=布拉薩市</item>
+        <item>12 劃=開羅</item>
+        <item>5 劃=卡薩布蘭加</item>
+        <item>9 劃=柯那克里</item>
+        <item>12 劃=達卡</item>
+        <item>12 劃=達萊撒蘭</item>
+        <item>6 劃=吉布地</item>
+        <item>6 劃=自由城</item>
+        <item>14 劃=嘉柏隆里</item>
+        <item>9 劃=哈拉雷</item>
+        <item>9 劃=約翰尼斯堡</item>
+        <item>7 劃=坎帕拉</item>
+        <item>12 劃=喀土穆</item>
+        <item>11 劃=基加利</item>
+        <item>8 劃=金夏沙</item>
+        <item>8 劃=拉哥斯</item>
+        <item>10 劃=馬塞魯</item>
+        <item>15 劃=摩加迪休</item>
+        <item>8 劃=奈洛比</item>
+        <item>13 劃=聖多美</item>
+        <item>7 劃=廷巴克圖</item>
+        <item>8 劃=的黎波里</item>
+        <item>9 劃=突尼斯</item>
+        <item>6 劃=安克拉治</item>
+        <item>8 劃=門多薩</item>
+        <item>7 劃=阿魯巴</item>
+        <item>8 劃=亞松森</item>
+        <item>4 劃=巴貝多</item>
+        <item>7 劃=貝里斯</item>
+        <item>8 劃=波哥大</item>
+        <item>5 劃=布宜諾斯艾利斯</item>
+        <item>7 劃=坎昆</item>
+        <item>5 劃=卡拉卡斯</item>
+        <item>12 劃=開曼</item>
+        <item>10 劃=芝加哥</item>
+        <item>10 劃=哥斯大黎加</item>
+        <item>10 劃=庫拉索</item>
+        <item>16 劃=道森克里克</item>
+        <item>4 劃=丹佛</item>
+        <item>8 劃=底特律</item>
+        <item>6 劃=多米尼克</item>
+        <item>13 劃=愛德蒙頓</item>
+        <item>20 劃=薩爾瓦多</item>
+        <item>14 劃=福塔力沙</item>
+        <item>3 劃=大特克</item>
+        <item>10 劃=格瑞那達</item>
+        <item>5 劃=瓜地馬拉</item>
+        <item>16 劃=蓋亞那</item>
+        <item>9 劃=哈利法克斯</item>
+        <item>9 劃=哈瓦那</item>
+        <item>6 劃=印第安納波利斯</item>
+        <item>16 劃=諾克斯</item>
+        <item>10 劃=馬倫戈</item>
+        <item>13 劃=聖彼得堡</item>
+        <item>10 劃=泰爾市</item>
+        <item>12 劃=斐威</item>
+        <item>13 劃=萬塞訥</item>
+        <item>9 劃=威納麥克</item>
+        <item>8 劃=金斯頓</item>
+        <item>8 劃=拉巴斯</item>
+        <item>7 劃=利馬</item>
+        <item>9 劃=洛杉磯</item>
+        <item>13 劃=路易斯維爾</item>
+        <item>10 劃=馬拿瓜</item>
+        <item>10 劃=馬丁尼克島</item>
+        <item>8 劃=門多薩</item>
+        <item>11M 劃=梅特拉卡特拉</item>
+        <item>15 劃=墨西哥市</item>
+        <item>14 劃=蒙特雷</item>
+        <item>14 劃=蒙特維多</item>
+        <item>14 劃=蒙特婁</item>
+        <item>10 劃=拿索</item>
+        <item>10 劃=紐約</item>
+        <item>4 劃=比尤萊</item>
+        <item>4 劃=中央市</item>
+        <item>13 劃=新塞勒姆</item>
+        <item>4 劃=巴拿馬</item>
+        <item>14 劃=鳳凰城</item>
+        <item>6 劃=西班牙港</item>
+        <item>4 劃=太子港</item>
+        <item>8 劃=波多黎各</item>
+        <item>13 劃=聖多明哥</item>
+        <item>13 劃=聖保羅</item>
+        <item>13 劃=聖約翰</item>
+        <item>13 劃=聖克里斯多福</item>
+        <item>13 劃=聖露西亞</item>
+        <item>13 劃=聖湯瑪斯</item>
+        <item>12 劃=提華納</item>
+        <item>6 劃=多倫多</item>
+        <item>13 劃=溫哥華</item>
+        <item>13 劃=溫尼伯</item>
+        <item>9 劃=南極</item>
+        <item>11 劃=隆意耳拜恩</item>
+        <item>7 劃=阿爾馬提</item>
+        <item>6 劃=安曼</item>
+        <item>7 劃=阿納德爾</item>
+        <item>7 劃=阿克陶</item>
+        <item>4 劃=巴格達</item>
+        <item>4 劃=巴林</item>
+        <item>4 劃=巴庫</item>
+        <item>11 劃=曼谷</item>
+        <item>7 劃=貝魯特</item>
+        <item>5 劃=加爾各答</item>
+        <item>3 劃=大馬士革</item>
+        <item>12 劃=達卡</item>
+        <item>7 劃=杜拜</item>
+        <item>5 劃=加薩</item>
+        <item>7 劃=希伯倫</item>
+        <item>9 劃=胡志明市</item>
+        <item>9 劃=香港</item>
+        <item>6 劃=伊斯坦堡</item>
+        <item>12 劃=雅加達</item>
+        <item>9 劃=耶路撒冷</item>
+        <item>12 劃=喀布爾</item>
+        <item>12 劃=喀拉蚩</item>
+        <item>5 劃=加德滿都</item>
+        <item>6 劃=吉隆坡</item>
+        <item>9 劃=科威特</item>
+        <item>16 劃=澳門</item>
+        <item>10 劃=馬尼拉</item>
+        <item>10 劃=馬斯喀特</item>
+        <item>8 劃=金邊</item>
+        <item>5 劃=平壤</item>
+        <item>5 劃=卡達</item>
+        <item>6 劃=仰光</item>
+        <item>7 劃=利雅得</item>
+        <item>6 劃=西貢</item>
+        <item>9 劃=首爾</item>
+        <item>3 劃=上海</item>
+        <item>13 劃=新加坡</item>
+        <item>5 劃=台北</item>
+        <item>15 劃=德黑蘭</item>
+        <item>10 劃=特拉維夫</item>
+        <item>8 劃=東京</item>
+        <item>10 劃=庫倫</item>
+        <item>6 劃=百慕達</item>
+        <item>5 劃=加納利</item>
+        <item>14 劃=維德角</item>
+        <item>13 劃=雷克雅未克</item>
+        <item>5 劃=史坦萊</item>
+        <item>7 劃=阿得雷德</item>
+        <item>5 劃=布里斯本</item>
+        <item>7 劃=坎培拉</item>
+        <item>12 劃=達爾文</item>
+        <item>15 劃=墨爾本</item>
+        <item>13 劃=新南威爾斯</item>
+        <item>7 劃=伯斯</item>
+        <item>8 劃=昆士蘭</item>
+        <item>11 劃=雪梨</item>
+        <item>14 劃=維多利亞</item>
+        <item>10 劃=紐芬蘭</item>
+        <item>18 劃=薩克其萬</item>
+        <item>12 劃=復活節島</item>
+        <item>7 劃=阿姆斯特丹</item>
+        <item>6 劃=安道爾</item>
+        <item>12 劃=雅典</item>
+        <item>7 劃=貝爾法斯特</item>
+        <item>7 劃=貝爾格勒</item>
+        <item>9 劃=柏林</item>
+        <item>5 劃=布拉提斯拉瓦</item>
+        <item>5 劃=布魯塞爾</item>
+        <item>5 劃=布加勒斯特</item>
+        <item>5 劃=布達佩斯</item>
+        <item>11 劃=基希訥烏</item>
+        <item>10 劃=哥本哈根</item>
+        <item>9 劃=都柏林</item>
+        <item>8 劃=直布羅陀</item>
+        <item>14 劃=赫爾辛基</item>
+        <item>11 劃=曼島</item>
+        <item>6 劃=伊斯坦堡</item>
+        <item>11 劃=基輔</item>
+        <item>7 劃=里斯本</item>
+        <item>10 劃=倫敦</item>
+        <item>16 劃=盧森堡</item>
+        <item>10 劃=馬德里</item>
+        <item>10 劃=馬爾他</item>
+        <item>8 劃=明斯克</item>
+        <item>15 劃=摩納哥</item>
+        <item>11 劃=莫斯科</item>
+        <item>13 劃=奧斯陸</item>
+        <item>4 劃=巴黎</item>
+        <item>5 劃=布拉格</item>
+        <item>7 劃=里加</item>
+        <item>19 劃=羅馬</item>
+        <item>13 劃=聖馬利諾</item>
+        <item>13 劃=塞拉耶佛</item>
+        <item>7 劃=辛非洛浦</item>
+        <item>5 劃=史高比耶</item>
+        <item>10 劃=索非亞</item>
+        <item>12 劃=斯德哥爾摩</item>
+        <item>13 劃=塔林</item>
+        <item>11 劃=梵帝崗</item>
+        <item>14 劃=維也納</item>
+        <item>14 劃=維爾紐斯</item>
+        <item>12 劃=華沙</item>
+        <item>18 劃=薩格勒布</item>
+        <item>20 劃=蘇黎世</item>
+        <item>6 劃=安塔那那利佛</item>
+        <item>10 劃=馬爾地夫</item>
+        <item>15 劃=模里西斯</item>
+        <item>13 劃=奧克蘭</item>
+        <item>12 劃=斐濟</item>
+        <item>19 劃=關島</item>
+        <item>17 劃=檀香山</item>
+        <item>8 劃=刻里提馬提</item>
+        <item>16 劃=諾米亞</item>
+        <item>18 劃=薩摩亞</item>
+        <item>3 劃=大溪地</item>
+        <item>6 劃=安提瓜</item>
+        <item>13 劃=奧斯汀</item>
+        <item>8 劃=波士頓</item>
+        <item>5 劃=卡加立</item>
+        <item>10 劃=哥倫布</item>
+        <item>12 劃=達拉斯</item>
+        <item>16 劃=諾克斯維爾</item>
+        <item>11 劃=曼非斯</item>
+        <item>16 劃=邁阿密</item>
+        <item>8 劃=明尼阿波利斯</item>
+        <item>12 劃=渥太華</item>
+        <item>12 劃=費城</item>
+        <item>8 劃=波特蘭</item>
+        <item>13 劃=聖地牙哥</item>
+        <item>18 劃=舊金山</item>
+        <item>24 劃=鹽湖城</item>
+        <item>13 劃=聖荷西</item>
+        <item>13 劃=聖薩爾瓦多</item>
+        <item>6 劃=西雅圖</item>
+        <item>13 劃=聖路易斯</item>
+        <item>12 劃=華盛頓特區</item>
+        <item>6 劃=休士頓</item>
+        <item>13 劃=聖安東尼奧</item>
+        <item>12 劃=傑克遜維爾</item>
+        <item>4 劃=巴爾的摩</item>
+        <item>10 劃=納什維爾</item>
+        <item>11 劃=密爾瓦基</item>
+        <item>9 劃=俄克拉荷馬市</item>
+        <item>8 劃=拉斯維加斯</item>
+        <item>7 劃=阿布奎基</item>
+        <item>3 劃=土桑市</item>
+        <item>7 劃=沙加緬度</item>
+        <item>8 劃=亞特蘭大</item>
+        <item>7 劃=克里夫蘭</item>
+        <item>10 劃=紐奧良</item>
+        <item>8 劃=坦帕</item>
+        <item>4 劃=匹茲堡</item>
+        <item>7 劃=辛辛那提</item>
+        <item>3 劃=山景市</item>
+        <item>13 劃=雷諾</item>
+        <item>12 劃=黑岩市</item>
+        <item>6 劃=多哈</item>
+        <item>5 劃=北京</item>
+        <item>8 劃=孟買</item>
+        <item>15 劃=德里</item>
+        <item>3 劃=大阪</item>
+        <item>8 劃=拉合爾</item>
+        <item>18 劃=薩那</item>
+        <item>4 劃=巴塞隆納</item>
+        <item>15 劃=慕尼黑</item>
+        <item>6 劃=米蘭</item>
+        <item>8 劃=法蘭克福</item>
+        <item>8 劃=河內</item>
+        <item>6 劃=安卡拉</item>
+        <item>6 劃=班加羅爾</item>
+        <item>4 劃=巴西利亞</item>
+        <item>12 劃=開普敦</item>
+        <item>6 劃=伊斯蘭瑪巴德</item>
+        <item>7 劃=里約熱內盧</item>
+        <item>6 劃=安娜堡</item>
+        <item>12 劃=博爾德</item>
+        <item>15 劃=劍橋</item>
+        <item>9 劃=科克蘭</item>
+        <item>11 劃=麥迪遜</item>
+        <item>15 劃=廣州</item>
+        <item>10 劃=海得拉巴</item>
+        <item>13 劃=雷斯頓</item>
+        <item>9 劃=美景市</item>
+        <item>13 劃=聖地牙哥</item>
+        <item>14 劃=蒙羅維亞</item>
+        <item>5 劃=可倫坡</item>
+        <item>8 劃=奇瓦瓦</item>
+        <item>18 劃=薩爾瓦多</item>
+        <item>5 劃=古爾岡</item>
+        <item>11 劃=曼徹斯特</item>
+        <item>11 劃=基輔</item>
+        <item>13 劃=聖彼得堡</item>
+        <item>7 劃=克拉科夫</item>
+        <item>5 劃=弗羅茨瓦夫</item>
+        <item>14 劃=漢堡</item>
+        <item>13 劃=奧盧</item>
+        <item>10 劃=海法</item>
+        <item>13 劃=聖胡安</item>
+        <item>15 劃=德古斯加巴</item>
+        <item>4 劃=巴拉馬利波</item>
+        <item>11 劃=基多</item>
+        <item>16 劃=盧比安納</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>還剩下不到 1 分鐘</item>
+        <item>還剩下 %1$s</item>
+        <item>還剩下 %2$s</item>
+        <item>還剩下 %1$s %2$s</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>已將鬧鐘設定在 1 分鐘內啟動。</item>
+        <item>已將鬧鐘設定在 %1$s後啟動。</item>
+        <item>已將鬧鐘設定在 %2$s後啟動。</item>
+        <item>已將鬧鐘設定在 %1$s又 %2$s後啟動。</item>
+        <item>已將鬧鐘設定在 %3$s後啟動。</item>
+        <item>已將鬧鐘設定在 %1$s又 %3$s後啟動。</item>
+        <item>已將鬧鐘設定在 %2$s又 %3$s後啟動。</item>
+        <item>已將鬧鐘設定在 %1$s %2$s又 %3$s後啟動。</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>1 分鐘</item>
+        <item>5 分鐘</item>
+        <item>10 分鐘</item>
+        <item>15 分鐘</item>
+        <item>20 分鐘</item>
+        <item>25 分鐘</item>
+        <item>無限期</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>星期六</item>
+        <item>星期日</item>
+        <item>星期一</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>暫停</item>
+        <item>關閉</item>
+        <item>不執行任何動作</item>
+    </string-array>
+    <string-array name="sw_lap_number_set">
+        <item>\# %d</item>
+        <item>\# %02d</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>您簡直就像閃電俠。</item>
+        <item>盡情享受辛勞過後的果實。</item>
+        <item>Android 的速度這麼快，但還跟不上您！</item>
+        <item>差強人意。</item>
+        <item>果然是高手。</item>
+        <item>迅雷不及掩耳。</item>
+        <item>再玩一次時空跳躍。</item>
+        <item>往左邊跳。</item>
+        <item>您的身手真敏捷。</item>
+        <item>電光飆速。</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>類比</item>
+        <item>數位</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>馬歇爾群島</item>
+        <item>中途島</item>
+        <item>夏威夷</item>
+        <item>阿拉斯加</item>
+        <item>太平洋時間</item>
+        <item>蒂華納</item>
+        <item>亞利桑那</item>
+        <item>赤瓦瓦</item>
+        <item>山區時間</item>
+        <item>中美洲</item>
+        <item>中部時間</item>
+        <item>墨西哥城</item>
+        <item>薩克其萬</item>
+        <item>波哥大</item>
+        <item>東部時間</item>
+        <item>委內瑞拉</item>
+        <item>大西洋時間 (巴貝多)</item>
+        <item>大西洋時間 (加拿大)</item>
+        <item>瑪瑙斯</item>
+        <item>聖地牙哥</item>
+        <item>紐芬蘭</item>
+        <item>巴西利亞</item>
+        <item>布宜諾斯艾利斯</item>
+        <item>格陵蘭島</item>
+        <item>蒙特維多</item>
+        <item>大西洋中部</item>
+        <item>亞速爾群島</item>
+        <item>維德角群島</item>
+        <item>卡薩布蘭加</item>
+        <item>倫敦、都柏林</item>
+        <item>阿姆斯特丹、柏林</item>
+        <item>貝爾格勒</item>
+        <item>布魯塞爾</item>
+        <item>塞拉耶佛</item>
+        <item>溫特和克</item>
+        <item>非洲西部時間</item>
+        <item>安曼、約旦</item>
+        <item>雅典、伊斯坦堡</item>
+        <item>貝魯特、黎巴嫩</item>
+        <item>開羅</item>
+        <item>赫爾辛基</item>
+        <item>耶路撒冷</item>
+        <item>明斯克</item>
+        <item>哈拉雷</item>
+        <item>巴格達</item>
+        <item>莫斯科</item>
+        <item>科威特</item>
+        <item>奈洛比</item>
+        <item>德黑蘭</item>
+        <item>巴庫</item>
+        <item>第比利斯</item>
+        <item>埃里溫</item>
+        <item>杜拜</item>
+        <item>喀布爾</item>
+        <item>伊斯蘭馬巴德、喀拉蚩</item>
+        <item>烏拉爾</item>
+        <item>凱薩琳堡</item>
+        <item>加爾各答</item>
+        <item>斯里蘭卡</item>
+        <item>加德滿都</item>
+        <item>阿斯塔納</item>
+        <item>仰光</item>
+        <item>克拉斯諾亞爾斯克</item>
+        <item>曼谷</item>
+        <item>北京</item>
+        <item>香港</item>
+        <item>伊爾庫次克</item>
+        <item>吉隆坡</item>
+        <item>伯斯</item>
+        <item>台北</item>
+        <item>首爾</item>
+        <item>東京、大阪</item>
+        <item>亞庫次克</item>
+        <item>阿德萊德</item>
+        <item>達爾文</item>
+        <item>布里斯本</item>
+        <item>荷巴特</item>
+        <item>雪梨、坎培拉</item>
+        <item>海參威</item>
+        <item>關島</item>
+        <item>馬加丹</item>
+        <item>奧克蘭</item>
+        <item>斐濟</item>
+        <item>東加</item>
+        <item>雅加達</item>
+    </string-array>
+</resources>

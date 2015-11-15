@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d րոպե</item>
+        <item quantity="one">%d րոպե</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d ժամ</item>
+        <item quantity="one">%d ժամ</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d օր</item>
+        <item quantity="one">%d օր</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d շաբաթ</item>
+        <item quantity="one">%d շաբաթ</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d ամիս</item>
+        <item quantity="one">%d ամիս</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d տարի</item>
+        <item quantity="one">%d տարի</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d հաղորդագրություն %2$d խոսակցությունում</item>
+        <item quantity="one">%1$d հաղորդագրություն %2$d խոսակցությունում</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d հաղորդագրություն %2$d խոսակցությունում</item>
+        <item quantity="one">%1$d հաղորդագրություն %2$d խոսակցությունում</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d նոր հաղորդագրություն</item>
+        <item quantity="one">%d նոր հաղորդագրություն</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">Ջնջե՞լ այս խոսակցությունները:</item>
+        <item quantity="one">Ջնջե՞լ այս խոսակցությունները:</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d մասնակից</item>
+        <item quantity="one">%d մասնակից</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">Հեռացնել կցորդները</item>
+        <item quantity="one">Հեռացնել կցորդները</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">«%1$s» ալբոմում պահվել է %2$d լուսանկար</item>
+        <item quantity="one">«%1$s» ալբոմում պահվել է %2$d լուսանկար</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">«%1$s» ալբոմում պահվել է %2$d տեսանյութ</item>
+        <item quantity="one">«%1$s» ալբոմում պահվել է %2$d տեսանյութ</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">«%1$s» ալբոմում պահվել է %2$d կցորդ</item>
+        <item quantity="one">«%1$s» ալբոմում պահվել է %2$d կցորդ</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">«Ներբեռնումներ» պանակում պահվել է %d կցորդ</item>
+        <item quantity="one">«Ներբեռնումներ» պանակում պահվել է %d կցորդ</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">%d կցորդ պահվեց</item>
+        <item quantity="one">%d կցորդ պահվեց</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">Չհաջողվեց պահել %d կցորդ</item>
+        <item quantity="one">Չհաջողվեց պահել %d կցորդ</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">Ուղարկել լուսանկարները</item>
+        <item quantity="one">Ուղարկել լուսանկարները</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">Ուղարկել ձայնագրությունները</item>
+        <item quantity="one">Ուղարկել ձայնագրությունները</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">Ուղարկել տեսանյութերը</item>
+        <item quantity="one">Ուղարկել տեսանյութերը</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">Ուղարկել կոնտակտի քարտերը</item>
+        <item quantity="one">Ուղարկել կոնտակտի քարտերը</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">Ուղարկել կցորդները</item>
+        <item quantity="one">Ուղարկել կցորդները</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d կցորդ պատրաստ է ուղարկելու համար</item>
+        <item quantity="one">%d կցորդ պատրաստ է ուղարկելու համար</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d կոնտակտ</item>
+        <item quantity="one">%d կոնտակտ</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">Անվավեր կոնտակտներ</item>
+        <item quantity="one">Անվավեր կոնտակտներ</item>
+    </plurals>
+</resources>

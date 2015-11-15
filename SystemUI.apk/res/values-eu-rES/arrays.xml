@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Bilatzen…</item>
+        <item>Konektatzen…</item>
+        <item>Autentifikatzen…</item>
+        <item>IP helbidea lortzen…</item>
+        <item>Konektatuta</item>
+        <item>Etenda</item>
+        <item>Deskonektatzen…</item>
+        <item>Deskonektatuta</item>
+        <item>Ezin izan da konektatu</item>
+        <item>Blokeatuta</item>
+        <item>Konexio ahula aldi baterako saihesten</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Bilatzen…</item>
+        <item>%1$s sarera konektatzen…</item>
+        <item>%1$s sarearekin autentifikatzen…</item>
+        <item>%1$s sarearen IP helbidea lortzen…</item>
+        <item>%1$s sarera konektatuta</item>
+        <item>Etenda</item>
+        <item>%1$s saretik deskonektatzen…</item>
+        <item>Deskonektatuta</item>
+        <item>Ezin izan da konektatu</item>
+        <item>Blokeatuta</item>
+        <item>Konexio ahula aldi baterako saihesten</item>
+    </string-array>
+</resources>

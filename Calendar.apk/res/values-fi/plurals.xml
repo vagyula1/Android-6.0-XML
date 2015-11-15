@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d minuuttia</item>
+        <item quantity="one">1 minuutti</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">1 tunti</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d päivää</item>
+        <item quantity="one">1 päivä</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">VIIKKO %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d kertaa</item>
+        <item quantity="one">yhden kerran</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Joka %d. päivä</item>
+        <item quantity="one">Päivittäin</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d viikon välein joka %2$s</item>
+        <item quantity="one">Viikoittain joka %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d tapahtumaa</item>
+        <item quantity="one">1 tapahtuma</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+ %d tapahtumaa</item>
+        <item quantity="one">+ 1 tapahtuma</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">%d päivän välein</item>
+        <item quantity="one">%d päivän välein</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">%d viikon välein</item>
+        <item quantity="one">%d viikon välein</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">%d kuukauden välein</item>
+        <item quantity="one">%d kuukauden välein</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">%d vuoden välein</item>
+        <item quantity="one">%d vuoden välein</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d tapahtuman ajan</item>
+        <item quantity="one">%d tapahtuman ajan</item>
+    </plurals>
+</resources>

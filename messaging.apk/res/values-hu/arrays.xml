@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>nincs tárgy</item>
+        <item>nincs tárgy</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Igen</item>
+        <item>Nem</item>
+        <item>OK</item>
+        <item>Haha!</item>
+        <item>Köszönöm!</item>
+        <item>Egyetértek</item>
+        <item>Ügyes</item>
+        <item>Úton vagyok</item>
+        <item>Rendben, később jelentkezem</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

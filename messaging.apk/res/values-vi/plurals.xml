@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d phút</item>
+        <item quantity="one">%d phút</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d giờ</item>
+        <item quantity="one">%d giờ</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d ngày</item>
+        <item quantity="one">%d ngày</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d tuần</item>
+        <item quantity="one">một tuần</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d tháng</item>
+        <item quantity="one">một tháng</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d năm</item>
+        <item quantity="one">một năm</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d tin nhắn trong %2$d cuộc trò chuyện</item>
+        <item quantity="one">%d tin nhắn trong một cuộc trò chuyện</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d tin nhắn trong %2$d cuộc trò chuyện</item>
+        <item quantity="one">%d tin nhắn trong một cuộc trò chuyện</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d tin nhắn mới</item>
+        <item quantity="one">Tin nhắn mới</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">Xóa những cuộc trò chuyện này?</item>
+        <item quantity="one">Xóa cuộc trò chuyện này?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d người tham gia</item>
+        <item quantity="one">%d người tham gia</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">Hủy tệp đính kèm</item>
+        <item quantity="one">Hủy tệp đính kèm</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d ảnh đã được lưu vào album \"%2$s\"</item>
+        <item quantity="one">%1$d ảnh đã được lưu vào album \"%2$s\"</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d video đã được lưu vào album \"%2$s\"</item>
+        <item quantity="one">%1$d video đã được lưu vào album \"%2$s\"</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d tệp đính kèm đã được lưu vào album \"%2$s\"</item>
+        <item quantity="one">%1$d tệp đính kèm đã được lưu vào album \"%2$s\"</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d tệp đính kèm đã được lưu vào \"Nội dung tải xuống\"</item>
+        <item quantity="one">%d tệp đính kèm đã được lưu vào \"Nội dung tải xuống\"</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">Đã lưu %d tệp đính kèm</item>
+        <item quantity="one">Đã lưu %d tệp đính kèm</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">Không thể lưu %d tệp đính kèm</item>
+        <item quantity="one">Không thể lưu %d tệp đính kèm</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">Gửi ảnh</item>
+        <item quantity="one">Gửi ảnh</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">Gửi âm thanh</item>
+        <item quantity="one">Gửi âm thanh</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">Gửi video</item>
+        <item quantity="one">Gửi video</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">Gửi danh thiếp</item>
+        <item quantity="one">Gửi danh thiếp</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">Gửi tệp đính kèm</item>
+        <item quantity="one">Gửi tệp đính kèm</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d tệp đính kèm đã sẵn sàng gửi</item>
+        <item quantity="one">Một tệp đính kèm đã sẵn sàng gửi</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d liên hệ</item>
+        <item quantity="one">%d liên hệ</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">Liên hệ không hợp lệ</item>
+        <item quantity="one">Liên hệ không hợp lệ</item>
+    </plurals>
+</resources>

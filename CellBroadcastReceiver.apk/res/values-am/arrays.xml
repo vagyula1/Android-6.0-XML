@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 ሰከንዶች</item>
+        <item>4 ሰከንዶች</item>
+        <item>6 ሰከንዶች</item>
+        <item>8 ሰከንዶች</item>
+        <item>10 ሰከንዶች</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>አንዴ</item>
+        <item>በየ2 ደቂቃዎች</item>
+        <item>በየ15 ደቂቃዎች</item>
+        <item>ጠፍቷል</item>
+    </string-array>
+</resources>

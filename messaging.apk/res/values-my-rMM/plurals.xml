@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d မိနစ်</item>
+        <item quantity="one">%d မိနစ်</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d နာရီ</item>
+        <item quantity="one">%d နာရီ</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d ရက်</item>
+        <item quantity="one">%d ရက်</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d ပတ်</item>
+        <item quantity="one">၁ ပတ်</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d လ</item>
+        <item quantity="one">တစ်လ</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d နှစ်</item>
+        <item quantity="one">တစ်နှစ်</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">စာတိုများ %1$d ခုမှာ စကားပြောခန်း %2$d ခု အတွင်းတွင် ဖြစ်၏</item>
+        <item quantity="one">စကားပြောခန်းတစ်ခုတွင်းရှိ စာတိုများ %d ခု</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">စာတိုများ %1$d ခုမှာ စကားပြောခန်း %2$d ခု အတွင်းတွင် ဖြစ်၏</item>
+        <item quantity="one">စကားပြောခန်းတစ်ခုတွင်းရှိ စာတိုများ %d ခု</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d စာအသစ်</item>
+        <item quantity="one">စာအသစ်</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">ဤစကားဝိုင်းများအား ဖျက်မည်လား?</item>
+        <item quantity="one">ဤစကားဝိုင်းအား ဖျက်မည်လား?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">ပါဝင်သူ %d ယောက်</item>
+        <item quantity="one">ပါဝင်သူ %d ယောက်</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">ပူးတွဲပါဖိုင်များအား ဖယ်ရှားပါ</item>
+        <item quantity="one">ပူးတွဲပါဖိုင်အား ဖယ်ရှားပါ</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d ဓါတ်ပုံများကို \"%2$s\" အယ်လ်ဘမ်သို့ သိမ်းဆည်းပြီးပါပြီ</item>
+        <item quantity="one">%1$d ဓါတ်ပုံကို \"%2$s\" အယ်လ်ဘမ်သို့ သိမ်းဆည်းပြီးပါပြီ</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d ဗီဒီယိုများကို \"%2$s\" အယ်လ်ဘမ်သို့ သိမ်းဆည်းပြီးပါပြီ</item>
+        <item quantity="one">%1$d ဗီဒီယိုကို \"%2$s\" အယ်လ်ဘမ်သို့ သိမ်းဆည်းပြီးပါပြီ</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d ပူးတွဲပါဖိုင်များကို \"%2$s\" အယ်လ်ဘမ်သို့ သိမ်းဆည်းပြီးပါပြီ</item>
+        <item quantity="one">%1$d ပူးတွဲပါဖိုင်ကို \"%2$s\" အယ်လ်ဘမ်သို့ သိမ်းဆည်းပြီးပါပြီ</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d ပူးတွဲပါဖိုင်များကို \"ဒေါင်းလုဒ်များ\" သို့ သိမ်းဆည်းပြီ:ပါပြီ</item>
+        <item quantity="one">%d ပူးတွဲပါဖိုင်ကို \"ဒေါင်းလုဒ်များ\" သို့ သိမ်းဆည်းပြီးပါပြီ</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">ပူးတွဲပါဖိုင် %d ဖိုင် သိမ်းဆည်းပြီး၏</item>
+        <item quantity="one">ပူးတွဲပါဖိုင် %d ဖိုင် သိမ်းဆည်းပြီး၏</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">ပူးတွဲပါဖိုင် %d အား မသိမ်းဆည်းနိုင်ခဲ့ပါ</item>
+        <item quantity="one">ပူးတွဲပါဖိုင် %d ဖိုင်အား မသိမ်းဆည်းနိုင်ခဲ့ပါ</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">ဓာတ်ပုံများ ပို့ရန်</item>
+        <item quantity="one">ဓာတ်ပုံ ပို့ရန်</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">အသံဖိုင်များ ပို့ရန်</item>
+        <item quantity="one">အသံဖိုင် ပို့ရန်</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">ဗီဒီယိုများ ပို့ရန်</item>
+        <item quantity="one">ဗီဒီယို ပို့ရန်</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">အဆက်အသွယ်ကဒ်များ ပို့ရန်</item>
+        <item quantity="one">အဆက်အသွယ်ကဒ် ပို့ရန်</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">ပူးတွဲပါဖိုင်များ ပို့ရန်</item>
+        <item quantity="one">ပူးတွဲပါဖိုင် ပို့ရန်</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">ပူးတွဲဖိုင် %d ဖိုင် ပို့ရန် အဆင်သင့်ဖြစ်၏</item>
+        <item quantity="one">ပူးတွဲဖိုင်တစ်ဖိုင် ပို့ရန် အဆင်သင့်ဖြစ်၏</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d အဆက်အသွယ်</item>
+        <item quantity="one">%d အဆက်အသွယ်</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">အဆက်အသွယ်များ မမှန်ကန်ပါ</item>
+        <item quantity="one">အဆက်အသွယ် မမှန်ကန်ပါ</item>
+    </plurals>
+</resources>

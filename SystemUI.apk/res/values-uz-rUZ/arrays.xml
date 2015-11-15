@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Tekshirib chiqilmoqda…</item>
+        <item>Ulanmoqda…</item>
+        <item>Tasdiqdan o‘tilmoqda…</item>
+        <item>IP manzil o‘zlashtirilmoqda…</item>
+        <item>Ulangan</item>
+        <item>Muzlatildi</item>
+        <item>Uzilmoqda…</item>
+        <item>Uzilgan</item>
+        <item>Muvaffaqiyatsiz</item>
+        <item>To‘sib qo‘yilgan</item>
+        <item>Sifatsiz ulanishdan vaqtinchalik chetlashish</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Tekshirilmoqda…</item>
+        <item>%1$s tarmog‘iga ulanilmoqda…</item>
+        <item>%1$s bilan aloqa o‘rnatilyapti…</item>
+        <item>%1$s IP manzil beryapti…</item>
+        <item>%1$s tarmog‘iga ulanildi</item>
+        <item>Muzlatildi</item>
+        <item>%1$s tarmog‘idan uzilmoqda…</item>
+        <item>Uzildi</item>
+        <item>Muvaffaqiyatsiz</item>
+        <item>To‘sib qo‘yilgan</item>
+        <item>Sifatsiz ulanishdan vaqtinchalik chetlashish</item>
+    </string-array>
+</resources>

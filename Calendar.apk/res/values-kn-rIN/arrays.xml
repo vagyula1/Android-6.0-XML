@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>ಅಧಿಸೂಚನೆ</item>
+        <item>ಇಮೇಲ್</item>
+        <item>SMS</item>
+        <item>ಆಲಾರಾಂ</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 ನಿಮಿಷಗಳು</item>
+        <item>1 ನಿಮಿಷ</item>
+        <item>5 ನಿಮಿಷಗಳು</item>
+        <item>10 ನಿಮಿಷಗಳು</item>
+        <item>15 ನಿಮಿಷಗಳು</item>
+        <item>20 ನಿಮಿಷಗಳು</item>
+        <item>25 ನಿಮಿಷಗಳು</item>
+        <item>30 ನಿಮಿಷಗಳು</item>
+        <item>45 ನಿಮಿಷಗಳು</item>
+        <item>1 ಗಂಟೆ</item>
+        <item>2 ಗಂಟೆಗಳು</item>
+        <item>3 ಗಂಟೆಗಳು</item>
+        <item>12 ಗಂಟೆಗಳು</item>
+        <item>24 ಗಂಟೆಗಳು</item>
+        <item>2 ದಿನಗಳು</item>
+        <item>1 ವಾರ</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>ಯಾವುದೂ ಇಲ್ಲ</item>
+        <item>0 ನಿಮಿಷಗಳು</item>
+        <item>1 ನಿಮಿಷ</item>
+        <item>5 ನಿಮಿಷಗಳು</item>
+        <item>10 ನಿಮಿಷಗಳು</item>
+        <item>15 ನಿಮಿಷಗಳು</item>
+        <item>20 ನಿಮಿಷಗಳು</item>
+        <item>25 ನಿಮಿಷಗಳು</item>
+        <item>30 ನಿಮಿಷಗಳು</item>
+        <item>45 ನಿಮಿಷಗಳು</item>
+        <item>1 ಗಂಟೆ</item>
+        <item>2 ಗಂಟೆಗಳು</item>
+        <item>3 ಗಂಟೆಗಳು</item>
+        <item>12 ಗಂಟೆಗಳು</item>
+        <item>24 ಗಂಟೆಗಳು</item>
+        <item>2 ದಿನಗಳು</item>
+        <item>1 ವಾರ</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>ಸ್ಥಳೀಯ ಡೀಫಾಲ್ಟ್‌‌</item>
+        <item>ಶನಿವಾರ</item>
+        <item>ಭಾನುವಾರ</item>
+        <item>ಸೋಮವಾರ</item>
+    </string-array>
+    <string-array name="availability">
+        <item>ಕಾರ್ಯನಿರತ</item>
+        <item>ಲಭ್ಯ</item>
+        <item>ಪ್ರಾಯೋಗಿಕ</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>ಡೀಫಾಲ್ಟ್</item>
+        <item>ಖಾಸಗಿ</item>
+        <item>ಸಾರ್ವಜನಿಕ</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>ಮೊದಲು</item>
+        <item>ಸೆಕೆಂಡು</item>
+        <item>ಮೂರನೇ</item>
+        <item>ನಾಲ್ಕನೆಯ</item>
+        <item>ಕೊನೆಯ</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>ಯಾವುದೇ ಪ್ರತಿಕ್ರಿಯೆ ಇಲ್ಲ</item>
+        <item>ಹೌದು</item>
+        <item>ಬಹುಶಃ</item>
+        <item>ಇಲ್ಲ</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>ಈ ಈವೆಂಟ್ ಮಾತ್ರ</item>
+        <item>ಇದು ಮತ್ತು ಭವಿಷ್ಯದ ಈವೆಂಟ್‌ಗಳು</item>
+        <item>ಎಲ್ಲ ಈವೆಂಟ್‌ಗಳು</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>ಇದು &amp; ಭವಿಷ್ಯದ ಈವೆಂಟ್‌ಗಳು</item>
+        <item>ಎಲ್ಲ ಈವೆಂಟ್‌ಗಳು</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>ಈ ಈವೆಂಟ್ ಮಾತ್ರ</item>
+        <item>ಸರಣಿಯಲ್ಲಿನ ಎಲ್ಲಾ ಈವೆಂಟ್‌ಗಳು</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>ದಿನ</item>
+        <item>ವಾರ</item>
+        <item>ತಿಂಗಳು</item>
+        <item>ಕಾರ್ಯಸೂಚಿ</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>ನಿರಾಕರಿಸಿದರೆ ಮಾತ್ರ</item>
+        <item>ಒಂದು ವೇಳೆ ನಿರಾಕರಿಸಿದರೆ ಅಥವಾ ಪ್ರತಿಕ್ರಿಯಿಸದಿದ್ದರೆ</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>ಪ್ರತಿದಿನ ಪುನರಾವರ್ತಿಸು</item>
+        <item>ವಾರ ಪುನರಾವರ್ತಿಸು</item>
+        <item>ತಿಂಗಳು ಪುನರಾವರ್ತಿಸು</item>
+        <item>ವಾರ್ಷಿಕ ಪುನರಾವರ್ತಿಸು</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>ಪ್ರತಿ ಮೊದಲ ಭಾನುವಾರ</item>
+        <item>ಪ್ರತಿ ಎರಡನೇ ಭಾನುವಾರ</item>
+        <item>ಪ್ರತಿ ಮೂರನೇ ಭಾನುವಾರ</item>
+        <item>ಪ್ರತಿ ನಾಲ್ಕನೇ ಭಾನುವಾರ</item>
+        <item>ಪ್ರತಿ ಕೊನೆಯ ಭಾನುವಾರ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ಪ್ರತಿ ಮೊದಲ ಸೋಮವಾರ</item>
+        <item>ಪ್ರತಿ ಎರಡನೇ ಸೋಮವಾರ</item>
+        <item>ಪ್ರತಿ ಮೂರನೇ ಸೋಮವಾರ</item>
+        <item>ಪ್ರತಿ ನಾಲ್ಕನೇ ಸೋಮವಾರ</item>
+        <item>ಪ್ರತಿ ಕೊನೆಯ ಸೋಮವಾರ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ಪ್ರತಿ ಮೊದಲ ಮಂಗಳವಾರ</item>
+        <item>ಪ್ರತಿ ಎರಡನೇ ಮಂಗಳವಾರ</item>
+        <item>ಪ್ರತಿ ಮೂರನೇ ಮಂಗಳವಾರ</item>
+        <item>ಪ್ರತಿ ನಾಲ್ಕನೇ ಮಂಗಳವಾರ</item>
+        <item>ಪ್ರತಿ ಕೊನೆಯ ಮಂಗಳವಾರ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>ಪ್ರತಿ ಮೊದಲ ಬುಧವಾರ</item>
+        <item>ಪ್ರತಿ ಎರಡನೇ ಬುಧವಾರ</item>
+        <item>ಪ್ರತಿ ಮೂರನೇ ಬುಧವಾರ</item>
+        <item>ಪ್ರತಿ ನಾಲ್ಕನೇ ಬುಧವಾರ</item>
+        <item>ಪ್ರತಿ ಕೊನೆಯ ಬುಧವಾರ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ಪ್ರತಿ ಮೊದಲ ಗುರುವಾರ</item>
+        <item>ಪ್ರತಿ ಎರಡನೇ ಗುರುವಾರ</item>
+        <item>ಪ್ರತಿ ಮೂರನೇ ಗುರುವಾರ</item>
+        <item>ಪ್ರತಿ ನಾಲ್ಕನೇ ಗುರುವಾರ</item>
+        <item>ಪ್ರತಿ ಕೊನೆಯ ಗುರುವಾರ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>ಪ್ರತಿ ಮೊದಲ ಶುಕ್ರವಾರ</item>
+        <item>ಪ್ರತಿ ಎರಡನೇ ಶುಕ್ರವಾರ</item>
+        <item>ಪ್ರತಿ ಮೂರನೇ ಶುಕ್ರವಾರ</item>
+        <item>ಪ್ರತಿ ನಾಲ್ಕನೇ ಶುಕ್ರವಾರ</item>
+        <item>ಪ್ರತಿ ಕೊನೆಯ ಶುಕ್ರವಾರ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ಪ್ರತಿ ಮೊದಲ ಶನಿವಾರ</item>
+        <item>ಪ್ರತಿ ಎರಡನೇ ಶನಿವಾರ</item>
+        <item>ಪ್ರತಿ ಮೂರನೇ ಶನಿವಾರ</item>
+        <item>ಪ್ರತಿ ನಾಲ್ಕನೇ ಶನಿವಾರ</item>
+        <item>ಪ್ರತಿ ಕೊನೆಯ ಶನಿವಾರ</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>ಒಂದೆರಡು ನಿಮಿಷ ತಡವಾಗಿ ಆರಂಭವಾಗುತ್ತಿದೆ.</item>
+        <item>10 ನಿಮಿಷಗಳಲ್ಲಿ ಅಲ್ಲಿರಿ.</item>
+        <item>ಮುಂದುವರಿಯಿರಿ ಮತ್ತು ನಾನಿಲ್ಲದೇ ಆರಂಭಿಸಿ.</item>
+        <item>ಕ್ಷಮಿಸಿ, ನನಗೆ ಸಾಧ್ಯವಿಲ್ಲ. ನಾವು ವೇಳಾಪಟ್ಟಿಯನ್ನು ಬದಲಾಯಿಸಬೇಕಾಗಿದೆ.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>ಆಸ್ಟ್ರೇಲಿಯನ್ ಸೆಂಟ್ರಲ್ - NT</item>
+        <item>ಆಸ್ಟ್ರೇಲಿಯನ್ ಸೆಂಟ್ರಲ್ - SA</item>
+        <item>ಆಸ್ಟ್ರೇಲಿಯನ್ ಈಸ್ಟ್ರನ್ - QLD</item>
+        <item>"ಆಸ್ಟ್ರೇಲಿಯನ್ ಈಸ್ಟ್ರನ್  - NSW"</item>
+        <item>ಮೌಂಟನ್ ಸ್ಟ್ಯಾಂಡರ್ಡ್ - ಡಾವ್ಸನ್ ಕ್ರೀಕ್</item>
+        <item>ಸೆಂಟ್ರಲ್ ಸ್ಟ್ಯಾಂಡರ್ಡ್ - ಸಾಸ್ಕಾಚೆವನ್</item>
+        <item>ಈಸ್ಟರ್ನ್ ಸ್ಟ್ಯಾಂಡರ್ಡ್ - ಅತಿಕೊಕನ್‌</item>
+        <item>ಅಟ್ಲಾಂಟಿಕ್ ಸ್ಟ್ಯಾಂಡರ್ಡ್ - ಕ್ವಿಬೆಕ್</item>
+        <item>ಹವಾಯಿ ಅಲುಟಿಯನ್ - ಹವಾಯಿ</item>
+        <item>ಹವಾಯಿ ಅಲುಟಿಯನ್ - ಅಲಾಸ್ಕನ್</item>
+        <item>ಪೆಸಿಫಿಕ್ ಸ್ಟ್ಯಾಂಡರ್ಡ್ - ಮೆಟ್ಲಾಕಟ್ಲಾ</item>
+        <item>ಮೌಂಟನ್ ಸ್ಟ್ಯಾಂಡರ್ಡ್ - ಅರಿಜೋನಾ</item>
+        <item>ಪೆಸಿಫಿಕ್ - ಬಾಜಾ ಕ್ಯಾಲಿಫೊರ್ನಿಯಾ</item>
+        <item>ಮೌಂಟೇನ್ - ಚಿಹುವಾ</item>
+        <item>ಸೆಂಟ್ರಲ್ - ತಮೌಲಿಪಾಸ್</item>
+        <item>ಮೌಂಟೇನ್ - ಸೋನೋರಾ</item>
+        <item>ಪೂರ್ವ ಆಫ್ರಿಕಾ ಸಮಯ</item>
+        <item>ಅಟ್ಲಾಂಟಿಕ್ ಪ್ರಮಾಣಿತ ಸಮಯ</item>
+        <item>ಅಟ್ಲಾಂಟಿಕ್ ಪ್ರಮಾಣಿತ ಸಮಯ</item>
+        <item>ಪೂರ್ವ ಯುರೋಪಿಯನ್ ಸಮಯ</item>
+        <item>ಕಲಿನಿಂಗ್ರಾಡ್‌ ಸಮಯ</item>
+        <item>ಅಮೆಜಾನ್ - ರೊಂಡೊನಿಯಾ</item>
+        <item>ಬ್ರೆಜಿಲಿಯಾ - ಪಾರಾ</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>ಸಿಂಟ್ ಮಾರ್ಟನ್</item>
+        <item>ಕೆರೀಬಿಯನ್ ನೆದರ್‌ಲ್ಯಾಂಡ್ಸ್</item>
+        <item>ಕುರಾಕಾವ್</item>
+        <item>ದಕ್ಷಿಣ ಸೂಡಾನ್</item>
+    </string-array>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Dasturchi sifatida ro‘yxatdan o‘tishni yakunlashga %1$d qadam qoldi.</item>
+        <item quantity="one">Dasturchi sifatida ro‘yxatdan o‘tishni yakunlashga %1$d qadam qoldi.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d ta barmoq izi sozlandi</item>
+        <item quantity="one">%1$d ta barmoq izi sozlandi</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Parol tarkibida kamida %d ta harf bo‘lishi lozim.</item>
+        <item quantity="one">Parol tarkibida kamida 1 ta harf bo‘lishi lozim.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Parol tarkibida kamida %d ta kichik harf bo‘lishi lozim.</item>
+        <item quantity="one">Parol tarkibida kamida 1 ta kichik harf bo‘lishi lozim.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Parol tarkibida kamida %d ta bosh harf bo‘lishi lozim.</item>
+        <item quantity="one">Parol tarkibida kamida 1 ta bosh harf bo‘lishi lozim.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Parol tarkibida kamida %d ta raqam bo‘lishi lozim.</item>
+        <item quantity="one">Parol tarkibida kamida 1 ta raqam bo‘lishi lozim.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Parol tarkibida kamida %d ta maxsus belgi bo‘lishi lozim.</item>
+        <item quantity="one">Parol tarkibida kamida 1 ta maxsus belgi bo‘lishi lozim.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Parol tarkibida kamida %d ta harf bo‘lmagan belgi bo‘lishi lozim.</item>
+        <item quantity="one">Parol tarkibida kamida 1 ta harf bo‘lmagan belgi bo‘lishi lozim.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM kartaning PIN kodi noto‘g‘ri. Sizda yana %d ta urinish qoldi.</item>
+        <item quantity="one">SIM kartaning PIN kodi noto‘g‘ri. Qurilmani qulfdan chiqarish uchun sizda yana %d ta urinish qoldi.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d ilova bildirishnomalarni o‘qishi mumkin</item>
+        <item quantity="one">%d ta ilova bildirishnomalarni o‘qishi mumkin</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Signallar (%2$s gacha) faqat %1$d daqiqaga o‘rnatilsin</item>
+        <item quantity="one">Signallar %2$s gacha faqat bir daqiqaga o‘rnatilsin</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Signallar %2$s gacha faqat %1$d soatga o‘rnatilsin</item>
+        <item quantity="one">Signallar %2$s gacha faqat bir soatga o‘rnatilsin</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d ta ruxsat berildi</item>
+        <item quantity="one">%d ta ruxsat berildi</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$ddan %2$d ta ruxsat berilgan</item>
+        <item quantity="one">%1$ddan %2$d ta ruxsat berilgan</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d ta qo‘shimcha ruxsat</item>
+        <item quantity="one">%d ta qo‘shimcha ruxsat</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d ta ilova mos havolalarni ochishi mumkin</item>
+        <item quantity="one">Bitta ilova mos havolalarni ochishi mumkin</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d ta ilovaga batareya quvvatini tejamaslik uchun ruxsat berilgan</item>
+        <item quantity="one">1 ta ilovaga batareya quvvati tejamalsik uchun ruxsat berilgan</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">So‘nggi %2$s davomida %1$d ta ilova xotiradan foydalandi</item>
+        <item quantity="one">So‘nggi %2$s davomida 1 ta ilova xotiradan foydalandi</item>
+    </plurals>
+</resources>

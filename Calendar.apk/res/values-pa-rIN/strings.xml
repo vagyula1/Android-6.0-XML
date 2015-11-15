@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_time_zone_search">ਦੇਸ਼ ਦਾ ਨਾਮ ਟਾਈਪ ਕਰੋ</string>
+    <string name="searchview_description_clear">ਸਵਾਲ ਹਟਾਓ</string>
+    <string name="no_results_found">ਕੋਈ ਨਤੀਜੇ ਨਹੀਂ ਮਿਲੇ।</string>
+    <string name="palestine_display_name">ਪੈਲਸਟੀਨ</string>
+    <string name="done_label">ਹੋ ਗਿਆ</string>
+    <string name="hour_picker_description">ਘੰਟੇ ਸਰਕੁਲਰ ਸਲਾਈਡਰ</string>
+    <string name="minute_picker_description">ਮਿੰਟ ਸਰਕੁਲਰ ਸਲਾਈਡਰ</string>
+    <string name="select_hours">ਘੰਟੇ ਚੁਣੋ</string>
+    <string name="select_minutes">ਮਿੰਟ ਚੁਣੋ</string>
+    <string name="day_picker_description">ਦਿਨਾਂ ਦਾ ਮਹੀਨਾ ਗ੍ਰਿਡ</string>
+    <string name="year_picker_description">ਸਾਲ ਸੂਚੀ</string>
+    <string name="select_day">ਮਹੀਨਾ ਅਤੇ ਦਿਨ ਚੁਣੋ</string>
+    <string name="select_year">ਸਾਲ ਚੁਣੋ</string>
+    <string name="item_is_selected">%1$s ਚੁਣੀ ਗਈ</string>
+    <string name="deleted_key">%1$s ਮਿਟਾਈ ਗਈ</string>
+    <string name="color_picker_default_title">ਇੱਕ ਰੰਗ ਚੁਣੋ</string>
+    <string name="color_swatch_description">ਰੰਗ %1$d</string>
+    <string name="color_swatch_description_selected">ਰੰਗ %1$d ਚੁਣਿਆ ਗਿਆ</string>
+    <string name="more_string">+%1$d</string>
+    <string name="copy_email">ਈਮੇਲ ਪਤਾ ਕਾਪੀ ਕਰੋ</string>
+    <string name="copy_number">ਫੋਨ ਨੰਬਰ ਕਾਪੀ ਕਰੋ</string>
+    <string name="action_label">ਵਾਪਸ ਜਾਓ</string>
+    <string name="accessbility_suggestion_dropdown_opened">ਸੰਪਰਕ ਸੁਝਾਅ ਖੋਲ੍ਹੇ ਗਏ</string>
+    <string name="dropdown_delete_button_desc">ਪ੍ਰਾਪਤਕਰਤਾਵਾਂ ਦੇ %s ਹਟਾਓ</string>
+</resources>

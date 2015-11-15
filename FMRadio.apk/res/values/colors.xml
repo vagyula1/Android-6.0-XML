@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cardview_light_background">#fffafafa</color>
+    <color name="cardview_dark_background">#ff202020</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="white_color">#ffffffff</color>
+    <color name="black_color">#ff000000</color>
+    <color name="floating_action_button_icon_color">@color/white_color</color>
+    <color name="fm_main_color">#ff004466</color>
+    <color name="theme_title_color">#deffffff</color>
+    <color name="theme_primarydark_color">#ff455a64</color>
+    <color name="theme_primary_color">#ff607d8b</color>
+    <color name="theme_windowBackground">#ff607d8b</color>
+    <color name="floating_action_button_touch_tint">#80ffffff</color>
+    <color name="actionbar_overflow_title_color">#de000000</color>
+    <color name="actionbar_overflow_title_disabled_color">#33000000</color>
+    <color name="text_fm_color">#ffcfd8dc</color>
+</resources>

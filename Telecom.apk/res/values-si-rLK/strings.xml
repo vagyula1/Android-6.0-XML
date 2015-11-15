@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">දුරකථන ඇමතුම් කළමනාකරණය</string>
+    <string name="userCallActivityLabel">දුරකථනය</string>
+    <string name="unknown">නොදනී</string>
+    <string name="notification_missedCallTitle">මඟ හැරුණු ඇමතුම</string>
+    <string name="notification_missedCallsTitle">මඟ හැරුණු ඇමතුම්</string>
+    <string name="notification_missedCallsMsg">මඟ හැරුණු ඇමතුම් %s</string>
+    <string name="notification_missedCallTicker">%s වෙතින් මඟ හැරුණු ඇමතුම්</string>
+    <string name="notification_missedCall_call_back">නැවත අමතන්න</string>
+    <string name="notification_missedCall_message">පණිවිඩය</string>
+    <string name="accessibility_call_muted">ඇමතුම නිශ්ශබ්දයි.</string>
+    <string name="accessibility_speakerphone_enabled">ස්පිකර්ෆෝන් සබලයි.</string>
+    <string name="respond_via_sms_canned_response_1">දැන් කතාකරන්න බැහැ. මොකද වෙලා තියෙන්නෙ?</string>
+    <string name="respond_via_sms_canned_response_2">මම ඔබට දැන්ම ඇමතුමක් ගන්න.</string>
+    <string name="respond_via_sms_canned_response_3">මම ඔබට පසුව අමතන්නම්.</string>
+    <string name="respond_via_sms_canned_response_4">දැන් කථා කරන්න බෑ. පසුව අමතන්නද?</string>
+    <string name="respond_via_sms_setting_title">ක්ෂණික ප්‍රතිචාර</string>
+    <string name="respond_via_sms_setting_title_2">ක්ෂණික ප්‍රතිචාර සංස්කරණය කරන්න</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">ක්ෂණික ප්‍රතිචාරය</string>
+    <string name="respond_via_sms_confirmation_format">%s හට පණිවිඩය යවන්න.</string>
+    <string name="enable_account_preference_title">ඇමතීමේ ගිණුම්</string>
+    <string name="outgoing_call_not_allowed_user_restriction">උපාංගයේ හිමිකරු හදිසි ඇමතුම්වලට පමණක් ඉඩ දෙයි.</string>
+    <string name="outgoing_call_not_allowed_no_permission">දුරකථන අවසරයෙන් තොරව මෙම යෙදුමට පිටතට යන ඇමතුම් සිදු කළ නොහැකිය.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">ඇමතුමක් ලබාගැනීමට, වලංගු අංකයක් ලබාගන්න.</string>
+    <string name="duplicate_video_call_not_allowed">මේ වේලාවේ ඇමතුම එකතු කළ නොහැක.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">වීඩියෝ ඇමතුම් ලබා ගැනීමට කරුණාකර TTY මෝඩය අබල කරන්න.</string>
+    <string name="no_vm_number">හඬ තැපැල් අංකය නැත</string>
+    <string name="no_vm_number_msg">SIM කාඩ් පතෙහි හඬ තැපැල් අංකයක් ආචිත වී නැත.</string>
+    <string name="add_vm_number_str">අංකයක් එක් කරන්න</string>
+    <string name="change_default_dialer_dialog_title">සුපුරුදු දුරකථන යෙදුම වෙනස් කරන්න ද?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">%2$s වෙනුවට %1$s ඔබගේ සුපුරුදු දුරකථන යෙදුම ලෙස භාවිතා කරන්නද?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">%s ඔබගේ සුපුරුදු දුරකථන යෙදුම ලෙස භාවිතා කරන්නද?</string>
+</resources>

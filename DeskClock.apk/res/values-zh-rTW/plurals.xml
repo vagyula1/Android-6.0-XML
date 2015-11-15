@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_duration">
+        <item quantity="other">%d 分鐘</item>
+        <item quantity="one">1 分鐘</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">延後 %d 分鐘。</item>
+        <item quantity="one">延後 1 分鐘。</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s 天</item>
+        <item quantity="one">1 天</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s 小時</item>
+        <item quantity="one">1 小時</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s 分鐘</item>
+        <item quantity="one">1 分鐘</item>
+    </plurals>
+    <plurals name="snooze_duration">
+        <item quantity="other">%s 分鐘</item>
+        <item quantity="one">1 分鐘</item>
+    </plurals>
+    <plurals name="snooze_picker_label">
+        <item quantity="other">分鐘</item>
+        <item quantity="one">分鐘</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">%s 分鐘</item>
+        <item quantity="one">1 分鐘</item>
+    </plurals>
+    <plurals name="Nhours_description">
+        <item quantity="other">%d 小時</item>
+        <item quantity="one">1 小時</item>
+    </plurals>
+    <plurals name="Nminutes_description">
+        <item quantity="other">%d 分鐘</item>
+        <item quantity="one">1 分鐘</item>
+    </plurals>
+    <plurals name="Nseconds_description">
+        <item quantity="other">%d 秒</item>
+        <item quantity="one">1 秒</item>
+    </plurals>
+    <plurals name="alarm_delete_confirmation">
+        <item quantity="other">刪除選取的多個鬧鐘？</item>
+        <item quantity="one">刪除選取的一個鬧鐘？</item>
+    </plurals>
+</resources>

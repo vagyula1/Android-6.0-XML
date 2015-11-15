@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s najdenih tiskalnikov</item>
+        <item quantity="one">%1$s najden tiskalnik</item>
+        <item quantity="two">%1$s najdena tiskalnika</item>
+        <item quantity="few">%1$s najdeni tiskalniki</item>
+    </plurals>
+    <plurals name="composite_notification_title_template">
+        <item quantity="other">%1$d tiskalnih opravil</item>
+        <item quantity="one">%1$d tiskalno opravilo</item>
+        <item quantity="two">%1$d tiskalni opravili</item>
+        <item quantity="few">%1$d tiskalna opravila</item>
+    </plurals>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">1 minuta</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">1 minuta</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d sati</item>
+        <item quantity="one">1 sat</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d dana</item>
+        <item quantity="one">1 dan</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">TJEDAN %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; toliko puta: %d</item>
+        <item quantity="one">; jedanput</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Svakih toliko dana: %d</item>
+        <item quantity="one">Dnevno</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Svaki %1$d. tjedan, %2$s</item>
+        <item quantity="one">Svaki tjedan, %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d događaja</item>
+        <item quantity="one">1 događaj</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">još ovoliko događaja: %d</item>
+        <item quantity="one">još 1 događaj</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Svakog %d. dana</item>
+        <item quantity="one">Svakog %d. dana</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Svakog %d. tjedna</item>
+        <item quantity="one">Svakog %d. tjedna</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Svakog %d. mjeseca</item>
+        <item quantity="one">Svakog %d. mjeseca</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Svake %d. godine</item>
+        <item quantity="one">Svake %d. godine</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Nakon %d ponavljanja</item>
+        <item quantity="one">Nakon %d ponavljanja</item>
+    </plurals>
+</resources>

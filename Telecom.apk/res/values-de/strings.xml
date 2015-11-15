@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Anrufverwaltung</string>
+    <string name="userCallActivityLabel">Telefon</string>
+    <string name="unknown">Unbekannt</string>
+    <string name="notification_missedCallTitle">Entgangener Anruf</string>
+    <string name="notification_missedCallsTitle">Entgangene Anrufe</string>
+    <string name="notification_missedCallsMsg">%s entgangene Anrufe</string>
+    <string name="notification_missedCallTicker">Entgangener Anruf von %s</string>
+    <string name="notification_missedCall_call_back">Zurückrufen</string>
+    <string name="notification_missedCall_message">Nachricht</string>
+    <string name="accessibility_call_muted">Anruf stummgeschaltet</string>
+    <string name="accessibility_speakerphone_enabled">Freisprechfunktion aktiviert</string>
+    <string name="respond_via_sms_canned_response_1">"Kann jetzt nicht sprechen. Was gibt's?"</string>
+    <string name="respond_via_sms_canned_response_2">Ich rufe gleich zurück.</string>
+    <string name="respond_via_sms_canned_response_3">Ich rufe später zurück.</string>
+    <string name="respond_via_sms_canned_response_4">Kann jetzt nicht sprechen. Später?</string>
+    <string name="respond_via_sms_setting_title">Kurzantworten</string>
+    <string name="respond_via_sms_setting_title_2">Kurzantworten bearbeiten</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Kurzantwort</string>
+    <string name="respond_via_sms_confirmation_format">Nachricht an %s gesendet</string>
+    <string name="enable_account_preference_title">Anrufkonten</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Der Geräteeigentümer hat nur Notrufe zugelassen.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Diese App darf ohne die Berechtigung \"Standard-App für Telefonie\" keine ausgehenden Anrufe tätigen.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Geben Sie eine gültige Nummer ein.</string>
+    <string name="duplicate_video_call_not_allowed">Der Anruf kann momentan nicht hinzugefügt werden.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Bitte deaktivieren Sie den TTY-Modus, um Videoanrufe tätigen zu können.</string>
+    <string name="no_vm_number">Fehlende Mailbox-Nummer</string>
+    <string name="no_vm_number_msg">Auf der SIM-Karte ist keine Mailbox-Nummer gespeichert.</string>
+    <string name="add_vm_number_str">Nummer hinzufügen</string>
+    <string name="change_default_dialer_dialog_title">Standard-App für Telefonie ändern?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">%1$s statt %2$s als Standard-App für Telefonie verwenden?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">%s als Standard-App für Telefonie verwenden?</string>
+</resources>

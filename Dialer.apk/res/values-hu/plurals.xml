@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d találat</item>
+        <item quantity="one">1 találat</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d másodperc</item>
+        <item quantity="one">1 másodperc</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">1 perc</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">1 óra</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d hangpostaüzenet</item>
+        <item quantity="one">Hangpostaüzenet</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d új hangpostaüzenet</item>
+        <item quantity="one">%d új hangpostaüzenet</item>
+    </plurals>
+</resources>

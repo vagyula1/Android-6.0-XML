@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">טיוטות</item>
+        <item quantity="one">טיוטה</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">האם למחוק את %1$d השיחות האלה?</item>
+        <item quantity="one">האם למחוק שיחה זו?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">האם להעביר את %1$d השיחות האלה לארכיון?</item>
+        <item quantity="one">האם להעביר שיחה זו לארכיון?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">האם למחוק את %1$d ההודעות האלה?</item>
+        <item quantity="one">האם למחוק הודעה זו?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">מסיר כוכב מ-%1$d שיחות</item>
+        <item quantity="one">מסיר כוכב משיחה %1$d</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">‏&amp;lt;b>%1$d&amp;lt;/b> הושתקו</item>
+        <item quantity="one">‏&amp;lt;b>%1$d&amp;lt;/b> הושתקה</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">‏&amp;lt;b>%1$d&amp;lt;/b> דווחו כספאם</item>
+        <item quantity="one">‏&amp;lt;b>%1$d&amp;lt;/b> דווחה כספאם</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">‏&amp;lt;b>%1$d&amp;lt;/b> דווחו כשיחות שאינן ספאם</item>
+        <item quantity="one">‏&amp;lt;b>%1$d&amp;lt;/b> דווחה כשיחה שאינה ספאם</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">‏&amp;lt;b>%1$d&amp;lt;/b> סומנו כלא חשובות</item>
+        <item quantity="one">‏&amp;lt;b>%1$d&amp;lt;/b> סומנה כלא חשובה</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">‏&amp;lt;b>%1$d&amp;lt;/b> דווחו כדיוג</item>
+        <item quantity="one">‏&amp;lt;b>%1$d&amp;lt;/b> דווחה כדיוג</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">‏&amp;lt;b>%1$d&amp;lt;/b> הועברו לארכיון</item>
+        <item quantity="one">‏&amp;lt;b>%1$d&amp;lt;/b> הועברה לארכיון</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">‏&amp;lt;b>%1$d&amp;lt;/b> נמחקו</item>
+        <item quantity="one">‏&amp;lt;b>%1$d&amp;lt;/b> נמחקה</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">התיקיות שונו</item>
+        <item quantity="one">התיקייה שונתה</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d הודעות חדשות</item>
+        <item quantity="one">הודעה חדשה %1$d</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">הרחב %1$d הודעות ישנות יותר</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d הודעות ישנות יותר הורחבו</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d לא נקראו</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d הודעות חדשות</item>
+        <item quantity="one">הודעה חדשה %1$d</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d הודעות יימחקו לצמיתות.</item>
+        <item quantity="one">הודעה %1$d תימחק לצמיתות.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d הודעות</item>
+        <item quantity="one">הודעה %1$d</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d קבצים מצורפים</item>
+        <item quantity="one">קובץ מצורף %1$d</item>
+    </plurals>
+</resources>

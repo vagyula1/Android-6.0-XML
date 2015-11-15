@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 sekonda</item>
+        <item>4 sekonda</item>
+        <item>6 sekonda</item>
+        <item>8 sekonda</item>
+        <item>10 sekonda</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>Një herë</item>
+        <item>Çdo 2 minuta</item>
+        <item>Çdo 15 minuta</item>
+        <item>Çaktivizuar</item>
+    </string-array>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">1 perc</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d p</item>
+        <item quantity="one">1 p</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">1 óra</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d nap</item>
+        <item quantity="one">1 nap</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">%d. HÉT</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d alkalommal</item>
+        <item quantity="one">; egyszer</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d naponta</item>
+        <item quantity="one">Naponta</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d hetente – %2$si napon</item>
+        <item quantity="one">Hetente – %2$si napon</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d esemény</item>
+        <item quantity="one">1 esemény</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d esemény</item>
+        <item quantity="one">+1 esemény</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">%d naponta</item>
+        <item quantity="one">%d naponta</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">%d hetente</item>
+        <item quantity="one">%d hetente</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">%d havonta</item>
+        <item quantity="one">%d havonta</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">%d évente</item>
+        <item quantity="one">%d évente</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d eseményhez</item>
+        <item quantity="one">%d eseményhez</item>
+    </plurals>
+</resources>

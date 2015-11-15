@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+        <item quantity="few">%d min.</item>
+        <item quantity="many">%d min.</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d val.</item>
+        <item quantity="one">%d val.</item>
+        <item quantity="few">%d val.</item>
+        <item quantity="many">%d val.</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d dienų</item>
+        <item quantity="one">%d diena</item>
+        <item quantity="few">%d dienos</item>
+        <item quantity="many">%d dienos</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d savaičių</item>
+        <item quantity="one">%d savaitė</item>
+        <item quantity="few">%d savaitės</item>
+        <item quantity="many">%d savaitės</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d mėnesių</item>
+        <item quantity="one">%d mėnesiai</item>
+        <item quantity="few">%d mėnesiai</item>
+        <item quantity="many">%d mėnesio</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d metų</item>
+        <item quantity="one">%d metai</item>
+        <item quantity="few">%d metai</item>
+        <item quantity="many">%d metų</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">Pranešimų: %1$d (%2$d pokalbių)</item>
+        <item quantity="one">Pranešimų: %1$d (%2$d pokalbis)</item>
+        <item quantity="few">Pranešimų: %1$d (%2$d pokalbiai)</item>
+        <item quantity="many">Pranešimų: %1$d (%2$d pokalbio)</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">Pranešimų: %1$d (%2$d pokalbių)</item>
+        <item quantity="one">Pranešimų: %1$d (%2$d pokalbis)</item>
+        <item quantity="few">Pranešimų: %1$d (%2$d pokalbiai)</item>
+        <item quantity="many">Pranešimų: %1$d (%2$d pokalbio)</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d naujų pranešimų</item>
+        <item quantity="one">%d naujas pranešimas</item>
+        <item quantity="few">%d nauji pranešimai</item>
+        <item quantity="many">%d naujo pranešimo</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">Ištrinti šiuos pokalbius?</item>
+        <item quantity="one">Ištrinti šiuos pokalbius?</item>
+        <item quantity="few">Ištrinti šiuos pokalbius?</item>
+        <item quantity="many">Ištrinti šiuos pokalbius?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d dalyvių</item>
+        <item quantity="one">%d dalyvis</item>
+        <item quantity="few">%d dalyviai</item>
+        <item quantity="many">%d dalyvio</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">Išmesti priedus</item>
+        <item quantity="one">Išmesti priedus</item>
+        <item quantity="few">Išmesti priedus</item>
+        <item quantity="many">Išmesti priedus</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d nuotraukų išsaugota albume „%2$s“</item>
+        <item quantity="one">%1$d nuotrauka išsaugota albume „%2$s“</item>
+        <item quantity="few">%1$d nuotraukos išsaugotos albume „%2$s“</item>
+        <item quantity="many">%1$d nuotraukos išsaugota albume „%2$s“</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d vaizdo įrašų išsaugota albume „%2$s“</item>
+        <item quantity="one">%1$d vaizdo įrašas išsaugotas albume „%2$s“</item>
+        <item quantity="few">%1$d vaizdo įrašai išsaugoti albume „%2$s“</item>
+        <item quantity="many">%1$d vaizdo įrašo išsaugota albume „%2$s“</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d priedų išsaugota albume „%2$s“</item>
+        <item quantity="one">%1$d priedas išsaugotas albume „%2$s“</item>
+        <item quantity="few">%1$d priedai išsaugoti albume „%2$s“</item>
+        <item quantity="many">%1$d priedo išsaugota albume „%2$s“</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d priedų išsaugota aplanke „Atsisiuntimai“</item>
+        <item quantity="one">%d priedas išsaugotas aplanke „Atsisiuntimai“</item>
+        <item quantity="few">%d priedai išsaugoti aplanke „Atsisiuntimai“</item>
+        <item quantity="many">%d priedo išsaugota aplanke „Atsisiuntimai“</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">Išsaugota %d priedų</item>
+        <item quantity="one">Išsaugotas %d priedas</item>
+        <item quantity="few">Išsaugoti %d priedai</item>
+        <item quantity="many">Išsaugota %d priedo</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">Nepavyko išsaugoti %d priedų</item>
+        <item quantity="one">Nepavyko išsaugoti %d priedo</item>
+        <item quantity="few">Nepavyko išsaugoti %d priedų</item>
+        <item quantity="many">Nepavyko išsaugoti %d priedo</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">Siųsti nuotraukas</item>
+        <item quantity="one">Siųsti nuotraukas</item>
+        <item quantity="few">Siųsti nuotraukas</item>
+        <item quantity="many">Siųsti nuotraukas</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">Siųsti garso įrašus</item>
+        <item quantity="one">Siųsti garso įrašus</item>
+        <item quantity="few">Siųsti garso įrašus</item>
+        <item quantity="many">Siųsti garso įrašus</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">Siųsti vaizdo įrašus</item>
+        <item quantity="one">Siųsti vaizdo įrašus</item>
+        <item quantity="few">Siųsti vaizdo įrašus</item>
+        <item quantity="many">Siųsti vaizdo įrašus</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">Siųsti kontaktų korteles</item>
+        <item quantity="one">Siųsti kontaktų korteles</item>
+        <item quantity="few">Siųsti kontaktų korteles</item>
+        <item quantity="many">Siųsti kontaktų korteles</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">Siųsti priedus</item>
+        <item quantity="one">Siųsti priedus</item>
+        <item quantity="few">Siųsti priedus</item>
+        <item quantity="many">Siųsti priedus</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d priedų paruošta siųsti</item>
+        <item quantity="one">%d priedas paruoštas siųsti</item>
+        <item quantity="few">%d priedai paruošti siųsti</item>
+        <item quantity="many">%d priedo paruošta siųsti</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d kontaktų</item>
+        <item quantity="one">%d kontaktas</item>
+        <item quantity="few">%d kontaktai</item>
+        <item quantity="many">%d kontakto</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">Netinkami kontaktai</item>
+        <item quantity="one">Netinkami kontaktai</item>
+        <item quantity="few">Netinkami kontaktai</item>
+        <item quantity="many">Netinkami kontaktai</item>
+    </plurals>
+</resources>

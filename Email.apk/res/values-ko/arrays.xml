@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>답장</item>
+        <item>전체답장</item>
+        <item>전달</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>완료</item>
+        <item>연결되지 않음</item>
+        <item>로그인 실패</item>
+        <item>보안 오류</item>
+        <item>동기화 실패</item>
+        <item>내부 오류</item>
+        <item>서버 오류</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>최신</item>
+        <item>이전</item>
+        <item>대화 목록</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>삭제 후 최신 대화 표시</item>
+        <item>삭제 후 이전 대화 표시</item>
+        <item>삭제 후 대화 목록 표시</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>보관처리</item>
+        <item>삭제</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>보관처리</item>
+        <item>삭제</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>메일 액션을 항상 화면 맨 위에 표시</item>
+        <item>세로 모드로 회전한 경우에만 메일 액션을 화면 맨 위에 표시</item>
+        <item>메일 헤더 외부에 메일 액션 표시 안함</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>항상 표시</item>
+        <item>세로로만 표시</item>
+        <item>표시 안함</item>
+    </string-array>
+</resources>

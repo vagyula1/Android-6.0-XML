@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="current_permission_template">%1$s / %2$s</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">నిరాకరిస్తున్నాను, మళ్లీ అడగవద్దు</string>
+    <string name="grant_dialog_how_to_change">మీరు దీన్ని తర్వాత సెట్టింగ్‌లు > అనువర్తనాల్లో మార్చవచ్చు</string>
+    <string name="preference_show_system_apps">సిస్టమ్ అనువర్తనాలను చూపు</string>
+</resources>

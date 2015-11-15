@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">گزارش اشکال دریافت شد</string>
+    <string name="bugreport_finished_text">جهت اشتراک‌گذاری گزارش اشکال خود لمس کنید</string>
+    <string name="bugreport_confirm">گزارش‌های اشکال حاوی داده‌هایی از فایل‌های گزارش مختلف در سیستم هستند، شامل اطلاعات شخصی و خصوصی. گزارش‌های اشکال را فقط با افراد و برنامه‌های مورد اعتماد خود به اشتراک بگذارید.</string>
+    <string name="bugreport_confirm_repeat">دفعه بعد این پیام نشان داده شود</string>
+    <string name="bugreport_storage_title">گزارش اشکال</string>
+</resources>

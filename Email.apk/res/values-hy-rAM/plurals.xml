@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Սևագրություններ</item>
+        <item quantity="one">Սևագիր</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Ջնջե՞լ այս %1$d խոսակցությունը:</item>
+        <item quantity="one">Ջնջե՞լ այս խոսակցությունը:</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Արխիվացնե՞լ այս %1$d խոսակցությունը:</item>
+        <item quantity="one">Արխիվացնե՞լ այս խոսակցությունը:</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Հեռացնե՞լ այս %1$d հաղորդագրությունները:</item>
+        <item quantity="one">Հրաժարվե՞լ այս հաղորդագրությունից:</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Ապաստղանշվում է %1$d խոսակցություն</item>
+        <item quantity="one">Ապաստղանշվում է %1$d խոսակցություն</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> անտեսված</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> անտեսված</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> հաղորդված՝ որպես սպամ</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> հաղորդված՝ որպես սպամ</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> հաղորդված՝ որպես ոչ սպամ</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> հաղորդված՝ որպես ոչ սպամ</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> նշված՝ որպես ոչ կարևոր</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> նշված՝ որպես ոչ կարևոր</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> հաղորդված՝ որպես ֆիշինգ</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> հաղորդված՝ որպես ֆիշինգ</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> արխիվացված</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> արխիվացված</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ջնջված</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ջնջված</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Փոխված պանակներ</item>
+        <item quantity="one">Փոխված պանակ</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d նոր հաղորդագրություն</item>
+        <item quantity="one">%1$d նոր հաղորդագրություն</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Ցուցադրել %1$d ավելի հին հաղորդագրությունները</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Ցուցադրված են %1$d ավելի հին հաղորդագրությունները</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d չկարդացված</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d նոր հաղորդագրություն</item>
+        <item quantity="one">%1$d նոր հաղորդագրություն</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d հաղորդագրություն ընդմիշտ կջնջվի:</item>
+        <item quantity="one">%1$d հաղորդագրություն ընդմիշտ կջնջվի:</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d հաղորդագրություն</item>
+        <item quantity="one">%1$d հաղորդագրություն</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d կցորդ</item>
+        <item quantity="one">%1$d կցորդ</item>
+    </plurals>
+</resources>

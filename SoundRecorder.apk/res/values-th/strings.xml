@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">เครื่องบันทึกเสียง</string>
+    <string name="record_your_message">บันทึกข้อความของคุณ</string>
+    <string name="message_recorded">บันทึกข้อความแล้ว</string>
+    <string name="review_message">ตรวจสอบข้อความ</string>
+    <string name="recording">กำลังบันทึก</string>
+    <string name="recording_stopped">หยุดบันทึกแล้ว</string>
+    <string name="storage_is_full">ที่เก็บข้อมูลเต็ม</string>
+    <string name="max_length_reached">ถึงความยาวสูงสุดแล้ว</string>
+    <string name="insert_sd_card">ต่อเชื่อมที่จัดเก็บข้อมูล USB</string>
+    <string name="min_available">บันทึกได้อีก %d นาที</string>
+    <string name="sec_available">บันทึกได้อีก %d วินาที</string>
+    <string name="accept">เสร็จสิ้น</string>
+    <string name="discard">ยกเลิก</string>
+    <string name="button_ok">ตกลง</string>
+    <string name="audio_db_artist_name">การบันทึกของคุณ</string>
+    <string name="audio_db_album_name">การบันทึกเสียง</string>
+    <string name="audio_db_playlist_name">การบันทึกของฉัน</string>
+    <string name="error_sdcard_access">ไม่สามารถเข้าถึงที่จัดเก็บข้อมูล USB</string>
+    <string name="error_app_internal">ข้อผิดพลาดของแอปพลิเคชันภายใน</string>
+    <string name="error_mediadb_new_record">บันทึกเสียงที่บันทึกไว้ไม่ได้</string>
+</resources>

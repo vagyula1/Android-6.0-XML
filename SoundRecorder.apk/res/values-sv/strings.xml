@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ljudinspelaren</string>
+    <string name="record_your_message">Spela in ditt meddelande</string>
+    <string name="message_recorded">Meddelandet har spelats in</string>
+    <string name="review_message">Granska meddelande</string>
+    <string name="recording">Inspelning</string>
+    <string name="recording_stopped">Inspelningen stoppades</string>
+    <string name="storage_is_full">Lagringsplatsen är full</string>
+    <string name="max_length_reached">Maximal längd har uppnåtts</string>
+    <string name="insert_sd_card">Sätt i USB-enheten</string>
+    <string name="min_available">%d minuter tillgängligt</string>
+    <string name="sec_available">%d s kvar</string>
+    <string name="accept">Klar</string>
+    <string name="discard">Släng</string>
+    <string name="button_ok">OK</string>
+    <string name="audio_db_artist_name">Dina inspelningar</string>
+    <string name="audio_db_album_name">Ljudinspelningar</string>
+    <string name="audio_db_playlist_name">Mina inspelningar</string>
+    <string name="error_sdcard_access">Det går inte att komma åt USB-lagringsenheten.</string>
+    <string name="error_app_internal">Internt programfel.</string>
+    <string name="error_mediadb_new_record">Det gick inte att spara inspelat ljud.</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>ርዕሰ-ጉዳይ የሌለው</item>
+        <item>ምንም ርእስ የለውም</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>አዎ</item>
+        <item>አይ</item>
+        <item>እሺ</item>
+        <item>ሃሃ</item>
+        <item>እናመሰግናለን</item>
+        <item>እስማማለሁ</item>
+        <item>በጣም ጥሩ</item>
+        <item>እየመጣሁ ነኝ</item>
+        <item>እሺ፣ በኋላ ላይ ላግኝዎት</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

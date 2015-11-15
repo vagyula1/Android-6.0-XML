@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rejestrator dźwięku</string>
+    <string name="record_your_message">Nagraj wiadomość</string>
+    <string name="message_recorded">Wiadomość została nagrana</string>
+    <string name="review_message">Przejrzyj wiadomość</string>
+    <string name="recording">Nagrywanie</string>
+    <string name="recording_stopped">Nagrywanie zostało zatrzymane</string>
+    <string name="storage_is_full">Pamięć jest pełna</string>
+    <string name="max_length_reached">Osiągnięto maksymalną długość</string>
+    <string name="insert_sd_card">Podłącz nośnik USB.</string>
+    <string name="min_available">Zostało %d min.</string>
+    <string name="sec_available">Zostało %d sek.</string>
+    <string name="accept">Gotowe</string>
+    <string name="discard">Odrzuć</string>
+    <string name="button_ok">OK</string>
+    <string name="audio_db_artist_name">Twoje nagrania</string>
+    <string name="audio_db_album_name">Nagrania audio</string>
+    <string name="audio_db_playlist_name">Moje nagrania</string>
+    <string name="error_sdcard_access">Brak dostępu do nośnika USB</string>
+    <string name="error_app_internal">Wewnętrzny błąd aplikacji</string>
+    <string name="error_mediadb_new_record">Nie można zapisać nagranego dźwięku.</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Media</string>
+    <string name="app_label">Media Storage</string>
+    <string name="artist_label">Artista</string>
+    <string name="ringtone_default">Suoneria predefinita</string>
+    <string name="notification_sound_default">Suono di notifica predefinito</string>
+    <string name="alarm_sound_default">Suono sveglia predefinito</string>
+    <string name="root_images">Immagini</string>
+    <string name="root_videos">Video</string>
+    <string name="root_audio">Audio</string>
+</resources>

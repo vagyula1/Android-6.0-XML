@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">[Šöûñð Ŕéçöŕðéŕ one two three]</string>
+    <string name="record_your_message">[Ŕéçöŕð ýöûŕ ḿéššåĝé one two three]</string>
+    <string name="message_recorded">[Ḿéššåĝé ŕéçöŕðéð one two three]</string>
+    <string name="review_message">[ŔéVîéŵ ḿéššåĝé one two three]</string>
+    <string name="recording">[Ŕéçöŕðîñĝ one two]</string>
+    <string name="recording_stopped">[Ŕéçöŕðîñĝ šţöþþéð one two three]</string>
+    <string name="storage_is_full">[Šţöŕåĝé îš ƒûļļ one two three]</string>
+    <string name="max_length_reached">[Ḿåхîḿûḿ ļéñĝţĥ ŕéåçĥéð one two three]</string>
+    <string name="insert_sd_card">[Ḿöûñţ ÛŠβ šţöŕåĝé one two three]</string>
+    <string name="min_available">[%d ḿîñ åVåîļåɓļé one two three]</string>
+    <string name="sec_available">[%dš åVåîļåɓļé one two]</string>
+    <string name="accept">[Ðöñé one]</string>
+    <string name="discard">[Ðîšçåŕð one two]</string>
+    <string name="button_ok">[ÖĶ one]</string>
+    <string name="press_record">[Þŕéšš: 0-ḾÎÇ 1-Ŕх 2-Ţх+Ŕх 3-ÅḾŔ 4-ÉνŔÇ 5-qÇÉĻÞ 6-ÅÅÇ_ḾÞ4 9-ÅḾŔ-Ŵβ Å-ÅḾŔ-Ŵβ-3ĜÞÞ åñð Þŕéšš ŕéçöŕð one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen]</string>
+    <string name="press_record_ssr">[Þŕéšš: 0-ḾÎÇ 1-Ŕх 2-Ţх+Ŕх 3-ÅḾŔ 4-ÉνŔÇ 5-qÇÉĻÞ 6-ÅÅÇ_ḾÞ4 7-ÅÅÇ_ŠŠŔ 8-ĻÞÇḾ_ŠŠŔ 9-ÅḾŔ-Ŵβ Å-ÅḾŔ-Ŵβ-3ĜÞÞ åñð Þŕéšš ŕéçöŕð one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twent]</string>
+    <string name="audio_db_title_format">[yyyy-MM-dd HH:mm:ss]</string>
+    <string name="audio_db_artist_name">[Ýöûŕ ŕéçöŕðîñĝš one two three]</string>
+    <string name="audio_db_album_name">[Åûðîö ŕéçöŕðîñĝš one two three]</string>
+    <string name="audio_db_playlist_name">[Ḿý ŕéçöŕðîñĝš one two]</string>
+    <string name="error_sdcard_access">"[Çåñ'ţ åççéšš ÛŠβ šţöŕåĝé. one two three]"</string>
+    <string name="error_app_internal">[Îñţéŕñåļ åþþļîçåţîöñ éŕŕöŕ one two three four]</string>
+    <string name="error_app_unsupported">[Ûñšûþþöŕţéð ƒöŕḿåţ one two three]</string>
+    <string name="error_mediadb_new_record">"[Çöûļðñ'ţ šåVé ŕéçöŕðéð åûðîö. one two three four]"</string>
+    <string name="error_mediadb_incall">[Ţĥîš öþţîöñ îš šûþþöŕţéð, öñļý ŵĥîļé îñ çåļļ one two three four five]</string>
+    <string name="error_mediadb_aacincall">[ÅÅÇ Vöîçé çåļļ ŕéçöŕðîñĝ îš ñöţ šûþþöŕţéð one two three four five]</string>
+</resources>

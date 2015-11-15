@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d najdenih</item>
+        <item quantity="one">%d najden</item>
+        <item quantity="two">%d najdena</item>
+        <item quantity="few">%d najdeni</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d sekund</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="two">%d sekundi</item>
+        <item quantity="few">%d sekunde</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minut</item>
+        <item quantity="one">%d minuta</item>
+        <item quantity="two">%d minuti</item>
+        <item quantity="few">%d minute</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d ur</item>
+        <item quantity="one">%d ura</item>
+        <item quantity="two">%d uri</item>
+        <item quantity="few">%d ure</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d sporočil v odzivniku</item>
+        <item quantity="one">%1$d sporočilo v odzivniku</item>
+        <item quantity="two">%1$d sporočili v odzivniku</item>
+        <item quantity="few">%1$d sporočila v odzivniku</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d sporočil v odzivniku</item>
+        <item quantity="one">%d sporočilo v odzivniku</item>
+        <item quantity="two">%d sporočili v odzivniku</item>
+        <item quantity="few">%d sporočila v odzivniku</item>
+    </plurals>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DisplayTextStyle.Formula" parent="@style/DisplayTextStyle">
+        <item name="android:paddingTop">24.0dip</item>
+        <item name="android:paddingBottom">32.0dip</item>
+        <item name="android:paddingStart">44.0dip</item>
+        <item name="android:paddingEnd">44.0dip</item>
+        <item name="minTextSize">56.0sp</item>
+        <item name="maxTextSize">80.0sp</item>
+        <item name="stepTextSize">8.0sp</item>
+    </style>
+    <style name="DisplayTextStyle.Result" parent="@style/DisplayTextStyle">
+        <item name="android:textSize">56.0sp</item>
+        <item name="android:paddingTop">24.0dip</item>
+        <item name="android:paddingBottom">56.0dip</item>
+        <item name="android:paddingStart">44.0dip</item>
+        <item name="android:paddingEnd">44.0dip</item>
+    </style>
+    <style name="PadButtonStyle.Advanced" parent="@style/PadButtonStyle">
+        <item name="android:textSize">32.0sp</item>
+        <item name="android:textColor">@color/pad_button_advanced_text_color</item>
+        <item name="android:background">@drawable/pad_button_advanced_background</item>
+    </style>
+    <style name="PadButtonStyle.Advanced.Text" parent="@style/PadButtonStyle.Advanced">
+        <item name="android:textSize">28.0sp</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="PadButtonStyle.Numeric" parent="@style/PadButtonStyle">
+        <item name="android:textSize">38.0sp</item>
+    </style>
+    <style name="PadButtonStyle.Operator" parent="@style/PadButtonStyle">
+        <item name="android:textSize">38.0sp</item>
+    </style>
+    <style name="PadButtonStyle.Operator.Text" parent="@style/PadButtonStyle.Operator">
+        <item name="android:textSize">28.0sp</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+</resources>

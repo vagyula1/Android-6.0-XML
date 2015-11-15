@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">မူကြမ်းများ</item>
+        <item quantity="one">မူကြမ်း</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">ဤ%1$d စကားဝိုင်းများကို ဖျက်မလား?</item>
+        <item quantity="one">ဒီစကားဝိုင်းကို ဖျက်မလား?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">ဒီစကားဝိုင်း %1$d ကို မော်ကွန်းတင်မလား?</item>
+        <item quantity="one">ဤစကားဝိုင်း မော်ကွန်းတင်မလား?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">ဒီစာ %1$dကို စွန့်ပစ်မလား?</item>
+        <item quantity="one">ဤ စာကို စွန့်ပစ်မလား?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">စကားဝိုင်း %1$d ခု စတားဖြုတ်နေ</item>
+        <item quantity="one">စကားဝိုင်း %1$d ခု စတားဖြုတ်နေ</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> အသံတိတ်ခဲ့</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> အသံတိတ်ခဲ့</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> စပမ် အဖြစ် သတင်းပို့ခဲ့</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> စပမ် အဖြစ် သတင်းပို့ခဲ့</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> စပမ် မဟုတ် ဆိုပြီး သတင်းပို့ခဲ့</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> စပမ် မဟုတ် ဆိုပြီး သတင်းပို့ခဲ့</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ကို အရေးမကြီးကြောင်း မှတ်သားခဲ့</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ကို အရေးမကြီးကြောင်း မှတ်သားခဲ့</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> မျှားယူမှု အဖြစ် သတင်းပို့ခဲ့</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> မျှားယူမှု အဖြစ် သတင်းပို့ခဲ့</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> မော်ကွန်းတင်ပြီး။</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> မော်ကွန်းတင်ပြီး။</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ကို ဖျက်ပြီး။</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ကို ဖျက်ပြီး။</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">ပြောင်းထားသည့် ဖိုလ်ဒါများ</item>
+        <item quantity="one">ပြောင်းထားသည့် ဖိုလ်ဒါ</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">စာ အသစ် %1$d ခု</item>
+        <item quantity="one">စာ အသစ် %1$d ခု</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">ပိုဟောင်းသည့် စာ %1$dခုကို ချဲ့ရန်</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">ပိုဟောင်းသည့် စာ %1$dခုကို ချဲ့ထား</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">မဖတ်ရသေး %1$d</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">စာ အသစ် %1$d ခု</item>
+        <item quantity="one">စာ အသစ် %1$d ခု</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">စာ %1$d ထာဝရ ဖျက်ခံရမည်။</item>
+        <item quantity="one">စာ %1$d ထာဝရ ဖျက်ခံရမည်။</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">စာ %1$d</item>
+        <item quantity="one">စာ %1$d စောင်</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">ပူးတွဲမှုများ %1$d</item>
+        <item quantity="one">ပူးတွဲမှု %1$d</item>
+    </plurals>
+</resources>

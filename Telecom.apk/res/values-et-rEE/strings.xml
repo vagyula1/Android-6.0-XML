@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Telefonikõnede haldus</string>
+    <string name="userCallActivityLabel">Telefon</string>
+    <string name="unknown">Tundmatu</string>
+    <string name="notification_missedCallTitle">Vastamata kõne</string>
+    <string name="notification_missedCallsTitle">Vastamata kõned</string>
+    <string name="notification_missedCallsMsg">%s vastamata kõnet</string>
+    <string name="notification_missedCallTicker">Vastamata kõne helistajalt %s</string>
+    <string name="notification_missedCall_call_back">Helista tagasi</string>
+    <string name="notification_missedCall_message">Sõnum</string>
+    <string name="accessibility_call_muted">Kõne on summutatud.</string>
+    <string name="accessibility_speakerphone_enabled">Valjuhääldi on sisse lülitatud.</string>
+    <string name="respond_via_sms_canned_response_1">Ei saa praegu rääkida. Milles asi?</string>
+    <string name="respond_via_sms_canned_response_2">Helistan kohe tagasi.</string>
+    <string name="respond_via_sms_canned_response_3">Helistan sulle hiljem.</string>
+    <string name="respond_via_sms_canned_response_4">Ei saa rääkida. Helistad hiljem?</string>
+    <string name="respond_via_sms_setting_title">Kiirvastused</string>
+    <string name="respond_via_sms_setting_title_2">Kiirvastuste muutmine</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Kiirvastus</string>
+    <string name="respond_via_sms_confirmation_format">Sõnum on saadetud numbrile %s.</string>
+    <string name="enable_account_preference_title">Kõnekontod</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Seadme omanik on lubanud ainult hädaabikõned.</string>
+    <string name="outgoing_call_not_allowed_no_permission">See rakendus ei saa ilma telefoni kasutamise loata välja helistada.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Helistamiseks sisestage kehtiv number.</string>
+    <string name="duplicate_video_call_not_allowed">Kõnet ei saa praegu lisada.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Videokõnede tegemiseks keelake TTY-režiim.</string>
+    <string name="no_vm_number">Puudub kõnepostinumber</string>
+    <string name="no_vm_number_msg">SIM-kaardile pole salvestatud ühtegi kõnepostinumbrit.</string>
+    <string name="add_vm_number_str">Lisa number</string>
+    <string name="change_default_dialer_dialog_title">Kas muuta helistamise vaikerakendust?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Kas kasutada rakendust %1$s rakenduse %2$s asemel helistamise vaikerakendusena?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Kas kasutada rakendust %s helistamise vaikerakendusena?</string>
+</resources>

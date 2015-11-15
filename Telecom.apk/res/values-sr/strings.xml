@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Управљање телефонским позивима</string>
+    <string name="userCallActivityLabel">Телефон</string>
+    <string name="unknown">Непознато</string>
+    <string name="notification_missedCallTitle">Пропуштен позив</string>
+    <string name="notification_missedCallsTitle">Пропуштени позиви</string>
+    <string name="notification_missedCallsMsg">Број пропуштених позива: %s</string>
+    <string name="notification_missedCallTicker">Пропуштен позив од: %s</string>
+    <string name="notification_missedCall_call_back">Узврати позив</string>
+    <string name="notification_missedCall_message">Порука</string>
+    <string name="accessibility_call_muted">Звук позива је искључен.</string>
+    <string name="accessibility_speakerphone_enabled">Спикерфон је омогућен.</string>
+    <string name="respond_via_sms_canned_response_1">У гужви сам. О чему се ради?</string>
+    <string name="respond_via_sms_canned_response_2">Позваћу те ускоро.</string>
+    <string name="respond_via_sms_canned_response_3">Позваћу те касније.</string>
+    <string name="respond_via_sms_canned_response_4">У гужви сам. Да се чујемо касније?</string>
+    <string name="respond_via_sms_setting_title">Брзи одговори</string>
+    <string name="respond_via_sms_setting_title_2">Измена брзих одговора</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Брзи одговор</string>
+    <string name="respond_via_sms_confirmation_format">Порука је послата на број %s.</string>
+    <string name="enable_account_preference_title">Налози за позивање</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Власник уређаја је дозволио само хитне позиве.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Ова апликација не може да позива без дозволе за телефонирање.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Да бисте упутили позив, унесите важећи број.</string>
+    <string name="duplicate_video_call_not_allowed">Тренутно није могуће додати позив.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Онемогућите TTY режим да бисте упућивали видео позиве.</string>
+    <string name="no_vm_number">Недостаје број за говорну пошту</string>
+    <string name="no_vm_number_msg">Није ускладиштен ниједан број говорне поште на SIM картици.</string>
+    <string name="add_vm_number_str">Додај број</string>
+    <string name="change_default_dialer_dialog_title">Променити подразумевану апликацију Телефон?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Желите ли да користите апликацију %1$s уместо апликације %2$s као подразумевану апликацију за позивање телефонских бројева?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Желите ли да користите апликацију %s као подразумевану апликацију за позивање телефонских бројева?</string>
+</resources>

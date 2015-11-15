@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="status_bar_recents_app_label_width">190.0dip</dimen>
+    <item type="dimen" name="recents_stack_width_padding_percentage">0.25</item>
+    <dimen name="keyguard_clock_notifications_margin_min">36.0dip</dimen>
+    <dimen name="keyguard_clock_notifications_margin_max">36.0dip</dimen>
+    <dimen name="keyguard_indication_margin_bottom">80.0dip</dimen>
+    <dimen name="screen_pinning_request_width">490.0dip</dimen>
+    <dimen name="screen_pinning_request_button_width">162.0dip</dimen>
+    <dimen name="screen_pinning_request_side_width">2.0dip</dimen>
+    <dimen name="screen_pinning_request_frame_padding">39.0dip</dimen>
+    <dimen name="widget_big_font_size">100.0dip</dimen>
+</resources>

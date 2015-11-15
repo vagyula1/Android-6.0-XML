@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>જવાબ આપો</item>
+        <item>બધાને જવાબ આપો</item>
+        <item>ફોરવર્ડ કરો</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>સફળતા</item>
+        <item>કોઈ કનેક્શન નથી</item>
+        <item>સાઇન ઇન કરી શક્યાં નથી</item>
+        <item>સુરક્ષા ભૂલ</item>
+        <item>સમન્વયિત કરી શક્યાં નથી</item>
+        <item>આંતરિક ભૂલ</item>
+        <item>સર્વર ભૂલ</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>વધુ નવું</item>
+        <item>જૂનું</item>
+        <item>વાર્તાલાપની સૂચિ</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>તમે કાઢી નાખો તે પછી નવો વાર્તાલાપ દર્શાવો</item>
+        <item>તમે કાઢી નાખો તે પછી જૂનો વાર્તાલાપ દર્શાવો</item>
+        <item>તમે કાઢી નાખો તે પછી વાર્તાલાપ સૂચિ દર્શાવો</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>આર્કાઇવ</item>
+        <item>કાઢી નાખો</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>આર્કાઇવ</item>
+        <item>કાઢી નાખો</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>હંમેશા સ્ક્રીનની ટોચ પર સંદેશ ક્રિયાઓ દર્શાવો</item>
+        <item>માત્ર પોટ્રેટમાં ફેરવવા પર સ્ક્રીનની ટોચ પર માત્ર સંદેશ ક્રિયાઓ દર્શાવો</item>
+        <item>સંદેશ હેડરની બહાર સંદેશ ક્રિયાઓ બતાવશો નહીં</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>હંમેશા બતાવો</item>
+        <item>માત્ર પોર્ટ્રેટમાં દર્શાવો</item>
+        <item>બતાવશો નહીં</item>
+    </string-array>
+</resources>

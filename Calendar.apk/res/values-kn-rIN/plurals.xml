@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d ನಿಮಿಷಗಳು</item>
+        <item quantity="one">1 ನಿಮಿಷ</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d ನಿಮಿಷಗಳು</item>
+        <item quantity="one">1 ನಿಮಿಷ</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d ಗಂಟೆಗಳು</item>
+        <item quantity="one">1 ಗಂಟೆ</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d ದಿನಗಳು</item>
+        <item quantity="one">1 ದಿನ</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">ವಾರ %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d ಬಾರಿಗೆ</item>
+        <item quantity="one">; ಒಂದು ಬಾರಿಗೆ</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">ಪ್ರತಿ %d ದಿನಗಳು</item>
+        <item quantity="one">ಪ್ರತಿದಿನ</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%2$s ರಂದು ಪ್ರತಿ %1$d ವಾರಗಳು</item>
+        <item quantity="one">%2$s ರಂದು ಪ್ರತಿ ವಾರ</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d ಈವೆಂಟ್‌ಗಳು</item>
+        <item quantity="one">1 ಈವೆಂಟ್</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d ಈವೆಂಟ್‌ಗಳು</item>
+        <item quantity="one">+1 ಈವೆಂಟ್</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">ಪ್ರತಿ %d ದಿನಗಳು</item>
+        <item quantity="one">ಪ್ರತಿ %d ದಿನ</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">ಪ್ರತಿ %d ವಾರಗಳು</item>
+        <item quantity="one">ಪ್ರತಿ %d ವಾರ</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">ಪ್ರತಿ %d ತಿಂಗಳು</item>
+        <item quantity="one">ಪ್ರತಿ %d ತಿಂಗಳು</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">ಪ್ರತಿ %d ವರ್ಷಗಳು</item>
+        <item quantity="one">ಪ್ರತಿ %d ವರ್ಷ</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d ಈವೆಂಟ್‌ಗಳಿಗಾಗಿ</item>
+        <item quantity="one">%d ಈವೆಂಟ್‌ಗಾಗಿ</item>
+    </plurals>
+</resources>

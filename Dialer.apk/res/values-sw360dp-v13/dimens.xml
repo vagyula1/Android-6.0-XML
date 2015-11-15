@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="dialpad_key_numbers_size">@dimen/dialpad_key_numbers_default_size</item>
+    <item type="dimen" name="dialpad_key_number_margin_bottom">@dimen/dialpad_key_number_default_margin_bottom</item>
+    <item type="dimen" name="dialpad_zero_key_number_margin_bottom">@dimen/dialpad_zero_key_number_default_margin_bottom</item>
+    <item type="dimen" name="dialpad_digits_adjustable_text_size">@dimen/dialpad_digits_text_size</item>
+    <item type="dimen" name="dialpad_digits_adjustable_height">@dimen/dialpad_digits_height</item>
+    <dimen name="call_banner_height">122.0dip</dimen>
+    <dimen name="call_status_text_size">22.0sp</dimen>
+    <dimen name="call_status_text_min_size">18.0sp</dimen>
+    <dimen name="call_name_text_size">45.0dip</dimen>
+    <dimen name="call_name_text_min_size">34.0sp</dimen>
+    <dimen name="call_label_text_size">18.0sp</dimen>
+</resources>

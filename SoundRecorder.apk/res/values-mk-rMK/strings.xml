@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Снимач на звук</string>
+    <string name="record_your_message">Снимете ја вашата порака</string>
+    <string name="message_recorded">Снимена порака</string>
+    <string name="review_message">Прегледај порака</string>
+    <string name="recording">Снимање</string>
+    <string name="recording_stopped">Снимањето е запрено</string>
+    <string name="storage_is_full">Меморијата е полна</string>
+    <string name="max_length_reached">Максималната должина е достигна</string>
+    <string name="insert_sd_card">Монтирај УСБ меморија</string>
+    <string name="min_available">%d мин. се достапни</string>
+    <string name="sec_available">%dсек. на располагање</string>
+    <string name="accept">Готово</string>
+    <string name="discard">Отфрли</string>
+    <string name="button_ok">Во ред</string>
+    <string name="audio_db_artist_name">Ваши снимки</string>
+    <string name="audio_db_album_name">Аудио снимки</string>
+    <string name="audio_db_playlist_name">Мои снимки</string>
+    <string name="error_sdcard_access">Не може да се пристапи кон УСБ меморијата.</string>
+    <string name="error_app_internal">Внатрешна грешка на апикација.</string>
+    <string name="error_mediadb_new_record">Не може да се зачува снимено аудио.</string>
+</resources>

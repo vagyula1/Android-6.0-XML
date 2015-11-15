@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">توجد %d من جهات الاتصال</item>
+        <item quantity="zero">لا توجد أي جهة اتصال (%d)</item>
+        <item quantity="one">توجد جهة اتصال واحدة</item>
+        <item quantity="two">توجد جهتا اتصال (%d)</item>
+        <item quantity="few">توجد %d جهات اتصال</item>
+        <item quantity="many">توجد %d جهة اتصال</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">توجد %d من جهات الاتصال بها أرقام هواتف</item>
+        <item quantity="zero">لا توجد أية جهات اتصال بها أرقام هواتف (%d)</item>
+        <item quantity="one">توجد جهة اتصال واحدة بها رقم هاتف</item>
+        <item quantity="two">توجد جهتا اتصال (%d) بهما أرقام هواتف</item>
+        <item quantity="few">توجد %d جهات اتصال بها أرقام هواتف</item>
+        <item quantity="many">توجد %d جهة اتصال بها أرقام هواتف</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">توجد %d من جهات الاتصال</item>
+        <item quantity="zero">لا توجد أي جهة اتصال (%d)</item>
+        <item quantity="one">توجد جهة اتصال واحدة</item>
+        <item quantity="two">توجد جهتا اتصال (%d)</item>
+        <item quantity="few">توجد %d جهات اتصال</item>
+        <item quantity="many">توجد %d جهة اتصال</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">تم دمج جهات الاتصال من %0$d من المصادر</item>
+        <item quantity="zero">لم يتم دمج أية جهات اتصال من أية مصادر (%0$d)</item>
+        <item quantity="one">تم دمج جهة اتصال واحدة</item>
+        <item quantity="two">تم دمج جهات الاتصال من مصدرين (%0$d)</item>
+        <item quantity="few">تم دمج جهات الاتصال من %0$d مصادر</item>
+        <item quantity="many">تم دمج جهات الاتصال من %0$d مصدرًا</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d من المجموعات</item>
+        <item quantity="zero">%0$d مجموعات</item>
+        <item quantity="one">مجموعة واحدة</item>
+        <item quantity="two">مجموعتان (%0$d)</item>
+        <item quantity="few">%0$d مجموعات</item>
+        <item quantity="many">%0$d مجموعة</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">يوجد %1$d من الأشخاص من %2$s</item>
+        <item quantity="zero">لا يوجد أي شخص (%1$d) من %2$s</item>
+        <item quantity="one">يوجد شخص واحد (%1$d) من %2$s</item>
+        <item quantity="two">يوجد شخصان (%1$d) من %2$s</item>
+        <item quantity="few">يوجد %1$d أشخاص من %2$s</item>
+        <item quantity="many">يوجد %1$d شخصًا من %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d من الأشخاص</item>
+        <item quantity="zero">لا يوجد أي شخص (%1$d)</item>
+        <item quantity="one">شخص واحد (%1$d)</item>
+        <item quantity="two">شخصان (%1$d)</item>
+        <item quantity="few">%1$d أشخاص</item>
+        <item quantity="many">%1$d شخصًا</item>
+    </plurals>
+</resources>

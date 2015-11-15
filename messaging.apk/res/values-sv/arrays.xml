@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>inget ämne</item>
+        <item>inget ämne</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Ja</item>
+        <item>Nej</item>
+        <item>OK</item>
+        <item>Hehe</item>
+        <item>Tack</item>
+        <item>Jag accepterar</item>
+        <item>Nice</item>
+        <item>På väg</item>
+        <item>OK, jag återkommer senare</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

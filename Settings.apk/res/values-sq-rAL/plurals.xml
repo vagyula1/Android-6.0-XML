@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Tani je %1$d hapa larg të qenët programues.</item>
+        <item quantity="one">Tani je %1$d hap larg të qenët programues.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d gjurmë gishti u konfiguruan</item>
+        <item quantity="one">%1$d gjurmë gishti u konfigurua</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Fjalëkalimi duhet të përmbajë të paktën %d shkronja.</item>
+        <item quantity="one">Fjalëkalimi duhet të përmbajë të paktën 1 shkronjë.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Fjalëkalimi duhet të përmbajë të paktën %d shkronja të vogla.</item>
+        <item quantity="one">Fjalëkalimi duhet të përmbajë të paktën 1 shkronjë të vogël.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Fjalëkalimi duhet të përmbajë të paktën %d shkronja të mëdha.</item>
+        <item quantity="one">Fjalëkalimi duhet të përmbajë të paktën 1 shkronjë të madhe.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Fjalëkalimi duhet të përmbajë të paktën %d shifra numerike.</item>
+        <item quantity="one">Fjalëkalimi duhet të përmbajë të paktën 1 shifër numerike.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Fjalëkalimi duhet të përmbajë të paktën %d simbole të veçanta.</item>
+        <item quantity="one">Fjalëkalimi duhet të përmbajë të paktën 1 simbol të veçantë.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Fjalëkalimi duhet të përmbajë të paktën %d karaktere që nuk janë shkronja.</item>
+        <item quantity="one">Fjalëkalimi duhet të përmbajë të paktën 1 karakter që nuk është shkronjë.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Kodi PIN i kartës SIM është i pasaktë. Të kanë mbetur edhe %d tentativa.</item>
+        <item quantity="one">Kodi PIN i kartës SIM është i pasaktë. Të ka mbetur edhe %d tentativë para se të duhet të kontaktosh me operatorin tënd celular për të shkyçur pajisjen.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">aplikacione mund të lexojnë njoftime</item>
+        <item quantity="one">%d aplikacion mund të lexojë njoftime</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Ndrysho në \"vetëm alarmet\" për %1$d minuta (deri në %2$s)</item>
+        <item quantity="one">Ndrysho në \"vetëm alarmet\" për një minutë deri në %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Kalo në \"vetëm alarme\" për %1$d orë deri në %2$s</item>
+        <item quantity="one">Kalo në \"vetëm alarme\" vetëm për një orë deri në %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d leje u dhanë</item>
+        <item quantity="one">%d leje u dha</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d nga %2$d leje të dhëna</item>
+        <item quantity="one">%1$d nga %2$d leje e dhënë</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d leje shtesë</item>
+        <item quantity="one">%d leje shtesë</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">"%d aplikacione mund t'i hapin lidhjet e tyre të mbështetura"</item>
+        <item quantity="one">"Një aplikacion mund t'i hapë lidhjet e tij të mbështetura"</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d aplikacione u lejuan të shpërfillin optimizimin e baterisë</item>
+        <item quantity="one">1 aplikacion u lejua të shpërfillë optimizimin e baterisë</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d aplikacione përdorën memorien në %2$s e fundit</item>
+        <item quantity="one">1 aplikacion përdori memorien në %2$s e fundit</item>
+    </plurals>
+</resources>

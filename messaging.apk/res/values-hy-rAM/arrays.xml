@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>անվերնագիր</item>
+        <item>անվերնագիր</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Այո</item>
+        <item>Ոչ</item>
+        <item>Լավ</item>
+        <item>Հե-հե</item>
+        <item>Շնորհակալություն</item>
+        <item>Համաձայն եմ</item>
+        <item>Գերազանց է</item>
+        <item>Ճանապարհին եմ</item>
+        <item>Լավ, կմիանամ ձեզ ավելի ուշ</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

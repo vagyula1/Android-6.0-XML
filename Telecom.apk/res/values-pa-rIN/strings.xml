@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">ਫ਼ੋਨ - ਕਾਲ ਪ੍ਰਬੰਧਨ</string>
+    <string name="userCallActivityLabel">ਫ਼ੋਨ</string>
+    <string name="unknown">ਅਗਿਆਤ</string>
+    <string name="notification_missedCallTitle">ਮਿਸਡ ਕਾਲ</string>
+    <string name="notification_missedCallsTitle">ਮਿਸਡ ਕਾਲਾਂ</string>
+    <string name="notification_missedCallsMsg">%s ਮਿਸਡ ਕਾਲਾਂ</string>
+    <string name="notification_missedCallTicker">%s ਵੱਲੋਂ ਮਿਸਡ ਕਾਲ</string>
+    <string name="notification_missedCall_call_back">ਕਾਲ ਬੈਕ ਕਰੋ</string>
+    <string name="notification_missedCall_message">ਸੁਨੇਹਾ</string>
+    <string name="accessibility_call_muted">ਕਾਲ ਮਿਊਟ ਕੀਤੀ।</string>
+    <string name="accessibility_speakerphone_enabled">ਸਪੀਕਰਫੋਨ ਸਮਰਥਿਤ।</string>
+    <string name="respond_via_sms_canned_response_1">ਹੁਣ ਗੱਲ ਨਹੀਂ ਕਰ ਸਕਦਾ। ਕੀ ਹੋ ਰਿਹਾ ਹੈ?</string>
+    <string name="respond_via_sms_canned_response_2">ਮੈਂ ਤੁਹਾਨੂੰ ਹੁਣੇ ਵਾਪਸ ਕਾਲ ਕਰਾਂਗਾ।</string>
+    <string name="respond_via_sms_canned_response_3">ਮੈਂ ਤੁਹਾਨੂੰ ਬਾਅਦ ਵਿੱਚ ਕਾਲ ਕਰਾਂਗਾ।</string>
+    <string name="respond_via_sms_canned_response_4">ਹੁਣ ਗੱਲ ਨਹੀਂ ਕਰ ਸਕਦਾ। ਕੀ ਮੈਨੂੰ ਬਾਅਦ ਵਿੱਚ ਫੋਨ ਕਰ ਸਕਦੇ ਹੋ?</string>
+    <string name="respond_via_sms_setting_title">ਤਤਕਾਲ ਜਵਾਬ</string>
+    <string name="respond_via_sms_setting_title_2">ਤਤਕਾਲ ਜਵਾਬ ਸੰਪਾਦਿਤ ਕਰੋ</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">ਤਤਕਾਲ ਜਵਾਬ</string>
+    <string name="respond_via_sms_confirmation_format">ਸੁਨੇਹਾ %s ਨੂੰ ਭੇਜਿਆ ਗਿਆ।</string>
+    <string name="enable_account_preference_title">ਕਾਲਿੰਗ ਖਾਤੇ</string>
+    <string name="outgoing_call_not_allowed_user_restriction">ਡਿਵਾਈਸ ਦੇ ਮਾਲਕ ਵੱਲੋਂ ਕੇਵਲ ਐਮਰਜੈਂਸੀ ਕਾਲਾਂ ਦੀ ਆਗਿਆ ਹੈ।</string>
+    <string name="outgoing_call_not_allowed_no_permission">ਇਹ ਐਪਲੀਕੇਸ਼ਨ ਫੋਨ ਅਨੁਮਤੀ ਦੇ ਬਿਨਾਂ ਆਉਟਗੋਇੰਗ ਕਾਲਾਂ ਨਹੀਂ ਕਰ ਸਕਦੀ।</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">ਇੱਕ ਕਾਲ ਕਰਨ ਲਈ, ਇੱਕ ਪ੍ਰਮਾਣਿਕ ਨੰਬਰ ਦਰਜ ਕਰੋ।</string>
+    <string name="duplicate_video_call_not_allowed">ਇਸ ਵੇਲੇ ਕਾਲ ਨਹੀਂ ਜੋੜੀ ਸਕਦੀ।</string>
+    <string name="video_call_not_allowed_if_tty_enabled">ਕਿਰਪਾ ਕਰਕੇ ਵੀਡੀਓ ਕਾਲਾਂ ਨੂੰ ਕਰਨ ਲਈ TTY ਮੋਡ ਅਸਮਰਥਿਤ ਕਰੋ.</string>
+    <string name="no_vm_number">ਲੁਪਤ ਵੌਇਸਮੇਲ ਨੰਬਰ</string>
+    <string name="no_vm_number_msg">SIM ਕਾਰਡ ਤੇ ਕੋਈ ਵੌਇਸਮੇਲ ਨੰਬਰ ਸਟੋਰ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ।</string>
+    <string name="add_vm_number_str">ਨੰਬਰ ਜੋੜੋ</string>
+    <string name="change_default_dialer_dialog_title">ਕੀ ਡਿਫ਼ੌਲਟ ਡਾਇਲਰ ਐਪ ਨੂੰ ਬਦਲਣਾ ਹੈ?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">ਕੀ %2$s ਦੀ ਬਜਾਏ %1$s ਨੂੰ ਆਪਣੀ ਡਿਫ਼ੌਲਟ ਡਾਇਲਰ ਐਪ ਦਾ ਉਪਯੋਗ ਕਰਨਾ ਹੈ?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">ਕੀ %s ਨੂੰ ਆਪਣੀ ਡਿਫ਼ੌਲਟ ਡਾਇਲਰ ਐਪ ਦਾ ਉਪਯੋਗ ਕਰਨਾ ਹੈ?</string>
+</resources>

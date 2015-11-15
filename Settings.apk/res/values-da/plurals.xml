@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Du er nu %1$d skridt fra at være udvikler.</item>
+        <item quantity="one">Du er nu %1$d skridt fra at være udvikler.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d fingeraftryk er oprettet</item>
+        <item quantity="one">%1$d fingeraftryk er oprettet</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Adgangskoden skal indeholder mindst %d bogstaver.</item>
+        <item quantity="one">Adgangskoden skal indeholder mindst %d bogstaver.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Adgangskoden skal indeholde mindst %d små bogstaver.</item>
+        <item quantity="one">Adgangskoden skal indeholde mindst %d små bogstaver.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Adgangskoden skal indeholde mindst %d store bogstaver.</item>
+        <item quantity="one">Adgangskoden skal indeholde mindst %d store bogstaver.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Adgangskoden skal indeholde mindst %d tal.</item>
+        <item quantity="one">Adgangskoden skal indeholde mindst %d tal.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Adgangskoden skal indeholde mindst %d specialtegn.</item>
+        <item quantity="one">Adgangskoden skal indeholde mindst %d specialtegn.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Adgangskoden skal indeholde mindst %d tegn, der ikke er bogstaver.</item>
+        <item quantity="one">Adgangskoden skal indeholde mindst %d tegn, der ikke er bogstaver.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Forkert pinkode til SIM-kort. Du har %d forsøg tilbage.</item>
+        <item quantity="one">Forkert pinkode til SIM-kort. Du har %d forsøg tilbage.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d apps kan læse underretninger</item>
+        <item quantity="one">%d apps kan læse underretninger</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Skift til Kun alarmer i %1$d minutter (indtil %2$s)</item>
+        <item quantity="one">Skift til Kun alarmer i %1$d minutter (indtil %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Skift til Kun alarmer i %1$d timer indtil %2$s</item>
+        <item quantity="one">Skift til Kun alarmer i %1$d timer indtil %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">Der er givet %d tilladelser</item>
+        <item quantity="one">Der er givet %d tilladelser</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d af %2$d tilladelser blev givet</item>
+        <item quantity="one">%1$d af %2$d tilladelser blev givet</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d ekstra tilladelser</item>
+        <item quantity="one">%d ekstra tilladelser</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d apps kan åbne deres understøttede links</item>
+        <item quantity="one">%d apps kan åbne deres understøttede links</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d apps har tilladelse til at ignorere batterioptimering</item>
+        <item quantity="one">%d apps har tilladelse til at ignorere batterioptimering</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d apps har brugt hukommelse inden for de sidste %2$s</item>
+        <item quantity="one">%1$d apps har brugt hukommelse inden for de sidste %2$s</item>
+    </plurals>
+</resources>

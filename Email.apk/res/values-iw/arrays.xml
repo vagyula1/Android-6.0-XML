@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>השב</item>
+        <item>השב לכולם</item>
+        <item>העבר</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>בוצע בהצלחה</item>
+        <item>אין חיבור</item>
+        <item>לא ניתן להיכנס</item>
+        <item>שגיאת אבטחה</item>
+        <item>הסנכרון נכשל</item>
+        <item>שגיאה פנימית</item>
+        <item>שגיאת שרת</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>חדש יותר</item>
+        <item>ישן יותר</item>
+        <item>רשימת שיחות</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>הצג שיחה חדשה יותר לאחר ביצוע מחיקה</item>
+        <item>הצג שיחה ישנה יותר לאחר ביצוע מחיקה</item>
+        <item>הצג רשימת שיחות לאחר ביצוע מחיקה</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>העברה לארכיון</item>
+        <item>מחיקה</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>העברה לארכיון</item>
+        <item>מחיקה</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>הצג תמיד פעולות הודעה בראש המסך</item>
+        <item>הצג פעולות הודעה בראש המסך רק בעת סיבוב לפריסה לאורך</item>
+        <item>אל תציג פעולות הודעה מחוץ לכותרת ההודעה</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>הצג תמיד</item>
+        <item>הצג בפריסה לאורך בלבד</item>
+        <item>אל תציג</item>
+    </string-array>
+</resources>

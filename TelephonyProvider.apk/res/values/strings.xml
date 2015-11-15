@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Phone and Messaging Storage</string>
+    <string name="read_only">read_only</string>
+    <string name="ppp_number">ppp_number</string>
+</resources>

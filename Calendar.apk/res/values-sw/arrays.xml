@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Arifa</item>
+        <item>Barua pepe</item>
+        <item>Ujumbe mfupi</item>
+        <item>Kengele</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>Dakika 0</item>
+        <item>Dakika 1</item>
+        <item>Dakika 5</item>
+        <item>Dakika 10</item>
+        <item>Dakika 15</item>
+        <item>Dakika 20</item>
+        <item>Dakika 25</item>
+        <item>Dakika 30</item>
+        <item>Dakika 45</item>
+        <item>Saa 1</item>
+        <item>Saa 2</item>
+        <item>Saa 3</item>
+        <item>Saa 12</item>
+        <item>Saa 24</item>
+        <item>Siku 2</item>
+        <item>Wiki 1</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Hamna</item>
+        <item>Dakika 0</item>
+        <item>Dakika 1</item>
+        <item>Dakika 5</item>
+        <item>Dakika 10</item>
+        <item>Dakika 15</item>
+        <item>Dakika 20</item>
+        <item>Dakika 25</item>
+        <item>Dakika 30</item>
+        <item>Dakika 45</item>
+        <item>Saa 1</item>
+        <item>Saa 2</item>
+        <item>Saa 3</item>
+        <item>Saa 12</item>
+        <item>Saa 24</item>
+        <item>Siku 2</item>
+        <item>Wiki 1</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Eneo la kawaida</item>
+        <item>Jumamosi</item>
+        <item>Jumapili</item>
+        <item>Jumatatu</item>
+    </string-array>
+    <string-array name="availability">
+        <item>nina shughuli</item>
+        <item>Ninapatikana</item>
+        <item>Kujaribia</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Chaguo-msingi</item>
+        <item>Faragha</item>
+        <item>Umma</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>kwanza</item>
+        <item>sekunde</item>
+        <item>tatu</item>
+        <item>nne</item>
+        <item>ya mwisho</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Hakuna jibu</item>
+        <item>Ndio</item>
+        <item>Labda</item>
+        <item>Hapana</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Tukio hili tu</item>
+        <item>Hii na matukio ya baadaye</item>
+        <item>Matukio yote</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Tukio hili na yote yajayo</item>
+        <item>Matukio yote</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Tukio hili tu</item>
+        <item>Matukio yote katika mfululizo</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Siku</item>
+        <item>Wiki</item>
+        <item>Mwezi</item>
+        <item>Ajenda</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Ikiwa itakataliwa tu</item>
+        <item>Ikikataliwa au Isipojibiwa</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>RUDIA KILA SIKU</item>
+        <item>RUDIA KILA WIKI</item>
+        <item>RUDIA KILA MWEZI</item>
+        <item>RUDIA KILA MWAKA</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>kila Jumapili ya kwanza</item>
+        <item>kila Jumapili ya pili</item>
+        <item>kila Jumapili ya tatu</item>
+        <item>kila Jumapili ya nne</item>
+        <item>kila Jumapili ya mwisho</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>kila Jumatatu ya kwanza</item>
+        <item>kila Jumatatu ya pili</item>
+        <item>kila Jumatatu ya tatu</item>
+        <item>kila Jumatatu ya nne</item>
+        <item>kila Jumatatu ya mwisho</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>kila Jumanne ya kwanza</item>
+        <item>kila Jumanne ya pili</item>
+        <item>kila Jumanne ya tatu</item>
+        <item>kila Jumanne ya nne</item>
+        <item>kila Jumanne ya mwisho</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>kila Jumatano ya kwanza</item>
+        <item>kila Jumatano ya pili</item>
+        <item>kila Jumatano ya tatu</item>
+        <item>kila Jumatano ya nne</item>
+        <item>kila Jumatano ya mwisho</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>kila Alhamisi ya kwanza</item>
+        <item>kila Alhamisi ya pili</item>
+        <item>kila Alhamisi ya tatu</item>
+        <item>kila Alhamisi ya nne</item>
+        <item>kila Alhamisi ya mwisho</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>kila Ijumaa ya kwanza</item>
+        <item>kila Ijumaa ya pili</item>
+        <item>kila Ijumaa ya tatu</item>
+        <item>kila Ijumaa ya nne</item>
+        <item>kila Ijumaa ya mwisho</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>kila Jumamosi ya kwanza</item>
+        <item>kila Jumamosi ya pili</item>
+        <item>kila Jumamosi ya tatu</item>
+        <item>kila Jumamosi ya nne</item>
+        <item>kila Jumamosi ya mwisho</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Nitachelewa tu kwa dakika chache.</item>
+        <item>Kuwa hapo katika dakika 10.</item>
+        <item>Endelea na uanze bila mimi.</item>
+        <item>Samahani, Siwezi. Itabidi tupange upya.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australia ya Kati - NT</item>
+        <item>Australia ya Kati - SA</item>
+        <item>Mashariki ya Australia- QLD</item>
+        <item>Mashariki ya Australia - NSW</item>
+        <item>Saa Wastani za Mountain - Dawson Creek</item>
+        <item>Saa Wastani za Kati - Saskatchewan</item>
+        <item>Saa Wastani za Mashariki - Atikokan</item>
+        <item>Saa Wastani za Atlantiki - Quebec</item>
+        <item>Hawaii-Aleutian - Hawaii</item>
+        <item>Hawaii-Aleutian - Alaska</item>
+        <item>Saa Wastani za Pasifiki - Metlakatla</item>
+        <item>Saa Wastani za Mountain - Arizona</item>
+        <item>Pasifiki - Baja California</item>
+        <item>Mountain - Chihuahua</item>
+        <item>Kati - Tamaulipas</item>
+        <item>Mountain - Sonora</item>
+        <item>Saa za Afrika Mashariki</item>
+        <item>Saa Wastani za Atlantiki</item>
+        <item>Saa Wastani za Atlantiki</item>
+        <item>Saa za Mashariki ya Ulaya</item>
+        <item>Saa za Kaliningrad</item>
+        <item>Amazon - Rondônia</item>
+        <item>Brasilia - Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Uholanzi wa Kikaribi</item>
+        <item>Kurakao</item>
+        <item>Sudan Kusini</item>
+    </string-array>
+</resources>

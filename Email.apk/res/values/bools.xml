@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
+    <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_closeDialogWhenTouchOutside">true</bool>
+    <bool name="force_thumbnail_no_scaling">true</bool>
+    <bool name="use_tablet_ui">false</bool>
+    <bool name="is_tablet_landscape">false</bool>
+    <bool name="display_folder_colors_in_widget">true</bool>
+    <bool name="veiled_address_enabled">false</bool>
+    <bool name="always_show_images_default">false</bool>
+    <bool name="openHelpWithBrowser">true</bool>
+    <bool name="auto_scroll_cc">true</bool>
+    <bool name="prefDefault_actionStripActionReplyAll">false</bool>
+    <bool name="feedback_supported">false</bool>
+    <bool name="quickresponse_supported">true</bool>
+    <bool name="skip_oauth_on_setup">false</bool>
+    <bool name="reconcile_accounts">true</bool>
+    <bool name="enable_services">true</bool>
+</resources>

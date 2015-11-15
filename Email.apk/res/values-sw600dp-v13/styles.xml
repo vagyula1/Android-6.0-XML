@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RecipientEditTextView" parent="@style/RecipientEditTextViewBase">
+        <item name="android:imeOptions">actionNext</item>
+    </style>
+    <style name="ComposeAreaWrapper">
+        <item name="android:background">@color/holo_light_background_color</item>
+    </style>
+    <style name="VacationResponderTheme" parent="@style/UnifiedEmailTheme.Appcompat">
+        <item name="android:windowBackground">@color/vacation_responder_window_background</item>
+    </style>
+</resources>

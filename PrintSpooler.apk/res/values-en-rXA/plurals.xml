@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">[%1$s þŕîñţéŕš ƒöûñð one two three]</item>
+        <item quantity="one">[%1$s þŕîñţéŕ ƒöûñð one two three]</item>
+    </plurals>
+    <plurals name="composite_notification_title_template">
+        <item quantity="other">[%1$d þŕîñţ ĵöɓš one two]</item>
+        <item quantity="one">[%1$d þŕîñţ ĵöɓ one two]</item>
+    </plurals>
+</resources>

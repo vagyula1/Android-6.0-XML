@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Снимач звука</string>
+    <string name="record_your_message">Снимање поруке</string>
+    <string name="message_recorded">Порука је снимљена</string>
+    <string name="review_message">Преглед поруке</string>
+    <string name="recording">Снимање</string>
+    <string name="recording_stopped">Снимање је заустављено</string>
+    <string name="storage_is_full">Складиште је пуно</string>
+    <string name="max_length_reached">Достигнута је максимална дужина</string>
+    <string name="insert_sd_card">Прикључите USB меморију</string>
+    <string name="min_available">Доступно је још %d мин</string>
+    <string name="sec_available">Доступно је још %dсек</string>
+    <string name="accept">Готово</string>
+    <string name="discard">Одбаци</string>
+    <string name="button_ok">Потврди</string>
+    <string name="audio_db_artist_name">Ваши снимци</string>
+    <string name="audio_db_album_name">Аудио снимци</string>
+    <string name="audio_db_playlist_name">Моји снимци</string>
+    <string name="error_sdcard_access">Није могуће приступити USB меморији.</string>
+    <string name="error_app_internal">Унутрашња грешка апликације.</string>
+    <string name="error_mediadb_new_record">Није могуће сачувати снимљени звук.</string>
+</resources>

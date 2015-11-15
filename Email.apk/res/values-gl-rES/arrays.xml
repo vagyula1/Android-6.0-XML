@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Responder</item>
+        <item>Responder a todos</item>
+        <item>Reenviar</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Correcto</item>
+        <item>Sen conexión</item>
+        <item>Non se puido iniciar sesión</item>
+        <item>Erro de seguridade</item>
+        <item>Non se puido sincronizar</item>
+        <item>Erro interno</item>
+        <item>Erro do servidor</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Máis recente</item>
+        <item>Máis antiga</item>
+        <item>Lista de conversas</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Mostrar conversa máis recente despois de eliminar</item>
+        <item>Mostrar conversa máis antiga despois de eliminar</item>
+        <item>Mostrar lista de conversas despois de eliminar</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Arquivar</item>
+        <item>Eliminar</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Arquiva</item>
+        <item>Elimina</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Mostrar sempre as accións das mensaxes na parte superior da pantalla</item>
+        <item>Mostrar só as accións das mensaxes na parte superior da pantalla cando se xiran para o retrato</item>
+        <item>Non mostrar as accións das mensaxes fóra do encabezado da mensaxe</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Mostrar sempre</item>
+        <item>Mostrar só en retrato</item>
+        <item>Non mostrar</item>
+    </string-array>
+</resources>

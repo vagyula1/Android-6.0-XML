@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>اعلان</item>
+        <item>ایمیل</item>
+        <item>پیامک</item>
+        <item>زنگ هشدار</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 دقیقه</item>
+        <item>۱ دقیقه</item>
+        <item>۵ دقیقه</item>
+        <item>۱۰ دقیقه</item>
+        <item>۱۵ دقیقه</item>
+        <item>۲۰ دقیقه</item>
+        <item>۲۵ دقیقه</item>
+        <item>۳۰ دقیقه</item>
+        <item>۴۵ دقیقه</item>
+        <item>۱ ساعت</item>
+        <item>۲ ساعت</item>
+        <item>۳ ساعت</item>
+        <item>۱۲ ساعت</item>
+        <item>۲۴ ساعت</item>
+        <item>۲ روز</item>
+        <item>۱ هفته</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>هیچکدام</item>
+        <item>0 دقیقه</item>
+        <item>۱ دقیقه</item>
+        <item>۵ دقیقه</item>
+        <item>۱۰ دقیقه</item>
+        <item>۱۵ دقیقه</item>
+        <item>۲۰ دقیقه</item>
+        <item>۲۵ دقیقه</item>
+        <item>۳۰ دقیقه</item>
+        <item>۴۵ دقیقه</item>
+        <item>۱ ساعت</item>
+        <item>۲ ساعت</item>
+        <item>۳ ساعت</item>
+        <item>۱۲ ساعت</item>
+        <item>۲۴ ساعت</item>
+        <item>۲ روز</item>
+        <item>۱ هفته</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>پیش‌فرض محلی</item>
+        <item>شنبه</item>
+        <item>یکشنبه</item>
+        <item>دوشنبه</item>
+    </string-array>
+    <string-array name="availability">
+        <item>مشغول</item>
+        <item>موجود</item>
+        <item>احتمالی</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>پیش‌فرض</item>
+        <item>خصوصی</item>
+        <item>عمومی</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>ابتدا</item>
+        <item>ثانیه</item>
+        <item>سومین</item>
+        <item>چهارمین</item>
+        <item>آخرین</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>بدون پاسخ</item>
+        <item>بله</item>
+        <item>شاید</item>
+        <item>خیر</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>فقط این رویداد</item>
+        <item>این رویداد و رویدادهای آینده</item>
+        <item>همه رویدادها</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>این و رویدادهای آینده</item>
+        <item>همه رویدادها</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>فقط این رویداد</item>
+        <item>همه رویدادهای موجود در این مجموعه</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>روز</item>
+        <item>هفته</item>
+        <item>ماه</item>
+        <item>دستور کار</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>فقط درصورت ردکردن</item>
+        <item>درصورت ردکردن یا پاسخ ندادن</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>تکرار روزانه</item>
+        <item>تکرار هفتگی</item>
+        <item>تکرار ماهانه</item>
+        <item>تکرار سالانه</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>اولین یکشنبه هر ماه</item>
+        <item>دومین یکشنبه هر ماه</item>
+        <item>سومین یکشنبه هر ماه</item>
+        <item>چهارمین یکشنبه هر ماه</item>
+        <item>آخرین یکشنبه هر ماه</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>اولین دوشنبه هر ماه</item>
+        <item>دومین دوشنبه هر ماه</item>
+        <item>سومین دوشنبه هر ماه</item>
+        <item>چهارمین دوشنبه هر ماه</item>
+        <item>آخرین دوشنبه هر ماه</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>اولین سه‌شنبه هر ماه</item>
+        <item>دومین سه‌شنبه هر ماه</item>
+        <item>سومین سه‌شنبه هر ماه</item>
+        <item>چهارمین سه‌شنبه هر ماه</item>
+        <item>آخرین سه‌شنبه هر ماه</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>اولین چهارشنبه هر ماه</item>
+        <item>دومین چهارشنبه هر ماه</item>
+        <item>سومین چهارشنبه هر ماه</item>
+        <item>چهارمین چهارشنبه هر ماه</item>
+        <item>آخرین چهارشنبه هر ماه</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>اولین پنج‌شنبه هر ماه</item>
+        <item>دومین پنج‌شنبه هر ماه</item>
+        <item>سومین پنج‌شنبه هر ماه</item>
+        <item>چهارمین پنج‌شنبه هر ماه</item>
+        <item>آخرین پنج‌شنبه هر ماه</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>اولین جمعه هر ماه</item>
+        <item>دومین جمعه هر ماه</item>
+        <item>سومین جمعه هر ماه</item>
+        <item>چهارمین جمعه هر ماه</item>
+        <item>آخرین جمعه هر ماه</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>اولین شنبه هر ماه</item>
+        <item>دومین شنبه هر ماه</item>
+        <item>سومین شنبه هر ماه</item>
+        <item>چهارمین شنبه هر ماه</item>
+        <item>آخرین شنبه هر ماه</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>با تأخیر چند دقیقه‌ای اجرا می‌شود.</item>
+        <item>۱۰ دقیقه دیگر آنجا خواهم بود.</item>
+        <item>دست به کار شوید و بدون من شروع کنید.</item>
+        <item>با عرض پوزش، نمی‌توانم این را ایجاد کنم. باید دوباره برنامه‌ریزی کنیم.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>‏‫استرالیای مرکزی - NT</item>
+        <item>‏‫استرالیای مرکزی - SA</item>
+        <item>‏استرالیای شرقی - QLD</item>
+        <item>‏استرالیای شرقی - NSW</item>
+        <item>استاندارد کوهستان - داوسون کریک</item>
+        <item>استاندارد مرکزی - ساسکاچوان</item>
+        <item>استاندارد شرقی - آتیکوکان</item>
+        <item>استاندارد اقیانوس اطلس - کبک</item>
+        <item>هاوایی-آلوشن - هاوایی</item>
+        <item>هاوایی-آلوشن- آلاسکا</item>
+        <item>استاندارد اقیانوس آرام-متلاکاتلا</item>
+        <item>استاندارد کوهستان - آریزونا</item>
+        <item>اقیانوس آرام - باجا کالیفرنیا</item>
+        <item>کوهستان - چیواوا</item>
+        <item>مرکزی - تامائولیپاس</item>
+        <item>کوهستان - سونورا</item>
+        <item>زمان آفریقای شرقی</item>
+        <item>زمان استاندارد اقیانوس اطلس</item>
+        <item>زمان استاندارد اقیانوس اطلس</item>
+        <item>زمان اروپای شرقی</item>
+        <item>زمان کالینینگراد</item>
+        <item>آمازون - روندونیا</item>
+        <item>برازیلیا - پارا</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>سینت مارتن</item>
+        <item>کارائیب هلند</item>
+        <item>کوراسائو</item>
+        <item>سودان جنوبی</item>
+    </string-array>
+</resources>

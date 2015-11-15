@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MessageDetailsHeaderStyle" />
+    <style name="MessageHeaderShowPicsStyle" parent="@style/AbstractMessageHeaderShowPicsStyle">
+        <item name="android:drawableStart">@drawable/ic_show_images_holo_light</item>
+    </style>
+    <style name="MessageUpperHeaderTextStyle" />
+    <style name="ConversationHeaderStyle" />
+    <style name="CheckedTextStyle" />
+    <style name="SendMailStyle" parent="@style/ComposeFromTextViewStyle" />
+    <style name="MessageHeaderIconStyle" />
+    <style name="SuperCollapsedStrokeStyle" />
+    <style name="DrawerNavigationStyle">
+        <item name="android:nextFocusLeft">@id/conversation_list_view</item>
+    </style>
+    <style name="FolderListItemStartStyle" />
+    <style name="FolderListItemEndStyle" />
+    <style name="FolderListItemStyleBase" />
+    <style name="DismissSeparatorStyle" />
+    <style name="TeaserStartMargin" />
+    <style name="MessageHeaderDetailsHeadingStyle" parent="@style/MessageHeaderSmallStyle" />
+    <style name="AttachmentMarginStyle" />
+    <style name="AttachmentPaddingStyle" />
+    <style name="AttachmentIconStyle" />
+    <style name="AttachmentThumbnail" />
+    <style name="UnreadCountWithMarginEndStyle" parent="@style/UnreadCountRelativeLayout" />
+    <style name="UnseenCountWithMarginEndStyle" parent="@style/UnseenCount" />
+    <style name="AttachmentTextContainer" />
+    <style name="VacationResponderDatePadding" />
+    <style name="MessageSenderNameStyle" parent="@style/AbstractMessageSenderNameStyle" />
+    <style name="MessageHeaderSubtitleStyle" parent="@style/AbstractMessageHeaderSubtitleStyle">
+        <item name="android:maxLines">1</item>
+    </style>
+    <style name="FloatingActionButtonStyle" parent="@style/FloatingActionButtonBackgroundStyle" />
+    <style name="SnackBarDescriptionTextStyle" />
+    <style name="MiniDrawerFolderStyle" parent="@style/MiniDrawerFolderStyleBase">
+        <item name="android:scaleX">-1.0</item>
+    </style>
+    <style name="SingleFolderListIconStyle">
+        <item name="android:scaleX">-1.0</item>
+    </style>
+    <style name="FolderSelectionItemStyle" parent="@style/AbstractFolderSelectionItemStyle" />
+    <style name="FolderListIconStyle">
+        <item name="android:scaleX">-1.0</item>
+    </style>
+    <style name="MessageHeaderUpperDateStyle" parent="@style/MessageHeaderSmallStyle" />
+    <style name="MessageAttachmentBarMarginEndStyle" />
+    <style name="WidgetSendersStyle" />
+    <style name="WidgetAttachStyle" />
+    <style name="WidgetHeaderStartMargin" />
+    <style name="ConversationListContactImageStyle" />
+    <style name="ConversationListReplyStateStyle" />
+    <style name="ConversationListPersonalIndicatorStyle" />
+    <style name="ConversationListSendersStyle" />
+    <style name="ConversationListInfoIconStyle" />
+    <style name="ConversationListDateStyle" />
+    <style name="ConversationListPaperclipStyle" />
+    <style name="ConversationListColorBlockStyle" />
+    <style name="ConversationListSubjectStyle">
+        <item name="android:layout_alignParentTop">true</item>
+    </style>
+    <style name="ConversationListSnippetAndFoldersStyle">
+        <item name="android:layout_below">@id/subject</item>
+    </style>
+    <style name="ConversationListStarStyle">
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+    <style name="ConversationListWideStyle" />
+    <style name="ConversationListWideContactImageStyle" />
+    <style name="ConversationListWidePersonalIndicatorStyle">
+        <item name="android:layout_gravity">end</item>
+    </style>
+    <style name="ConversationListWidePaperclipStyle" />
+    <style name="ConversationListWideDateStyle" />
+    <style name="ConversationListWideInfoIconStyle" />
+    <style name="ConversationListWideStarStyle" />
+    <style name="ConversationListWideColorBlockStyle">
+        <item name="android:layout_gravity">end|center|top</item>
+    </style>
+    <style name="ConversationListSpaciousStyle" />
+    <style name="ConversationListSpaciousContactImageStyle" />
+    <style name="ConversationListSpaciousStarStyle" />
+    <style name="ConversationListFooterLoadMoreStyle" />
+    <style name="SpinnerAccountNameStyle" parent="@style/ComposeFromTextViewStyle" />
+    <style name="AbstractComposeAreaWithRtl" parent="@style/AbstractComposeArea" />
+    <style name="ComposeAttachmentTileTextEndStyle" />
+    <style name="ComposeFieldContent" parent="@style/ComposeFieldContentBase" />
+    <style name="ComposeToDropdownAnchor" />
+    <style name="ComposeHeadingPadding" />
+    <style name="ComposeFieldButton" parent="@style/BaseComposeFieldButton" />
+    <style name="QuotedTextCheckbox" />
+    <style name="FolderTeaserPaddingEndStyle" />
+    <style name="ArrowStyle" />
+    <style name="UndoDescriptionStyle" />
+    <style name="AccountItemNameStyle" />
+    <style name="client_certificate_button" parent="@style/account_setup_text_button">
+        <item name="android:paddingLeft">20.0dip</item>
+        <item name="android:paddingRight">20.0dip</item>
+    </style>
+    <style name="client_certificate_title" />
+    <style name="client_certificate_alias" />
+    <style name="oauth_label">
+        <item name="android:paddingRight">10.0dip</item>
+    </style>
+    <style name="clear_authentication_button">
+        <item name="android:layout_marginRight">8.0dip</item>
+    </style>
+</resources>

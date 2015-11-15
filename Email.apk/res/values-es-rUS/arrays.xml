@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Responder</item>
+        <item>Responder a todos</item>
+        <item>Reenviar</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>La acción se realizó correctamente.</item>
+        <item>Sin conexión</item>
+        <item>No se pudo acceder.</item>
+        <item>Error de seguridad</item>
+        <item>No se pudo sincronizar.</item>
+        <item>Error interno</item>
+        <item>Error de servidor</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Más reciente</item>
+        <item>Más antigua</item>
+        <item>Lista de conversaciones</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Mostrar la conversación más reciente luego de la eliminación</item>
+        <item>Mostrar la conversación más antigua luego de la eliminación</item>
+        <item>Mostrar la lista de conversaciones luego de la eliminación</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Archivar</item>
+        <item>Eliminar</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Archivar</item>
+        <item>Eliminar</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Mostrar siempre las acciones de los mensajes en la parte superior de la pantalla</item>
+        <item>Mostrar las acciones de los mensajes solo en la parte superior de la pantalla cuando se la rota a la posición vertical</item>
+        <item>No mostrar acciones de mensajes fuera del encabezado del mensaje</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Mostrar siempre</item>
+        <item>Mostrar solo en posición vertical</item>
+        <item>No mostrar</item>
+    </string-array>
+</resources>

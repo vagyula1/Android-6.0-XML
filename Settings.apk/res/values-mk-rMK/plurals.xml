@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Сега сте на %1$d чекори поблиску да станете програмер.</item>
+        <item quantity="one">Сега сте на %1$d чекор поблиску да станете програмер.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d поставени отпечатоци</item>
+        <item quantity="one">%1$d поставен отпечаток</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Лозинката мора да содржи најмалку %d букви.</item>
+        <item quantity="one">Лозинката мора да содржи најмалку %d буква.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Лозинката мора да содржи најмалку %d мали букви.</item>
+        <item quantity="one">Лозинката мора да содржи најмалку %d мала буква.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Лозинката мора да содржи најмалку %d големи букви.</item>
+        <item quantity="one">Лозинката мора да содржи најмалку %d голема буква.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Лозинката мора да содржи најмалку %d цифри.</item>
+        <item quantity="one">Лозинката мора да содржи најмалку %d цифра.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Лозинката мора да содржи најмалку %d специјални симболи.</item>
+        <item quantity="one">Лозинката мора да содржи најмалку %d специјален симбол.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Лозинката мора да содржи најмалку %d знаци што не се букви.</item>
+        <item quantity="one">Лозинката мора да содржи најмалку %d знак што не е буква.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Погрешен ПИН-код за СИМ, имате уште %d обиди.</item>
+        <item quantity="one">Погрешен ПИН-код за СИМ, имате уште %d обид.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d апликации може да читаат известувања</item>
+        <item quantity="one">%d апликација може да чита известувања</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Промени на аларми само за %1$d минути до %2$s)</item>
+        <item quantity="one">Промени на аларми само за %1$d минута до %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Промени на аларми само за %1$d часа до %2$s</item>
+        <item quantity="one">Промени на аларми само за %1$d час до %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d дозволи се одобрени</item>
+        <item quantity="one">%d дозвола е одобрена</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">Доделена е %1$d од %2$d дозволи</item>
+        <item quantity="one">Доделена е %1$d од %2$d дозвола</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d дополнителни дозволи</item>
+        <item quantity="one">%d дополнителна дозвола</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d апликации може да ги отворат своите поддржани врски</item>
+        <item quantity="one">%d апликација може да ги отвори своите поддржани врски</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">На %d апликации им е дозволено да ја игнорираат оптимизацијата на батеријата</item>
+        <item quantity="one">На %d апликација ѝ е дозволено да ја игнорира оптимизацијата на батеријата</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d апликации користеа меморија изминатите %2$s</item>
+        <item quantity="one">%1$d апликација користеше меморија изминатите %2$s</item>
+    </plurals>
+</resources>

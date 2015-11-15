@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Upravljanje telefonskih klicev</string>
+    <string name="userCallActivityLabel">Telefon</string>
+    <string name="unknown">Neznano</string>
+    <string name="notification_missedCallTitle">Neodgovorjeni klic</string>
+    <string name="notification_missedCallsTitle">Neodgovorjeni klici</string>
+    <string name="notification_missedCallsMsg">%s neodgovorjenih klicev</string>
+    <string name="notification_missedCallTicker">Neodgovorjeni klic od %s</string>
+    <string name="notification_missedCall_call_back">Povratni klic</string>
+    <string name="notification_missedCall_message">Sporočilo</string>
+    <string name="accessibility_call_muted">Klic izključen.</string>
+    <string name="accessibility_speakerphone_enabled">Zvočnik omogočen.</string>
+    <string name="respond_via_sms_canned_response_1">Zdaj ne morem govoriti. Za kaj gre?</string>
+    <string name="respond_via_sms_canned_response_2">Takoj bom poklical.</string>
+    <string name="respond_via_sms_canned_response_3">Poklical bom pozneje.</string>
+    <string name="respond_via_sms_canned_response_4">Zdaj ne morem govoriti. Pozneje?</string>
+    <string name="respond_via_sms_setting_title">Hitri odgovori</string>
+    <string name="respond_via_sms_setting_title_2">Urejanje hitrih odgovorov</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Hiter odgovor</string>
+    <string name="respond_via_sms_confirmation_format">SMS poslan na številko %s.</string>
+    <string name="enable_account_preference_title">Računi za klicanje</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Lastnik naprave dovoljuje samo opravljanje klicev v sili</string>
+    <string name="outgoing_call_not_allowed_no_permission">Ta aplikacija lahko opravlja odhodne klice brez dovoljenja za telefon.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Če želite opraviti klic, vnesite veljavno številko.</string>
+    <string name="duplicate_video_call_not_allowed">Klica trenutno ni mogoče dodati.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Če želite opravljati videoklice, onemogočite način TTY.</string>
+    <string name="no_vm_number">Manjkajoča številka glasovne pošte</string>
+    <string name="no_vm_number_msg">Na kartici SIM ni shranjena številka glasovne pošte.</string>
+    <string name="add_vm_number_str">Dodaj številko</string>
+    <string name="change_default_dialer_dialog_title">Želite spremeniti privzeto aplikacijo za klicanje?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Želite %1$s uporabljati kot privzeto aplikacijo za klicanje namesto %2$s?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Želite %s uporabljati kot privzeto aplikacijo za klicanje?</string>
+</resources>

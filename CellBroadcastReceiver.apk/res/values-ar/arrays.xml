@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>ثانيتان</item>
+        <item>4 ثوانٍ</item>
+        <item>6 ثوانٍ</item>
+        <item>8 ثوانٍ</item>
+        <item>10 ثوانٍ</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>مرة واحدة</item>
+        <item>كل دقيقتين</item>
+        <item>كل 15 دقيقة</item>
+        <item>إيقاف</item>
+    </string-array>
+</resources>

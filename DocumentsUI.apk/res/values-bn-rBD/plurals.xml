@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">%1$dটি ফাইল অনুলিপি করা হচ্ছে৷</item>
+        <item quantity="one">%1$dটি ফাইল অনুলিপি করা হচ্ছে৷</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">%1$dটি ফাইলের প্রতিলিপি করা যায়নি</item>
+        <item quantity="one">%1$dটি ফাইলের প্রতিলিপি করা যায়নি</item>
+    </plurals>
+</resources>

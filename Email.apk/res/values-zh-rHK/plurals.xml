@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">草稿</item>
+        <item quantity="one">草稿</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">刪除這 %1$d 個對話群組？</item>
+        <item quantity="one">刪除這個對話群組？</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">封存這 %1$d 個對話群組？</item>
+        <item quantity="one">封存這個對話群組？</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">要取消這 %1$d 封郵件嗎？</item>
+        <item quantity="one">要取消這封郵件嗎？</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">正在將 %1$d 個對話群組的星號移除</item>
+        <item quantity="one">正在將 %1$d 個對話群組的星號移除</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">已略過 &amp;lt;b>%1$d&amp;lt;/b> 個對話群組</item>
+        <item quantity="one">已略過 &amp;lt;b>%1$d&amp;lt;/b> 個對話群組</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">已將 &amp;lt;b>%1$d&amp;lt;/b> 個對話群組回報為垃圾郵件</item>
+        <item quantity="one">已將 &amp;lt;b>%1$d&amp;lt;/b> 個對話群組回報為垃圾郵件</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">已將 &amp;lt;b>%1$d&amp;lt;/b> 個對話群組回報為非垃圾郵件</item>
+        <item quantity="one">已將 &amp;lt;b>%1$d&amp;lt;/b> 個對話群組回報為非垃圾郵件</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">已將 &amp;lt;b>%1$d&amp;lt;/b> 個對話群組標示為不重要</item>
+        <item quantity="one">已將 &amp;lt;b>%1$d&amp;lt;/b> 個對話群組標示為不重要</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">已將 &amp;lt;b>%1$d&amp;lt;/b> 個對話群組回報為詐騙郵件</item>
+        <item quantity="one">已將 &amp;lt;b>%1$d&amp;lt;/b> 個對話群組回報為詐騙郵件</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">已封存 &amp;lt;b>%1$d&amp;lt;/b> 個對話群組</item>
+        <item quantity="one">已封存 &amp;lt;b>%1$d&amp;lt;/b> 個對話群組</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">已刪除 &amp;lt;b>%1$d&amp;lt;/b> 個對話群組</item>
+        <item quantity="one">已刪除 &amp;lt;b>%1$d&amp;lt;/b> 個對話群組</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">已變更資料夾</item>
+        <item quantity="one">已變更資料夾</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d 封新郵件</item>
+        <item quantity="one">%1$d 封新郵件</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">展開 %1$d 封舊郵件</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">已展開 %1$d 封舊郵件</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d 封未閱讀的郵件</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d 則新訊息</item>
+        <item quantity="one">%1$d 則新訊息</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d 封郵件將被永久刪除。</item>
+        <item quantity="one">%1$d 封郵件將被永久刪除。</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d 封郵件</item>
+        <item quantity="one">%1$d 封郵件</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d 個附件</item>
+        <item quantity="one">%1$d 個附件</item>
+    </plurals>
+</resources>

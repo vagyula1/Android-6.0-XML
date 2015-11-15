@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Atrastas %d kontaktpersonas</item>
+        <item quantity="zero">Atrastas %d kontaktpersonas</item>
+        <item quantity="one">Atrasta %d kontaktpersona</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d sekundes</item>
+        <item quantity="zero">%d sekundes</item>
+        <item quantity="one">%d sekunde</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minūtes</item>
+        <item quantity="zero">%d minūtes</item>
+        <item quantity="one">%d minūte</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d stundas</item>
+        <item quantity="zero">%d stundas</item>
+        <item quantity="one">%d stunda</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d balss pasta ziņojumi</item>
+        <item quantity="zero">%1$d balss pasta ziņojumi</item>
+        <item quantity="one">%1$d balss pasta ziņojums</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d jauni balss pasta ziņojumi</item>
+        <item quantity="zero">%d jauni balss pasta ziņojumi</item>
+        <item quantity="one">%d jauns balss pasta ziņojums</item>
+    </plurals>
+</resources>

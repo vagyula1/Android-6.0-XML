@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>जवाफ पठाउनुहोस्</item>
+        <item>सबैलाई जवाफ दिनुहोस्</item>
+        <item>अग्रप्रेषण गर्नुहोस्</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>सफलता</item>
+        <item>जडान छैन</item>
+        <item>साइन इन गर्न सकेन</item>
+        <item>सुरक्षा त्रुटि</item>
+        <item>सिङ्क गर्न सकेन</item>
+        <item>आन्तरिक त्रुटि</item>
+        <item>सर्भर त्रुटि</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>नयाँ</item>
+        <item>पुरानो</item>
+        <item>कुराकानी सूची</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>तपाईंले मेटाए पछि नयाँ कुराकानी देखाउनुहोस्</item>
+        <item>तपाईंले मेटाए पछि पुरानो कुराकानी देखाउनुहोस्</item>
+        <item>तपाईंले मेटाए पछि कुराकानी सूची देखाउनुहोस्</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>अभिलेख</item>
+        <item>मेटाउनुहोस्</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>अभिलेख</item>
+        <item>मेटाउनुहोस्</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>सधैँ स्क्रिनको शीर्षमा सन्देश कार्यहरू देखाउनुहोस्</item>
+        <item>पोर्ट्रेटमा घुमाउँदा स्क्रिनको शीर्षमा सन्देशहरू मात्र देखाउनुहोस्</item>
+        <item>सन्देश शीर्ष बाहिर सन्देश कार्यहरू नदेखाउनुहोस्</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>सधैँ देखाउनुहोस्</item>
+        <item>केवल पोर्ट्रेटमा देखाउनुहोस्</item>
+        <item>नदेखाउनुहोस्</item>
+    </string-array>
+</resources>

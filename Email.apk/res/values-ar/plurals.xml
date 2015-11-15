@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">مسودات</item>
+        <item quantity="one">مسودة</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">هل تريد حذف هذه المحادثات البالغ عددها %1$d؟</item>
+        <item quantity="one">هل تريد حذف هذه المحادثة؟</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">هل تريد وضع هذه المحادثات البالغ عددها %1$d في الأرشيف؟</item>
+        <item quantity="one">هل تريد وضع هذه المحادثة في الأرشيف؟</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">هل تريد تجاهل الرسائل البالغ عددها %1$d؟</item>
+        <item quantity="one">هل تريد تجاهل هذه الرسالة؟</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">إزالة التمييز بنجمة عن %1$d من المحادثات</item>
+        <item quantity="one">إزالة التمييز بنجمة عن %1$d محادثة</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">‏تم تجاهل &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">‏تم تجاهل &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">‏تم الإبلاغ عن &amp;lt;b>%1$d&amp;lt;/b> كمحتوى غير مرغوب فيه</item>
+        <item quantity="one">‏تم الإبلاغ عن &amp;lt;b>%1$d&amp;lt;/b> كمحتوى غير مرغوب فيه</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">‏تم الإبلاغ عن &amp;lt;b>%1$d&amp;lt;/b> كمحتوى مرغوب فيه</item>
+        <item quantity="one">‏تم الإبلاغ عن &amp;lt;b>%1$d&amp;lt;/b> كمحتوى مرغوب فيه</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">‏تم وضع علامة على &amp;lt;b>%1$d&amp;lt;/b> تشير إلى عدم الأهمية</item>
+        <item quantity="one">‏تم وضع علامة على &amp;lt;b>%1$d&amp;lt;/b> تشير إلى عدم الأهمية</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">‏تم الإبلاغ عن &amp;lt;b>%1$d&amp;lt;/b> كتصيد احتيالي</item>
+        <item quantity="one">‏تم الإبلاغ عن &amp;lt;b>%1$d&amp;lt;/b> كتصيد احتيالي</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">‏تم وضع &amp;lt;b>%1$d&amp;lt;/b> في الأرشيف</item>
+        <item quantity="one">‏تم وضع &amp;lt;b>%1$d&amp;lt;/b> في الأرشيف</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">‏تم حذف &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">‏تم حذف &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">تم تغيير المجلدات</item>
+        <item quantity="one">تم تغيير المجلد</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d من الرسائل الجديدة</item>
+        <item quantity="one">%1$d رسالة جديدة</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">توسيع %1$d من الرسائل الأقدم</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">تمت توسعة %1$d من الرسائل الأقدم</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d غير مقروءة</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">عدد الرسائل الجديدة: %1$d</item>
+        <item quantity="one">رسالة جديدة (%1$d)</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">سيتم حذف هذه الرسائل البالغ عددها %1$d نهائيًا.</item>
+        <item quantity="one">سيتم حذف %1$d رسالة نهائيًا.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">عدد الرسائل: %1$d</item>
+        <item quantity="one">عدد الرسائل: %1$d</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">عدد المرفقات: %1$d</item>
+        <item quantity="one">عدد المرفقات: %1$d</item>
+    </plurals>
+</resources>

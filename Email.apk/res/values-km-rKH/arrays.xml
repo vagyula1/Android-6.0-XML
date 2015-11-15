@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>ឆ្លើយតប</item>
+        <item>ឆ្លើយតប​ទាំងអស់</item>
+        <item>បញ្ជូន​បន្ត</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>ជោគជ័យ</item>
+        <item>គ្មាន​ការ​តភ្ជាប់</item>
+        <item>មិន​អាច​ចូល</item>
+        <item>កំហុស​​​​​សុវត្ថិភាព​</item>
+        <item>មិន​អាច​ធ្វើ​សម​កាល​កម្ម</item>
+        <item>កំហុស​ខាង​ក្នុង</item>
+        <item>កំហុស​ម៉ាស៊ីន​មេ</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>ថ្មី​ជាង</item>
+        <item>ចាស់​ជាង</item>
+        <item>បញ្ជី​​​​សន្ទនា</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>បង្ហាញ​ការ​សន្ទនា​ថ្មី​ជាង​បន្ទាប់​ពី​អ្នក​លុប</item>
+        <item>បង្ហាញ​ការ​សន្ទនា​ចាស់​ជាង​បន្ទាប់​ពី​អ្នក​លុប</item>
+        <item>បង្ហាញ​បញ្ជី​ការ​សន្ទនា​​បន្ទាប់​ពី​អ្នក​លុប</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>ប័ណ្ណសារ</item>
+        <item>លុប</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>ប័ណ្ណសារ</item>
+        <item>លុប</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>បង្ហាញ​សកម្មភាព​សារ​ជានិច្ច​​​នៅ​​ផ្នែក​ខាង​លើ​នៃ​​​អេក្រង់</item>
+        <item>បង្ហាញ​តែ​​សកម្មភាព​សារ​ដែល​នៅ​ផ្នែក​​ខាងលើ​នៃ​​អេក្រង់​ ពេល​បង្វិល​បញ្ឈរ​</item>
+        <item>កុំ​បង្ហាញ​សកម្មភាព​​សារ​នៅ​ខាង​ក្រៅ​បឋមកថា​សារ</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>បង្ហាញ​ជា​និច្ច</item>
+        <item>បង្ហាញ​តែ​ក្នុង​ទម្រង់​បញ្ឈរ​ប៉ុណ្ណោះ</item>
+        <item>កុំ​បង្ហាញ</item>
+    </string-array>
+</resources>

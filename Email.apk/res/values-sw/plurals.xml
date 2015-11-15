@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Rasimu</item>
+        <item quantity="one">Rasimu</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Mazungumzo haya %1$d yafutwe?</item>
+        <item quantity="one">Mazungumzo haya yafutwe?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Mazungumzo haya %1$d yajalidiwe?</item>
+        <item quantity="one">Mazungumzo haya yajalidiwe?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Ungependa kufuta rasimu hizi %1$d?</item>
+        <item quantity="one">Ungependa kutupa ujumbe huu?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Inaondoa nyota kwenye mazungumzo %1$d</item>
+        <item quantity="one">Inaondoa nyota kwenye mazungumzo %1$d</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> yamekomeshwa</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> yamekomeshwa</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> yameripotiwa kama barua taka</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> yameripotiwa kama barua taka</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> yameripotiwa kuwa si barua taka</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> yameripotiwa kuwa si barua taka</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> yametiwa alama kuwa siyo muhimu</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> yametiwa alama kuwa siyo muhimu</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> yameripotiwa kama hadaa</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> yameripotiwa kama hadaa</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> yamewekwa kwenye kumbukumbu</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> yamewekwa kwenye kumbukumbu</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d:&amp;lt;/b> yamefutwa</item>
+        <item quantity="one">&amp;lt;b>%1$d:&amp;lt;/b> yamefutwa</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Folda zilizobadilishwa</item>
+        <item quantity="one">Folda iliyobadilishwa</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">Barua pepe %1$d mpya</item>
+        <item quantity="one">Barua pepe %1$d mpya</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Panua barua pepe %1$d za awali</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Imepanua barua pepe %1$d za awali</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">Hujasoma barua pepe %1$d</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">Barua pepe %1$d mpya</item>
+        <item quantity="one">Barua pepe %1$d mpya</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Mazungumzo %1$d yatafutwa kabisa.</item>
+        <item quantity="one">Mazungumzo %1$d yatafutwa kabisa.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">Mazungumzo %1$d</item>
+        <item quantity="one">Mazungumzo %1$d</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">Viambatisho %1$d</item>
+        <item quantity="one">Kiambatisho %1$d</item>
+    </plurals>
+</resources>

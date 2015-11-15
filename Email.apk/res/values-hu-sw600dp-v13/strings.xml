@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">Mappák kezelése</string>
+    <string name="add_cc_label">+ Másolatok</string>
+    <string name="add_bcc_label">+ Titkos másolat</string>
+    <string name="preferences_default_reply_all_summary">Használat alapértelmezettként értesítő üzenetekhez</string>
+</resources>

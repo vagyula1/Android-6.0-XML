@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">ගොනු %d බාගත වෙමින්</item>
+        <item quantity="one">ගොනු 1 ක් බාගත වෙමින්</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">ගොනු %d රැඳී සිටිමින්</item>
+        <item quantity="one">ගොනු 1 රැඳී සිටිමින්</item>
+    </plurals>
+</resources>

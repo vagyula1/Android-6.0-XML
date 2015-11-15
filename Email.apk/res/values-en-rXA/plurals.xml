@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">[Ðŕåƒţš one two]</item>
+        <item quantity="one">[Ðŕåƒţ one]</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">[Ðéļéţé ţĥéšé %1$d çöñVéŕšåţîöñš¿ one two three four]</item>
+        <item quantity="one">[Ðéļéţé ţĥîš çöñVéŕšåţîöñ¿ one two three]</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">[ÅŕçĥîVé ţĥéšé %1$d çöñVéŕšåţîöñš¿ one two three four]</item>
+        <item quantity="one">[ÅŕçĥîVé ţĥîš çöñVéŕšåţîöñ¿ one two three four]</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">[Ðîšçåŕð ţĥéšé %1$d ḿéššåĝéš¿ one two three]</item>
+        <item quantity="one">[Ðîšçåŕð ţĥîš ḿéššåĝé¿ one two three]</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">[Ûñšţåŕŕîñĝ %1$d çöñVéŕšåţîöñš one two three]</item>
+        <item quantity="one">[Ûñšţåŕŕîñĝ %1$d çöñVéŕšåţîöñ one two three]</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">[&amp;lt;b>%1$d&amp;lt;/b> ḿûţéð one two]</item>
+        <item quantity="one">[&amp;lt;b>%1$d&amp;lt;/b> ḿûţéð one two]</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">[&amp;lt;b>%1$d&amp;lt;/b> ŕéþöŕţéð åš šþåḿ one two three]</item>
+        <item quantity="one">[&amp;lt;b>%1$d&amp;lt;/b> ŕéþöŕţéð åš šþåḿ one two three]</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">[&amp;lt;b>%1$d&amp;lt;/b> ŕéþöŕţéð åš ñöţ šþåḿ one two three]</item>
+        <item quantity="one">[&amp;lt;b>%1$d&amp;lt;/b> ŕéþöŕţéð åš ñöţ šþåḿ one two three]</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">[&amp;lt;b>%1$d&amp;lt;/b> ḿåŕķéð ñöţ îḿþöŕţåñţ one two three]</item>
+        <item quantity="one">[&amp;lt;b>%1$d&amp;lt;/b> ḿåŕķéð ñöţ îḿþöŕţåñţ one two three]</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">[&amp;lt;b>%1$d&amp;lt;/b> ŕéþöŕţéð åš þĥîšĥîñĝ one two three]</item>
+        <item quantity="one">[&amp;lt;b>%1$d&amp;lt;/b> ŕéþöŕţéð åš þĥîšĥîñĝ one two three]</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">[&amp;lt;b>%1$d&amp;lt;/b> åŕçĥîVéð one two]</item>
+        <item quantity="one">[&amp;lt;b>%1$d&amp;lt;/b> åŕçĥîVéð one two]</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">[&amp;lt;b>%1$d&amp;lt;/b> ðéļéţéð one two]</item>
+        <item quantity="one">[&amp;lt;b>%1$d&amp;lt;/b> ðéļéţéð one two]</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">[Çĥåñĝéð ƒöļðéŕš one two three]</item>
+        <item quantity="one">[Çĥåñĝéð ƒöļðéŕ one two three]</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">[%1$d ñéŵ ḿéššåĝéš one two]</item>
+        <item quantity="one">[%1$d ñéŵ ḿéššåĝé one two]</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">[Éхþåñð %1$d öļðéŕ ḿéššåĝéš one two three]</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">[Éхþåñðéð %1$d öļðéŕ ḿéššåĝéš one two three]</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">[%1$d ûñŕéåð one two]</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">[%1$d ñéŵ ḿéššåĝéš one two]</item>
+        <item quantity="one">[%1$d ñéŵ ḿéššåĝé one two]</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">[%1$d ḿéššåĝéš ŵîļļ ɓé þéŕḿåñéñţļý ðéļéţéð. one two three four five]</item>
+        <item quantity="one">[%1$d ḿéššåĝé ŵîļļ ɓé þéŕḿåñéñţļý ðéļéţéð. one two three four five]</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">[%1$d ḿéššåĝéš one two]</item>
+        <item quantity="one">[%1$d ḿéššåĝé one two]</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">[%1$d åţţåçĥḿéñţš one two]</item>
+        <item quantity="one">[%1$d åţţåçĥḿéñţ one two]</item>
+    </plurals>
+</resources>

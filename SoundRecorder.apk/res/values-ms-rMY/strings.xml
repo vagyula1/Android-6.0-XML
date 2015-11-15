@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Perakam Bunyi</string>
+    <string name="record_your_message">Rakam mesej anda</string>
+    <string name="message_recorded">Mesej telah dirakam</string>
+    <string name="review_message">Semak mesej</string>
+    <string name="recording">Merakam</string>
+    <string name="recording_stopped">Rakaman dihentikan</string>
+    <string name="storage_is_full">Storan penuh</string>
+    <string name="max_length_reached">Panjang maksimum telah dicapai</string>
+    <string name="insert_sd_card">Lekap storan USB</string>
+    <string name="min_available">%d min tersedia</string>
+    <string name="sec_available">%d tersedia</string>
+    <string name="accept">Selesai</string>
+    <string name="discard">Buang</string>
+    <string name="button_ok">OK</string>
+    <string name="audio_db_artist_name">Rakaman anda</string>
+    <string name="audio_db_album_name">Rakaman audio</string>
+    <string name="audio_db_playlist_name">Rakaman saya</string>
+    <string name="error_sdcard_access">Tidak dapat mengakses storan USB.</string>
+    <string name="error_app_internal">Ralat aplikasi dalaman.</string>
+    <string name="error_mediadb_new_record">Tidak dapat menyimpan rakaman audio</string>
+</resources>

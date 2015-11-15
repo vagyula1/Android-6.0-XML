@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">Počet sťahovaných súborov: %d</item>
+        <item quantity="one">Sťahuje sa 1 súbor</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">Počet čakajúcich súborov: %d</item>
+        <item quantity="one">1 čakajúci súbor</item>
+    </plurals>
+</resources>

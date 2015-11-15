@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ساؤنڈ ریکارڈر</string>
+    <string name="record_your_message">اپنا پیغام ریکارڈ کریں</string>
+    <string name="message_recorded">پیغام ریکارڈ کیا گیا</string>
+    <string name="review_message">پیغام کا جائزہ لیں</string>
+    <string name="recording">ریکارڈنگ</string>
+    <string name="recording_stopped">ریکارڈنگ روک دی گئی</string>
+    <string name="storage_is_full">اسٹوریج بھرا ہوا ہے</string>
+    <string name="max_length_reached">زیادہ سے زیادہ لمبائی تک پہنچ گئی</string>
+    <string name="insert_sd_card">‏USB اسٹوریج کو ماؤنٹ کریں</string>
+    <string name="min_available">%d منٹ دستیاب ہیں</string>
+    <string name="sec_available">%d سیکنڈز دستیاب ہیں</string>
+    <string name="accept">ہو گیا</string>
+    <string name="discard">مسترد کریں</string>
+    <string name="button_ok">ٹھیک ہے</string>
+    <string name="audio_db_artist_name">آپ کی ریکارڈنگز</string>
+    <string name="audio_db_album_name">آڈیو ریکارڈنگز</string>
+    <string name="audio_db_playlist_name">میری ریکارڈنگز</string>
+    <string name="error_sdcard_access">‏USB اسٹوریج تک رسائی حاصل نہیں کر سکتا ہے۔</string>
+    <string name="error_app_internal">داخلی ایپلیکیشن کی خرابی۔</string>
+    <string name="error_mediadb_new_record">ریکارڈ کی گئی آڈیو محفوظ نہیں ہو سکی۔</string>
+</resources>

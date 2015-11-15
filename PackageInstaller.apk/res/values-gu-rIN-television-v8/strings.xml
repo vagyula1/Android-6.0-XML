@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="current_permission_template">%1$s / %2$s</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">નકારો અને ફરીથી પૂછશો નહીં</string>
+    <string name="grant_dialog_how_to_change">તમે પછીથી આને સેટિંગ્સ > એપ્લિકેશન્સમાં બદલી શકો છો</string>
+    <string name="preference_show_system_apps">સિસ્ટમ એપ્લિકેશનો બતાવો</string>
+</resources>

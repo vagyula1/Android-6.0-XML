@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d 分钟</item>
+        <item quantity="one">%d 分钟</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d 小时</item>
+        <item quantity="one">%d 小时</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d 天</item>
+        <item quantity="one">%d 天</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d 周</item>
+        <item quantity="one">1 周</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d 个月</item>
+        <item quantity="one">1 个月</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d 年</item>
+        <item quantity="one">1 年</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d 个对话中的 %2$d 条信息</item>
+        <item quantity="one">1 个对话中的 %d 条信息</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d 个对话中的 %2$d 条信息</item>
+        <item quantity="one">1 个对话中的 %d 条信息</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d 条新信息</item>
+        <item quantity="one">新信息</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">要删除这些对话吗？</item>
+        <item quantity="one">要删除此对话吗？</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d 位参与者</item>
+        <item quantity="one">%d 位参与者</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">舍弃附件</item>
+        <item quantity="one">舍弃附件</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d 张照片已保存至“%2$s”相册</item>
+        <item quantity="one">%1$d 张照片已保存至“%2$s”相册</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d 个视频已保存至“%2$s”相册</item>
+        <item quantity="one">%1$d 个视频已保存至“%2$s”相册</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d 个附件已保存至“%2$s”相册</item>
+        <item quantity="one">%1$d 个附件已保存至“%2$s”相册</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d 个附件已保存至“下载内容”</item>
+        <item quantity="one">%d 个附件已保存至“下载内容”</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">已保存 %d 个附件</item>
+        <item quantity="one">已保存 %d 个附件</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">无法保存 %d 个附件</item>
+        <item quantity="one">无法保存 %d 个附件</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">发送照片</item>
+        <item quantity="one">发送照片</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">发送语音</item>
+        <item quantity="one">发送语音</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">发送视频</item>
+        <item quantity="one">发送视频</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">发送名片</item>
+        <item quantity="one">发送名片</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">发送附件</item>
+        <item quantity="one">发送附件</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d 个附件待发送</item>
+        <item quantity="one">1 个附件待发送</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d 位联系人</item>
+        <item quantity="one">%d 位联系人</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">联系人无效</item>
+        <item quantity="one">联系人无效</item>
+    </plurals>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">ລຶບລາຍການທີ່ເລືອກບໍ່?</item>
+        <item quantity="one">ລຶບລາຍການທີ່ເລືອກ?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">ເລືອກ %1$d ລາຍການແລ້ວ</item>
+        <item quantity="zero">%1$d ຖືກເລືອກແລ້ວ</item>
+        <item quantity="one">%1$d ຖືກເລືອກແລ້ວ</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">ເລືອກ %1$d ອະລະບ້ຳແລ້ວ</item>
+        <item quantity="zero">ເລືອກ %1$d ອະລະບ້ຳແລ້ວ</item>
+        <item quantity="one">%1$d ຖືກເລືອກແລ້ວ</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">%1$d ຖືກເລືອກແລ້ວ</item>
+        <item quantity="zero">%1$d ຖືກເລືອກແລ້ວ</item>
+        <item quantity="one">ເລືອກ %1$d ກຸ່ມແລ້ວ</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">ກຳລັງເຮັດໃຫ້ອະລະບ້ຳສາມາດເບິ່ງອອບລາຍໄດ້.</item>
+        <item quantity="one">ເຮັດໃຫ້ອະລະບ້ຳສາມາດເບິ່ງແບບອອບລາຍໄດ້.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d ລາຍການຖືກສະແກນແລ້ວ</item>
+        <item quantity="zero">ສະແກນ %1$d ລາຍການແລ້ວ</item>
+        <item quantity="one">ສະແກນ %1$d ລາຍການແລ້ວ</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">%d ວິນາທີ</item>
+        <item quantity="one">1 ວິນາທີ</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">%1$d ຮູບ</item>
+        <item quantity="one">%1$d ຮູບ</item>
+    </plurals>
+</resources>

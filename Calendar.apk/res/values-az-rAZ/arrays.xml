@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Bildiriş</item>
+        <item>E-poçt</item>
+        <item>SMS</item>
+        <item>Zəngli saat</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 dəqiqə</item>
+        <item>1 dəqiqə</item>
+        <item>5 dəqiqə</item>
+        <item>10 dəqiqə</item>
+        <item>15 dəqiqə</item>
+        <item>20 dəqiqə</item>
+        <item>25 dəqiqə</item>
+        <item>30 dəqiqə</item>
+        <item>45 dəqiqə</item>
+        <item>1 saat</item>
+        <item>2 saat</item>
+        <item>3 saat</item>
+        <item>12 saat</item>
+        <item>24 saat</item>
+        <item>2 gün</item>
+        <item>1 həftə</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Heç biri</item>
+        <item>0 dəqiqə</item>
+        <item>1 gün</item>
+        <item>5 dəqiqə</item>
+        <item>10 dəqiqə</item>
+        <item>15 dəqiqə</item>
+        <item>20 dəqiqə</item>
+        <item>25 dəqiqə</item>
+        <item>30 dəqiqə</item>
+        <item>45 dəqiqə</item>
+        <item>1 saat</item>
+        <item>2 saat</item>
+        <item>3 saat</item>
+        <item>12 saat</item>
+        <item>24 saat</item>
+        <item>2 gün</item>
+        <item>1 həftə</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Regional defolt parametr</item>
+        <item>Şənbə</item>
+        <item>Bazar günü</item>
+        <item>Bazar Ertəsi</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Məşğul</item>
+        <item>Müsaid</item>
+        <item>Sınaq</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Defolt</item>
+        <item>Şəxsi</item>
+        <item>Ümumi</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>birinci</item>
+        <item>ikinci</item>
+        <item>üçüncü</item>
+        <item>dördüncü</item>
+        <item>sonuncu</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Cavab yoxdur</item>
+        <item>Bəli</item>
+        <item>Bəlkə</item>
+        <item>Xeyr</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Sadəcə bu tədbir</item>
+        <item>Bu və gələcək tədbirlər</item>
+        <item>Bütün tədbirlər</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Bu &amp; gələcək tədbirlər</item>
+        <item>Bütün tədbirlər</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Sadəcə bu tədbir</item>
+        <item>Sıradakı bütün tədbirlər</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Gün</item>
+        <item>Həftə</item>
+        <item>Ay</item>
+        <item>Gündəlik</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Sadəcə rədd edilərsə</item>
+        <item>Rədd edilərsə və ya cavab verilməzsə</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>HƏR GÜN TƏKRARLA</item>
+        <item>HƏR HƏFTƏ TƏKRARLA</item>
+        <item>HƏR AY TƏKRARLA</item>
+        <item>HƏR İL TƏKRARLA</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>hər birinci bazar günü</item>
+        <item>hər ikinci bazar günü</item>
+        <item>hər üçüncü bazar günü</item>
+        <item>hər dördüncü bazar günü</item>
+        <item>hər sonuncu bazar günü</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>hər birinci bazar ertəsi</item>
+        <item>hər ikinci bazar ertəsi</item>
+        <item>hər üçüncü bazar ertəsi</item>
+        <item>hər dördüncü bazar ertəsi</item>
+        <item>hər sonuncu bazar ertəsi</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>hər birinci çərşənbə axşamı</item>
+        <item>hər ikinci çərşənbə axşamı</item>
+        <item>hər üçüncü çərşənbə axşamı</item>
+        <item>hər dördüncü çərşənbə axşamı</item>
+        <item>hər sonuncu çərşənbə axşamı</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>hər birinci çərşənbə</item>
+        <item>hər ikinci çərşənbə</item>
+        <item>hər üçüncü çərşənbə</item>
+        <item>hər dördüncü çərşənbə</item>
+        <item>hər sonuncu çərşənbə</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>hər birinci cümə axşamı</item>
+        <item>hər ikinci cümə axşamı</item>
+        <item>hər üçüncü cümə axşamı</item>
+        <item>hər dördüncü cümə axşamı</item>
+        <item>hər sonuncu cümə axşamı</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>hər birinci cümə</item>
+        <item>hər ikinci cümə</item>
+        <item>hər üçüncü cümə</item>
+        <item>hər dördüncü cümə</item>
+        <item>hər sonuncu cümə</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>hər birinci şənbə</item>
+        <item>hər ikinci şənbə</item>
+        <item>hər üçüncü şənbə</item>
+        <item>hər dördüncü şənbə</item>
+        <item>hər sonuncu şənbə</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Sadəcə bir neçə dəqiqə gec qalır.</item>
+        <item>10 dəqiqə içərisində orda olun.</item>
+        <item>Davam edin və mənsiz başlayın.</item>
+        <item>Bağışlayın, mənə uyğun deyil. Yenidən planlaşdırmalı olacağıq.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Avstraliya Mərkəzi - NT</item>
+        <item>Avstraliya Mərkəzi - SA</item>
+        <item>Avstraliya Şərqi - QLD</item>
+        <item>Avstraliya Şərqi - NSW</item>
+        <item>Mountain Standard - Dawson Creek</item>
+        <item>Mərkəzi Standard - Saskatçevan</item>
+        <item>Şərq Standard - Atikokan</item>
+        <item>Atlantik Standard - Kvebek</item>
+        <item>Havay-Aleut adaları - Havay</item>
+        <item>Havay-Aleut adaları - Alyaska</item>
+        <item>Sakit okean Standard - Metlakatla</item>
+        <item>Dağlıq Standard - Arizona</item>
+        <item>Sakit okean - Baja Kalifornia</item>
+        <item>Dağlıq - Chihuahua</item>
+        <item>Mərkəzi - Tamaulipas</item>
+        <item>Dağlıq - Sonora</item>
+        <item>Şərqi Afrika saatı</item>
+        <item>Atlantik Standard saatı</item>
+        <item>Atlantik Standard saatı</item>
+        <item>Şərqi Avropa saatı</item>
+        <item>Kalininqrad saatı</item>
+        <item>Amazon - Rondônia</item>
+        <item>Braziliya - Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint Martin</item>
+        <item>Karib Hollandiyası</item>
+        <item>Kuraçao</item>
+        <item>Cənubi Sudan</item>
+    </string-array>
+</resources>

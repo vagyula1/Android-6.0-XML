@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Reply</item>
+        <item>Reply all</item>
+        <item>Forward</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Success</item>
+        <item>No connection</item>
+        <item>"Couldn't sign in"</item>
+        <item>Security error</item>
+        <item>"Couldn't sync"</item>
+        <item>Internal Error</item>
+        <item>Server Error</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Newer</item>
+        <item>Older</item>
+        <item>Conversation list</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Show newer conversation after you delete</item>
+        <item>Show older conversation after you delete</item>
+        <item>Show conversation list after you delete</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Archive</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Archive</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Always show message actions at the top of the screen</item>
+        <item>Only show message actions at the top of the screen when rotated to portrait</item>
+        <item>"Don't show message actions outside the message header"</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Always show</item>
+        <item>Only show in portrait</item>
+        <item>"Don't show"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">مسودے</item>
+        <item quantity="one">مسودہ</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">ان %1$d گفتگوؤں کو حذف کریں؟</item>
+        <item quantity="one">اس گفتگو کو حذف کریں؟</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">ان %1$d گفتگوؤں کو آرکائیو کریں؟</item>
+        <item quantity="one">اس گفتگو کو آرکائیو کریں؟</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">ان %1$d پیغامات کو مسترد کریں؟</item>
+        <item quantity="one">یہ پیغام مسترد کریں؟</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d گفتگوؤں سے ستارے کا نشان ہٹایا جا رہا ہے</item>
+        <item quantity="one">%1$d گفتگو سے ستارے کا نشان ہٹایا جا رہا ہے</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">‏‎&amp;lt;b>%1$d&amp;lt;/b>‎ کو خاموش کر دیا گیا</item>
+        <item quantity="one">‏‎&amp;lt;b>%1$d&amp;lt;/b>‎ کو خاموش کر دیا گیا</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">‏‎&amp;lt;b>%1$d&amp;lt;/b>‎ کی سپام کے بطور اطلاع دی گئی</item>
+        <item quantity="one">‏‎&amp;lt;b>%1$d&amp;lt;/b>‎ کی سپام کے بطور اطلاع دی گئی</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">‏‎&amp;lt;b>%1$d&amp;lt;/b>‎ کی سپام نہیں کے بطور اطلاع دی گئی</item>
+        <item quantity="one">‏‎&amp;lt;b>%1$d&amp;lt;/b>‎ کی سپام نہیں کے بطور اطلاع دی گئی</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">‏‎&amp;lt;b>%1$d&amp;lt;/b>‎ کو غیر اہم کے بطور نشان زد کر دیا گیا</item>
+        <item quantity="one">‏‎&amp;lt;b>%1$d&amp;lt;/b>‎ کو غیر اہم کے بطور نشان زد کر دیا گیا</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">‏‎&amp;lt;b>%1$d&amp;lt;/b>‎ کی فریب دہی کے بطور اطلاع دی گئی</item>
+        <item quantity="one">‏‎&amp;lt;b>%1$d&amp;lt;/b>‎ کی فریب دہی کے بطور اطلاع دی گئی</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">‏‎&amp;lt;b>%1$d&amp;lt;/b>‎ کو آرکائیو کر دیا گیا</item>
+        <item quantity="one">‏‎&amp;lt;b>%1$d&amp;lt;/b>‎ کو آرکائیو کر دیا گیا</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">‏‎&amp;lt;b>%1$d&amp;lt;/b>‎ کو حذف کر دیا گیا</item>
+        <item quantity="one">‏‎&amp;lt;b>%1$d&amp;lt;/b>‎ کو حذف کر دیا گیا</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">فولڈرز تبدیل کر دیے گئے</item>
+        <item quantity="one">فولڈر تبدیل کر دیا گیا</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d نئے پیغامات</item>
+        <item quantity="one">%1$d نیا پیغام</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d پرانے پیغامات کو پھیلائیں</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d پرانے پیغامات کو پھیلایا گیا</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d بغیر پڑھے ہوئے</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d نئے پیغامات</item>
+        <item quantity="one">%1$d نیا پیغام</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d پیغامات مستقل طور پر حذف ہو جائیں گے۔</item>
+        <item quantity="one">%1$d پیغام مستقل طور پر حذف ہو جائے گا۔</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d پیغامات</item>
+        <item quantity="one">%1$d پیغام</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d منسلکات</item>
+        <item quantity="one">%1$d منسلکہ</item>
+    </plurals>
+</resources>

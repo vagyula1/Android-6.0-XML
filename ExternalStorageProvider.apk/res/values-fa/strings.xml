@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">فضای ذخیره خارجی</string>
+    <string name="root_internal_storage">حافظهٔ داخلی</string>
+    <string name="root_documents">اسناد</string>
+</resources>

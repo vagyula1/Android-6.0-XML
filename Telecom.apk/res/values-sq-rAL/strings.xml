@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Menaxhimi i telefonatave</string>
+    <string name="userCallActivityLabel">Telefoni</string>
+    <string name="unknown">I panjohur</string>
+    <string name="notification_missedCallTitle">Telefonatë e humbur</string>
+    <string name="notification_missedCallsTitle">Telefonata të humbura</string>
+    <string name="notification_missedCallsMsg">%s telefonata të humbura</string>
+    <string name="notification_missedCallTicker">Telefonatë e humbur nga %s</string>
+    <string name="notification_missedCall_call_back">Telefono</string>
+    <string name="notification_missedCall_message">Mesazh</string>
+    <string name="accessibility_call_muted">Telefonata kaloi në heshtje.</string>
+    <string name="accessibility_speakerphone_enabled">Altoparlanti u aktivizua.</string>
+    <string name="respond_via_sms_canned_response_1">Nuk flas dot tani. Si është puna?</string>
+    <string name="respond_via_sms_canned_response_2">Do të të telefonoj menjëherë.</string>
+    <string name="respond_via_sms_canned_response_3">Do të të telefonoj më vonë.</string>
+    <string name="respond_via_sms_canned_response_4">Nuk mund të flas tani. Do më telefonosh më vonë?</string>
+    <string name="respond_via_sms_setting_title">Përgjigje të shpejta</string>
+    <string name="respond_via_sms_setting_title_2">Redakto përgjigjet e shpejta</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Përgjigje e shpejtë</string>
+    <string name="respond_via_sms_confirmation_format">Mesazhi u dërgua te %s.</string>
+    <string name="enable_account_preference_title">Llogaritë e telefonatave</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Vetëm telefonatat e urgjencës lejohen nga zotëruesi i pajisjes.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Ky aplikacion nuk mund të kryejë telefonata dalëse pa lejen e Telefonit.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Për të kryer një telefonatë, fut një numër të vlefshëm.</string>
+    <string name="duplicate_video_call_not_allowed">Telefonata nuk mund të shtohet këtë herë.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Çaktivizo modalitetin TTY për të kryer telefonata me video.</string>
+    <string name="no_vm_number">Mungon numri i postës zanore</string>
+    <string name="no_vm_number_msg">Nuk ka numër të ruajtur në kartën SIM.</string>
+    <string name="add_vm_number_str">Shto numër</string>
+    <string name="change_default_dialer_dialog_title">Të ndryshohet apl. parazgjedhur i formuesit të numrave?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Të përdoret %1$s në vend të %2$s si aplikacioni i parazgjedhur i formuesit të numrave?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Të përdoret %s si aplikacioni i parazgjedhur i formuesit të numrave?</string>
+</resources>

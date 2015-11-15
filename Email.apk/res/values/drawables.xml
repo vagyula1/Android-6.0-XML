@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="ic_arrow_back_24dp_with_rtl">@drawable/ic_arrow_back_24dp</item>
+    <item type="drawable" name="ic_arrow_back_wht_24dp_with_rtl">@drawable/ic_arrow_back_wht_24dp</item>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>කාරණාවක් නොමැත</item>
+        <item>කාරණාවක් නොමැත</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>ඔව්</item>
+        <item>නැත</item>
+        <item>හරි</item>
+        <item>හා හා</item>
+        <item>ස්තූතියි</item>
+        <item>මම එකඟයි</item>
+        <item>නයිස්</item>
+        <item>මම එන ගමන්</item>
+        <item>හරි, මම ඔබ වෙත පසුව පැමිණෙන්නම්</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

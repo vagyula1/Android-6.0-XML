@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferences_default_reply_all_summary">@string/preferences_default_reply_all_summary_impl</string>
+</resources>

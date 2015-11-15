@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Telefon Çağrısı Yönetimi</string>
+    <string name="userCallActivityLabel">Telefon</string>
+    <string name="unknown">Bilinmiyor</string>
+    <string name="notification_missedCallTitle">Cevapsız çağrı</string>
+    <string name="notification_missedCallsTitle">Cevapsız çağrılar</string>
+    <string name="notification_missedCallsMsg">%s cevapsız çağrı</string>
+    <string name="notification_missedCallTicker">Cevapsız çağrı: %s</string>
+    <string name="notification_missedCall_call_back">Geri ara</string>
+    <string name="notification_missedCall_message">Mesaj gönder</string>
+    <string name="accessibility_call_muted">Çağrı sesi kapatıldı.</string>
+    <string name="accessibility_speakerphone_enabled">Hoparlör etkin.</string>
+    <string name="respond_via_sms_canned_response_1">Şimdi konuşamam. Konu nedir?</string>
+    <string name="respond_via_sms_canned_response_2">Seni hemen geri arayacağım.</string>
+    <string name="respond_via_sms_canned_response_3">Seni daha sonra ararım.</string>
+    <string name="respond_via_sms_canned_response_4">Şimdi konuşamam. Daha sonra arar mısın?</string>
+    <string name="respond_via_sms_setting_title">Hızlı yanıtlar</string>
+    <string name="respond_via_sms_setting_title_2">Hızlı yanıtları düzenle</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Hızlı yanıt</string>
+    <string name="respond_via_sms_confirmation_format">Mesaj, %s numaralı telefona gönderildi.</string>
+    <string name="enable_account_preference_title">Çağrı hesapları</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Cihaz sahibi sadece acil durum çağrılarına izin veriyor.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Bu uygulama, Telefonun izni olmadan giden çağrılar yapamaz.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Telefon etmek için geçerli bir numara girin.</string>
+    <string name="duplicate_video_call_not_allowed">Çağrı şu anda eklenemiyor.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">"Video görüşmesi yapmak için lütfen TTY Modu'nu devre dışı bırakın."</string>
+    <string name="no_vm_number">Eksik sesli mesaj numarası</string>
+    <string name="no_vm_number_msg">SIM kartta depolanan sesli mesaj numarası yok.</string>
+    <string name="add_vm_number_str">Numara ekle</string>
+    <string name="change_default_dialer_dialog_title">Varsayılan Numara Çeviri uygulaması değiştirilsin mi?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Varsayılan numara çevirici uygulamanız olarak %2$s yerine %1$s kullanılsın mı?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Varsayılan numara çevirici uygulamanız olarak %s kullanılsın mı?</string>
+</resources>

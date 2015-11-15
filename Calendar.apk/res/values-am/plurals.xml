@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d ደቂቃዎች</item>
+        <item quantity="one">1</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d ደቂቃዎች</item>
+        <item quantity="one">1</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d ሰዓቶች</item>
+        <item quantity="one">1</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d ቀን</item>
+        <item quantity="one">1</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">ሳምንት %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">፤ ለ%d ጊዜያት</item>
+        <item quantity="one">፤ ለአንድ ጊዜ</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">በየ%d ቀኖች</item>
+        <item quantity="one">ዕለታዊ</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">በየ%1$d ሳምንቱ %2$s ላይ</item>
+        <item quantity="one">በየሳምንቱ %2$s ላይ</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d ክስተቶች</item>
+        <item quantity="one">1 ክስተት</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d ክስተቶች</item>
+        <item quantity="one">+1 ክስተት</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">በየ%d ቀን</item>
+        <item quantity="one">በየ%d ቀን</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">በየ%d ሳምንት</item>
+        <item quantity="one">በየ%d ሳምንት</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">በየ%d ወር</item>
+        <item quantity="one">በየ%d ወር</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">በየ%d ዓመት</item>
+        <item quantity="one">በየ%d ዓመት</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">ለ%d ክስተቶች</item>
+        <item quantity="one">ለ%d ክስተት</item>
+    </plurals>
+</resources>

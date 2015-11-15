@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="abc_max_action_buttons">5</integer>
+    <integer name="conversation_header_mode">1</integer>
+    <integer name="conversation_desired_font_size_px">16</integer>
+    <integer name="senders_with_attachment_lengths">30</integer>
+    <integer name="senders_lengths">35</integer>
+</resources>

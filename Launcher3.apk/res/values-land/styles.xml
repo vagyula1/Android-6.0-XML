@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SearchButton" />
+    <style name="DropTargetButtonContainer">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="DropTargetButton" parent="@style/DropTargetButtonBase">
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">@dimen/toolbar_button_horizontal_padding</item>
+        <item name="android:paddingTop">@dimen/toolbar_button_vertical_padding</item>
+        <item name="android:paddingRight">@dimen/toolbar_button_horizontal_padding</item>
+        <item name="android:paddingBottom">@dimen/toolbar_button_vertical_padding</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:shadowColor">#dd000000</item>
+        <item name="android:drawablePadding">0.0dip</item>
+    </style>
+</resources>

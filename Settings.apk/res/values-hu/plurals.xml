@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">%1$d lépésre van attól, hogy fejlesztő legyen.</item>
+        <item quantity="one">%1$d lépésre van attól, hogy fejlesztő legyen.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d ujjlenyomat beállítása</item>
+        <item quantity="one">%1$d ujjlenyomat beállítása</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">A jelszónak tartalmaznia kell legalább %d betűt.</item>
+        <item quantity="one">A jelszónak tartalmaznia kell legalább 1 betűt.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">A jelszónak tartalmaznia kell legalább %d kisbetűt.</item>
+        <item quantity="one">A jelszónak tartalmaznia kell legalább 1 kisbetűt.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">A jelszónak tartalmaznia kell legalább %d nagybetűt.</item>
+        <item quantity="one">A jelszónak tartalmaznia kell legalább 1 nagybetűt.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">A jelszónak tartalmaznia kell legalább %d számot.</item>
+        <item quantity="one">A jelszónak tartalmaznia kell legalább 1 számot.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">A jelszónak tartalmaznia kell legalább %d speciális karaktert.</item>
+        <item quantity="one">A jelszónak tartalmaznia kell legalább 1 speciális karaktert.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">A jelszónak tartalmaznia kell legalább %d, betűktől eltérő karaktert.</item>
+        <item quantity="one">A jelszónak tartalmaznia kell legalább 1, betűktől eltérő karaktert.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">A SIM kártya PIN kódja helytelen. %d próbálkozás maradt.</item>
+        <item quantity="one">A SIM kártya PIN kódja helytelen. %d próbálkozás maradt. Utána a szolgáltatótól kell feloldást kérnie.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d alkalmazás tudja olvasni az értesítéseket</item>
+        <item quantity="one">%d alkalmazás tudja olvasni az értesítéseket</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Csak riasztások %1$d percen át (eddig: %2$s)</item>
+        <item quantity="one">Csak riasztások egy percen át, eddig: %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Csak riasztások %1$d órán át, eddig: %2$s</item>
+        <item quantity="one">Csak riasztások egy órán át, eddig: %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d engedély megadva</item>
+        <item quantity="one">%d engedély megadva</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d/%2$d engedély megadva</item>
+        <item quantity="one">%1$d/%2$d engedély megadva</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d további engedély</item>
+        <item quantity="one">%d további engedély</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d alkalmazás tudja megnyitni a támogatott linkjeit</item>
+        <item quantity="one">Egy alkalmazás tudja megnyitni a támogatott linkjeit</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d alkalmazás hagyhatja figyelmen kívül az akkumulátoroptimalizálást</item>
+        <item quantity="one">1 alkalmazás hagyhatja figyelmen kívül az akkumulátoroptimalizálást</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d alkalmazás használta a memóriát az elmúlt %2$s során</item>
+        <item quantity="one">1 alkalmazás használta a memóriát az elmúlt %2$s során</item>
+    </plurals>
+</resources>

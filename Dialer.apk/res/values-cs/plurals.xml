@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Nalezeno: %d</item>
+        <item quantity="one">Nalezeno: 1</item>
+        <item quantity="few">Nalezeno: %d</item>
+        <item quantity="many">Nalezeno: %d</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d sekund</item>
+        <item quantity="one">1 sekunda</item>
+        <item quantity="few">%d sekundy</item>
+        <item quantity="many">%d sekundy</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minut</item>
+        <item quantity="one">1 minuta</item>
+        <item quantity="few">%d minuty</item>
+        <item quantity="many">%d minuty</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d hodin</item>
+        <item quantity="one">1 hodina</item>
+        <item quantity="few">%d hodiny</item>
+        <item quantity="many">%d hodiny</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d hlasových zpráv</item>
+        <item quantity="one">Hlasová zpráva</item>
+        <item quantity="few">%1$d hlasové zprávy</item>
+        <item quantity="many">%1$d hlasové zprávy</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d nových zpráv v hlasové schránce</item>
+        <item quantity="one">%d nová zpráva v hlasové schránce</item>
+        <item quantity="few">%d nové zprávy v hlasové schránce</item>
+        <item quantity="many">%d nové zprávy v hlasové schránce</item>
+    </plurals>
+</resources>

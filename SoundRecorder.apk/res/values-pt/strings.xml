@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gravador de som</string>
+    <string name="record_your_message">Grave a sua mensagem</string>
+    <string name="message_recorded">Mensagem gravada</string>
+    <string name="review_message">Analisar mensagem</string>
+    <string name="recording">Gravando</string>
+    <string name="recording_stopped">Gravação interrompida</string>
+    <string name="storage_is_full">O armazenamento está cheio</string>
+    <string name="max_length_reached">Tamanho máximo atingido</string>
+    <string name="insert_sd_card">Montar armazenamento USB</string>
+    <string name="min_available">%d minutos disponíveis</string>
+    <string name="sec_available">%d disponíveis</string>
+    <string name="accept">Concluído</string>
+    <string name="discard">Descartar</string>
+    <string name="button_ok">OK</string>
+    <string name="audio_db_artist_name">Suas gravações</string>
+    <string name="audio_db_album_name">Gravações de áudio</string>
+    <string name="audio_db_playlist_name">Minhas gravações</string>
+    <string name="error_sdcard_access">Não é possível acessar o armazenamento USB.</string>
+    <string name="error_app_internal">Erro interno do app.</string>
+    <string name="error_mediadb_new_record">Não foi possível salvar o áudio gravado.</string>
+</resources>

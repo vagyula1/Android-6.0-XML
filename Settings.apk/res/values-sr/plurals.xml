@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Треба да обавите још %1$d корака да бисте постали програмер.</item>
+        <item quantity="one">Треба да обавите још %1$d корак да бисте постали програмер.</item>
+        <item quantity="few">Треба да обавите још %1$d корака да бисте постали програмер.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">Подешено је %1$d отисака прстију</item>
+        <item quantity="one">Подешен је %1$d отисак прстију</item>
+        <item quantity="few">Подешена су %1$d отиска прстију</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Лозинка мора да садржи најмање %d слова.</item>
+        <item quantity="one">Лозинка мора да садржи најмање %d слово.</item>
+        <item quantity="few">Лозинка мора да садржи најмање %d слова.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Лозинка мора да садржи најмање %d малих слова.</item>
+        <item quantity="one">Лозинка мора да садржи најмање %d мало слово.</item>
+        <item quantity="few">Лозинка мора да садржи најмање %d мала слова.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Лозинка мора да садржи најмање %d великих слова.</item>
+        <item quantity="one">Лозинка мора да садржи најмање %d велико слово.</item>
+        <item quantity="few">Лозинка мора да садржи најмање %d велика слова.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Лозинка мора да садржи најмање %d цифара.</item>
+        <item quantity="one">Лозинка мора да садржи најмање %d цифру.</item>
+        <item quantity="few">Лозинка мора да садржи најмање %d цифре.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Лозинка мора да садржи најмање %d специјалних симбола.</item>
+        <item quantity="one">Лозинка мора да садржи најмање %d специјалан симбол.</item>
+        <item quantity="few">Лозинка мора да садржи најмање %d специјална симбола.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Лозинка мора да садржи најмање %d знакова који нису слова.</item>
+        <item quantity="one">Лозинка мора да садржи најмање %d знак који није слово.</item>
+        <item quantity="few">Лозинка мора да садржи најмање %d знака који нису слова.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Нетачан SIM PIN кôд. Имате још %d покушаја.</item>
+        <item quantity="one">Нетачан SIM PIN кôд. Имате још %d покушај.</item>
+        <item quantity="few">Нетачан SIM PIN кôд. Имате још %d покушаја.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d апликација може да чита обавештења</item>
+        <item quantity="one">%d апликација може да чита обавештења</item>
+        <item quantity="few">%d апликације могу да читају обавештења</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Пребацује у режим само са алармима у трајању од %1$d минута (до %2$s)</item>
+        <item quantity="one">Пребацује у режим само са алармима у трајању од %1$d минута (до %2$s)</item>
+        <item quantity="few">Пребацује у режим само са алармима у трајању од %1$d минута (до %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Пребацује у режим само са алармима у трајању од %1$d сати до %2$s</item>
+        <item quantity="one">Пребацује у режим само са алармима у трајању од %1$d сата до %2$s</item>
+        <item quantity="few">Пребацује у режим само са алармима у трајању од %1$d сата до %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d дозвола је одобрено</item>
+        <item quantity="one">%d дозвола је одобрена</item>
+        <item quantity="few">%d дозволе су одобрене</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">Дато је %1$d од %2$d дозвола</item>
+        <item quantity="one">Дата је %1$d од %2$d дозвола</item>
+        <item quantity="few">Дате су %1$d од %2$d дозвола</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d додатних дозвола</item>
+        <item quantity="one">%d додатна дозвола</item>
+        <item quantity="few">%d додатне дозволе</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d апликација може да отвара подржане линкове</item>
+        <item quantity="one">%d апликација може да отвара подржане линкове</item>
+        <item quantity="few">%d апликације могу да отварају подржане линкове</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">Игнорисање оптимизације батерије је дозвољено за %d апликација</item>
+        <item quantity="one">Игнорисање оптимизације батерије је дозвољено за %d апликацију</item>
+        <item quantity="few">Игнорисање оптимизације батерије је дозвољено за %d апликације</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d апликација је користило меморију у претходном периоду од %2$s</item>
+        <item quantity="one">%1$d апликација је користила меморију у претходном периоду од %2$s</item>
+        <item quantity="few">%1$d апликације су користиле меморију у претходном периоду од %2$s</item>
+    </plurals>
+</resources>

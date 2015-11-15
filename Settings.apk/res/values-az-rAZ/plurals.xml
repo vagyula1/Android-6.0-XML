@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Tərtibatçı olmaqdan %1$d addım uzaqsınız.</item>
+        <item quantity="one">Tərtibatçı olmaqdan %1$d addım uzaqsınız.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d barmaq izi quraşdırması</item>
+        <item quantity="one">%1$d barmaq izi quraşdırması</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Parolda ən azı %d hərf olmalıdır.</item>
+        <item quantity="one">Parolda ən azı 1 hərf olmalıdır.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Parolda ən azı %d kiçik hərf olmalıdır.</item>
+        <item quantity="one">Parolda ən azı 1 kiçik hərf olmalıdır.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Parolda ən azı %d böyük hərf olmalıdır.</item>
+        <item quantity="one">Parolda ən azı 1 böyük hərf olmalıdır.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Parolda ən azı %d rəqəm olmalıdır.</item>
+        <item quantity="one">Parolda ən azı 1 rəqəm olmalıdır.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Parolda ən azı %d xüsusi simvol olmalıdır.</item>
+        <item quantity="one">Parolda ən azı 1 xüsusi simvol olmalıdır.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Parolda ən azı %d hərf olmayan simvol olmalıdır.</item>
+        <item quantity="one">Parolda ən azı 1 hərf olmayan simvol olmalıdır.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Yanlış SIM PIN kodu, %d cəhdiniz qalır.</item>
+        <item quantity="one">Yanlış SIM PIN kodu, cihazınızı kiliddən çıxarmaq üçün operatorunuzla əlaqə saxlamadan öncə %d cəhdiniz qalır.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d proqram bildirişləri oxuya bilər</item>
+        <item quantity="one">%d proqram bildirişləri oxuya bilər</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Yalnız %1$d dəqiqəlik alarm edin (%2$s vaxtınadək)</item>
+        <item quantity="one">%2$s vaxtınadək yalnız bir dəqiqəlik alarm edin</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">%2$s vaxtınadək yalnız %1$d saatlıq alarm edin</item>
+        <item quantity="one">%2$s vaxtınadək yalnız bir saatlıq alarm edin</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d icazə verildi</item>
+        <item quantity="one">%d icazə verildi</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d icazədən %2$d icazə verilib</item>
+        <item quantity="one">%1$d icazədən %2$d icazə verilib</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d əlavə icazə</item>
+        <item quantity="one">%d əlavə icazə</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d tətbiq dəstəklənən linkləri aça bilər</item>
+        <item quantity="one">Bir tətbiq dəstəklənən linkləri aça bilər</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d tətbiqin batareya optimallaşdırılmasını iqnor etməyə icazə verilib</item>
+        <item quantity="one">1 tətbiqin batareya optimallaşdırılmasını iqnor etməyə icazə verilib</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">Son %2$s ərzində yaddaşı %1$d tətbiq istifadə edib</item>
+        <item quantity="one">Son %2$s ərzində yaddaşı q tətbiq istifadə edib</item>
+    </plurals>
+</resources>

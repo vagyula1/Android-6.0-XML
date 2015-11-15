@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cling_migration_content_margin">96.0dip</dimen>
+    <dimen name="cling_migration_content_width">320.0dip</dimen>
+    <dimen name="toolbar_button_vertical_padding">8.0dip</dimen>
+    <dimen name="toolbar_button_horizontal_padding">8.0dip</dimen>
+    <dimen name="all_apps_search_bar_height">54.0dip</dimen>
+    <dimen name="all_apps_icon_top_bottom_padding">14.0dip</dimen>
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Bozze</item>
+        <item quantity="one">Bozza</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Eliminare queste %1$d conversazioni?</item>
+        <item quantity="one">Eliminare questa conversazione?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Archiviare queste %1$d conversazioni?</item>
+        <item quantity="one">Archiviare questa conversazione?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Eliminare questi %1$d messaggi?</item>
+        <item quantity="one">Eliminare questo messaggio?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Rimozione di %1$d conversazioni da Speciali</item>
+        <item quantity="one">Rimozione di %1$d conversazione da Speciali</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> disattivate</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> disattivata</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> segnalate come spam</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> segnalata come spam</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> segnalate come non spam</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> segnalata come non spam</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> contrassegnate come non importanti</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> contrassegnata come non importante</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> segnalate come phishing</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> segnalata come phishing</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> archiviate</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> archiviata</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> eliminate</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> eliminata</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Cartelle cambiate</item>
+        <item quantity="one">Cartella cambiata</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d nuovi messaggi</item>
+        <item quantity="one">%1$d nuovo messaggio</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Espandi %1$d messaggi meno recenti</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d messaggi meno recenti espansi</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d da leggere</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d nuovi messaggi</item>
+        <item quantity="one">%1$d nuovo messaggio</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d messaggi verranno eliminati definitivamente.</item>
+        <item quantity="one">%1$d messaggio verrà eliminato definitivamente.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d messaggi</item>
+        <item quantity="one">%1$d messaggio</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d allegati</item>
+        <item quantity="one">%1$d allegato</item>
+    </plurals>
+</resources>

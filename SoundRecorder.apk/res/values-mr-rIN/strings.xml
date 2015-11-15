@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ध्वनी रेकॉर्डर</string>
+    <string name="record_your_message">आपला संदेश रेकॉर्ड करा</string>
+    <string name="message_recorded">संदेश रेकॉर्ड केला</string>
+    <string name="review_message">संदेशाचे पुनरावलोकन करा</string>
+    <string name="recording">रेकॉर्डिंग</string>
+    <string name="recording_stopped">रेकॉर्डिंग थांबले</string>
+    <string name="storage_is_full">संचयन पूर्ण भरले आहे</string>
+    <string name="max_length_reached">कमाल लांबी गाठली</string>
+    <string name="insert_sd_card">USB संचयन माउंट करा</string>
+    <string name="min_available">%d मिनिट उपलब्ध</string>
+    <string name="sec_available">%dसे उपलब्ध आहेत</string>
+    <string name="accept">पूर्ण केले</string>
+    <string name="discard">टाकून द्या</string>
+    <string name="button_ok">ठिक आहे</string>
+    <string name="audio_db_artist_name">आपली रेकॉर्डिंग्ज</string>
+    <string name="audio_db_album_name">ऑडिओ रेकॉर्डिंग</string>
+    <string name="audio_db_playlist_name">माझी रेकॉर्डिंग्ज</string>
+    <string name="error_sdcard_access">USB संचयनावर प्रवेश करू शकत नाही.</string>
+    <string name="error_app_internal">अंतर्गत अनुप्रयोग त्रुटी.</string>
+    <string name="error_mediadb_new_record">रेकॉर्ड केलेला ऑडिओ जतन करू शकलो नाही.</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>தலைப்பு இல்லை</item>
+        <item>தலைப்பு இல்லை</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>ஆம்</item>
+        <item>இல்லை</item>
+        <item>சரி</item>
+        <item>ஹிஹி</item>
+        <item>நன்றி</item>
+        <item>ஆம்</item>
+        <item>அருமை</item>
+        <item>வந்துகொண்டிருக்கிறேன்</item>
+        <item>பின்னர் அழைக்கிறேன்</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

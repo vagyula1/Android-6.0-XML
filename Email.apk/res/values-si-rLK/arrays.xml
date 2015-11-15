@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>පිළිතුරු දෙන්න</item>
+        <item>සියල්ලන්ටම පිළිතුරු යවන්න</item>
+        <item>ඉදිරියට</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>සාර්ථකයි</item>
+        <item>සම්බන්ධතාවය නැත</item>
+        <item>පුරනය වීමට නොහැකි විය</item>
+        <item>ආරක්‍ෂිත දෝෂය</item>
+        <item>සමමුහුර්ත කළ නොහැක</item>
+        <item>අභ්‍යන්තර දෝෂය</item>
+        <item>සේවාදායකයේ දෝෂයකි</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>අලුත්</item>
+        <item>පරණ</item>
+        <item>සංවාද ලැයිස්තුව</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>ඔබ මැකීමෙන් පසුව නව සංවාද පෙන්වන්න</item>
+        <item>ඔබ මැකීමෙන් පසුව පරණ සංවාද පෙන්වන්න</item>
+        <item>ඔබ මැකීමෙන් පසුව සංවාද ලැයිස්තුව පෙන්වන්න</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>සංරක්ෂිත කරන්න</item>
+        <item>මකාදමන්න</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>සංරක්ෂිත කරන්න</item>
+        <item>මකාදමන්න</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>පණිවිඩ ක්‍රියාකාරකම් සැමවිටම තිරයේ ඉහළින්ම පෙන්වන්න</item>
+        <item>සිරස් වෙත කරකවා ඇතිවිට පමණක් පණිවිඩ ක්‍රියාකාරකම් තිරයේ ඉහළින්ම පෙන්වන්න</item>
+        <item>පණිවිඩ ක්‍රියාකාරකම් පණිවිඩයේ ශීර්ෂකයට පිටතින් පෙන්වන්න එපා</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>සැමවිටම පෙන්වන්න</item>
+        <item>සිරස් ලෙස පමණක් පෙන්වන්න</item>
+        <item>පෙන්වන්න එපා</item>
+    </string-array>
+</resources>

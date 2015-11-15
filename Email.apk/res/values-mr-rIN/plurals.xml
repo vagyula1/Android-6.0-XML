@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">मसुदे</item>
+        <item quantity="one">मसुदा</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">ही %1$d संभाषणे हटवायची?</item>
+        <item quantity="one">हे संभाषण हटवायचे?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">ही %1$d संभाषणे संग्रहित करायची?</item>
+        <item quantity="one">हे संभाषण संग्रहित करायचे?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">हे %1$d संदेश टाकून द्यायचे?</item>
+        <item quantity="one">हा संदेश टाकून द्यायचा?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d संभाषणांचे तारांकन रद्द करत आहे</item>
+        <item quantity="one">%1$d संभाषणाचे तारांकन रद्द करत आहे</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> निःशब्द केले</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> निःशब्द केले</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> स्पॅम म्हणून अहवाल दिला</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> स्पॅम म्हणून अहवाल दिला</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> स्पॅम नाही म्हणून अहवाल दिला</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> स्पॅम नाही म्हणून अहवाल दिला</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> महत्त्वाचे नाही म्हणून चिन्हांकित केले</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> महत्त्वाचे नाही म्हणून चिन्हांकित केले</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> फिशिंग म्हणून अहवाल दिला</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> फिशिंग म्हणून अहवाल दिला</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> संग्रहित</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> संग्रहित</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> हटविले</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> हटविले</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">फोल्डर बदलली</item>
+        <item quantity="one">फोल्डर बदलले</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d नवीन संदेश</item>
+        <item quantity="one">%1$d नवीन संदेश</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d जुने संदेश विस्तृत करा</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d जुने संदेश विस्तृत केले</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d न वाचलेले</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d नवीन संदेश</item>
+        <item quantity="one">%1$d नवीन संदेश</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d संदेश कायमचे हटविले जातील.</item>
+        <item quantity="one">%1$d संदेश कायमचा हटविला जाईल.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d संदेश</item>
+        <item quantity="one">%1$d संदेश</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d संलग्नके</item>
+        <item quantity="one">%1$d संलग्नक</item>
+    </plurals>
+</resources>

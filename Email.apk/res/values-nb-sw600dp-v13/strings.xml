@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">Administrer mapper</string>
+    <string name="add_cc_label">+ kopi/blindkopi</string>
+    <string name="add_bcc_label">+ Blindkopi</string>
+    <string name="preferences_default_reply_all_summary">Bruk som standard for e-postsvar</string>
+</resources>

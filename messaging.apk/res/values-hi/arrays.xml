@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>कोई विषय नहीं</item>
+        <item>कोई विषय नहीं</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>हां</item>
+        <item>नहीं</item>
+        <item>ठीक</item>
+        <item>हेहे</item>
+        <item>धन्यवाद</item>
+        <item>मैं सहमत हूं</item>
+        <item>बढ़िया</item>
+        <item>मेरे रास्ते में रहने के दौरान</item>
+        <item>ठीक है, मैं आपसे बाद में संपर्क करूंगा/करूंगी</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

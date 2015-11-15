@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">[Þîçö ŢŢŠ one two]</string>
+    <string name="eng_usa_sample">[Ţĥîš îš åñ éхåḿþļé öƒ šþééçĥ šýñţĥéšîš îñ Éñĝļîšĥ ŵîţĥ Þîçö. one two three four five six seven]</string>
+    <string name="eng_gbr_sample">[Ţĥîš îš åñ éхåḿþļé öƒ šþééçĥ šýñţĥéšîš îñ Éñĝļîšĥ ŵîţĥ Þîçö. one two three four five six seven]</string>
+    <string name="fra_fra_sample">[νöîçî ûñ éçĥåñţîļļöñ ðé šýñţĥèšé Vöçåļé éñ ƒŕåñçåîš åVéç Þîçö. one two three four five six seven eight nine ten eleven twelve thirteen]</string>
+    <string name="deu_deu_sample">[Ðîéš îšţ éîñ βéîšþîéļ ƒüŕ Šþŕåçĥšýñţĥéšé îñ Ðéûţšçĥ ḿîţ Þîçö. one two three four five six seven]</string>
+    <string name="ita_ita_sample">[qûéšţö è ûñ éšéḿþîö ðî šîñţéšî Vöçåļé îñ îţåļîåñö çöñ Þîçö. one two three four five six seven]</string>
+    <string name="spa_esp_sample">[Éšţé éš ûñ éĵéḿþļö ðé šíñţéšîš ðé Vöž éñ éšþåñöļ çöñ Þîçö. one two three four five six seven]</string>
+    <string name="installed">[Îñšţåļļéð one two]</string>
+    <string name="not_installed">[Ñöţ Îñšţåļļéð one two]</string>
+</resources>

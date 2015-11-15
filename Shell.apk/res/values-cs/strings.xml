@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Bylo vytvořeno chybové hlášení</string>
+    <string name="bugreport_finished_text">Chybové hlášení můžete sdílet klepnutím.</string>
+    <string name="bugreport_confirm">Chybová hlášení obsahují data z různých souborů protokolů systému včetně osobních a soukromých informací. Chybová hlášení sdílejte pouze s aplikacemi a uživateli, kterým důvěřujete.</string>
+    <string name="bugreport_confirm_repeat">Zobrazit tuto zprávu příště</string>
+    <string name="bugreport_storage_title">Zprávy o chybách</string>
+</resources>

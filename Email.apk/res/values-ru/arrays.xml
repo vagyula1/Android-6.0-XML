@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Ответить</item>
+        <item>Ответить всем</item>
+        <item>Переслать</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Без ошибок</item>
+        <item>Нет подключения</item>
+        <item>Не удалось войти в аккаунт</item>
+        <item>Ошибка безопасности</item>
+        <item>Не удалось синхронизировать</item>
+        <item>Внутренняя ошибка</item>
+        <item>Ошибка сервера</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Следующему письму</item>
+        <item>Предыдущему письму</item>
+        <item>Списку писем</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Показывать более позднюю цепочку после удаления текущей</item>
+        <item>Показывать более раннюю цепочку после удаления текущей</item>
+        <item>Показывать список цепочек после удаления текущей цепочки</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Архивировать</item>
+        <item>Удалять</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Архивировать</item>
+        <item>Удалять</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Всегда показывать доступные действия вверху экрана</item>
+        <item>Показывать доступные действия вверху экрана только при вертикальной ориентации</item>
+        <item>Не показывать доступные действия вне заголовка сообщения</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Всегда показывать</item>
+        <item>Показывать только в вертикальной ориентации</item>
+        <item>Не показывать</item>
+    </string-array>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Скенирање...</item>
+        <item>Се поврзува...</item>
+        <item>Автентицирање...</item>
+        <item>Добивање ИП адреса...</item>
+        <item>Поврзана</item>
+        <item>Суспендирана</item>
+        <item>Се исклучува...</item>
+        <item>Исклучено</item>
+        <item>Неуспешна</item>
+        <item>Блокирана</item>
+        <item>Привремено избегнува лоша врска</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Скенирање...</item>
+        <item>Поврзување на %1$s...</item>
+        <item>Автентикација со %1$s...</item>
+        <item>Добивање ИП адреса од %1$s...</item>
+        <item>Поврзано на %1$s</item>
+        <item>Суспендирана</item>
+        <item>Исклучување од %1$s...</item>
+        <item>Исклучено</item>
+        <item>Неуспешна</item>
+        <item>Блокирано</item>
+        <item>Привремено избегнува лоша врска</item>
+    </string-array>
+</resources>

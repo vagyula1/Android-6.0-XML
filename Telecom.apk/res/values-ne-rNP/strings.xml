@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">फोन कल व्यवस्थापन</string>
+    <string name="userCallActivityLabel">फोन</string>
+    <string name="unknown">अज्ञात</string>
+    <string name="notification_missedCallTitle">छुटेका कल</string>
+    <string name="notification_missedCallsTitle">छुटेका कल</string>
+    <string name="notification_missedCallsMsg">%s छुटेका कलहरू</string>
+    <string name="notification_missedCallTicker">%sबाट छुटेका कल</string>
+    <string name="notification_missedCall_call_back">फेरि कल गर्नुहोस्</string>
+    <string name="notification_missedCall_message">सन्देश</string>
+    <string name="accessibility_call_muted">कल म्युट भयो।</string>
+    <string name="accessibility_speakerphone_enabled">स्पिकरफोन सक्षम भयो।</string>
+    <string name="respond_via_sms_canned_response_1">अहिले कुरा गर्न मिल्दैन। के भइरहेको छ?</string>
+    <string name="respond_via_sms_canned_response_2">मैले तपाईंलाई तुरुन्तै कल गर्ने छु।</string>
+    <string name="respond_via_sms_canned_response_3">म तपाईंलाई पछि कल गर्ने छु।</string>
+    <string name="respond_via_sms_canned_response_4">अहिले कुरा गर्न सक्नु हुन्न। मलाई पछि कल गर्नुहोस्?</string>
+    <string name="respond_via_sms_setting_title">द्रुत प्रतिक्रियाहरू</string>
+    <string name="respond_via_sms_setting_title_2">द्रुत प्रतिक्रियाहरू सम्पादन गर्नुहोस्</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">द्रुत प्रतिक्रिया</string>
+    <string name="respond_via_sms_confirmation_format">%s लाई सन्देश पठाइयो।</string>
+    <string name="enable_account_preference_title">कलिङ खाताहरू</string>
+    <string name="outgoing_call_not_allowed_user_restriction">यन्त्र मालिकद्वारा आपतकालीन कलहरू मात्र गर्न अनुमति दिइएको छ।</string>
+    <string name="outgoing_call_not_allowed_no_permission">यो अनुप्रयोगले फोनको अनुमति बिना बहिर्गमन कलहरू गर्न सक्दैन।</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">एक कल गर्नको लागि, एक वैध नम्बर प्रविष्ट गर्नुहोस्।</string>
+    <string name="duplicate_video_call_not_allowed">यस समयमा कल थप गर्न सकिँदैन।</string>
+    <string name="video_call_not_allowed_if_tty_enabled">कृपया भिडियो कलहरू गर्न TTY मोड निष्क्रिय गर्नुहोस्।</string>
+    <string name="no_vm_number">भ्वाइसमेल नम्बर हराइरहेको छ</string>
+    <string name="no_vm_number_msg">SIM कार्डमा कुनै पनि भ्वाइसमेल नम्बर भण्डारण भएको छैन।</string>
+    <string name="add_vm_number_str">नम्बर थप्नुहोस्</string>
+    <string name="change_default_dialer_dialog_title">पूर्वनिर्धारित डायलर अनुप्रयोग फेर्ने हो?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">%2$sको सट्टामा %1$sलाई पूर्वनिर्धारित डायलर अनुप्रयोगको रूपमा प्रयोग गर्ने हो?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">%sलाई तपाईँको पूर्वनिर्धारित डायलर अनुप्रयोगको रूपमा प्रयोग गर्ने हो?</string>
+</resources>

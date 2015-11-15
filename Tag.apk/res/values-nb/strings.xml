@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Etiketter</string>
+    <string name="title_scanned_tag">Ny etikett hentet</string>
+    <string name="title_existing_tag">Etikett</string>
+    <string name="tag_unknown">Ukjent etikettype</string>
+    <string name="tag_empty">Tom etikett</string>
+    <string name="button_done">Ferdig</string>
+    <string name="action_text">Send tekstmelding til %s</string>
+    <string name="action_call">Ring %s</string>
+    <string name="empty_tag_prompt">Denne etiketten er tom.</string>
+    <string name="import_vcard">Importér ^1</string>
+    <string name="mime_display_name">Data fra NFC-etikett</string>
+    <string name="vcard_title">Kontaktinfo for ^1</string>
+</resources>

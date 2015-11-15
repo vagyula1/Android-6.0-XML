@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>A=အဗစ်ဂျန်</item>
+        <item>A=အက္ကရာ</item>
+        <item>A=အက်ဒစ်အာဘာဘာ</item>
+        <item>A=အယ်လ်ဂျီယာ</item>
+        <item>B=ဘလန်တိုင်ယာ</item>
+        <item>B=ဘရာဇာဗေးလ်</item>
+        <item>C=ကိုင်ရို</item>
+        <item>C=ကာဆာဘလန်ကာ</item>
+        <item>C=ကိုနာခရီ</item>
+        <item>D=ဒါကာ</item>
+        <item>D=ဒါအက်စ္စလမ်</item>
+        <item>D=ဂျီဘူတီ</item>
+        <item>F=ဖရီးတောင်း</item>
+        <item>G=ဂါဘိုရုမ်း</item>
+        <item>H=ဟေရဲ</item>
+        <item>J=ဂျိုဟန်နက်စ်ဘတ်</item>
+        <item>K=ကမ်ပါလာ</item>
+        <item>K=ခါတိုအန်</item>
+        <item>K=ကစ်ဂလီ</item>
+        <item>K=ကင်ရှာဆာ</item>
+        <item>L=လာဂို့စ်</item>
+        <item>M=မာဆဲရု</item>
+        <item>M=မိုဂါဒီရှု</item>
+        <item>N=နိုင်ရိုဘီ</item>
+        <item>S=ဆောဝ်တိုမီ</item>
+        <item>T=တင်မ်ဘူခ်တူ</item>
+        <item>T=ထရီပိုလီ</item>
+        <item>T=တူးနစ်စ်</item>
+        <item>A=အန်ကာ့ရေ့ချ်</item>
+        <item>M=မန်ဒိုဇာ</item>
+        <item>A=အာရူဘာ</item>
+        <item>A=အော့စ်စီယွန်</item>
+        <item>B=ဘာဘေးဒိုး</item>
+        <item>B=ဘေလီဇ်</item>
+        <item>B=ဘိုဂိုတာ</item>
+        <item>B=ဘူနိုအေးရီးစ်</item>
+        <item>C=ကန်ကွန်</item>
+        <item>C=ကာရာကက်စ်</item>
+        <item>C=ကေမန်</item>
+        <item>C=ချီကာဂို</item>
+        <item>C=ကော်စတာရီကာ</item>
+        <item>C=ကူရာကော်</item>
+        <item>D=ဒေါ်ဆန်ခရိခ်</item>
+        <item>D=ဒန်းဗား</item>
+        <item>D=ဒက်ထရိုက်</item>
+        <item>D=ဒိုမီနီကာ</item>
+        <item>E=အက်ဒ်မွန်တွန်</item>
+        <item>E=အယ်လ်ဆယ်လ်ဗေဒေါ</item>
+        <item>F=ဖော်တာလီဇာ</item>
+        <item>G=ဂရန်း တာ့ခ်</item>
+        <item>G=ဂရီနေဒါ</item>
+        <item>G=ဂွာတီမာလာ</item>
+        <item>G=ဂိုင်ယာနာ</item>
+        <item>H=ဟာလီဖက်စ်</item>
+        <item>H=ဟာဗားနား</item>
+        <item>I=အင်ဒီယာနာပူးလစ်</item>
+        <item>K=နော့စ်</item>
+        <item>M=မာရန်းဂိုး</item>
+        <item>P=ပီတာစဘတ်</item>
+        <item>T=တဲလ်မြို့တော်</item>
+        <item>V=ဗီဗေး</item>
+        <item>V=ဗင်ဆန်းနက်စ်</item>
+        <item>W=ဝင်းနမက်</item>
+        <item>K=ကင်းစတန်</item>
+        <item>N=နျူးစထရာစီနိုရာဒီလာပါ့ဇ်</item>
+        <item>L=လီမာ</item>
+        <item>L=လော့စ်အိန်ဂျလိစ်</item>
+        <item>L=လူးဝစ်ဗေးလ်</item>
+        <item>M=မာနာဂွါ</item>
+        <item>M=Mမာတီနစ်ခ်</item>
+        <item>M=မန်ဒိုဇာ</item>
+        <item>M=မက်ထ်လာကက်ထ်လာ</item>
+        <item>M=မက်ကစီကိုစီးတီး</item>
+        <item>M=မွန်တာရေး</item>
+        <item>M=မွန်တီဗီဒီယို</item>
+        <item>M=မွန်ထရီယယ်လ်</item>
+        <item>N=နာဆော</item>
+        <item>N=နယူးရော့ခ်</item>
+        <item>B=ဗျူလာ</item>
+        <item>C=ဗဟို</item>
+        <item>N=နယူးဆလမ်</item>
+        <item>P=ပနားမား</item>
+        <item>P=ဖီးနစ်</item>
+        <item>P=စပိန်၏ ဆိပ်ကမ်း</item>
+        <item>P=ပေါ့ထ်အော့ပရင့်စ်</item>
+        <item>P=ပူတိုရီကို</item>
+        <item>S=ဆန်တိုဒိုမင်ဂို</item>
+        <item>S=ဆာပိုလို</item>
+        <item>S=စိန့်ဂျွန်</item>
+        <item>S=စိန့်ကစ်စ်</item>
+        <item>S=စိန့်လူစီယာ</item>
+        <item>S=စိန့်သောမတ်စ်</item>
+        <item>T=တီဂျူအာနား</item>
+        <item>T=တိုရွန်တို</item>
+        <item>V=ဗန်ကူးဗား</item>
+        <item>W=ဝင်းနီပက်</item>
+        <item>S=တောင်ဝင်ရိုးစွန်း</item>
+        <item>L=လောင်းန်ရီးယားဘျန်း</item>
+        <item>A=အယ်လ်မာတီ</item>
+        <item>A=အာမန်</item>
+        <item>A=အဏ္ဏရာ</item>
+        <item>A=အခ်တောင်</item>
+        <item>B=ဘက်ဒက်</item>
+        <item>B=ဘာရိန်း</item>
+        <item>B=ဘာကူ</item>
+        <item>B=ဘန်ကောက်</item>
+        <item>B=ဘီရက်</item>
+        <item>C=ကလက်ကတား</item>
+        <item>D=ဒမက်စ်ကဒ်</item>
+        <item>D=ဒါကာ</item>
+        <item>D=ဒူဘိုင်း</item>
+        <item>G=ဂါဇာ</item>
+        <item>H=ဟေဗြွန်</item>
+        <item>H=ဟိုချီမင်း</item>
+        <item>H=ဟောင်ကောင်</item>
+        <item>I=အစ္စတန်ဘူလ်</item>
+        <item>J=ဂျကာတာ</item>
+        <item>J=ဂျေရုဆလင်</item>
+        <item>K=ကဘူးလ်</item>
+        <item>K=ခရာချီ</item>
+        <item>K=ခက်မန်ဒူ</item>
+        <item>K=ကွာလာလမ်ပူ</item>
+        <item>K=ကူဝိတ်</item>
+        <item>M=မကာအို</item>
+        <item>M=မနီလာ</item>
+        <item>M=မုစ်ကက်</item>
+        <item>P=ဖနွမ်းပင်</item>
+        <item>P=ပြုံယမ်း</item>
+        <item>Q=ကာတာ</item>
+        <item>R=ရန်ကုန်</item>
+        <item>R=ရိယာ့ဒ်</item>
+        <item>S=ဆိုင်ဂုံ</item>
+        <item>S=ဆိုးလ်</item>
+        <item>S=ရှန်ဟိုင်း</item>
+        <item>S=စင်္ကာပူ</item>
+        <item>T=ထိုင်ပေ</item>
+        <item>T=တီဟီရန်</item>
+        <item>T=တယ်လ်အေဗစ်</item>
+        <item>T=တိုကျို</item>
+        <item>U=ဥလန်ဘာတာ</item>
+        <item>B=ဘာမြူဒါ</item>
+        <item>C=ကနေရီ</item>
+        <item>C=ကိပ်ဗာဒီ</item>
+        <item>R=ရက်ဂျာဗစ်</item>
+        <item>S=စတန်လေ</item>
+        <item>A=အက်ဒလိတ်</item>
+        <item>B=ဘရစ်စဘိန်း</item>
+        <item>C=ကန်ဘဲရား</item>
+        <item>D=ဒါဝင်</item>
+        <item>M=မဲလ်ဘုန်း</item>
+        <item>N=နယူးဆောက်ဝေးလ်</item>
+        <item>P=ပါ့သ်</item>
+        <item>Q=ကွင်းစ်လန်း</item>
+        <item>S=ဆစ်ဒနီ</item>
+        <item>V=ဗစ်တိုးရီးယား</item>
+        <item>N=နယူးဖောင်းဒ်လန်း</item>
+        <item>S=ဆက်စ်ခက်ချဝမ်</item>
+        <item>E=အီစတာကျွန်း</item>
+        <item>A=အမ်စတာဒမ်</item>
+        <item>A=အင်ဒိုရာ</item>
+        <item>A=အေသင်</item>
+        <item>B=ဘဲဖာ့စ်</item>
+        <item>B=ဘဲလ်ဂရိတ်</item>
+        <item>B=ဘာလင်</item>
+        <item>B=ဘရက်တစ်စ်လာဗာ</item>
+        <item>B=ဘရက်စ်ဆဲလ်</item>
+        <item>B=ဘူချာရတ်</item>
+        <item>B=ဘူတာပတ်</item>
+        <item>C=ချီစီနို</item>
+        <item>C=ကိုပင်မ်ဟေဂင်မ်</item>
+        <item>D=ဒပ်ဘလင်</item>
+        <item>G=ဂျီဘရယ်လ်တာ</item>
+        <item>H=ဟယ်လ်စင်ကီ</item>
+        <item>I=အိုင်းစ်လ်အော့ဖ်မန်း</item>
+        <item>I=အစ္စတန်ဘူလ်</item>
+        <item>K=ကိယက်ဗ်</item>
+        <item>L=လစ္စဘွန်း</item>
+        <item>L=လန်ဒန်</item>
+        <item>L=လူဇင်ဘတ်</item>
+        <item>M=မက်ဒရစ်</item>
+        <item>M=မောလ်တာ</item>
+        <item>M=မင့်စ်ခ်</item>
+        <item>M=မိုနာကို</item>
+        <item>M=မော်စကို</item>
+        <item>O=အော်စလို</item>
+        <item>P=ပဲရစ်</item>
+        <item>P=ပါရာဂွေး</item>
+        <item>R=ရီဂါ</item>
+        <item>R=ရောမ</item>
+        <item>S=ဆန်မာရီနို</item>
+        <item>S=ဆာရာဂျီဗို</item>
+        <item>S=ဆင်မ်ဗာရိုပိုလ်</item>
+        <item>S=စကိုပ်ဂျီ</item>
+        <item>S=ဆိုဖီယာ</item>
+        <item>S=စတော့ဟုမ်း</item>
+        <item>T=တယ်လ်လင်း</item>
+        <item>V=ဗာတီကန်</item>
+        <item>V=ဗီယင်နာ</item>
+        <item>V=ဗေလ်နီးယပ်</item>
+        <item>W=ဝါဆော</item>
+        <item>Z=ဇာဂရပ်ဘ်</item>
+        <item>Z=ဇူးရစ်</item>
+        <item>A=အန်တာနာနာရီဗို</item>
+        <item>M=မော်လ်ဒိုက်</item>
+        <item>M=မော်ရေးရှက်စ်</item>
+        <item>A=အော့ခ်လန်</item>
+        <item>F=ဖီဂျီ</item>
+        <item>G=ဂွမ်</item>
+        <item>H=ဟိုနိုလူလူ</item>
+        <item>K=ခိရိတီမာတီ</item>
+        <item>N=နော်မီယာ</item>
+        <item>S=ဆာမိုအာ</item>
+        <item>T=တဟီတီ</item>
+        <item>A=အန်တီဂွါ</item>
+        <item>A=အော်စတင်</item>
+        <item>B=ဘော်စတွန်</item>
+        <item>C=ကယ်လ်ဂေရီ</item>
+        <item>C=ကိုလမ်ဘတ်စ်</item>
+        <item>D=ဒဲလ်လပ်စ်</item>
+        <item>K=နော့စ်ဗေလ်လီ</item>
+        <item>M=နောဖ</item>
+        <item>M=မိုင်ယာမီ</item>
+        <item>M=မင်နီယာပိုလစ်စ်</item>
+        <item>O=အော့ထာဝါ</item>
+        <item>P=ဖီလာဒဲလ်ဖီးယား</item>
+        <item>P=ပေါ့ထ်လန်</item>
+        <item>S=ဆန်ဒီယေဂို</item>
+        <item>S=ဆန်ဖရန်စစ္စကို</item>
+        <item>S က = ဆော့ထ်လိတ်ခ်မြို့ပြ</item>
+        <item>S=ဆန်ဂျိုစေး</item>
+        <item>S=ဆန်ဆယ်လ်ဗေဒေါ</item>
+        <item>S=ဆီယက်တဲလ်</item>
+        <item>S=စိန့်လူးဝစ်</item>
+        <item>W=ဝါရှင်တန်ဒီစီ</item>
+        <item>H=ဟူစတန်</item>
+        <item>S=ဆန်အန်တိုနီယို</item>
+        <item>J=ဂျက်ခ်ဆွန်ဗေးလ်</item>
+        <item>B=ဘယ်လ်တီမိုး</item>
+        <item>N=နက်ရှ်ဗေးလ်</item>
+        <item>M=မီလ်ဝေါင်ကီး</item>
+        <item>O=အိုခလာဟိုးမ မြို့တော်</item>
+        <item>L=လာ့စ်ဗီးဂက်စ်</item>
+        <item>A=အယ်လ်ဘူကူယာကူ</item>
+        <item>T=တာ့ဆန်</item>
+        <item>S=ဆာခရာမန်တို</item>
+        <item>A=အတ္တလန်တာ</item>
+        <item>C=ကလဲဗီးလန်း</item>
+        <item>N=နယူးအော်လိန်း</item>
+        <item>T=တမ်ပါ</item>
+        <item>P=ပစ်ထ်စ်ဘာ့ဂ်</item>
+        <item>C=စင်စင်နာတီ</item>
+        <item>M=မောင်တိန်းဗြူး</item>
+        <item>R=ရီနို</item>
+        <item>B=ဘလက်ခ်ရော့ခ်မြို့တော်</item>
+        <item>D=ဒိုဟာ</item>
+        <item>B=ဘေရှင်း</item>
+        <item>M=မွမ်ဘိုင်း</item>
+        <item>D=ဒေလီ</item>
+        <item>O=အိုဆာကာ</item>
+        <item>L=လာဟိုး</item>
+        <item>S=ဆာနာအာ</item>
+        <item>B=ဘာစီလိုနာ</item>
+        <item>M=မြူးနစ်</item>
+        <item>M=မီလန်</item>
+        <item>F=ဖရန့်ခ်ဖာ့ထ်</item>
+        <item>H=ဟနွိုင်း</item>
+        <item>A=အန်ကာရာ</item>
+        <item>B=ဘန်ဂါလို</item>
+        <item>B=ဘရာစီလီယာ</item>
+        <item>C=ကိပ်တောင်း</item>
+        <item>I=အစ္စလာမ်မာဘတ်</item>
+        <item>R=ရီယိုဒီဂျနေးရိုး</item>
+        <item>A=အန်းအာဘော်</item>
+        <item>B=ဘိုးလ်ဒါး</item>
+        <item>C=ကိန်းဘရစ်ချ်</item>
+        <item>K=ခရစ်ခ်လန်</item>
+        <item>M=မာဒီဆန်</item>
+        <item>G=ကွမ်ကျိုး</item>
+        <item>H=ဟိုက်ဒြာဘတ်</item>
+        <item>R=ရက်စ်တန်</item>
+        <item>B=ဘဲလ်လို ဟွန်ရီဇွန်တဲ</item>
+        <item>S=ဆန်တီယေဂို</item>
+        <item>M=မွန်ရိုးဗီးယား</item>
+        <item>C=ကိုလမ်ဘို</item>
+        <item>C=ချီဟွားဟွား</item>
+        <item>S=ဆယ်လ်ဗေဒေါ</item>
+        <item>G=ဂါဂါအွန်</item>
+        <item>M=မန်ချက်စတာ</item>
+        <item>K=ကိဗ်</item>
+        <item>S=စိန့်ပီတာစဘတ်</item>
+        <item>K=ခရက်ခ်ကောင်း</item>
+        <item>W=ဝရိုကလော</item>
+        <item>H=ဟမ်းဘာ့ဂ်</item>
+        <item>O=အူလူ</item>
+        <item>H=ဟိုင်ဖာ</item>
+        <item>S=ဆန်ဂျူအန်</item>
+        <item>T=တဲဂူစီဂယ်လ်ပါ</item>
+        <item>P=ပါရာမာရီဘို</item>
+        <item>Q=ကွီတို</item>
+        <item>L=လဂျပ်ဘ်ဂျာနာ</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>ကျန်ရှိနေသည်မှာ တစ်မိနစ်ထက် နည်း</item>
+        <item>%1$s ကျန်ရှိနေ</item>
+        <item>%2$s ကျန်ရှိနေ</item>
+        <item>%1$s %2$s ကျန်ရှိနေ</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>နှိုးစက် သတ်မှတ်ချိန်မှာ ယခု အချိန်မှ ၁ မိနစ်ထက် နည်းနေသည်။</item>
+        <item>ယခု အချိန်မှ စပြီး %1$s အကြာမှာ နှိုးစက် သတ်မှတ်ထားသည်။</item>
+        <item>ယခု အချိန်မှ စပြီး %2$s အကြာမှာ နှိုးစက် သတ်မှတ်ထားသည်။</item>
+        <item>ယခု အချိန်မှ စပြီး %1$s နှင့် %2$s အကြာမှာ နှိုးစက် သတ်မှတ်ထားသည်။</item>
+        <item>ယခု အချိန်မှ စပြီး %3$s အကြာမှာ နှိုးစက် သတ်မှတ်ထားသည်။</item>
+        <item>ယခု အချိန်မှ စပြီး %1$s နှင့် %3$s အကြာမှာ နှိုးစက် သတ်မှတ်ထားသည်။</item>
+        <item>ယခု အချိန်မှ စပြီး %2$s နှင့် %3$s အကြာမှာ နှိုးစက် သတ်မှတ်ထားသည်။</item>
+        <item>ယခု အချိန်မှ စပြီး %1$s၊ %2$s နှင့် %3$s အကြာမှာ နှိုးစက် သတ်မှတ်ထားသည်။</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>၁ မိနစ်</item>
+        <item>၅ မိနစ်</item>
+        <item>၁၀ မိနစ်</item>
+        <item>၁၅ မိနစ်</item>
+        <item>၂၀ မိနစ်</item>
+        <item>၂၅ မိနစ်</item>
+        <item>မည်သည့်အခါမှ</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>စနေနေ့</item>
+        <item>တနင်္ဂနွေနေ့</item>
+        <item>တနင်္လာနေ့</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>မှေးရန်</item>
+        <item>ပယ်ရန်</item>
+        <item>ဘာမှ မလုပ်နှင့်</item>
+    </string-array>
+    <string-array name="sw_lap_number_set">
+        <item>\# %d</item>
+        <item>\# %02d</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>သင်၏ အတော့်ကို နှုန်း မြန်လွန်းနေသည်။</item>
+        <item>သင် ကြိုးစားခဲ့မှု အသီးအပွင့်များကို ခံစားနိုင်ပါပြီ။</item>
+        <item>Android များ မြန်ဆန်ခြင်းကို အားလုံးသိကြပေမည့်၊ သင့်လို မမြန်လှပါ!</item>
+        <item>ဝှူး။</item>
+        <item>L33t အချိန်များ</item>
+        <item>သိပ်ကို များလွန်းနေသည့် အရှိန်အဟုန်။</item>
+        <item>အချိန် မူမမှန်မှုများကို ပြန်ပြီး လုပ်ကိုင်ကြရအောင်။</item>
+        <item>ဘယ်ဘက်ကို ခုန်လိုက်ရုံပါပဲ။</item>
+        <item>သင့်ဆီမှာ ရွေးစရာ တစ်ပုံကြီးပဲ။</item>
+        <item>အလင်း၏ အမြန်နှုန်း။</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>လက်တံနာရီ</item>
+        <item>ဒီဂျစ်တယ်</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>မာရှယ်ကျွန်းစု</item>
+        <item>မီးဒ်ဝေးကျွန်းစု</item>
+        <item>ဟာဝါယီ</item>
+        <item>အလာစ်ကာ</item>
+        <item>ပစိဖိတ် အချိန်</item>
+        <item>တီယူအာနာ</item>
+        <item>အရီဇိုနား</item>
+        <item>ချီဝါဝါ</item>
+        <item>မောင်တိန်း အချိန်</item>
+        <item>အမေရိက ဗဟို</item>
+        <item>ဗဟို အချိန်</item>
+        <item>မက်ဆီကိုစီးတီး</item>
+        <item>စာစကာချဲဝန်</item>
+        <item>ဘိုဂိုတာ</item>
+        <item>အရှေ့ပိုင်း အချိန်</item>
+        <item>ဗီနီဇွဲလား</item>
+        <item>အတ္တလန္တိတ် အချိန် (ဘားဘာဒိုးစ်)</item>
+        <item>အတ္တလန္တိတ် အချိန် (ကနေဒါ)</item>
+        <item>မာနောက်စ်</item>
+        <item>စန်တီယာဂို</item>
+        <item>နယူးဖောင်လန်</item>
+        <item>ဘရာဇီးလီယား</item>
+        <item>ဗျူနိုအေရီစ်</item>
+        <item>ဂရင်လန်</item>
+        <item>မွန်တီဗီဒီယို</item>
+        <item>အတ္တလန္တိတ်လယ်</item>
+        <item>အာ့ဇိုရီစ်</item>
+        <item>ကိပ်ဗားဒီးကျွန်းစု</item>
+        <item>ကာဆာဘလန်ကာ</item>
+        <item>လန်ဒန်၊ ဒဗ်လင်</item>
+        <item>အမ်စတာဒမ်၊ ဘာလင်</item>
+        <item>ဘယ်ဂရိတ်</item>
+        <item>ဘရပ်ဆဲလ်</item>
+        <item>စာရာယဲဗို</item>
+        <item>ဝင်းဒို့ခ်</item>
+        <item>အနောက် အာဖရိက အချိန်</item>
+        <item>အမာန်၊ ဂျော်ဒန်</item>
+        <item>အေသင်၊ အစ္စတန်ဘူးလ်</item>
+        <item>ဘေးရွတ်၊ လက်ဘာနွံ</item>
+        <item>ကိုင်ရို</item>
+        <item>ဟယ်ဆင်ကီး</item>
+        <item>ဂျေရုဆလင်</item>
+        <item>မင့်စ်က်</item>
+        <item>ဟာရာရဲ</item>
+        <item>ဘဂ္ဂဒတ်</item>
+        <item>မော်စကို</item>
+        <item>ကူးဝိတ်</item>
+        <item>နိုင်ရိုဘီ</item>
+        <item>တီဟီရန်</item>
+        <item>ဘာကူ</item>
+        <item>တဘီလီစီ</item>
+        <item>ယဲရဲဗန်</item>
+        <item>ဒူဘိုင်း</item>
+        <item>ကဘူးလ်</item>
+        <item>အစ္စလမ်မာဘတ်၊ ကရာချီ</item>
+        <item>ယူရာလ်စ်က်</item>
+        <item>ယဲကာတဲရင်းဘတ်</item>
+        <item>ကိုလ်ကာတာ</item>
+        <item>သီရိလင်္ကါ</item>
+        <item>ခတ္ထမန္ဒူ</item>
+        <item>အာစ်တားနား</item>
+        <item>ရန်ကုန်</item>
+        <item>ကရာစ်နိုယားစ်က်</item>
+        <item>ဘန်ကောက်</item>
+        <item>ပေဂျင်း</item>
+        <item>ဟောင်ကောင်</item>
+        <item>အီရ်ကူးစ်က်</item>
+        <item>ကွာလာလမ်ပူ</item>
+        <item>ပါ့သ်</item>
+        <item>တိုင်ပေ</item>
+        <item>ဆိုးလ်</item>
+        <item>တိုကျို၊ အိုစာကာ</item>
+        <item>ယာကူးစ်က်</item>
+        <item>အာဒေလိပ်ဒ်</item>
+        <item>ဒါဝင်</item>
+        <item>ဘရီးစ်ဘိန်း</item>
+        <item>ဟိုဘားတ်</item>
+        <item>ဆစ်ဒနီ၊ ကန်ဘေရား</item>
+        <item>ဗလာဒီဗာစ်တော့</item>
+        <item>ဂူအာမ်</item>
+        <item>မာဂါဒန်</item>
+        <item>အော့ခ်လန်</item>
+        <item>ဖီဂျီ</item>
+        <item>တွန်ဂါ</item>
+        <item>ဂျာကာတာ</item>
+    </string-array>
+</resources>

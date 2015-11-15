@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">የስልክ ጥሪ አስተዳደር</string>
+    <string name="userCallActivityLabel">ስልክ</string>
+    <string name="unknown">ያልታወቀ</string>
+    <string name="notification_missedCallTitle">ያመለጠጥሪ</string>
+    <string name="notification_missedCallsTitle">ያመለጡ ጥሪዎች</string>
+    <string name="notification_missedCallsMsg">%s ያመለጡ ጥሪዎች</string>
+    <string name="notification_missedCallTicker">ከ%s ያመለጠ ጥሪ</string>
+    <string name="notification_missedCall_call_back">መልሰህ ደውል</string>
+    <string name="notification_missedCall_message">መልዕክት</string>
+    <string name="accessibility_call_muted">"ጥሪ ፀጥ  ብሏል"</string>
+    <string name="accessibility_speakerphone_enabled">የስልክ ድምፅ ማጉያ ነቅቷል።</string>
+    <string name="respond_via_sms_canned_response_1">አሁን ማውራት አልችልም። ሰላም ነው?</string>
+    <string name="respond_via_sms_canned_response_2">ወዲያው መልሼ እደውላለሁ።</string>
+    <string name="respond_via_sms_canned_response_3">ኋላ እደውላለሁ።</string>
+    <string name="respond_via_sms_canned_response_4">አሁን ማውራት አልችልም። ትንሽ ቆይተው ይደውሉ?</string>
+    <string name="respond_via_sms_setting_title">ፈጣን ምላሾች</string>
+    <string name="respond_via_sms_setting_title_2">ፈጣን ምላሾች አርትዕ</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">ፈጣን ምላሽ</string>
+    <string name="respond_via_sms_confirmation_format">ለ %s የተላከ መልዕክት</string>
+    <string name="enable_account_preference_title">የመደወያ መለያዎች</string>
+    <string name="outgoing_call_not_allowed_user_restriction">የአስቸኳይ አደጋ ጥሪዎች ብቻ ናቸው በባለቤቱ የተፈቀዱት።</string>
+    <string name="outgoing_call_not_allowed_no_permission">ይህ መተግበሪያ ያለስልኩ ፈቃድ ወጪ ጥሪዎችን ማድረግ አይችልም።</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">አንድ ጥሪ ለማድረግ የሚሰራ ቁጥር ያስገቡ።</string>
+    <string name="duplicate_video_call_not_allowed">ጥሪ በዚህ ጊዜ ላይ ሊታከል አይችልም።</string>
+    <string name="video_call_not_allowed_if_tty_enabled">የቪዲዮ ጥሪዎችን ለማድረግ እባክዎ የTTY ሁነታን ያሰናክሉ።</string>
+    <string name="no_vm_number">የድምፅመልዕክት ቁጥርአመለጠ</string>
+    <string name="no_vm_number_msg">በSIM ካርዱ ላይምንም የድምፅመልዕክት ቁጥር አልከተቀመጠም።</string>
+    <string name="add_vm_number_str">ቁጥር አክል</string>
+    <string name="change_default_dialer_dialog_title">ነባሪ መደወያ መተግበሪያ ይለወጥ?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">%1$sን በ%2$s ምትክ እንደ የእርስዎ ነባሪ መደወያ መተግበሪያ ይጠቀም?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">%sን እንደ የእርስዎ ነባሪ መደወያ መተግበሪያ ይጠቀም?</string>
+</resources>

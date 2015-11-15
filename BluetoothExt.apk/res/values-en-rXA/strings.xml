@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultname">[Çåŕķîţ one two]</string>
+    <string name="process">[]</string>
+    <string name="bluetooth_remember_choice">[Åļŵåýš Åļļöŵ one two]</string>
+    <string name="dun_notif_ticker">[βļûéţööţĥ ÐÛÑ ŕéQûéšţ one two three]</string>
+    <string name="dun_notif_title">[Šéššîöñ Ķéý ŔéQûéšţ ƒöŕ ÐÛÑ one two three four]</string>
+    <string name="dun_notif_message">[Ţöûçĥ ţö çöññéçţ ţö \"%1$s\". one two three]</string>
+    <string name="dun_acceptance_timeout_message">[Ţĥéŕé ŵåš ţîḿé öûţ ţö åççéþţ çöññéçţîöñ ŵîţĥ »%1$s« one two three four five]</string>
+    <string name="bluetooth_dun_request">[ÐÛÑ ŕéQûéšţ one two]</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">[»%1$s« ŵöûļð ļîķé ţö ûšé ÐÛÑ. ĜîVé åççéšš ţö »%2$s«¿ one two three four five]</string>
+    <string name="ftp_acceptance_dialog_title">[»%1$s« ŵöûļð ļîķé ţö åççéšš ýöûŕ þĥöñé ƒöļðéŕš. ĜîVé åççéšš ţö »%2$s«¿ one two three four five six seven]</string>
+    <string name="ftp_acceptance_dialog_header">[Þĥöñé Föļðéŕ Åççéšš one two three]</string>
+    <string name="ftp_session_key_dialog_title">[Ţýþé šéššîöñ ķéý ƒöŕ »%1$s« one two three]</string>
+    <string name="ftp_session_key_dialog_header">[βļûéţööţĥ šéššîöñ ķéý ŕéQûîŕéð one two three four]</string>
+    <string name="ftp_acceptance_timeout_message">[Ţĥéŕé ŵåš ţîḿé öûţ ţö åççéþţ çöññéçţîöñ ŵîţĥ »%1$s« one two three four five]</string>
+    <string name="ftp_authentication_timeout_message">[Ţĥéŕé ŵåš ţîḿé öûţ ţö îñþûţ šéššîöñ ķéý ŵîţĥ »%1$s« one two three four five]</string>
+    <string name="ftp_notif_ticker">[βļûéţööţĥ çöññéçţîöñ ŕéQûéšţ one two three four]</string>
+    <string name="ftp_notif_title">[Šéššîöñ Ķéý ŔéQûéšţ ƒöŕ FŢÞ one two three four]</string>
+    <string name="ftp_notif_message">[Ţöûçĥ ţö çöññéçţ ţö \"%1$s\". one two three]</string>
+    <string name="bluetooth_ftp_request">[Fţþ ŕéQûéšţ one two]</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">[»%1$s« ŵöûļð ļîķé ţö åççéšš ýöûŕ ƒîļéš åñð ƒöļðéŕš. ĜîVé åççéšš ţö »%2$s«¿ one two three four five six seven]</string>
+    <string name="map_acceptance_dialog_title">[»%1$s« ŵöûļð ļîķé ţö åççéšš ýöûŕ þĥöñé ƒöļðéŕš. ĜîVé åççéšš ţö »%2$s«¿ one two three four five six seven]</string>
+    <string name="map_acceptance_dialog_header">[Þĥöñé Föļðéŕ Åççéšš one two three]</string>
+    <string name="map_session_key_dialog_title">[Ţýþé šéššîöñ ķéý ƒöŕ »%1$s« one two three]</string>
+    <string name="map_session_key_dialog_header">[βļûéţööţĥ šéššîöñ ķéý ŕéQûîŕéð one two three four]</string>
+    <string name="map_acceptance_timeout_message">[Ţĥéŕé ŵåš ţîḿé öûţ ţö åççéþţ çöññéçţîöñ ŵîţĥ »%1$s« one two three four five]</string>
+    <string name="map_authentication_timeout_message">[Ţĥéŕé ŵåš ţîḿé öûţ ţö îñþûţ šéššîöñ ķéý ŵîţĥ »%1$s« one two three four five]</string>
+    <string name="map_notif_ticker">[βļûéţööţĥ çöññéçţîöñ ŕéQûéšţ one two three four]</string>
+    <string name="map_notif_title">[Šéššîöñ Ķéý ŔéQûéšţ ƒöŕ ḾÅÞ one two three four]</string>
+    <string name="map_notif_message">[Ţöûçĥ ţö çöññéçţ ţö \"%1$s\". one two three]</string>
+    <string name="map_alert_conn_failed_message">[βļûéţööţĥ ḾÅÞ çöññéçţîöñ ƒåîļéð. one two three four]</string>
+    <string name="bluetooth_mas_request">[Ḿéššåĝé Åççéšš ŕéQûéšţ one two three]</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">[»%1$s« ŵöûļð ļîķé ţö åççéšš ýöûŕ ḿéššåĝéš. ĜîVé åççéšš ţö »%2$s«¿ one two three four five six]</string>
+    <string name="sap_notif_ticker">[βļûéţööţĥ ŠÎḾ Åççéšš ŕéQûéšţ one two three four]</string>
+    <string name="sap_notif_title">[Šéššîöñ Ķéý ŔéQûéšţ ƒöŕ ŠÅÞ one two three four]</string>
+    <string name="sap_notif_message">[Ţöûçĥ ţö çöññéçţ ţö \"%1$s\". one two three]</string>
+    <string name="sap_acceptance_timeout_message">[Ţĥéŕé ŵåš ţîḿé öûţ ţö åççéþţ çöññéçţîöñ ŵîţĥ »%1$s« one two three four five]</string>
+    <string name="bluetooth_sap_request">[ŠÅÞ ŕéQûéšţ one two]</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">[»%1$s« ŵöûļð ļîķé ţö åççéšš ýöûŕ ŠÎḾ. ĜîVé åççéšš ţö »%2$s«¿ one two three four five six]</string>
+</resources>

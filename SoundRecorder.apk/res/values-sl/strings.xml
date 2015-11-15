@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Snemalnik zvoka</string>
+    <string name="record_your_message">Snemanje sporočila</string>
+    <string name="message_recorded">Sporočilo je bilo posneto</string>
+    <string name="review_message">Mnenje o sporočilu</string>
+    <string name="recording">Snemanje</string>
+    <string name="recording_stopped">Snemanje prekinjeno</string>
+    <string name="storage_is_full">Shramba je polna</string>
+    <string name="max_length_reached">Dosežena je največja dolžina</string>
+    <string name="insert_sd_card">Vpnite pomnilnik USB</string>
+    <string name="min_available">%d min na voljo</string>
+    <string name="sec_available">%d s na voljo</string>
+    <string name="accept">Končano</string>
+    <string name="discard">Zavrzi</string>
+    <string name="button_ok">V redu</string>
+    <string name="audio_db_artist_name">Vaši posnetki</string>
+    <string name="audio_db_album_name">Zvočni posnetki</string>
+    <string name="audio_db_playlist_name">Moji posnetki</string>
+    <string name="error_sdcard_access">Ni dostopa do pomnilnika USB.</string>
+    <string name="error_app_internal">Notranja napaka v aplikaciji.</string>
+    <string name="error_mediadb_new_record">Posnetega zvoka ni mogoče shraniti.</string>
+</resources>

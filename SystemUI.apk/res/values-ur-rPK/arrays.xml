@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>اسکین کر رہا ہے…</item>
+        <item>مربوط ہو رہا ہے…</item>
+        <item>توثیق ہو رہی ہے…</item>
+        <item>‏IP پتہ حاصل کر رہا ہے…</item>
+        <item>مربوط ہو گیا</item>
+        <item>معطل شدہ</item>
+        <item>منقطع کیا جارہا ہے…</item>
+        <item>منقطع ہو گیا</item>
+        <item>ناکام</item>
+        <item>مسدود</item>
+        <item>عارضی طور پر خراب کنکشن سے اجتناب کر رہا ہے</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>اسکین کر رہا ہے…</item>
+        <item>%1$s سے مربوط ہو رہا ہے…</item>
+        <item>%1$s کے ساتھ توثیق ہو رہی ہے…</item>
+        <item>‏%1$s سے IP پتہ حاصل کر رہا ہے…</item>
+        <item>%1$s سے مربوط ہو گیا</item>
+        <item>معطل شدہ</item>
+        <item>%1$s سے منقطع ہو رہا ہے…</item>
+        <item>منقطع ہو گیا</item>
+        <item>ناکام</item>
+        <item>مسدود ہے</item>
+        <item>عارضی طور پر خراب کنکشن سے اجتناب کر رہا ہے</item>
+    </string-array>
+</resources>

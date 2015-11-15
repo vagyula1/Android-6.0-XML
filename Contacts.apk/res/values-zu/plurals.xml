@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d abatholakele</item>
+        <item quantity="one">%d abatholakele</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d oxhumana nabo abanezinombolo zefoni</item>
+        <item quantity="one">%d oxhumana nabo abanezinombolo zefoni</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d abatholakele</item>
+        <item quantity="one">%d abatholakele</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">kuhlanganiswe kusuka kumithombo engu-%0$d</item>
+        <item quantity="one">kuhlanganiswe kusuka kumithombo engu-%0$d</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d amaqembu</item>
+        <item quantity="one">%0$d amaqembu</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d abantu kusuka ku-%2$s</item>
+        <item quantity="one">%1$d abantu kusuka ku-%2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d abantu</item>
+        <item quantity="one">%1$d abantu</item>
+    </plurals>
+</resources>

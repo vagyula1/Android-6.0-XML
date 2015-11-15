@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Leiti %d</item>
+        <item quantity="one">Leiti 1</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d sekundit</item>
+        <item quantity="one">1 sekund</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minutit</item>
+        <item quantity="one">1 minut</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d tundi</item>
+        <item quantity="one">1 tund</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d kõneposti teadet</item>
+        <item quantity="one">Kõneposti teade</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d uut kõnepostisõnumit</item>
+        <item quantity="one">%d uus kõnepostisõnum</item>
+    </plurals>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">अब आप डेवलपर बननेे से %1$d चरण दूर हैं.</item>
+        <item quantity="one">अब आप डेवलपर बननेे से %1$d चरण दूर हैं.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d फ़िंगरप्रिंट सेट अप</item>
+        <item quantity="one">%1$d फ़िंगरप्रिंट सेट अप</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">पासवर्ड में कम से कम %d अक्षर होने चाहिए.</item>
+        <item quantity="one">पासवर्ड में कम से कम %d अक्षर होने चाहिए.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">पासवर्ड में कम से कम %d लोअरकेस अक्षर होने चाहिए.</item>
+        <item quantity="one">पासवर्ड में कम से कम %d लोअरकेस अक्षर होने चाहिए.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">पासवर्ड में कम से कम %d अपरकेस अक्षर होने चाहिए.</item>
+        <item quantity="one">पासवर्ड में कम से कम %d अपरकेस अक्षर होने चाहिए.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">पासवर्ड में कम से कम %d संख्‍यात्‍मक अंक होने चाहिए.</item>
+        <item quantity="one">पासवर्ड में कम से कम %d संख्‍यात्‍मक अंक होने चाहिए.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">पासवर्ड में कम से कम %d विशेष प्रतीक होने चाहिए.</item>
+        <item quantity="one">पासवर्ड में कम से कम %d विशेष प्रतीक होने चाहिए.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">पासवर्ड में कम से कम %d वर्ण ऐसे होने चाहिए जो अक्षर ना हों.</item>
+        <item quantity="one">पासवर्ड में कम से कम %d वर्ण ऐसे होने चाहिए जो अक्षर ना हों.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">गलत सिम PIN कोड, आपके पास %d प्रयास शेष हैं.</item>
+        <item quantity="one">गलत सिम PIN कोड, आपके पास %d प्रयास शेष हैं.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d ऐप्‍स नोटिफिकेशन पढ़ सकते हैं</item>
+        <item quantity="one">%d ऐप्‍स नोटिफिकेशन पढ़ सकते हैं</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">केवल %1$d मिनट के लिए अलार्म को बदलें (%2$s बजे तक)</item>
+        <item quantity="one">केवल %1$d मिनट के लिए अलार्म को बदलें (%2$s बजे तक)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">%2$s बजे तक केवल %1$d घंटे के लिए अलार्म को बदलें</item>
+        <item quantity="one">%2$s बजे तक केवल %1$d घंटे के लिए अलार्म को बदलें</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d अनुमतियां दी गईं</item>
+        <item quantity="one">%d अनुमतियां दी गईं</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d में से %2$d अनुमतियां दी गईं</item>
+        <item quantity="one">%1$d में से %2$d अनुमतियां दी गईं</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d अतिरिक्‍त अनुमतियां</item>
+        <item quantity="one">%d अतिरिक्‍त अनुमतियां</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d ऐप्स अपने समर्थित लिंक खोल सकते हैं</item>
+        <item quantity="one">%d ऐप्स अपने समर्थित लिंक खोल सकते हैं</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d ऐप्‍स को बैटरी ऑप्‍टिमाइज़ेशन को अनदेखा करने की अनुमति दी गई</item>
+        <item quantity="one">%d ऐप्‍स को बैटरी ऑप्‍टिमाइज़ेशन को अनदेखा करने की अनुमति दी गई</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d ऐप्स द्वारा पिछले %2$s में उपयोग की गई मेमोरी</item>
+        <item quantity="one">%1$d ऐप्स द्वारा पिछले %2$s में उपयोग की गई मेमोरी</item>
+    </plurals>
+</resources>

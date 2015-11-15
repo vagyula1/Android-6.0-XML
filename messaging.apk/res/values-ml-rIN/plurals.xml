@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d മിനിറ്റ്</item>
+        <item quantity="one">%d മിനിറ്റ്</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d മണിക്കൂർ</item>
+        <item quantity="one">%d മണിക്കൂർ</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d ദിവസം</item>
+        <item quantity="one">%d ദിവസം</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d ആഴ്‌ച</item>
+        <item quantity="one">ഒരു ആഴ്‌ച</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d മാസം</item>
+        <item quantity="one">ഒരു മാസം</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d വർഷം</item>
+        <item quantity="one">ഒരു വർഷം</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d സംഭാഷണങ്ങളിൽ %2$d സന്ദേശങ്ങൾ</item>
+        <item quantity="one">ഒരു സംഭാഷണത്തിൽ %d സന്ദേശങ്ങൾ</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d സംഭാഷണങ്ങളിൽ %2$d സന്ദേശങ്ങൾ</item>
+        <item quantity="one">ഒരു സംഭാഷണത്തിൽ %d സന്ദേശങ്ങൾ</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d പുതിയ സന്ദേശങ്ങൾ</item>
+        <item quantity="one">പുതിയ സന്ദേശം</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">ഈ സംഭാഷണങ്ങൾ ഇല്ലാതാക്കണോ?</item>
+        <item quantity="one">ഈ സംഭാഷണം ഇല്ലാതാക്കണോ?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d പങ്കെടുക്കുന്നവർ</item>
+        <item quantity="one">%d പങ്കെടുക്കുന്നയാൾ</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">അറ്റാച്ച്‌മെന്റുകൾ ഉപേക്ഷിക്കുക</item>
+        <item quantity="one">അറ്റാച്ച്‌മെന്റ് ഉപേക്ഷിക്കുക</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d ഫോട്ടോകൾ \"%2$s\" ആൽബത്തിലേക്ക് സംരക്ഷിച്ചു</item>
+        <item quantity="one">%1$d ഫോട്ടോ \"%2$s\" ആൽബത്തിലേക്ക് സംരക്ഷിച്ചു</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d വീഡിയോകൾ \"%2$s\" ആൽബത്തിലേക്ക് സംരക്ഷിച്ചു</item>
+        <item quantity="one">%1$d വീഡിയോ \"%2$s\" ആൽബത്തിലേക്ക് സംരക്ഷിച്ചു</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d അറ്റാച്ചുമെന്റുകൾ \"%2$s\" ആൽബത്തിലേക്ക് സംരക്ഷിച്ചു</item>
+        <item quantity="one">%1$d അറ്റാച്ച്‌മെന്റ് \"%2$s\" ആൽബത്തിലേക്ക് സംരക്ഷിച്ചു</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d അറ്റാച്ചുമെന്റുകൾ \"ഡൗൺലോഡുകളി\"ലേക്ക് സംരക്ഷിച്ചു</item>
+        <item quantity="one">%d അറ്റാച്ചുമെന്റ് \"ഡൗൺലോഡുകളി\"ലേക്ക് സംരക്ഷിച്ചു</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">%d അറ്റാച്ച്‌മെന്റുകൾ സംരക്ഷിച്ചു</item>
+        <item quantity="one">%d അറ്റാച്ച്‌മെന്റ് സംരക്ഷിച്ചു</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">%dഅറ്റാച്ച്‌മെന്റുകൾ സംരക്ഷിക്കാനായില്ല</item>
+        <item quantity="one">%d അറ്റാച്ച്‌മെന്റ് സംരക്ഷിക്കാനായില്ല</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">ഫോട്ടോകൾ അയയ്‌ക്കുക</item>
+        <item quantity="one">ഫോട്ടോ അയയ്ക്കുക</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">ഓഡിയോകൾ അയയ്‌ക്കുക</item>
+        <item quantity="one">ഓഡിയോ അയയ്ക്കുക</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">വീഡിയോകൾ അയയ്‌ക്കുക</item>
+        <item quantity="one">വീഡിയോ അയയ്‌ക്കുക</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">കോൺടാക്റ്റ് കാർഡുകൾ അയയ്‌ക്കുക</item>
+        <item quantity="one">കോൺടാക്റ്റ് കാർഡ് അയയ്ക്കുക</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">അറ്റാച്ച്‌മെന്റുകൾ അയയ്ക്കുക</item>
+        <item quantity="one">അറ്റാച്ച്‌മെന്റ് അയയ്ക്കുക</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d അറ്റാച്ച്‌മെന്റുകൾ അയയ്‌ക്കാൻ തയ്യാറാണ്</item>
+        <item quantity="one">ഒരു അറ്റാച്ച്‌മെന്റ് അയയ്‌ക്കാൻ തയ്യാറാണ്</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d കോൺടാക്റ്റുകൾ</item>
+        <item quantity="one">%d കോൺടാക്റ്റ്</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">അസാധുവായ കോൺടാക്റ്റുകൾ</item>
+        <item quantity="one">അസാധുവായ കോൺടാക്‌റ്റ്</item>
+    </plurals>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Сонгогдсоныг устгах уу?</item>
+        <item quantity="one">Сонгогдсоныг устгах уу?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d сонгогдсон</item>
+        <item quantity="zero">%1$d сонгогдсон</item>
+        <item quantity="one">%1$d сонгогдсон</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">%1$d сонгогдсон</item>
+        <item quantity="zero">%1$d сонгогдсон</item>
+        <item quantity="one">%1$d сонгогдсон</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">%1$d сонгогдсон</item>
+        <item quantity="zero">%1$d сонгогдсон</item>
+        <item quantity="one">%1$d сонгогдсон</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Альбомыг оффлайнаар харах боломжтой болгож байна.</item>
+        <item quantity="one">Альбомыг оффлайнаар ашигладаг болгож байна.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d файл скан хийгдсэн</item>
+        <item quantity="zero">%1$d скан хийгдэв</item>
+        <item quantity="one">%1$d скан хийгдэв</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">%d секунд</item>
+        <item quantity="one">1 секунд</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">%1$d зураг</item>
+        <item quantity="one">%1$d зураг</item>
+    </plurals>
+</resources>

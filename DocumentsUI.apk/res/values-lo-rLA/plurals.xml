@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">ກຳ​ລັງ​ອັດ​ສຳ​ເນົາ %1$d ໄຟ​ລ໌.</item>
+        <item quantity="one">ກຳ​ລັງ​ອັດ​ສຳ​ເນົາ %1$d ໄຟ​ລ໌.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">ບໍ່​ສາ​ມາດ​ອັດ​ສຳ​ເນົາ %1$d ໄຟ​ລ໌​ໄດ້</item>
+        <item quantity="one">ບໍ່​ສາ​ມາດ​ອັດ​ສຳ​ເນົາ %1$d ໄຟ​ລ໌​ໄດ້</item>
+    </plurals>
+</resources>

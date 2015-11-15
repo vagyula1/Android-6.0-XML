@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Одговори</item>
+        <item>Одговори на сите</item>
+        <item>Проследи</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Понови</item>
+        <item>Постари</item>
+        <item>Список со разговори</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Прикажи понов разговор откако ќе избришеш</item>
+        <item>Прикажи постар разговор откако ќе избришеш</item>
+        <item>Прикажи список со разговори откако ќе избришеш</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Секогаш прикажувај ги дејствата за пораките на врвот на екранот</item>
+        <item>Прикажувај ги дејствата за пораките на врвот на екранот само кога е свртен вертикално</item>
+        <item>Не прикажувај ги дејствата за пораките надвор од заглавието на пораката</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Секогаш прикажувај</item>
+        <item>Прикажувај само вертикално</item>
+        <item>Не прикажувај</item>
+    </string-array>
+</resources>

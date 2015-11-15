@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Сомолор</item>
+        <item quantity="one">Сомо</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Бул %1$d маек жок кылынсынбы?</item>
+        <item quantity="one">Бул маек жок кылынсынбы?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Бул %1$d маек архивделсинби?</item>
+        <item quantity="one">Бул маек архивделсинби?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Бул %1$d билдирүү жарактан чыгарылсынбы?</item>
+        <item quantity="one">Бул билдирүү жарактан чыгарылсынбы?</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d окула элек</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d жаңы билдирүү</item>
+        <item quantity="one">%1$d жаңы билдирүү</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d билдирүү биротоло жок кылынат.</item>
+        <item quantity="one">%1$d билдирүү биротоло жок кылынат.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d билдирүү</item>
+        <item quantity="one">%1$d билдирүү</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d тиркеме</item>
+        <item quantity="one">%1$d тиркеме</item>
+    </plurals>
+</resources>

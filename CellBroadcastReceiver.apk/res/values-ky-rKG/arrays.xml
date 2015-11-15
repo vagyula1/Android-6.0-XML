@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 секунд</item>
+        <item>4 секунд</item>
+        <item>6 секунд</item>
+        <item>8 секунд</item>
+        <item>10 секунд</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>Бир жолу</item>
+        <item>Ар 2 мүнөт сайын</item>
+        <item>Ар 15 мүнөт сайын</item>
+        <item>Өчүк</item>
+    </string-array>
+</resources>

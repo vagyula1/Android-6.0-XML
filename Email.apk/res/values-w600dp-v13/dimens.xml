@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_search_view_text_min_width">192.0dip</dimen>
+    <dimen name="settings_fragment_padding_top">32.0dip</dimen>
+    <dimen name="settings_fragment_padding_side">32.0dip</dimen>
+    <dimen name="settings_fragment_padding_bottom">24.0dip</dimen>
+    <dimen name="setup_fragment_padding_top">16.0dip</dimen>
+    <dimen name="setup_fragment_padding_side">64.0dip</dimen>
+    <dimen name="setup_fragment_padding_bottom">16.0dip</dimen>
+    <dimen name="setup_text_button_width">208.0sp</dimen>
+    <dimen name="setup_text_button_height">48.0sp</dimen>
+    <dimen name="setup_text_button_text_size">20.0sp</dimen>
+    <dimen name="setup_headline_text_size">30.0sp</dimen>
+    <dimen name="setup_headline_padding_top">24.0dip</dimen>
+    <dimen name="setup_headline_padding_side">64.0dip</dimen>
+    <dimen name="setup_lower_headline_margin_bottom">10.0dip</dimen>
+    <dimen name="setup_checkbox_margin_side">8.0dip</dimen>
+    <dimen name="setup_checkbox_margin_top">16.0dip</dimen>
+    <dimen name="setup_checkbox_margin_bottom">16.0dip</dimen>
+    <dimen name="setup_basics_logo_margin_top">28.0dip</dimen>
+    <dimen name="setup_basics_logo_margin_bottom">16.0dip</dimen>
+    <dimen name="setup_label_text_padding_top">0.0dip</dimen>
+    <dimen name="certificate_selector_padding_top">16.0dip</dimen>
+</resources>

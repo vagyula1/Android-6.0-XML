@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>sen asunto</item>
+        <item>senasunto</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Si</item>
+        <item>Non</item>
+        <item>Aceptar</item>
+        <item>He he</item>
+        <item>Grazas</item>
+        <item>Acepto</item>
+        <item>Excelente</item>
+        <item>Á miña maneira</item>
+        <item>De acordo, póñome en contacto contigo máis tarde</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="suwTransitionDuration">300</integer>
+    <integer name="maximum_user_dictionary_word_length">48</integer>
+    <integer name="dashboard_num_columns">1</integer>
+    <integer name="setup_wizard_transition_duration">300</integer>
+    <integer name="preferences_left_pane_weight">4</integer>
+    <integer name="preferences_right_pane_weight">6</integer>
+    <integer name="sim_name_length">32</integer>
+    <integer name="bluetooth_name_length">248</integer>
+    <integer name="preference_scrollbar_style">33554432</integer>
+</resources>

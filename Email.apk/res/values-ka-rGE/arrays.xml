@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>პასუხი</item>
+        <item>პასუხი ყველას</item>
+        <item>გადაგზავნა</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>წარმატებით შესრულდა</item>
+        <item>კავშირი არ არის</item>
+        <item>შესვლა ვერ მოხერხდა</item>
+        <item>უსაფრთხოების შეცდომა</item>
+        <item>სინქრონიზაცია ვერ მოხერხდა</item>
+        <item>შიდა შეცდომა</item>
+        <item>სერვერის შეცდომა</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>უფრო ახალი</item>
+        <item>უფრო ძველი</item>
+        <item>მიმოწერათა სია</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>წაშლის შემდეგ უფრო ახალი მიმოწერის ჩვენება</item>
+        <item>წაშლის შემდეგ უფრო ძველი მიმოწერის ჩვენება</item>
+        <item>წაშლის შემდეგ მიმოწერების სიის ჩვენება</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>დაარქივება</item>
+        <item>წაშლა</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>დაარქივება</item>
+        <item>წაშლა</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>ეკრანის ზედაპირზე შეტყობინების მოქმედებების მუდამ ჩვენება</item>
+        <item>პორტრეტის რეჟიმში შეტრიალებული ეკრანის ზედაპირზე შეტყობინების მოქმედებების მუდამ ჩვენება</item>
+        <item>შეტყობინების ჰედერის გარდა შეტყობინების მოქმედებები არ აჩვენო</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>ყოველთვის ჩვენება</item>
+        <item>მხოლოდ პორტრეტის რეჟიმში ჩვენება</item>
+        <item>არ აჩვენო</item>
+    </string-array>
+</resources>

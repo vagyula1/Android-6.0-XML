@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Pengelolaan Panggilan Telepon</string>
+    <string name="userCallActivityLabel">Telepon</string>
+    <string name="unknown">Tidak diketahui</string>
+    <string name="notification_missedCallTitle">Panggilan tak terjawab</string>
+    <string name="notification_missedCallsTitle">Panggilan tak terjawab</string>
+    <string name="notification_missedCallsMsg">%s panggilan tak terjawab</string>
+    <string name="notification_missedCallTicker">Panggilan tak terjawab dari %s</string>
+    <string name="notification_missedCall_call_back">Telepon</string>
+    <string name="notification_missedCall_message">Pesan</string>
+    <string name="accessibility_call_muted">Panggilan disenyapkan.</string>
+    <string name="accessibility_speakerphone_enabled">Pengeras suara ponsel diaktifkan.</string>
+    <string name="respond_via_sms_canned_response_1">Tak bisa bicara sekarang. Ada apa?</string>
+    <string name="respond_via_sms_canned_response_2">Saya segera telepon balik.</string>
+    <string name="respond_via_sms_canned_response_3">Nanti saya telepon balik.</string>
+    <string name="respond_via_sms_canned_response_4">Tak bisa bicara skrg. Tlp lg nanti?</string>
+    <string name="respond_via_sms_setting_title">Respons cepat</string>
+    <string name="respond_via_sms_setting_title_2">Edit respons cepat</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Respons cepat</string>
+    <string name="respond_via_sms_confirmation_format">Pesan dikirim ke %s.</string>
+    <string name="enable_account_preference_title">Akun pemanggil</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Hanya panggilan darurat yang diizinkan oleh pemilik perangkat.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Aplikasi ini tidak dapat melakukan panggilan keluar tanpa izin Telepon.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Untuk melakukan panggilan telepon, masukkan nomor yang valid.</string>
+    <string name="duplicate_video_call_not_allowed">Panggilan tidak dapat ditambahkan untuk saat ini.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Nonaktifkan Mode TTY untuk melakukan panggilan video.</string>
+    <string name="no_vm_number">Nomor kotak pesan hilang</string>
+    <string name="no_vm_number_msg">Tidak ada nomor kotak pesan tersimpan pada kartu SIM.</string>
+    <string name="add_vm_number_str">Tambahkan nomor</string>
+    <string name="change_default_dialer_dialog_title">Ubah aplikasi Pemanggil default?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Gunakan %1$s, bukan %2$s sebagai aplikasi pemanggil default?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Gunakan %s sebagai aplikasi pemanggil default?</string>
+</resources>

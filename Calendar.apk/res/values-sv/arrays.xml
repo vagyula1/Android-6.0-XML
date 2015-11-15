@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Meddelande</item>
+        <item>E-post</item>
+        <item>SMS</item>
+        <item>Larm</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 minuter</item>
+        <item>1 minut</item>
+        <item>5 minuter</item>
+        <item>10 minuter</item>
+        <item>15 minuter</item>
+        <item>20 minuter</item>
+        <item>25 minuter</item>
+        <item>30 minuter</item>
+        <item>45 minuter</item>
+        <item>1 timme</item>
+        <item>2 timmar</item>
+        <item>3 timmar</item>
+        <item>12 timmar</item>
+        <item>24 timmar</item>
+        <item>2 dagar</item>
+        <item>1 vecka</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Inga</item>
+        <item>0 minuter</item>
+        <item>1 minut</item>
+        <item>5 minuter</item>
+        <item>10 minuter</item>
+        <item>15 minuter</item>
+        <item>20 minuter</item>
+        <item>25 minuter</item>
+        <item>30 minuter</item>
+        <item>45 minuter</item>
+        <item>1 timme</item>
+        <item>2 timmar</item>
+        <item>3 timmar</item>
+        <item>12 timmar</item>
+        <item>24 timmar</item>
+        <item>2 dagar</item>
+        <item>1 vecka</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Standardinställning för språkkod</item>
+        <item>lördag</item>
+        <item>söndag</item>
+        <item>måndag</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Upptagen</item>
+        <item>Tillgänglig</item>
+        <item>Preliminärt</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Standardinställning</item>
+        <item>Privat</item>
+        <item>Offentligt</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>första</item>
+        <item>andra</item>
+        <item>tredje</item>
+        <item>fjärde</item>
+        <item>senaste</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Inget svar</item>
+        <item>Ja</item>
+        <item>Kanske</item>
+        <item>Nej</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Bara den här händelsen</item>
+        <item>Den här och framtida händelser</item>
+        <item>Alla händelser</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Den här och framtida händelser</item>
+        <item>Alla händelser</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Bara den här händelsen</item>
+        <item>Alla händelser i serien</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Dag</item>
+        <item>Vecka</item>
+        <item>Månad</item>
+        <item>Program</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Endast vid minskade</item>
+        <item>Om minskat eller inte svarat</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>UPPREPA VARJE DAG</item>
+        <item>UPPREPA VARJE VECKA</item>
+        <item>UPPREPA VARJE MÅNAD</item>
+        <item>UPPREPA VARJE ÅR</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>den första söndagen i månaden</item>
+        <item>den andra söndagen i månaden</item>
+        <item>den tredje söndagen i månaden</item>
+        <item>den fjärde söndagen i månaden</item>
+        <item>den sista söndagen i månaden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>den första måndagen i månaden</item>
+        <item>den andra måndagen i månaden</item>
+        <item>den tredje måndagen i månaden</item>
+        <item>den fjärde måndagen i månaden</item>
+        <item>den sista måndagen i månaden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>den första tisdagen i månaden</item>
+        <item>den andra tisdagen i månaden</item>
+        <item>den tredje tisdagen i månaden</item>
+        <item>den fjärde tisdagen i månaden</item>
+        <item>den sista tisdagen i månaden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>den första onsdagen i månaden</item>
+        <item>den andra onsdagen i månaden</item>
+        <item>den tredje onsdagen i månaden</item>
+        <item>den fjärde onsdagen i månaden</item>
+        <item>den sista onsdagen i månaden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>den första torsdagen i månaden</item>
+        <item>den andra torsdagen i månaden</item>
+        <item>den tredje torsdagen i månaden</item>
+        <item>den fjärde torsdagen i månaden</item>
+        <item>den sista torsdagen i månaden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>den första fredagen i månaden</item>
+        <item>den andra fredagen i månaden</item>
+        <item>den tredje fredagen i månaden</item>
+        <item>den fjärde fredagen i månaden</item>
+        <item>den sista fredagen i månaden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>den första lördagen i månaden</item>
+        <item>den andra lördagen i månaden</item>
+        <item>den tredje lördagen i månaden</item>
+        <item>den fjärde lördagen i månaden</item>
+        <item>den sista lördagen i månaden</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Är några minuter sen.</item>
+        <item>Kommer om runt tio minuter.</item>
+        <item>Börja gärna, vänta inte på mig.</item>
+        <item>Jag kan tyvärr inte komma. Vi får välja en ny tid.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australian Central – NT</item>
+        <item>Australian Central – SA</item>
+        <item>Australian Eastern – QLD</item>
+        <item>Australian Eastern – NSW</item>
+        <item>Mountain Standard – Dawson Creek</item>
+        <item>Central Standard – Saskatchewan</item>
+        <item>Eastern Standard – Atikokan</item>
+        <item>Atlantic Standard – Quebec</item>
+        <item>Hawaii-Aleutian – Hawaii</item>
+        <item>Hawaii-Aleutian – Alaska</item>
+        <item>Pacific Standard – Metlakatla</item>
+        <item>Mountain Standard – Arizona</item>
+        <item>Pacific – Baja California</item>
+        <item>Mountain – Chihuahua</item>
+        <item>Central – Tamaulipas</item>
+        <item>Mountain – Sonora</item>
+        <item>East Africa Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>Eastern European Time</item>
+        <item>Kaliningrad</item>
+        <item>Amazon – Rondônia</item>
+        <item>Brasilia – Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint-Maarten</item>
+        <item>Karibiska Nederländerna</item>
+        <item>Curaçao</item>
+        <item>Sydsudan</item>
+    </string-array>
+</resources>

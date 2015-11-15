@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>sense assumpte</item>
+        <item>nosubject</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Sí</item>
+        <item>No</item>
+        <item>"D'acord"</item>
+        <item>Hehe</item>
+        <item>Gràcies</item>
+        <item>Accepto</item>
+        <item>Molt bé</item>
+        <item>Ja vinc.</item>
+        <item>"D'acord. Et diré alguna cosa més tard."</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

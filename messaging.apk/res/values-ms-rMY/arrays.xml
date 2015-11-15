@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>tiada subjek</item>
+        <item>tiada subjek</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Ya</item>
+        <item>Tidak</item>
+        <item>OK</item>
+        <item>Hehe</item>
+        <item>Terima kasih</item>
+        <item>Saya bersetuju</item>
+        <item>Nice</item>
+        <item>Saya dalam perjalanan</item>
+        <item>OK, saya akan hubungi anda semula</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

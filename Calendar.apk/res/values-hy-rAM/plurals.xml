@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d րոպե</item>
+        <item quantity="one">1 րոպե</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d րոպե</item>
+        <item quantity="one">1 րոպե</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d ժամ</item>
+        <item quantity="one">1 ժամ</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d օր</item>
+        <item quantity="one">1 օր</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">%d-րդ շաբաթ</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d անգամ</item>
+        <item quantity="one">; մեկ անգամ</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d օրը մեկ</item>
+        <item quantity="one">Ամեն օր</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d շաբաթը մեկ՝ %2$s</item>
+        <item quantity="one">Շաբաթը մեկ՝ %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d իրադարձություն</item>
+        <item quantity="one">1 իրադարձություն</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d իրադարձություն</item>
+        <item quantity="one">+1 իրադարձություն</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">%d օրը մեկ</item>
+        <item quantity="one">%d օրը մեկ</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">%d շաբաթը մեկ</item>
+        <item quantity="one">%d շաբաթը մեկ</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">%d ամիսը մեկ</item>
+        <item quantity="one">%d ամիսը մեկ</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">%d տարին մեկ</item>
+        <item quantity="one">%d տարին մեկ</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d իրադարձության համար</item>
+        <item quantity="one">%d իրադարձության համար</item>
+    </plurals>
+</resources>

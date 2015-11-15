@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">通话管理</string>
+    <string name="userCallActivityLabel">电话</string>
+    <string name="unknown">未知</string>
+    <string name="notification_missedCallTitle">未接电话</string>
+    <string name="notification_missedCallsTitle">未接电话</string>
+    <string name="notification_missedCallsMsg">%s 个未接电话</string>
+    <string name="notification_missedCallTicker">来自%s的未接电话</string>
+    <string name="notification_missedCall_call_back">回拨</string>
+    <string name="notification_missedCall_message">短信</string>
+    <string name="accessibility_call_muted">通话已静音。</string>
+    <string name="accessibility_speakerphone_enabled">扬声器已启用。</string>
+    <string name="respond_via_sms_canned_response_1">现在无法接听。有什么事吗？</string>
+    <string name="respond_via_sms_canned_response_2">我马上会打给你。</string>
+    <string name="respond_via_sms_canned_response_3">我稍后会再打给你。</string>
+    <string name="respond_via_sms_canned_response_4">现在无法接听。能稍后再打给我吗？</string>
+    <string name="respond_via_sms_setting_title">快速回复</string>
+    <string name="respond_via_sms_setting_title_2">修改快速回复</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">快速回复</string>
+    <string name="respond_via_sms_confirmation_format">讯息已发送至 %s。</string>
+    <string name="enable_account_preference_title">通话帐户</string>
+    <string name="outgoing_call_not_allowed_user_restriction">设备机主仅允许拨打紧急呼救电话。</string>
+    <string name="outgoing_call_not_allowed_no_permission">此应用没有电话权限，无法拨出电话。</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">要拨打电话，请输入有效的电话号码。</string>
+    <string name="duplicate_video_call_not_allowed">目前无法添加通话。</string>
+    <string name="video_call_not_allowed_if_tty_enabled">要进行视频通话，请停用 TTY 模式。</string>
+    <string name="no_vm_number">缺少语音信箱号码</string>
+    <string name="no_vm_number_msg">SIM卡上未存储语音信箱号码。</string>
+    <string name="add_vm_number_str">添加号码</string>
+    <string name="change_default_dialer_dialog_title">要更改默认拨号器应用吗？</string>
+    <string name="change_default_dialer_with_previous_app_set_text">要使用%1$s（而非%2$s）作为您的默认拨号器应用吗？</string>
+    <string name="change_default_dialer_no_previous_app_set_text">要使用%s作为您的默认拨号器应用吗？</string>
+</resources>

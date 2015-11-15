@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Qaralamalar</item>
+        <item quantity="one">Qaralama</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Bu %1$d söhbət silinsin?</item>
+        <item quantity="one">Bu söhbət silinsin?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Bu %1$d söhbət arxivləşdirilsin?</item>
+        <item quantity="one">Bu söhbət arxivləşdirilsin?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Bu %1$d mesaj atılsın?</item>
+        <item quantity="one">Bu məktub kənar edilsin?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d söhbətin ulduzu silinir</item>
+        <item quantity="one">%1$d söhbətin ulduzu silinir</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> susduruldu</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> susduruldu</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> spam olaraq bildirildi</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> spam olaraq bildirildi</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> qeyri-spam olaraq bildirildi</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> qeyri-spam olaraq bildirildi</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> önəmsiz olaraq işarələndi</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> önəmsiz olaraq işarələndi</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> fişinq olaraq bildirildi</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> fişinq olaraq bildirildi</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> arxivləndi</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> arxivləndi</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> silindi</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> silindi</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Qovluq dəyişildi</item>
+        <item quantity="one">Qovluq dəyişildi</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d yeni mesaj</item>
+        <item quantity="one">%1$d yeni mesaj</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d köhnə mesajı genişləndir</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d köhnə mesaj genişləndi</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d oxunmamış</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d yeni mesaj</item>
+        <item quantity="one">%1$d yeni mesaj</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d mesaj həmişəlik silinəcək.</item>
+        <item quantity="one">%1$d mesaj həmişəlik silinəcək.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d mesaj</item>
+        <item quantity="one">%1$d mesaj</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d qoşma</item>
+        <item quantity="one">%1$d qoşma</item>
+    </plurals>
+</resources>

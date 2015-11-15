@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d Stunden</item>
+        <item quantity="one">%d Stunde</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d Tage</item>
+        <item quantity="one">%d Tag</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d Wochen</item>
+        <item quantity="one">eine Woche</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d Monate</item>
+        <item quantity="one">ein Monat</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d Jahre</item>
+        <item quantity="one">ein Jahr</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d Nachrichten in %2$d Unterhaltungen</item>
+        <item quantity="one">%d Nachricht in einer Unterhaltung</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d Nachrichten in %2$d Unterhaltungen</item>
+        <item quantity="one">%d Nachricht in einer Unterhaltung</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d neue Nachrichten</item>
+        <item quantity="one">Neue Nachricht</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">Diese Unterhaltungen löschen?</item>
+        <item quantity="one">Diese Unterhaltung löschen?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d Teilnehmer</item>
+        <item quantity="one">%d Teilnehmer</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">Anhänge verwerfen</item>
+        <item quantity="one">Anhang verwerfen</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d Fotos im Album \"%2$s\" gespeichert</item>
+        <item quantity="one">%1$d Foto im Album \"%2$s\" gespeichert</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d Videos im Album \"%2$s\" gespeichert</item>
+        <item quantity="one">%1$d Video im Album \"%2$s\" gespeichert</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d Anhänge im Album \"%2$s\" gespeichert</item>
+        <item quantity="one">%1$d Anhang im Album \"%2$s\" gespeichert</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d Anhänge in \"Downloads\" gespeichert</item>
+        <item quantity="one">%d Anhang in \"Downloads\" gespeichert</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">%d Anhänge wurden gespeichert.</item>
+        <item quantity="one">%d Anhang wurde gespeichert.</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">%d Anhänge konnten nicht gespeichert werden.</item>
+        <item quantity="one">%d Anhang konnte nicht gespeichert werden.</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">Fotos senden</item>
+        <item quantity="one">Foto senden</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">Audioaufzeichnungen senden</item>
+        <item quantity="one">Audioaufzeichnung senden</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">Videos senden</item>
+        <item quantity="one">Video senden</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">Kontaktkarten senden</item>
+        <item quantity="one">Kontaktkarte senden</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">Anhänge senden</item>
+        <item quantity="one">Anhang senden</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d Anhänge zum Senden bereit</item>
+        <item quantity="one">Ein Anhang zum Senden bereit</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d Kontakte</item>
+        <item quantity="one">%d Kontakt</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">Ungültige Kontakte</item>
+        <item quantity="one">Ungültiger Kontakt</item>
+    </plurals>
+</resources>

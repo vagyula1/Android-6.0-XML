@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 saniyə</item>
+        <item>4 saniyə</item>
+        <item>6 saniyə</item>
+        <item>8 saniyə</item>
+        <item>10 saniyə</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>Bir dəfə</item>
+        <item>Hər 2 dəqiqə</item>
+        <item>Hər 15 dəqiqə</item>
+        <item>Deaktiv</item>
+    </string-array>
+</resources>

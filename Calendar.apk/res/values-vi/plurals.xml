@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d phút</item>
+        <item quantity="one">1 phút</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d phút</item>
+        <item quantity="one">1 phút</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d giờ</item>
+        <item quantity="one">1 giờ</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d ngày</item>
+        <item quantity="one">1 ngày</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">TUẦN %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d lần</item>
+        <item quantity="one">; một lần</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Định kỳ %d ngày</item>
+        <item quantity="one">Hàng ngày</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Định kỳ %1$d tuần vào %2$s</item>
+        <item quantity="one">Hàng tuần vào %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d sự kiện</item>
+        <item quantity="one">1 sự kiện</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d sự kiện</item>
+        <item quantity="one">+1 sự kiện</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Cứ %d ngày một lần</item>
+        <item quantity="one">Cứ %d ngày một lần</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Cứ %d tuần một lần</item>
+        <item quantity="one">Cứ %d tuần một lần</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Cứ %d tháng một lần</item>
+        <item quantity="one">Cứ %d tháng một lần</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Cứ %d năm một lần</item>
+        <item quantity="one">Cứ %d năm một lần</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Cho %d sự kiện</item>
+        <item quantity="one">Cho %d sự kiện</item>
+    </plurals>
+</resources>

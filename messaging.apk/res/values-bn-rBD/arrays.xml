@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>কোনো বিষয় নেই</item>
+        <item>বিষয়হীন</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>হ্যাঁ</item>
+        <item>না</item>
+        <item>ঠিক আছে</item>
+        <item>হিহি</item>
+        <item>ধন্যবাদ</item>
+        <item>আমি রাজি</item>
+        <item>সুন্দর</item>
+        <item>রাস্তায় আছি</item>
+        <item>ঠিক আছে, পরে আপনার সঙ্গে এই নিয়ে কথা বলছি</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

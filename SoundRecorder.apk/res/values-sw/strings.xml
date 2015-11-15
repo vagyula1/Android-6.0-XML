@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kinakili sauti</string>
+    <string name="record_your_message">Rekodi ujumbe wako</string>
+    <string name="message_recorded">Ujumbe umerekodiwa</string>
+    <string name="review_message">Hakiki ujumbe</string>
+    <string name="recording">Inarekodi</string>
+    <string name="recording_stopped">Umesitisha kurekodi</string>
+    <string name="storage_is_full">Hifadhi imejaa</string>
+    <string name="max_length_reached">Urefu wa juu umefikiwa</string>
+    <string name="insert_sd_card">Pachika hifadhi ya USB</string>
+    <string name="min_available">Dakika %d inapatikana</string>
+    <string name="sec_available">%d zinapatikana</string>
+    <string name="accept">Imekamilika</string>
+    <string name="discard">Tupa</string>
+    <string name="button_ok">Sawa</string>
+    <string name="audio_db_artist_name">Rekodi zako</string>
+    <string name="audio_db_album_name">Kurekodi sauti</string>
+    <string name="audio_db_playlist_name">Rekodi zangu</string>
+    <string name="error_sdcard_access">Haiwezi kufikia hifadhi ya USB.</string>
+    <string name="error_app_internal">Hitilafu ya ndani ya programu</string>
+    <string name="error_mediadb_new_record">Haikuweza kuhifadhi sauti iliyo rekodiwa.</string>
+</resources>

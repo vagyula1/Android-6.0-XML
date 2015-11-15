@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Beantwoorden</item>
+        <item>Allen beantwoorden</item>
+        <item>Doorsturen</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Geslaagd</item>
+        <item>Geen verbinding</item>
+        <item>Kan niet inloggen</item>
+        <item>Beveiligingsfout</item>
+        <item>Kan niet synchroniseren</item>
+        <item>Interne fout</item>
+        <item>Serverfout</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Nieuwer</item>
+        <item>Ouder</item>
+        <item>Conversatielijst</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Nieuwere conversatie weergeven na het verwijderen</item>
+        <item>Oudere conversatie weergeven na het verwijderen</item>
+        <item>Conversatielijst weergeven na het verwijderen</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Archiveren</item>
+        <item>Verwijderen</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Archiveren</item>
+        <item>Verwijderen</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Berichtacties altijd boven aan het scherm weergeven</item>
+        <item>Berichtacties alleen boven aan het scherm weergeven wanneer het scherm naar een staande indeling is gedraaid</item>
+        <item>Berichtacties niet weergeven buiten de berichtkop</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Altijd weergeven</item>
+        <item>Alleen staand weergeven</item>
+        <item>Niet weergeven</item>
+    </string-array>
+</resources>

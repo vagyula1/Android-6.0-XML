@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d minutter</item>
+        <item quantity="one">1 minut</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">1 min.</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d timer</item>
+        <item quantity="one">1 time</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d dage</item>
+        <item quantity="one">1 dag</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">UGE %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">, %d gange</item>
+        <item quantity="one">, én gang</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Hver %d. dag</item>
+        <item quantity="one">Dagligt</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Hver %1$d. uge om %2$s</item>
+        <item quantity="one">Ugentligt om %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d begivenheder</item>
+        <item quantity="one">1 begivenhed</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d begivenheder</item>
+        <item quantity="one">+1 begivenhed</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Hver %d. dag</item>
+        <item quantity="one">Hver %d dag</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Hver %d. uge</item>
+        <item quantity="one">%d gang om ugen</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Hver %d. måned</item>
+        <item quantity="one">%d gang om måneden</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Hvert %d. år</item>
+        <item quantity="one">%d gang om året</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">For %d begivenheder</item>
+        <item quantity="one">For %d begivenhed</item>
+    </plurals>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="day_of_week_label_condensed">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="SendersAppearanceReadStyle">
+        <item name="android:textColor">@color/senders_text_color</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="SubjectAppearanceReadStyle">
+        <item name="android:textColor">@color/subject_text_color_read</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="account_setup_headline">
+        <item name="android:textSize">@dimen/setup_headline_text_size</item>
+        <item name="android:textColor">@color/account_setup_headline_color</item>
+        <item name="android:paddingLeft">@dimen/setup_headline_padding_side</item>
+        <item name="android:paddingTop">@dimen/setup_headline_padding_top</item>
+        <item name="android:paddingRight">@dimen/setup_headline_padding_side</item>
+        <item name="android:fontFamily">sans-serif-thin</item>
+    </style>
+    <style name="account_setup_lower_headline">
+        <item name="android:textSize">@dimen/setup_headline_text_size</item>
+        <item name="android:textColor">@color/account_setup_headline_color</item>
+        <item name="android:fontFamily">sans-serif-thin</item>
+    </style>
+    <style name="account_setup_info_text">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">@color/account_setup_info_text_color</item>
+        <item name="android:layout_marginBottom">@dimen/setup_info_text_margin_bottom</item>
+        <item name="android:fontFamily">sans-serif-thin</item>
+    </style>
+    <style name="account_setup_label_large_text">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">@color/account_setup_label_large_text_color</item>
+        <item name="android:layout_marginBottom">@dimen/setup_label_large_text_margin_bottom</item>
+        <item name="android:fontFamily">sans-serif-thin</item>
+    </style>
+    <style name="time_label_thin">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="done_button_light">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+</resources>

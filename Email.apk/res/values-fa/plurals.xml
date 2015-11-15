@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">پیش‌نویس‌ها</item>
+        <item quantity="one">پیش‌نویس‌</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">این %1$d مکالمه حذف شوند؟</item>
+        <item quantity="one">این مکالمه حذف شود؟</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">این %1$d مکالمه بایگانی شود؟</item>
+        <item quantity="one">این مکالمه بایگانی شود؟</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">این %1$d پیام نادیده گرفته شوند؟</item>
+        <item quantity="one">این پیام نادیده گرفته شود؟</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">در حال حذف ستاره %1$d مکالمه</item>
+        <item quantity="one">در حال حذف ستاره %1$d مکالمه</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">‏&amp;lt;b>%1$d&amp;lt;/b> مکالمه بی‌صدا شد</item>
+        <item quantity="one">‏&amp;lt;b>%1$d&amp;lt;/b> مکالمه بی‌صدا شد</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">‏&amp;lt;b>%1$d&amp;lt;/b> به عنوان هرزنامه گزارش شد</item>
+        <item quantity="one">‏&amp;lt;b>%1$d&amp;lt;/b> به عنوان هرزنامه گزارش شد</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">‏&amp;lt;b>%1$d&amp;lt;/b> مکالمه به عنوان غیرهرزنامه گزارش شد</item>
+        <item quantity="one">‏&amp;lt;b>%1$d&amp;lt;/b> مکالمه به عنوان غیرهرزنامه گزارش شد</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">‏&amp;lt;b>%1$d&amp;lt;/b> مکالمه به عنوان غیرمهم علامت‌گذاری شد</item>
+        <item quantity="one">‏&amp;lt;b>%1$d&amp;lt;/b> مکالمه به عنوان غیرمهم علامت‌گذاری شد</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">‏&amp;lt;b>%1$d&amp;lt;/b> به عنوان فیشینگ گزارش شد</item>
+        <item quantity="one">‏&amp;lt;b>%1$d&amp;lt;/b> به عنوان فیشینگ گزارش شد</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">‏&amp;lt;b>%1$d&amp;lt;/b> مکالمه بایگانی شد</item>
+        <item quantity="one">‏&amp;lt;b>%1$d&amp;lt;/b> مکالمه بایگانی شد</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">‏&amp;lt;b>%1$d&amp;lt;/b> مکالمه حذف شد</item>
+        <item quantity="one">‏&amp;lt;b>%1$d&amp;lt;/b> مکالمه حذف شد</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">پوشه‌ها تغییر کردند</item>
+        <item quantity="one">پوشه تغییر کرد</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d پیام جدید</item>
+        <item quantity="one">%1$d پیام جدید</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">باز کردن %1$d پیام قدیمی‌تر</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d پیام قدیمی‌تر باز شد</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d مورد خوانده نشده</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d پیام جدید</item>
+        <item quantity="one">%1$d پیام جدید</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d پیام به طور دائم حذف خواهد شد.</item>
+        <item quantity="one">%1$d پیام به طور دائم حذف خواهد شد.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d پیام</item>
+        <item quantity="one">%1$d پیام</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d پیوست</item>
+        <item quantity="one">%1$d پیوست</item>
+    </plurals>
+</resources>

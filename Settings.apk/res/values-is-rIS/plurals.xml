@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Nú ertu %1$d skrefum frá því að gerast þróunaraðili.</item>
+        <item quantity="one">Nú ertu %1$d skrefi frá því að gerast þróunaraðili.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d fingraför sett upp</item>
+        <item quantity="one">%1$d fingrafar sett upp</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Aðgangsorðið verður að innihalda minnst %d bókstafi.</item>
+        <item quantity="one">Aðgangsorðið verður að innihalda minnst %d bókstaf.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Aðgangsorðið verður að innihalda minnst %d lágstafi.</item>
+        <item quantity="one">Aðgangsorðið verður að innihalda minnst %d lágstaf.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Aðgangsorðið verður að innihalda minnst %d hástafi.</item>
+        <item quantity="one">Aðgangsorðið verður að innihalda minnst %d hástaf.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Aðgangsorðið verður að innihalda minnst %d tölustafi.</item>
+        <item quantity="one">Aðgangsorðið verður að innihalda minnst %d tölustaf.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Aðgangsorðið verður að innihalda minnst %d sérstafi.</item>
+        <item quantity="one">Aðgangsorðið verður að innihalda minnst %d sérstaf.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Aðgangsorðið verður að innihalda minnst %d tákn sem ekki eru bókstafir.</item>
+        <item quantity="one">Aðgangsorðið verður að innihalda minnst %d tákn sem ekki er bókstafur.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Rangt PIN-númer SIM-korts. Þú átt %d tilraunir eftir.</item>
+        <item quantity="one">Rangt PIN-númer SIM-korts. Þú átt %d tilraun eftir.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d forrit geta lesið tilkynningar</item>
+        <item quantity="one">%d forrit getur lesið tilkynningar</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Breyta í vekjara eingöngu í %1$d mínútur (til %2$s)</item>
+        <item quantity="one">Breyta í vekjara eingöngu í %1$d mínútu (til %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Breyta í vekjara eingöngu í %1$d klukkustundir til %2$s</item>
+        <item quantity="one">Breyta í vekjara eingöngu í %1$d klukkustund til %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d heimildir veittar</item>
+        <item quantity="one">%d heimild veitt</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d heimildir af %2$d veittar</item>
+        <item quantity="one">%1$d heimild af %2$d veitt</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d viðbótarheimildir</item>
+        <item quantity="one">%d viðbótarheimild</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d forrit geta opnað studda tengla</item>
+        <item quantity="one">%d forrit getur opnað studda tengla</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d forritum leyft að hunsa rafhlöðusparnað</item>
+        <item quantity="one">%d forriti leyft að hunsa rafhlöðusparnað</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d forrit notuðu minni undanfarnar %2$s</item>
+        <item quantity="one">%1$d forrit notaði minni undanfarnar %2$s</item>
+    </plurals>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">تم العثور على %1$s من الطابعات</item>
+        <item quantity="zero">لم يتم العثور على أية طابعة (%1$s)</item>
+        <item quantity="one">تم العثور على طابعة واحدة (%1$s)</item>
+        <item quantity="two">تم العثور على طابعتين (%1$s)</item>
+        <item quantity="few">تم العثور على %1$s طابعات</item>
+        <item quantity="many">تم العثور على %1$s طابعة</item>
+    </plurals>
+    <plurals name="composite_notification_title_template">
+        <item quantity="other">%1$d من مهام الطباعة</item>
+        <item quantity="zero">%1$d مهمة طباعة</item>
+        <item quantity="one">مهمة طباعة واحدة (%1$d)</item>
+        <item quantity="two">مهمتا طباعة (%1$d)</item>
+        <item quantity="few">%1$d مهام طباعة</item>
+        <item quantity="many">%1$d مهمة طباعة</item>
+    </plurals>
+</resources>

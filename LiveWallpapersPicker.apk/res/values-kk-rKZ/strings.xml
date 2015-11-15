@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Live Wallpaper Picker (анимациялық артқы фон таңдағыш) қолданбасы</string>
+    <string name="live_wallpaper_picker_title">Анимациялық артқы фон таңдау</string>
+    <string name="live_wallpaper_picker_label">Анимациялық тұсқағаз</string>
+    <string name="live_wallpaper_preview_title">Анимациялық артқы фондарды алдын ала көру</string>
+    <string name="configure_wallpaper">Параметрлер</string>
+    <string name="wallpaper_instructions">Тұсқағаз орнату</string>
+    <string name="live_wallpaper_empty">Анимациялық тұсқағаз жоқ.</string>
+    <string name="set_live_wallpaper">Тұсқағаз орнату</string>
+    <string name="wallpaper_title_and_author">%1$s авторы %2$s</string>
+    <string name="live_wallpaper_loading">Анимациялық артқы фонды жүктеуде…</string>
+    <string name="wallpaper_cancel">Өшіру</string>
+</resources>

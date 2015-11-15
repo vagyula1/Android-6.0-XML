@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>ekkert efni</item>
+        <item>ekkertefni</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Já</item>
+        <item>Nei</item>
+        <item>Í lagi</item>
+        <item>Hehe</item>
+        <item>Takk</item>
+        <item>Ég er sammála</item>
+        <item>Flott</item>
+        <item>Er á leiðinni</item>
+        <item>Ókei, ég fæ að hafa samband síðar</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

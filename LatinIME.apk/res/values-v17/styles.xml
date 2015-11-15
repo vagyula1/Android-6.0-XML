@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="setupTitleStyle" parent="@style/setupTitleStyleCommon">
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="setupStepActionLabelStyle" parent="@style/setupStepActionLabelStyleCommon">
+        <item name="android:paddingStart">12.0dip</item>
+        <item name="android:paddingEnd">24.0dip</item>
+    </style>
+</resources>

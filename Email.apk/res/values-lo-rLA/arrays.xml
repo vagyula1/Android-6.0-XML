@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>ຕອບກັບ</item>
+        <item>ຕອບກັບທັງຫມົດ</item>
+        <item>ສົ່ງຕໍ່</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>ຮຽບຮ້ອຍ</item>
+        <item>ບໍ່ມີ​ການ​ເຊື່ອມຕໍ່</item>
+        <item>ບໍ່​ສາມາດ​ເຂົ້າສູ່​ລະບົບ​ໄດ້</item>
+        <item>ມີຂໍ້​ຜິດພາດ​ດ້ານ​ຄວາມປອດໄພ</item>
+        <item>​ບໍ່​ສາ​ມາດ​ຊິ້ງ​ຂໍ້​ມູນ​ໄດ້</item>
+        <item>ພົບຂໍ້ຜິດພາດພາຍໃນ</item>
+        <item>ເຊີບເວີຜິດພາດ</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>ໃໝ່ກວ່າ</item>
+        <item>ເກົ່າກວ່າ</item>
+        <item>ລາຍການການສົນທະນາ</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>ສະແດງການສົນທະນາທີ່ໃໝ່ກວ່າ ຫຼັງຈາກທ່ານລຶບແລ້ວ</item>
+        <item>ສະແດງການສົນທະນາທີ່ເກົ່າກວ່າ ຫຼັງຈາກທ່ານລຶບແລ້ວ</item>
+        <item>ສະແດງລາຍການການສົນທະນາ ຫຼັງຈາກທ່ານລຶບແລ້ວ</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>ຈັດ​ເກັບ</item>
+        <item>ລຶບ</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>ຈັດ​ເກັບ</item>
+        <item>ລຶບ</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>ສະ​ແດງ​ຄຳ​ສັ່ງ​ຂໍ້​ຄວາມ​ຢູ່​ເທິງ​ສຸດ​ຂອງ​ໜ້າ​ຈໍ</item>
+        <item>​ສະ​ແດງ​ສະ​ເພາະ​ຄຳ​ສັ່ງ​ຂໍ້​ຄວາມ​ຢູ່​ເທິງ​ສຸດ​ຂອງ​ໜ້າ​ຈໍ​ເ​ມື່ອ​ໝຸນ​ຈໍ​ໄປ​ລວງ​ຕັ້ງ</item>
+        <item>​ບໍ່​ສະ​ແດງ​ຄຳ​ສ​ັ່ງ​ຂໍ້​ຄວາມ​ຢູ່​ນອກ​ສ່ວນ​ຫົວ​ຂໍ້​ອີ​ເມວ</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>ສະແດງຕະຫຼອດ</item>
+        <item>ສະ​ແດງສະ​ເພາະ​​ລວງ​ຕັ້ງ</item>
+        <item>ບໍ່ສະແດງ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Notiek %1$d failu kopēšana.</item>
+        <item quantity="zero">Notiek %1$d failu kopēšana.</item>
+        <item quantity="one">Notiek %1$d faila kopēšana.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Nevarēja nokopēt %1$d failus</item>
+        <item quantity="zero">Nevarēja nokopēt %1$d failus</item>
+        <item quantity="one">Nevarēja nokopēt %1$d failu</item>
+    </plurals>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Našlo sa %1$s tlačiarní</item>
+        <item quantity="one">Našla sa %1$s tlačiareň</item>
+        <item quantity="few">Našli sa %1$s tlačiarne</item>
+        <item quantity="many">Našlo sa %1$s tlačiarne</item>
+    </plurals>
+    <plurals name="composite_notification_title_template">
+        <item quantity="other">%1$d tlačových úloh</item>
+        <item quantity="one">%1$d tlačová úloha</item>
+        <item quantity="few">%1$d tlačové úlohy</item>
+        <item quantity="many">%1$d tlačovej úlohy</item>
+    </plurals>
+</resources>

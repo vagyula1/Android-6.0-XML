@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Вече сте на %1$d стъпки от това, да бъдете програмист.</item>
+        <item quantity="one">Вече сте на %1$d стъпка от това, да бъдете програмист.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">Настроени са %1$d отпечатъка</item>
+        <item quantity="one">Настроен е %1$d отпечатък</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Паролата трябва да съдържа поне %d букви.</item>
+        <item quantity="one">Паролата трябва да съдържа поне 1 буква.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Паролата трябва да съдържа поне %d малки букви.</item>
+        <item quantity="one">Паролата трябва да съдържа поне 1 малка буква.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Паролата трябва да съдържа поне %d главни букви.</item>
+        <item quantity="one">Паролата трябва да съдържа поне 1 главна буква.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Паролата трябва да съдържа поне %d цифри.</item>
+        <item quantity="one">Паролата трябва да съдържа поне 1 цифра.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Паролата трябва да съдържа поне %d специални символа.</item>
+        <item quantity="one">Паролата трябва да съдържа поне 1 специален символ.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Паролата трябва да съдържа поне %d небуквени знака.</item>
+        <item quantity="one">Паролата трябва да съдържа поне 1 небуквен знак.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Неправилен ПИН код за SIM картата – остават ви %d опита.</item>
+        <item quantity="one">Неправилен ПИН код за SIM картата – остава ви %d опит, преди да трябва да се свържете с оператора си, за да отключите устройството.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d приложения могат да четат известията</item>
+        <item quantity="one">%d приложение може да чете известията</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Активиране на режима „Само будилници“ за %1$d минути (до %2$s)</item>
+        <item quantity="one">Активиране на режима „Само будилници“ за една минута до %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Активиране на режима „Само будилници“ за %1$d часа до %2$s</item>
+        <item quantity="one">Активиране на режима „Само будилници“ за един час до %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">Предоставени са %d разрешения</item>
+        <item quantity="one">Предоставено е %d разрешение</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">Предоставени са %1$d от %2$d разрешения</item>
+        <item quantity="one">Предоставено е %1$d от %2$d разрешение</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d допълнителни разрешения</item>
+        <item quantity="one">%d допълнително разрешение</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d приложения могат да отварят поддържани връзки</item>
+        <item quantity="one">Едно приложение може да отваря поддържани връзки</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d приложения имат разрешение да пренебрегват оптимизирането на батерията</item>
+        <item quantity="one">1 приложение има разрешение да пренебрегва оптимизирането на батерията</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d приложения са използвали памет през последния период от %2$s</item>
+        <item quantity="one">1 приложение е използвало памет през последния период от %2$s</item>
+    </plurals>
+</resources>

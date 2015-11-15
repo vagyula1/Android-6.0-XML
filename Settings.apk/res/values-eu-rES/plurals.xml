@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">%1$d urrats falta zaizkizu garatzaile izateko.</item>
+        <item quantity="one">%1$d urrats falta zaizu garatzaile izateko.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d hatz-markaren konfigurazioa</item>
+        <item quantity="one">%1$d hatz-markaren konfigurazioa</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Pasahitzak %d hizki izan behar ditu gutxienez.</item>
+        <item quantity="one">Pasahitzak hizki bat izan behar du gutxienez.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Pasahitzak %d hizki minuskula izan behar ditu gutxienez.</item>
+        <item quantity="one">Pasahitzak hizki minuskula bat izan behar du gutxienez.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Pasahitzak %d hizki maiuskula izan behar ditu gutxienez.</item>
+        <item quantity="one">Pasahitzak hizki maiuskula bat izan behar du gutxienez.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Pasahitzak %d zenbakizko karaktere izan behar ditu gutxienez.</item>
+        <item quantity="one">Pasahitzak zenbakizko karaktere bat izan behar du gutxienez.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Pasahitzak %d ikur berezi izan behar ditu gutxienez.</item>
+        <item quantity="one">Pasahitzak ikur berezi bat izan behar du gutxienez.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Pasahitzak hizkiak ez diren %d karaktere izan behar ditu gutxienez.</item>
+        <item quantity="one">Pasahitzak hizkia ez den karaktere bat izan behar du gutxienez.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM txartelaren PIN kodea okerra da. %d saiakera geratzen zaizkizu gailua desblokeatzeko.</item>
+        <item quantity="one">SIM txartelaren PIN kodea okerra da. %d saiakera geratzen zaizu gailua desblokeatzeko.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d aplikaziok jakinarazpenak irakur ditzakete</item>
+        <item quantity="one">%d aplikaziok jakinarazpenak irakur ditzake</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Aldatu \"Alarmak soilik\" modura %1$d minutuz, %2$s arte</item>
+        <item quantity="one">Aldatu \"Alarmak soilik\" modura minutu batez, %2$s arte</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Aldatu \"Alarmak soilik\" modura %1$d orduz, %2$s arte</item>
+        <item quantity="one">Aldatu \"Alarmak soilik\" modura ordubetez, %2$s arte</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d baimen eman dira</item>
+        <item quantity="one">%d baimen eman da</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d/%2$d baimen eman dira</item>
+        <item quantity="one">%1$d/%2$d baimen eman da</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d baimen gehigarri</item>
+        <item quantity="one">%d baimen gehigarri</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d aplikaziok ireki ditzakete onartzen dituzten estekak</item>
+        <item quantity="one">Aplikazio batek ireki ditzake onartzen dituen estekak</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d aplikaziok dute bateria-optimizazioa ez aplikatzeko baimena</item>
+        <item quantity="one">Aplikazio batek du bateria-optimizazioa ez aplikatzeko baimena</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d aplikaziok erabili du memoria (azken %2$sak)</item>
+        <item quantity="one">Aplikazio batek erabili du memoria (azken %2$sak)</item>
+    </plurals>
+</resources>

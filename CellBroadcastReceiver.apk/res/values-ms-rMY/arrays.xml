@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 saat</item>
+        <item>4 saat</item>
+        <item>6 saat</item>
+        <item>8 saat</item>
+        <item>10 saat</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>Sekali</item>
+        <item>Setiap 2 minit</item>
+        <item>Setiap 15 minit</item>
+        <item>Matikan</item>
+    </string-array>
+</resources>

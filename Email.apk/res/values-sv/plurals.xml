@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Utkast</item>
+        <item quantity="one">Utkast</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Vill du ta bort de här %1$d konversationerna?</item>
+        <item quantity="one">Vill du ta bort konversationen?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Vill du arkivera de här %1$d konversationerna?</item>
+        <item quantity="one">Vill du arkivera konversationen?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Vill du slänga de här %1$d meddelandena?</item>
+        <item quantity="one">Vill du slänga meddelandet?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Tar bort stjärnmarkering för %1$d konversationer</item>
+        <item quantity="one">Tar bort stjärnmarkering för %1$d konversation</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> har ignorerats</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> har ignorerats</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> har rapporterats som skräppost</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> har rapporterats som skräppost</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> har rapporterats som ej skräppost</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> har rapporterats som ej skräppost</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> markerades som ej viktig</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> markerades som ej viktig</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> har rapporterats som nätfiske</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> har rapporterats som nätfiske</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> arkiverades</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> arkiverades</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> raderades</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> raderades</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Ändrade mappar</item>
+        <item quantity="one">Ändrad mapp</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d nya meddelanden</item>
+        <item quantity="one">%1$d nytt meddelande</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Utöka %1$d äldre meddelanden</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Utökade %1$d äldre meddelanden</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d olästa</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d nya meddelanden</item>
+        <item quantity="one">%1$d nytt meddelande</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d meddelanden tas bort permanent.</item>
+        <item quantity="one">%1$d meddelande tas bort permanent.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d meddelanden</item>
+        <item quantity="one">%1$d meddelande</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d bilagor</item>
+        <item quantity="one">%1$d bilaga</item>
+    </plurals>
+</resources>

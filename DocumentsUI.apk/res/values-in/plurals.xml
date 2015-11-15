@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Menyalin %1$d file.</item>
+        <item quantity="one">Menyalin %1$d file.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Tidak dapat menyalin %1$d file</item>
+        <item quantity="one">Tidak dapat menyalin %1$d file</item>
+    </plurals>
+</resources>

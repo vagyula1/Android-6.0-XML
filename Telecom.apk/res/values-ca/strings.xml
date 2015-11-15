@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Gestió de trucades telefòniques</string>
+    <string name="userCallActivityLabel">Telèfon</string>
+    <string name="unknown">Desconegut</string>
+    <string name="notification_missedCallTitle">Trucada perduda</string>
+    <string name="notification_missedCallsTitle">Trucades perdudes</string>
+    <string name="notification_missedCallsMsg">%s trucades perdudes</string>
+    <string name="notification_missedCallTicker">Trucada perduda de %s</string>
+    <string name="notification_missedCall_call_back">Torna la trucada</string>
+    <string name="notification_missedCall_message">Missatge</string>
+    <string name="accessibility_call_muted">Trucada silenciada.</string>
+    <string name="accessibility_speakerphone_enabled">Altaveu activat.</string>
+    <string name="respond_via_sms_canned_response_1">Ara no puc parlar. Què passa?</string>
+    <string name="respond_via_sms_canned_response_2">Et truco de seguida.</string>
+    <string name="respond_via_sms_canned_response_3">Et truco més tard.</string>
+    <string name="respond_via_sms_canned_response_4">Ara no puc parlar. Truques després?</string>
+    <string name="respond_via_sms_setting_title">Respostes ràpides</string>
+    <string name="respond_via_sms_setting_title_2">Edita les respostes ràpides</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Resposta ràpida</string>
+    <string name="respond_via_sms_confirmation_format">Missatge enviat a %s.</string>
+    <string name="enable_account_preference_title">Comptes de trucades</string>
+    <string name="outgoing_call_not_allowed_user_restriction">"El propietari del dispositiu només permet les trucades d'emergència."</string>
+    <string name="outgoing_call_not_allowed_no_permission">Aquesta aplicació no pot fer trucades sortints sense el permís del telèfon.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Per realitzar una trucada, introdueix un número vàlid.</string>
+    <string name="duplicate_video_call_not_allowed">En aquest moment no es pot afegir la trucada.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Desactiva el mode de TTY per fer videotrucades.</string>
+    <string name="no_vm_number">Falta el número de la bústia de veu</string>
+    <string name="no_vm_number_msg">No hi ha cap número de bústia de veu emmagatzemat a la targeta SIM.</string>
+    <string name="add_vm_number_str">Afegeix número</string>
+    <string name="change_default_dialer_dialog_title">"Vols canviar l'aplicació de marcador predeterminada?"</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Vols fer servir %1$s en lloc de %2$s com a aplicació de marcador predeterminada?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Vols fer servir %s com a aplicació de marcador predeterminada?</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">در حال کپی کردن %1$d فایل.</item>
+        <item quantity="one">در حال کپی کردن %1$d فایل.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">‏%1$d فایل کپی نشد</item>
+        <item quantity="one">‏%1$d فایل کپی نشد</item>
+    </plurals>
+</resources>

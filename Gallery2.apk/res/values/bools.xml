@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="show_action_bar_title">false</bool>
+    <bool name="only_use_portrait">true</bool>
+    <bool name="picker_is_dialog">false</bool>
+</resources>

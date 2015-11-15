@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>അറിയിപ്പ്</item>
+        <item>ഇമെയിൽ</item>
+        <item>SMS</item>
+        <item>അലാറം</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 മിനിറ്റ്</item>
+        <item>ഒരു മിനിറ്റ്</item>
+        <item>5 മിനിറ്റ്</item>
+        <item>10 മിനിറ്റ്</item>
+        <item>15 മിനിറ്റ്</item>
+        <item>20 മിനിറ്റ്</item>
+        <item>25 മിനിറ്റ്</item>
+        <item>30 മിനിറ്റ്</item>
+        <item>45 മിനിറ്റ്</item>
+        <item>ഒരു മണിക്കൂർ</item>
+        <item>2 മണിക്കൂർ</item>
+        <item>3 മണിക്കൂർ</item>
+        <item>12 മണിക്കൂർ</item>
+        <item>24 മണിക്കൂർ</item>
+        <item>2 ദിവസം</item>
+        <item>ഒരാഴ്ച</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>ഒന്നുമില്ല</item>
+        <item>0 മിനിറ്റ്</item>
+        <item>ഒരു മിനിറ്റ്</item>
+        <item>5 മിനിറ്റ്</item>
+        <item>10 മിനിറ്റ്</item>
+        <item>15 മിനിറ്റ്</item>
+        <item>20 മിനിറ്റ്</item>
+        <item>25 മിനിറ്റ്</item>
+        <item>30 മിനിറ്റ്</item>
+        <item>45 മിനിറ്റ്</item>
+        <item>ഒരു മണിക്കൂർ</item>
+        <item>2 മണിക്കൂർ</item>
+        <item>3 മണിക്കൂർ</item>
+        <item>12 മണിക്കൂർ</item>
+        <item>24 മണിക്കൂർ</item>
+        <item>2 ദിവസം</item>
+        <item>ഒരാഴ്ച</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>സ്ഥിരമായ ലൊക്കേൽ</item>
+        <item>ശനി</item>
+        <item>ഞായർ</item>
+        <item>തിങ്കൾ</item>
+    </string-array>
+    <string-array name="availability">
+        <item>തിരക്കിലാണ്</item>
+        <item>ലഭ്യം</item>
+        <item>താൽക്കാലികം</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>സ്ഥിരമായത്</item>
+        <item>സ്വകാര്യം</item>
+        <item>എല്ലാവർക്കും കാണാനാകുന്നത്</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>ആദ്യത്തെ</item>
+        <item>രണ്ടാമത്തെ</item>
+        <item>മൂന്നാമത്തെ</item>
+        <item>നാലാമത്തെ</item>
+        <item>അവസാനത്തെ</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>പ്രതികരണമൊന്നുമില്ല</item>
+        <item>അതെ</item>
+        <item>ചിലപ്പോൾ</item>
+        <item>ഇല്ല</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>ഈ ഇവന്റ് മാത്രം</item>
+        <item>ഇതും ഭാവി ഇവന്റുകളും</item>
+        <item>എല്ലാ ഇവന്റുകളും</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>ഇതും ഭാവി ഇവന്റുകളും</item>
+        <item>എല്ലാ ഇവന്റുകളും</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>ഈ ഇവന്റ് മാത്രം</item>
+        <item>സീരീസിലുള്ള എല്ലാ ഇവന്റുകളും</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>ദിവസം</item>
+        <item>ആഴ്‌ച</item>
+        <item>മാസം</item>
+        <item>അജൻഡ</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>നിരസിച്ചെങ്കിൽ മാത്രം</item>
+        <item>നിരസിച്ചതോ പ്രതികരണമില്ലാത്തതോ ആണെങ്കിൽ മാത്രം</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>ദിവസവും ആവർത്തിക്കുക</item>
+        <item>ആഴ്ചതോറും ആവർത്തിക്കുക</item>
+        <item>എല്ലാമാസവും ആവർത്തിക്കുക</item>
+        <item>എല്ലാവർഷവും ആവർത്തിക്കുക</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>എല്ലാ ആദ്യ ഞായറാഴ്ചയും</item>
+        <item>എല്ലാ രണ്ടാമത്തെ ഞായറാഴ്ചയും</item>
+        <item>എല്ലാ മൂന്നാമത്തെ ഞായറാഴ്ചയും</item>
+        <item>എല്ലാ നാലാമത്തെ ഞായറാഴ്ചയും</item>
+        <item>"എല്ലാ  അവസാന ഞായറാഴ്ചയും"</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>എല്ലാ ആദ്യ തിങ്കളാഴ്‌ചയും</item>
+        <item>എല്ലാ രണ്ടാമത്തെ തിങ്കളാഴ്‌ചയും</item>
+        <item>എല്ലാ മൂന്നാമത്തെ തിങ്കളാഴ്‌ചയും</item>
+        <item>എല്ലാ നാലാമത്തെ തിങ്കളാഴ്‌ചയും</item>
+        <item>എല്ലാ അവസാന തിങ്കളാഴ്‌ചയും</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>എല്ലാ ആദ്യ ചൊവ്വാഴ്ചയും</item>
+        <item>എല്ലാ രണ്ടാമത്തെ ചൊവ്വാഴ്ചയും</item>
+        <item>"എല്ലാ മൂന്നാമത്തെ  ചൊവ്വാഴ്ചയും"</item>
+        <item>എല്ലാ നാലാമത്തെ ചൊവ്വാഴ്ചയും</item>
+        <item>എല്ലാ അവസാന ചൊവ്വാഴ്ചയും</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>എല്ലാ ആദ്യ ബുധനാഴ്ചയും</item>
+        <item>എല്ലാ രണ്ടാമത്തെ ബുധനാഴ്ചയും</item>
+        <item>എല്ലാ മൂന്നാമത്തെ ബുധനാഴ്ചയും</item>
+        <item>എല്ലാ നാലാമത്തെ ബുധനാഴ്ചയും</item>
+        <item>എല്ലാ അവസാന ബുധനാഴ്ചയും</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>എല്ലാ ആദ്യ വ്യാഴാഴ്ചയും</item>
+        <item>എല്ലാ രണ്ടാമത്തെ വ്യാഴാഴ്ചയും</item>
+        <item>എല്ലാ മൂന്നാമത്തെ വ്യാഴാഴ്ചയും</item>
+        <item>എല്ലാ നാലാമത്തെ വ്യാഴാഴ്ചയും</item>
+        <item>എല്ലാ അവസാന വ്യാഴാഴ്ചയും</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>എല്ലാ ആദ്യ വെള്ളിയാഴ്ചയും</item>
+        <item>എല്ലാ രണ്ടാമത്തെ വെള്ളിയാഴ്ചയും</item>
+        <item>എല്ലാ മൂന്നാമത്തെ വെള്ളിയാഴ്ചയും</item>
+        <item>എല്ലാ നാലാമത്തെ വെള്ളിയാഴ്ചയും</item>
+        <item>എല്ലാ അവസാന വെള്ളിയാഴ്ചയും</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>എല്ലാ ആദ്യ ശനിയാഴ്ചയും</item>
+        <item>എല്ലാ രണ്ടാമത്തെ ശനിയാഴ്ചയും</item>
+        <item>എല്ലാ മൂന്നാമത്തെ ശനിയാഴ്ചയും</item>
+        <item>എല്ലാ നാലാമത്തെ ശനിയാഴ്ചയും</item>
+        <item>എല്ലാ അവസാന ശനിയാഴ്ചയും</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>ഏകദേശം രണ്ട് മിനിറ്റ് വൈകി പ്രവർത്തിക്കുന്നു.</item>
+        <item>ഏകദേശം 10 മിനിട്ടിനുള്ളിൽ എത്തുക.</item>
+        <item>മുന്നോട്ടു പോയി ഞാനില്ലാതെതന്നെ ആരംഭിക്കുക.</item>
+        <item>ക്ഷമിക്കണം, എനിക്കത് ചെയ്യാൻ കഴിഞ്ഞില്ല. ഞങ്ങൾക്ക് റീഷെഡ്യൂൾ ചെയ്യണം.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>ആസ്‌ട്രേലിയൻ സെൻട്രൽ - NT</item>
+        <item>ആസ്‌ട്രേലിയൻ സെൻട്രൽ - SA</item>
+        <item>ആസ്‌ട്രേലിയൻ കിഴക്കൻ - QLD</item>
+        <item>ആസ്‌ട്രേലിയൻ കിഴക്കൻ - NSW</item>
+        <item>മൗണ്ടൻ സ്‌റ്റാൻഡേർഡ് - ഡാവ്‌സൺ ക്രീക്ക്</item>
+        <item>സെൻട്രൽ സ്‌റ്റാൻഡേർഡ് - സസ്‌ക്കാചുവാൻ</item>
+        <item>കിഴക്കൻ സ്‌റ്റാൻഡേർഡ് - അടികോകൻ</item>
+        <item>അറ്റ്‌ലാന്റിക് സ്‌റ്റാൻഡേർഡ് - ക്യൂബെക്</item>
+        <item>ഹവായ്-അലൂഷ്യൻ - ഹവായ്</item>
+        <item>ഹവായ്-അലൂഷ്യൻ - അലാസ്‌ക</item>
+        <item>പസഫിക് സ്റ്റാൻഡേർഡ് - മെഡ്‌ലകട്‌ലെ</item>
+        <item>മൗണ്ടൻ സ്‌റ്റാൻഡേർഡ് - അരിസോണ</item>
+        <item>പസഫിക് - ബാജ കാലിഫോർണിയ</item>
+        <item>മൗണ്ടൻ - ചിഹുവാഹുവ</item>
+        <item>സെൻട്രൽ - തമൗലിപാസ്</item>
+        <item>മൗണ്ടൻ - സൊണോറ</item>
+        <item>കിഴക്കൻ ആഫ്രിക്ക സമയം</item>
+        <item>അറ്റ്ലാന്‍റിക് സ്റ്റാന്‍ഡേര്‍ഡ് സമയം</item>
+        <item>അറ്റ്ലാന്‍റിക് സ്റ്റാന്‍ഡേര്‍ഡ് സമയം</item>
+        <item>കിഴക്കൻ യൂറോപ്യൻ സമയം</item>
+        <item>കലിനിൻഗ്രാഡ് സമയം</item>
+        <item>ആമസോൺ - റൊൺഡോണിയ</item>
+        <item>ബ്രസീലിയ - പാര</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>സിന്റ് മാർട്ടെൻ</item>
+        <item>കരീബിയൻ നെതർലാൻഡ്‌സ്</item>
+        <item>കുറാകാവോ</item>
+        <item>ദക്ഷിണ സുഡാൻ</item>
+    </string-array>
+</resources>

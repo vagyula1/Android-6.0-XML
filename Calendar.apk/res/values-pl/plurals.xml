@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d godz.</item>
+        <item quantity="one">1 godzina</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">1 dzień</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">TYDZIEŃ %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d razy</item>
+        <item quantity="one">; jeden raz</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Co %d dni</item>
+        <item quantity="one">Codziennie</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Co %1$d tyg. w %2$s</item>
+        <item quantity="one">Co tydzień w %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">Nowe wydarzenia (%d)</item>
+        <item quantity="one">1 wydarzenie</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d wydarzenia(ń)</item>
+        <item quantity="one">+1 wydarzenie</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Co %d dni</item>
+        <item quantity="one">Co %d dzień</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Co %d tyg.</item>
+        <item quantity="one">Co %d tydzień</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Co %d mies.</item>
+        <item quantity="one">Co %d miesiąc</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Co %d lat(a)</item>
+        <item quantity="one">Co %d rok</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Dla %d wystąpienia</item>
+        <item quantity="one">Do %d wydarzenia</item>
+    </plurals>
+</resources>

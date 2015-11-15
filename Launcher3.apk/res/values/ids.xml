@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="drag_event_parity" />
+    <item type="id" name="action_remove" />
+    <item type="id" name="action_uninstall" />
+    <item type="id" name="action_info" />
+    <item type="id" name="action_add_to_workspace" />
+    <item type="id" name="action_move" />
+    <item type="id" name="action_move_to_workspace" />
+    <item type="id" name="action_move_screen_backwards" />
+    <item type="id" name="action_move_screen_forwards" />
+    <item type="id" name="action_resize" />
+    <item type="id" name="set_wallpaper_button">false</item>
+    <item type="id" name="apps_view">false</item>
+    <item type="id" name="search_box_container">false</item>
+    <item type="id" name="content">false</item>
+    <item type="id" name="all_apps_reveal">false</item>
+    <item type="id" name="all_apps_container">false</item>
+    <item type="id" name="apps_list_view">false</item>
+    <item type="id" name="empty_text">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="search_container">false</item>
+    <item type="id" name="dismiss_search_button">false</item>
+    <item type="id" name="search_box_input">false</item>
+    <item type="id" name="search_button">false</item>
+    <item type="id" name="preview_background">false</item>
+    <item type="id" name="folder_icon_name">false</item>
+    <item type="id" name="layout">false</item>
+    <item type="id" name="launcher">false</item>
+    <item type="id" name="drag_layer">false</item>
+    <item type="id" name="focus_indicator">false</item>
+    <item type="id" name="page_indicator">false</item>
+    <item type="id" name="hotseat">false</item>
+    <item type="id" name="overview_panel">false</item>
+    <item type="id" name="search_drop_target_bar">false</item>
+    <item type="id" name="widgets_view">false</item>
+    <item type="id" name="launcher_overlay_stub">false</item>
+    <item type="id" name="launcher_overlay">false</item>
+    <item type="id" name="search_overlay">false</item>
+    <item type="id" name="search_box">false</item>
+    <item type="id" name="longpress_cling">false</item>
+    <item type="id" name="cling_content">false</item>
+    <item type="id" name="cling_dismiss_longpress_info">false</item>
+    <item type="id" name="migration_cling">false</item>
+    <item type="id" name="ic_cling_migration">false</item>
+    <item type="id" name="cling_dismiss_migration_copy_apps">false</item>
+    <item type="id" name="cling_dismiss_migration_use_default">false</item>
+    <item type="id" name="wallpaper_button">false</item>
+    <item type="id" name="widget_button">false</item>
+    <item type="id" name="settings_button">false</item>
+    <item type="id" name="inactive">false</item>
+    <item type="id" name="active">false</item>
+    <item type="id" name="drag_target_bar">false</item>
+    <item type="id" name="delete_target_text">false</item>
+    <item type="id" name="info_target_text">false</item>
+    <item type="id" name="uninstall_target_text">false</item>
+    <item type="id" name="folder_content_wrapper">false</item>
+    <item type="id" name="folder_content">false</item>
+    <item type="id" name="folder_page_indicator">false</item>
+    <item type="id" name="folder_footer">false</item>
+    <item type="id" name="folder_name">false</item>
+    <item type="id" name="cropView">false</item>
+    <item type="id" name="loading">false</item>
+    <item type="id" name="wallpaper_strip">false</item>
+    <item type="id" name="wallpaper_scroll_container">false</item>
+    <item type="id" name="master_wallpaper_list">false</item>
+    <item type="id" name="wallpaper_list">false</item>
+    <item type="id" name="live_wallpaper_list">false</item>
+    <item type="id" name="third_party_wallpaper_list">false</item>
+    <item type="id" name="wallpaper_image">false</item>
+    <item type="id" name="wallpaper_item_label">false</item>
+    <item type="id" name="wallpaper_icon">false</item>
+    <item type="id" name="widget_name">false</item>
+    <item type="id" name="widget_dims">false</item>
+    <item type="id" name="widget_preview">false</item>
+    <item type="id" name="widgets_cell_list_container">false</item>
+    <item type="id" name="section">false</item>
+    <item type="id" name="widgets_scroll_container">false</item>
+    <item type="id" name="widgets_cell_list">false</item>
+    <item type="id" name="widgets_reveal_view">false</item>
+    <item type="id" name="widgets_list_view">false</item>
+    <item type="id" name="menu_delete">false</item>
+</resources>

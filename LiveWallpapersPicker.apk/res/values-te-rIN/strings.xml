@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">ప్రదర్శిత వాల్‌పేపర్ పికెర్</string>
+    <string name="live_wallpaper_picker_title">ప్రదర్శిత వాల్‌పేపర్‌ను ఎంచుకోండి</string>
+    <string name="live_wallpaper_picker_label">లైవ్ వాల్‌పేపర్‌లు</string>
+    <string name="live_wallpaper_preview_title">ప్రదర్శిత వాల్‌పేపర్ పరిదృశ్యం</string>
+    <string name="configure_wallpaper">సెట్టింగ్‌లు…</string>
+    <string name="wallpaper_instructions">వాల్‌పేపర్‌ను సెట్ చేయి</string>
+    <string name="live_wallpaper_empty">లైవ్ వాల్‌పేపర్‌లు లేవు.</string>
+    <string name="set_live_wallpaper">వాల్‌పేపర్‌ను సెట్ చేయి</string>
+    <string name="wallpaper_title_and_author">%2$s ద్వారా %1$s</string>
+    <string name="live_wallpaper_loading">ప్రదర్శిత వాల్‌పేపర్‌ను లోడ్ చేస్తోంది…</string>
+    <string name="wallpaper_cancel">రద్దు చేయి</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Оболонка</string>
+    <string name="bugreport_finished_title">Звіт про помилки створено</string>
+    <string name="bugreport_finished_text">Торкніться, щоб надіслати звіт про помилки</string>
+    <string name="bugreport_confirm">Звіти про помилки містять дані з різних файлів журналу системи, зокрема особисті та конфіденційні. Надсилайте звіт про помилки лише тим, кому довіряєте.</string>
+    <string name="bugreport_confirm_repeat">Показати це повідомлення наступного разу</string>
+    <string name="bugreport_storage_title">Звіти про помилки</string>
+</resources>

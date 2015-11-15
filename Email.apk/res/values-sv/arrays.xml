@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Svara</item>
+        <item>Svara alla</item>
+        <item>Vidarebefordra</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Färdigt</item>
+        <item>Ingen anslutning</item>
+        <item>Det gick inte att logga in.</item>
+        <item>Säkerhetsfel</item>
+        <item>Det gick inte att synkronisera</item>
+        <item>Internt fel</item>
+        <item>Serverfel</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Nyare</item>
+        <item>Äldre</item>
+        <item>Konversationslista</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Visa en nyare konversation efter borttagning</item>
+        <item>Visa en äldre konversation efter borttagning</item>
+        <item>Visa konversationslistan efter borttagning</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Arkivera</item>
+        <item>Ta bort</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Arkivera</item>
+        <item>Ta bort</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Visa alltid aktiviteter för meddelanden högst upp på skärmen</item>
+        <item>Visa endast aktiviteter för meddelanden högst upp på skärmen när telefonen är i stående läge</item>
+        <item>Visa inte aktiviteter för meddelanden utanför meddelanderubriken</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Visa alltid</item>
+        <item>Visa bara i stående läge</item>
+        <item>Visa inte</item>
+    </string-array>
+</resources>

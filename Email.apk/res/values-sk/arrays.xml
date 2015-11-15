@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Odpovedať</item>
+        <item>Odp. všetkým</item>
+        <item>Poslať ďalej</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Úspech</item>
+        <item>Bez pripojenia</item>
+        <item>Nepodarilo sa prihlásiť</item>
+        <item>Chyba zabezpečenia</item>
+        <item>Nepodarilo sa synchronizovať</item>
+        <item>Interná chyba</item>
+        <item>Chyba servera</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Novšiu konverzáciu</item>
+        <item>Staršiu konverzáciu</item>
+        <item>Zoznam konverzácií</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Po odstránení zobraziť novšiu konverzáciu</item>
+        <item>Po odstránení zobraziť staršiu konverzáciu</item>
+        <item>Po odstránení zobraziť zoznam konverzácií</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Archivovať</item>
+        <item>Odstrániť</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Archivovať</item>
+        <item>Odstrániť</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Vždy zobrazovať akcie správ v hornej časti obrazovky</item>
+        <item>Zobrazovať akcie správ len v hornej časti obrazovky, ktorá je otočená na výšku</item>
+        <item>Nezobrazovať akcie správ mimo hlavičky správy</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Vždy zobraziť</item>
+        <item>Zobraziť len na výšku</item>
+        <item>Nezobrazovať</item>
+    </string-array>
+</resources>

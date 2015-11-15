@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">ការគ្រប់គ្រងការហៅទូរស័ព្ទ</string>
+    <string name="userCallActivityLabel">ទូរស័ព្ទ</string>
+    <string name="unknown">មិន​ស្គាល់</string>
+    <string name="notification_missedCallTitle">ខកខាន​ទទួល</string>
+    <string name="notification_missedCallsTitle">ខកខាន​ទទួល</string>
+    <string name="notification_missedCallsMsg">%s ខកខាន​ការ​​ទទួល</string>
+    <string name="notification_missedCallTicker">ខកខាន​ទទួល​ពី %s</string>
+    <string name="notification_missedCall_call_back">ហៅ​ទៅ​វិញ</string>
+    <string name="notification_missedCall_message">សារ</string>
+    <string name="accessibility_call_muted">ការ​ហៅ​បិទ​សំឡេង។</string>
+    <string name="accessibility_speakerphone_enabled">បាន​បើក​អូប៉ាល័រ​ទូរស័ព្ទ។</string>
+    <string name="respond_via_sms_canned_response_1">មិន​អាច​និយាយ​បាន​ឥឡូវ​នេះ។ មាន​អ្វី​កើត​ឡើង?</string>
+    <string name="respond_via_sms_canned_response_2">ខ្ញុំ​នឹង​ហៅ​​​​ទៅ​អ្នក​​វិញ។</string>
+    <string name="respond_via_sms_canned_response_3">ខ្ញុំ​នឹង​ហៅ​ទៅ​អ្នក​នៅ​ពេល​ក្រោយ។</string>
+    <string name="respond_via_sms_canned_response_4">មិន​អាច​និយាយ​បាន​ទេ​ឥឡូវ​នេះ។ ហៅ​​​​មក​ខ្ញុំ​ពេល​ក្រោយ?</string>
+    <string name="respond_via_sms_setting_title">ការ​ឆ្លើយតប​រហ័ស</string>
+    <string name="respond_via_sms_setting_title_2">កែ​ការ​ឆ្លើយតប​រហ័ស</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">ឆ្លើយតប​រហ័ស</string>
+    <string name="respond_via_sms_confirmation_format">បាន​ផ្ញើ​សារ​ទៅ %s ។</string>
+    <string name="enable_account_preference_title">គណនីហៅទូរស័ព្ទ</string>
+    <string name="outgoing_call_not_allowed_user_restriction">មានតែការហៅពេលអាសន្នប៉ុណ្ណោះត្រូវបានអនុញ្ញាតដោយម្ចាស់ឧបករណ៍។</string>
+    <string name="outgoing_call_not_allowed_no_permission">កម្មវិធីនេះមិនអាចធ្វើការហៅចេញដោយគ្មានការអនុញ្ញាត ទូរស័ព្ទ បានទេ។</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">ដើម្បីធ្វើការហៅ បញ្ចូលលេខដែលមានសុពលភាព។</string>
+    <string name="duplicate_video_call_not_allowed">មិន​អាច​បន្ថែម​​​នៅ​ពេល​នេះ​​បាន​ទេ។</string>
+    <string name="video_call_not_allowed_if_tty_enabled">សូមបិទដំណើរការរបៀប TTY ដើម្បីធ្វើការហៅជាវីដេអូ។</string>
+    <string name="no_vm_number">បាត់​​ចំនួន​​សារ​ជា​សំឡេង</string>
+    <string name="no_vm_number_msg">គ្មាន​ចំនួន​សារ​ជា​សំឡេង​​ត្រូវ​បាន​រក្សា​ទុក​នៅ​លើ​ស៊ី​ម​កាត​ទេ​។</string>
+    <string name="add_vm_number_str">បន្ថែម​លេខ</string>
+    <string name="change_default_dialer_dialog_title">ប្តូរកម្មវិធីហៅទូរស័ព្ទលំនាំដើម?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">ប្រើ %1$s ជំនួសឲ្យ %2$s ជាកម្មវិធីហៅទូរស័ព្ទលំនាំដើមរបស់អ្នក?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">ប្រើ %s ជាកម្មវិធីហៅទូរស័ព្ទលំនាំដើមរបស់អ្នក?</string>
+</resources>

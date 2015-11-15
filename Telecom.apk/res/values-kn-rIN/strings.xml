@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">ಫೋನ್ ಕರೆ ನಿರ್ವಹಣೆ</string>
+    <string name="userCallActivityLabel">ಫೋನ್</string>
+    <string name="unknown">ಅಜ್ಞಾತ</string>
+    <string name="notification_missedCallTitle">ಮಿಸ್ಡ್‌ ಕಾಲ್‌</string>
+    <string name="notification_missedCallsTitle">ತಪ್ಪಿದ ಕರೆಗಳು</string>
+    <string name="notification_missedCallsMsg">%s ತಪ್ಪಿದ ಕರೆಗಳು</string>
+    <string name="notification_missedCallTicker">%s ಅವರಿಂದ ಮಿಸ್ಡ್‌ ಕಾಲ್‌</string>
+    <string name="notification_missedCall_call_back">ಮರಳಿ ಕರೆ ಮಾಡಿ</string>
+    <string name="notification_missedCall_message">ಸಂದೇಶ</string>
+    <string name="accessibility_call_muted">ಕರೆಯನ್ನು ಮ್ಯೂಟ್ ಮಾಡಲಾಗಿದೆ.</string>
+    <string name="accessibility_speakerphone_enabled">ಸ್ಪೀಕರ್‌ಫೋನ್ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ.</string>
+    <string name="respond_via_sms_canned_response_1">ಈಗ ಮಾತನಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ. ಏನು ವಿಷಯ?</string>
+    <string name="respond_via_sms_canned_response_2">ನಾನು ಮರಳಿ ನಿಮಗೆ ಕರೆ ಮಾಡುತ್ತೇನೆ.</string>
+    <string name="respond_via_sms_canned_response_3">ನಾನು ನಂತರ ನಿಮಗೆ ಕರೆ ಮಾಡುತ್ತೇನೆ.</string>
+    <string name="respond_via_sms_canned_response_4">ಈಗ ಮಾತನಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ. ನಂತರ ಮಾಡುವಿರಾ?</string>
+    <string name="respond_via_sms_setting_title">ತ್ವರಿತ ಪ್ರತಿಕ್ರಿಯೆಗಳು</string>
+    <string name="respond_via_sms_setting_title_2">ತ್ವರಿತ ಪ್ರತಿಕ್ರಿಯೆ ಸಂಪಾದಿಸಿ</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">ತ್ವರಿತ ಪ್ರತಿಕ್ರಿಯೆ</string>
+    <string name="respond_via_sms_confirmation_format">%s ಗೆ ಸಂದೇಶ ಕಳುಹಿಸಲಾಗಿದೆ.</string>
+    <string name="enable_account_preference_title">ಕರೆ ಮಾಡುವ ಖಾತೆಗಳು</string>
+    <string name="outgoing_call_not_allowed_user_restriction">ಸಾಧನದ ಮಾಲೀಕರಿಂದ ತುರ್ತು ಕರೆಗಳನ್ನು ಮಾಡಲು ಮಾತ್ರ ಅವಕಾಶವಿದೆ.</string>
+    <string name="outgoing_call_not_allowed_no_permission">ಈ ಅಪ್ಲಿಕೇಶನ್ ಫೋನ್ ಅನುಮತಿಯಿಲ್ಲದೆ ಹೊರಹೋಗುವ ಕರೆಗಳನ್ನು ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">ಕರೆಯನ್ನು ಮಾಡಲು, ಮಾನ್ಯವಾದ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ.</string>
+    <string name="duplicate_video_call_not_allowed">ಕರೆಯನ್ನು ಈ ಸಮಯದಲ್ಲಿ ಸೇರಿಸಲಾಗುವುದಿಲ್ಲ.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">ವೀಡಿಯೊ ಕರೆಗಳನ್ನು ಮಾಡಲು TTY ಮೋಡ್‌ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ.</string>
+    <string name="no_vm_number">ಧ್ವನಿಮೇಲ್‌ ಸಂಖ್ಯೆಯು ಕಾಣೆಯಾಗಿದೆ</string>
+    <string name="no_vm_number_msg">ಸಿಮ್‌ ಕಾರ್ಡ್‌ನಲ್ಲಿ ಯಾವುದೇ ಧ್ವನಿಮೇಲ್‌ ಸಂಖ್ಯೆಯನ್ನು ಸಂಗ್ರಹಿಸಿಲ್ಲ.</string>
+    <string name="add_vm_number_str">ಸಂಖ್ಯೆಯನ್ನು ಸೇರಿಸಿ</string>
+    <string name="change_default_dialer_dialog_title">ಡೀಫಾಲ್ಟ್ ಡಯಲರ್ ಅಪ್ಲಿಕೇಶನ್ ಬದಲಾಯಿಸುವುದೇ?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">%2$s ಬದಲಿಗೆ %1$s ಅನ್ನು ನಿಮ್ಮ ಡೀಫಾಲ್ಟ್ ಡಯಲರ್ ಅಪ್ಲಿಕೇಶನ್ ಆಗಿ ಬಳಸುವುದೇ?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">%s ಅನ್ನು ನಿಮ್ಮ ಡೀಫಾಲ್ಟ್ ಡಯಲರ್ ಅಪ್ಲಿಕೇಶನ್ ಆಗಿ ಬಳಸುವುದೇ?</string>
+</resources>

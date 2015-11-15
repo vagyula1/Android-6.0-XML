@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">Beiðni um tengingu</string>
+    <string name="warning">%s vill setja upp VPN-tengingu til þess að geta fylgst með netumferð. Samþykktu þetta aðeins ef þú treystir upprunanum. &lt;br /> &lt;br /> &lt;img src=vpn_icon /> birtist efst á skjánum þegar VPN er virkt.</string>
+    <string name="legacy_title">VPN er tengt</string>
+    <string name="configure">Stilla</string>
+    <string name="disconnect">Aftengja</string>
+    <string name="session">Lota:</string>
+    <string name="duration">Tímalengd:</string>
+    <string name="data_transmitted">Sent:</string>
+    <string name="data_received">Móttekið:</string>
+    <string name="data_value_format">%1$s bæti / %2$s pakkar</string>
+</resources>

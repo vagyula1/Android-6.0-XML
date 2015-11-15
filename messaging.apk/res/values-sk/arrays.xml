@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>bez predmetu</item>
+        <item>žiadny predmet</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Áno</item>
+        <item>Nie</item>
+        <item>OK</item>
+        <item>Haha</item>
+        <item>Ďakujeme</item>
+        <item>Súhlasím</item>
+        <item>Pekné</item>
+        <item>Som na ceste</item>
+        <item>OK, odpíšem neskôr</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

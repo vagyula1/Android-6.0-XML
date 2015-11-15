@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Mga Draft</item>
+        <item quantity="one">Draft</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Tanggalin ang %1$d (na) pag-uusap na ito?</item>
+        <item quantity="one">Tanggalin ang pag-uusap na ito?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">I-archive ang %1$d (na) pag-uusap na ito?</item>
+        <item quantity="one">I-archive ang pag-uusap na ito?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">I-discard ang %1$d (na) mensaheng ito?</item>
+        <item quantity="one">I-discard ang mensaheng ito?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Inaalis ang star sa %1$d (na) pag-uusap</item>
+        <item quantity="one">Inaalis ang star sa %1$d pag-uusap</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ang naka-mute</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ang naka-mute</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ang inulat na spam</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ang inulat na spam</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ang inulat na hindi spam</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ang inulat na hindi spam</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ang minarkahang hindi mahalaga</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ang minarkahang hindi mahalaga</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ang inulat na phishing</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ang inulat na phishing</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ang na-archive</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ang na-archive</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ang na-delete</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ang na-delete</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Mga binagong folder</item>
+        <item quantity="one">Binagong folder</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d (na) bagong mensahe</item>
+        <item quantity="one">%1$d bagong mensahe</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">I-expand ang %1$d (na) mas lumang mensahe</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Na-expand ang %1$d (na) mas lumang mensahe</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d ang hindi pa nababasa</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d (na) bagong mensahe</item>
+        <item quantity="one">%1$d bagong mensahe</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Permanenteng tatanggalin ang %1$d (na) mensahe.</item>
+        <item quantity="one">Permanenteng tatanggalin ang %1$d (na) mensahe.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d (na) mensahe</item>
+        <item quantity="one">%1$d (na) mensahe</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d (na) attachment</item>
+        <item quantity="one">%1$d attachment</item>
+    </plurals>
+</resources>

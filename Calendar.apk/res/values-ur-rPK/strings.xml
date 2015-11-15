@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="event_create">نیا ایونٹ</string>
+    <string name="new_event_dialog_label">نیا ایونٹ</string>
+    <string name="new_event_dialog_option">نیا ایونٹ</string>
+    <string name="hint_time_zone_search">ملک کا نام ٹائپ کریں</string>
+    <string name="searchview_description_clear">استفسار صاف کریں</string>
+    <string name="no_results_found">کوئی نتائج نہیں ملے</string>
+    <string name="palestine_display_name">فلسطین</string>
+    <string name="done_label">ہوگیا</string>
+    <string name="hour_picker_description">گھنٹوں کا سرکلر سلائیڈر</string>
+    <string name="minute_picker_description">منٹ کا سرکلر سلائیڈر</string>
+    <string name="select_hours">گھنٹے منتخب کریں</string>
+    <string name="select_minutes">منٹ منتخب کریں</string>
+    <string name="day_picker_description">دنوں کا ماہ کا گرڈ</string>
+    <string name="year_picker_description">سال کی فہرست</string>
+    <string name="select_day">مہینہ اور دن منتخب کریں</string>
+    <string name="select_year">سال منتخب کریں</string>
+    <string name="item_is_selected">%1$s منتخب ہوگیا</string>
+    <string name="deleted_key">%1$s حذف ہوگیا</string>
+    <string name="color_picker_default_title">ایک رنگ منتخب کریں</string>
+    <string name="color_swatch_description">رنگ %1$d</string>
+    <string name="color_swatch_description_selected">رنگ %1$d منتخب کیا گیا</string>
+    <string name="more_string">‎+%1$d</string>
+    <string name="copy_email">ای میل پتہ کاپی کریں</string>
+    <string name="copy_number">فون نمبر کاپی کریں</string>
+    <string name="action_label">واپس جائیں</string>
+    <string name="accessbility_suggestion_dropdown_opened">رابطہ کی تجاویز کھلی ہوئی ہیں</string>
+    <string name="dropdown_delete_button_desc">%s کو وصول کنندگان سے ہٹائیں</string>
+</resources>

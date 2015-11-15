@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">သင်သည် ယခု ဆောဖ့်ဝဲရေးသားသူထံမှ %1$d အဆင့်အကွာအဝေးတွင် ရှိနေပါသည်။</item>
+        <item quantity="one">သင်သည် ယခု ဆောဖ့်ဝဲရေးသားသူထံမှ %1$d အဆင့် အကွာအဝေးတွင်ရှိနေပါသည်။</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d လက်ဗွေရာများ ပြင်ဆင်သတ်မှတ်ရန်</item>
+        <item quantity="one">%1$d လက်ဗွေရာ ပြင်ဆင်သတ်မှတ်ရန်</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">စကားဝှက်တွင် အနည်းဆုံး စာလုံး %d ပါရမည်။</item>
+        <item quantity="one">စကားဝှက်တွင် အနည်းဆုံး စာလုံး 1 လုံး ပါရမည်။</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">စကားဝှက်တွင် အင်္ဂလိပ်စာလုံးအသေး အနည်းဆုံး %d လုံးပါရမည်။</item>
+        <item quantity="one">စကားဝှက်တွင် အင်္ဂလိပ်စာလုံးအသေး အနည်းဆုံး 1 လုံးပါရမည်။</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">စကားဝှက်တွင် အင်္ဂလိပ်စာလုံးအကြီး အနည်းဆုံး %d လုံးပါရမည်။</item>
+        <item quantity="one">စကားဝှက်တွင် အင်္ဂလိပ်စာလုံးအကြီး အနည်းဆုံး 1 လုံးပါရမည်။</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">စကားဝှက်တွင် အနည်းဆုံး ဂဏန်း %d လုံး ပါရမည်။</item>
+        <item quantity="one">စကားဝှက်တွင် အနည်းဆုံး ဂဏန်း 1 လုံး ပါရမည်။</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">စကားဝှက်တွင် အထူးပြုသင်္ကေတ အနည်းဆုံး %d လုံးပါရမည်။</item>
+        <item quantity="one">စကားဝှက်တွင် အထူးပြုသင်္ကေတ အနည်းဆုံး 1 လုံးပါရမည်။</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">စကားဝှက်တွင် စာလုံးမဟုတ်သည့်အက္ခရာ အနည်းဆုံး %d လုံးပါရမည်။</item>
+        <item quantity="one">စကားဝှက်တွင် စာလုံးမဟုတ်သည့်အက္ခရာ အနည်းဆုံး 1 လုံးပါရမည်။</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">ဆင်းမ်ကဒ်၏ ပင်နံပါတ် မှားနေပါသည်၊ သင့်တွင် %d ခါ ကြိုးစားခွင့် ကျန်ပါသေးသည်။</item>
+        <item quantity="one">ဆင်းမ်ကဒ်၏ ပင်နံပါတ် မှားနေပါသည်၊ သင့်ကိရိယာကို ဖွင့်ရန် မိုဘိုင်းဖုန်းဆက်သွယ်ရေးဝန်ဆောင်မှုဌာနသို့ မဆက်သွယ်မီ သင့်တွင် %d ခါ ကြိုးစားခွင့် ကျန်ပါသေးသည်။</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">app %d ခုသည် သတိပေးချက်များကို ဖတ်နိုင်သည်</item>
+        <item quantity="one">app %d ခုသည် သတိပေးချက်များကို ဖတ်နိုင်သည်</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">(%2$sအထိ)%1$dမိနစ်မျှ နိုးစက်သာလျှင်သို့ပြောင်းမည်</item>
+        <item quantity="one">%2$sအထိတစ်မိနစ်မျှ နိုးစက်သာလျှင်သို့ပြောင်းမည်</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">%2$sအထိ%1$dနာရီမျှ နိုးစက်သာလျှင်သို့ပြောင်းမည်</item>
+        <item quantity="one">%2$sအထိတစ်နာရီမျှ နိုးစက်သာလျှင်သို့ပြောင်းမည်</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">ခွင့်ပြုချက် %d ခုပေးထားသည်</item>
+        <item quantity="one">ခွင့်ပြုချက် %d ခုပေးထားသည်</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d / %2$d ခွင့်ပြုချက် ရရှိခဲ့၏</item>
+        <item quantity="one">%1$d / %2$d ခွင့်ပြုချက် ရရှိခဲ့၏</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">နောက်ထပ်ခွင့်ပြုချက်များ %d ခု</item>
+        <item quantity="one">နောက်ထပ်ခွင့်ပြုချက်များ %d ခု</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d အပ်ဖ်များသည် ၎င်းတို့ထောက်ပံ့ထာသည့် လင့်များကိုဖွင့်နိုင်သည်။</item>
+        <item quantity="one">အပ်ဖ်တစ်ခုသည် ၎င်းထောက်ပံ့ထားသည့် လင့်ခ်များကိုဖွင့်နိုင်သည်။</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d အက်ပ်အား ဘက်ထရီအား သင့်မြတ်အောင် လုပ်ကိုင်မှုကို လျစ်လျူရှုခွင့် ပြုထား</item>
+        <item quantity="one">1 အက်ပ်အား ဘက်ထရီအား သင့်မြတ်အောင် လုပ်ကိုင်မှုကို လျစ်လျူရှုခွင့် ပြုထား</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">App %1$d သည် မှတ်ဉာဏ်အား လွန်ခဲ့သော %2$s က သုံးခဲ့၏</item>
+        <item quantity="one">လွန်ခဲ့သော %2$s က မှတ်ဉာဏ်အား app ၁ ခု မှ သုံးခဲ့၏</item>
+    </plurals>
+</resources>

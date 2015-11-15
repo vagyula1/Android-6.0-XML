@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>ไม่มีเรื่อง</item>
+        <item>ไม่มีชื่อเรื่อง</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>ใช่</item>
+        <item>ไม่ใช่</item>
+        <item>ตกลง</item>
+        <item>อิอิ</item>
+        <item>ขอบคุณ</item>
+        <item>ฉันเห็นด้วย</item>
+        <item>เยี่ยมเลย</item>
+        <item>เดินทางอยู่</item>
+        <item>ตกลง ฉันจะติดต่อกลับมาในภายหลัง</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

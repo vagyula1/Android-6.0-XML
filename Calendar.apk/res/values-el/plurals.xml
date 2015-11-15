@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d λεπτά</item>
+        <item quantity="one">1 λεπτό</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d λεπτά</item>
+        <item quantity="one">1 λεπτό</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d ώρες</item>
+        <item quantity="one">1 ώρα</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d ημέρες</item>
+        <item quantity="one">1 ημέρα</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">ΕΒΔΟΜΑΔΑ %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; για %d φορές</item>
+        <item quantity="one">; για μία φορά</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Κάθε %d ημέρες</item>
+        <item quantity="one">Ημερησίως</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Κάθε εβδομάδες %1$d, μέρες %2$s</item>
+        <item quantity="one">Κάθε εβδομάδα, μέρα %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d συμβάντα</item>
+        <item quantity="one">1 συμβάν</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d συμβάντα</item>
+        <item quantity="one">+1 συμβάν</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Κάθε %d ημέρες</item>
+        <item quantity="one">Κάθε %d ημέρα</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Κάθε %d εβδομάδες</item>
+        <item quantity="one">Κάθε %d εβδομάδα</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Κάθε %d μήνες</item>
+        <item quantity="one">Κάθε %d μήνα</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Κάθε %d έτη</item>
+        <item quantity="one">Κάθε %d έτος</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Για %d συμβάντα</item>
+        <item quantity="one">Για %d συμβάν</item>
+    </plurals>
+</resources>

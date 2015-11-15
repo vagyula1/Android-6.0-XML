@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Svar</item>
+        <item>Svar alle</item>
+        <item>Videresend</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Gennemført</item>
+        <item>Ingen forbindelse</item>
+        <item>Kunne ikke logge ind</item>
+        <item>Sikkerhedsfejl</item>
+        <item>Kunne ikke synkronisere</item>
+        <item>Intern fejl</item>
+        <item>Serverfejl</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Nyere</item>
+        <item>Ældre</item>
+        <item>Samtaleliste</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Vis nyere samtale efter sletning</item>
+        <item>Vis ældre samtale efter sletning</item>
+        <item>Vis samtalelisten efter sletning</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Arkivér</item>
+        <item>Slet</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Arkivér</item>
+        <item>Slet</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Vis altid meddelelseshandlinger øverst på skærmen</item>
+        <item>Vis kun meddelelseshandlinger øverst på skærmen i portrættilstand</item>
+        <item>Vis ikke meddelelseshandlinger uden for meddelelsens header</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Vis altid</item>
+        <item>Vis kun i oprejst format</item>
+        <item>Vis ikke</item>
+    </string-array>
+</resources>

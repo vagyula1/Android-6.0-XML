@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 секунди</item>
+        <item>4 секунди</item>
+        <item>6 секунди</item>
+        <item>8 секунди</item>
+        <item>10 секунди</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>Веднъж</item>
+        <item>На всеки 2 минути</item>
+        <item>На всеки 15 минути</item>
+        <item>Изключено</item>
+    </string-array>
+</resources>

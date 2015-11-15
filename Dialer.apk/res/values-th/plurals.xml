@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">พบ %d รายการ</item>
+        <item quantity="one">พบ 1 รายการ</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d วินาที</item>
+        <item quantity="one">1 วินาที</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d นาที</item>
+        <item quantity="one">1 นาที</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d ชั่วโมง</item>
+        <item quantity="one">1 ชั่วโมง</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d ข้อความเสียง</item>
+        <item quantity="one">ข้อความเสียง</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d ข้อความเสียงใหม่</item>
+        <item quantity="one">%d ข้อความเสียงใหม่</item>
+    </plurals>
+</resources>

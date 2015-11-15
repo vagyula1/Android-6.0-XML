@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">管理文件夹</string>
+    <string name="add_cc_label">+ 抄送/密送</string>
+    <string name="add_bcc_label">+ 密送</string>
+    <string name="preferences_default_reply_all_summary">用作默认的邮件通知回复方式</string>
+</resources>

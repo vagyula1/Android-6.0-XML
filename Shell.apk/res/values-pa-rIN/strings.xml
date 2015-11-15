@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ਸ਼ੈਲ</string>
+    <string name="bugreport_finished_title">ਬਗ ਰਿਪੋਰਟ ਕੈਪਚਰ ਕੀਤੀ</string>
+    <string name="bugreport_finished_text">ਆਪਣੀ ਬਗ ਰਿਪੋਰਟ ਸ਼ੇਅਰ ਕਰਨ ਲਈ ਛੋਹਵੋ</string>
+    <string name="bugreport_confirm">ਬਗ ਰਿਪੋਰਟਾਂ ਵਿੱਚ ਸਿਸਟਮ ਦੀਆਂ ਭਿੰਨ ਲੌਗ ਫਾਈਲਾਂ ਦਾ ਡਾਟਾ ਹੁੰਦਾ ਹੈ, ਨਿੱਜੀ ਅਤੇ ਪ੍ਰਾਈਵੇਟ ਜਾਣਕਾਰੀ ਸਮੇਤ। ਕੇਵਲ ਉਹਨਾਂ ਐਪਸ ਅਤੇ ਲੋਕਾਂ ਨਾਲ ਬਗ ਰਿਪੋਰਟਾਂ ਸ਼ੇਅਰ ਕਰੋ, ਜਿਹਨਾਂ ਤੇ ਤੁਸੀਂ ਭਰੋਸਾ ਕਰਦੇ ਹੋ।</string>
+    <string name="bugreport_confirm_repeat">ਅਗਲੀ ਵਾਰ ਇਹ ਸੁਨੇਹਾ ਦਿਖਾਓ</string>
+    <string name="bugreport_storage_title">ਬਗ ਰਿਪੋਰਟਾਂ</string>
+</resources>

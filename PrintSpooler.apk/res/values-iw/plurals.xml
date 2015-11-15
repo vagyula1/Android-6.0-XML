@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">נמצאו %1$s מדפסות</item>
+        <item quantity="one">נמצאה מדפסת %1$s</item>
+        <item quantity="two">נמצאו %1$s מדפסות</item>
+        <item quantity="many">נמצאו %1$s מדפסות</item>
+    </plurals>
+    <plurals name="composite_notification_title_template">
+        <item quantity="other">עבודות הדפסה %1$d</item>
+        <item quantity="one">עבודת הדפסה %1$d</item>
+        <item quantity="two">עבודות הדפסה %1$d</item>
+        <item quantity="many">עבודות הדפסה %1$d</item>
+    </plurals>
+</resources>

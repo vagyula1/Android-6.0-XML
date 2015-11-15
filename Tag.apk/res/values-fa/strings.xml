@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">برچسب‌ها</string>
+    <string name="title_scanned_tag">نشان جدید جمع‌آوری شد</string>
+    <string name="title_existing_tag">نشان</string>
+    <string name="tag_unknown">نوع نشان ناشناس</string>
+    <string name="tag_empty">نشان خالی</string>
+    <string name="button_done">انجام شد</string>
+    <string name="action_text">ارسال متن به %s</string>
+    <string name="action_call">تماس با %s</string>
+    <string name="empty_tag_prompt">این نشان خالی است.</string>
+    <string name="import_vcard">وارد کردن ^1</string>
+    <string name="mime_display_name">‏داده‌های نشان NFC</string>
+    <string name="vcard_title">اطلاعات تماس برای ^1</string>
+</resources>

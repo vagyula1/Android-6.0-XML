@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="backlight_timeout_time">
+        <item quantity="other">%d 秒</item>
+        <item quantity="one">%d 秒</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">现在只需再执行 %1$d 步操作即可进入开发者模式。</item>
+        <item quantity="one">现在只需再执行 %1$d 步操作即可进入开发者模式。</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">已设置 %1$d 个指纹</item>
+        <item quantity="one">已设置 %1$d 个指纹</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">密码应至少包含 %d 个字母。</item>
+        <item quantity="one">密码应至少包含 1 个字母。</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">密码应至少包含 %d 个小写字母。</item>
+        <item quantity="one">密码应至少包含 1 个小写字母。</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">密码应至少包含 %d 个大写字母。</item>
+        <item quantity="one">密码应至少包含 1 个大写字母。</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">密码应至少包含 %d 个数字。</item>
+        <item quantity="one">密码应至少包含 1 个数字。</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">密码应至少包含 %d 个特殊符号。</item>
+        <item quantity="one">密码应至少包含 1 个特殊符号。</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">密码应至少包含 %d 个非字母字符。</item>
+        <item quantity="one">密码应至少包含 1 个非字母字符。</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM 卡 PIN 码不正确，您还可尝试 %d 次。</item>
+        <item quantity="one">SIM 卡 PIN 码不正确，您还可尝试 %d 次。如果仍不正确，则需要联系运营商帮您解锁设备。</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d 个应用可以读取通知</item>
+        <item quantity="one">%d 个应用可以读取通知</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">更改为仅限闹钟，持续 %1$d 分钟（到%2$s）</item>
+        <item quantity="one">更改为仅限闹钟，持续 1 分钟（到%2$s）</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">更改为仅限闹钟，持续 %1$d 小时（到%2$s）</item>
+        <item quantity="one">更改为仅限闹钟，持续 1 小时（到%2$s）</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">已授予 %d 项权限</item>
+        <item quantity="one">已授予 %d 项权限</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">已授予 %1$d 项权限（共 %2$d 项）</item>
+        <item quantity="one">已授予 %1$d 项权限（共 %2$d 项）</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d 项其他权限</item>
+        <item quantity="one">%d 项其他权限</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d 个应用可以打开支持的链接</item>
+        <item quantity="one">1 个应用可以打开支持的链接</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">已允许 %d 个应用忽略电池优化</item>
+        <item quantity="one">已允许 1 个应用忽略电池优化</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">过去 %2$s内有 %1$d 个应用使用了内存</item>
+        <item quantity="one">过去 %2$s内有 1 个应用使用了内存</item>
+    </plurals>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geluidsrecorder</string>
+    <string name="record_your_message">Uw bericht opnemen</string>
+    <string name="message_recorded">Bericht opgenomen</string>
+    <string name="review_message">Bericht controleren</string>
+    <string name="recording">Opnemen</string>
+    <string name="recording_stopped">Opname gestopt</string>
+    <string name="storage_is_full">Opslagruimte is vol</string>
+    <string name="max_length_reached">Maximumlengte is bereikt</string>
+    <string name="insert_sd_card">USB-opslag koppelen</string>
+    <string name="min_available">%d min beschikbaar</string>
+    <string name="sec_available">%ds beschikbaar</string>
+    <string name="accept">Gereed</string>
+    <string name="discard">Weggooien</string>
+    <string name="button_ok">OK</string>
+    <string name="audio_db_artist_name">Uw opnamen</string>
+    <string name="audio_db_album_name">Audio-opnamen</string>
+    <string name="audio_db_playlist_name">Mijn opnamen</string>
+    <string name="error_sdcard_access">Kan geen toegang tot USB-opslag krijgen.</string>
+    <string name="error_app_internal">Interne fout app.</string>
+    <string name="error_mediadb_new_record">Kan opgenomen audio niet opslaan.</string>
+</resources>

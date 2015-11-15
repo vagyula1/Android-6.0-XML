@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Usimamizi wa Mazunguzo ya Simu</string>
+    <string name="userCallActivityLabel">Simu</string>
+    <string name="unknown">Haijulikani</string>
+    <string name="notification_missedCallTitle">Simu isiyojibiwa</string>
+    <string name="notification_missedCallsTitle">Simu zisizojibiwa</string>
+    <string name="notification_missedCallsMsg">%s simu ambazo hazijajibiwa</string>
+    <string name="notification_missedCallTicker">Simu isiyojibiwa kutoka %s</string>
+    <string name="notification_missedCall_call_back">Mpigie</string>
+    <string name="notification_missedCall_message">Ujumbe</string>
+    <string name="accessibility_call_muted">Simu imezimwa.</string>
+    <string name="accessibility_speakerphone_enabled">Spika za simu zimewezeshwa</string>
+    <string name="respond_via_sms_canned_response_1">Siwezi kuongea sasa. Kuna nini?</string>
+    <string name="respond_via_sms_canned_response_2">Nitakupigia sasa hivi.</string>
+    <string name="respond_via_sms_canned_response_3">Nitakupigia baadaye.</string>
+    <string name="respond_via_sms_canned_response_4">Siwezi kuongea sasa. Nipigie baadaye</string>
+    <string name="respond_via_sms_setting_title">Majibu ya haraka</string>
+    <string name="respond_via_sms_setting_title_2">Hariri majibu ya haraka</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Majibu ya haraka</string>
+    <string name="respond_via_sms_confirmation_format">Ujumbe uliotumwa kwa %s .</string>
+    <string name="enable_account_preference_title">Akaunti za simu</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Ni simu za dharura pekee ndizo zinazoruhusiwa na mmiliki wa kifaa.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Programu hii haiwezi kupiga simu bila ruhusa ya Simu.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Ili upige simu, weka nambari sahihi.</string>
+    <string name="duplicate_video_call_not_allowed">Hangout ya video haiwezi kuongezwa kwa wakati huu.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Tafadhali zima Hali ya TTY ili uanzishe Hangout ya video.</string>
+    <string name="no_vm_number">Nambari ya sauti inayokosekana</string>
+    <string name="no_vm_number_msg">Hakuna nambari ya ujumbe wa sauti iliyohifadhiwa katika SIM kadi.</string>
+    <string name="add_vm_number_str">Ongeza nambari</string>
+    <string name="change_default_dialer_dialog_title">Ungependa kubadilisha programu chaguo-msingi ya simu?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Ungependa kutumia %1$s badala ya %2$s kama programu ya chaguo-msingi ya kupigia simu?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Ungependa kutumia %s kama programu ya chaguo-msingi ya kupigia simu?</string>
+</resources>

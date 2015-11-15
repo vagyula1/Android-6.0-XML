@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Teatis</item>
+        <item>E-post</item>
+        <item>SMS</item>
+        <item>Alarm</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 minutit</item>
+        <item>1 minut</item>
+        <item>5 minutit</item>
+        <item>10 minutit</item>
+        <item>15 minutit</item>
+        <item>20 minutit</item>
+        <item>25 minutit</item>
+        <item>30 minutit</item>
+        <item>45 minutit</item>
+        <item>1 tund</item>
+        <item>2 tundi</item>
+        <item>3 tundi</item>
+        <item>12 tundi</item>
+        <item>24 tundi</item>
+        <item>2 päeva</item>
+        <item>1 nädal</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Puudub</item>
+        <item>0 minutit</item>
+        <item>1 minut</item>
+        <item>5 minutit</item>
+        <item>10 minutit</item>
+        <item>15 minutit</item>
+        <item>20 minutit</item>
+        <item>25 minutit</item>
+        <item>30 minutit</item>
+        <item>45 minutit</item>
+        <item>1 tund</item>
+        <item>2 tundi</item>
+        <item>3 tundi</item>
+        <item>12 tundi</item>
+        <item>24 tundi</item>
+        <item>2 päeva</item>
+        <item>1 nädal</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Lokaadi vaikeseade</item>
+        <item>Laupäev</item>
+        <item>Pühapäev</item>
+        <item>Esmaspäev</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Hõivatud</item>
+        <item>Saadaval</item>
+        <item>Katseline</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Vaikeseade</item>
+        <item>Privaatne</item>
+        <item>Avalik</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>esimene</item>
+        <item>sekund</item>
+        <item>kolmas</item>
+        <item>neljas</item>
+        <item>viimane</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Vastust pole</item>
+        <item>Jah</item>
+        <item>Võib-olla</item>
+        <item>Ei</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Ainult see sündmus</item>
+        <item>See sündmus ja tulevased sündmused</item>
+        <item>Kõik sündmused</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>See ja tulevased sündmused</item>
+        <item>Kõik sündmused</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Ainult see sündmus</item>
+        <item>Kõik seerias olevad sündmused</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Päev</item>
+        <item>Nädal</item>
+        <item>Kuu</item>
+        <item>Ajakava</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Ainult keeldumisel</item>
+        <item>Keeldumisel või vastamata jätmisel</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>KORDA IGA PÄEV</item>
+        <item>KORDA IGAL NÄDALAL</item>
+        <item>KORDA IGAS KUUS</item>
+        <item>KORDA IGAL AASTAL</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>iga kuu esimesel pühapäeval</item>
+        <item>iga kuu teisel pühapäeval</item>
+        <item>iga kuu kolmandal pühapäeval</item>
+        <item>iga kuu neljandal pühapäeval</item>
+        <item>iga kuu viimasel pühapäeval</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>iga kuu esimesel esmaspäeval</item>
+        <item>iga kuu teisel esmaspäeval</item>
+        <item>iga kuu kolmandal esmaspäeval</item>
+        <item>iga kuu neljandal esmaspäeval</item>
+        <item>iga kuu viimasel esmaspäeval</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>iga kuu esimesel teisipäeval</item>
+        <item>iga kuu teisel teisipäeval</item>
+        <item>iga kuu kolmandal teisipäeval</item>
+        <item>iga kuu neljandal teisipäeval</item>
+        <item>iga kuu viimasel teisipäeval</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>iga kuu esimesel kolmapäeval</item>
+        <item>iga kuu teisel kolmapäeval</item>
+        <item>iga kuu kolmandal kolmapäeval</item>
+        <item>iga kuu neljandal kolmapäeval</item>
+        <item>iga kuu viimasel kolmapäeval</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>iga kuu esimesel neljapäeval</item>
+        <item>iga kuu teisel neljapäeval</item>
+        <item>iga kuu kolmandal neljapäeval</item>
+        <item>iga kuu neljandal neljapäeval</item>
+        <item>iga kuu viimasel neljapäeval</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>iga kuu esimesel reedel</item>
+        <item>iga kuu teisel reedel</item>
+        <item>iga kuu kolmandal reedel</item>
+        <item>iga kuu neljandal reedel</item>
+        <item>iga kuu viimasel reedel</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>iga kuu esimesel laupäeval</item>
+        <item>iga kuu teisel laupäeval</item>
+        <item>iga kuu kolmandal laupäeval</item>
+        <item>iga kuu neljandal laupäeval</item>
+        <item>iga kuu viimasel laupäeval</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Jääb paar minutit hiljaks.</item>
+        <item>Olge umbes 10 minuti pärast valmis.</item>
+        <item>Alusta ilma minuta.</item>
+        <item>Kahjuks ma ei jõua. Peame ajakava üle vaatama.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Kesk-Austraalia – NT</item>
+        <item>Kesk-Austraalia – SA</item>
+        <item>Ida-Austraalia aeg – Queensland</item>
+        <item>Ida-Austraalia aeg – New South Wales</item>
+        <item>Mäestikuvööndi standardaeg – Dawson Creek</item>
+        <item>Kesk-Ameerika standardaeg – Saskatchewan</item>
+        <item>Idaranniku standardaeg – Atikokan</item>
+        <item>Atlandi ookeani standardaeg – Québec</item>
+        <item>Hawaii ja Aleuudi saared – Hawaii</item>
+        <item>Hawaii ja Aleuudi saared – Alaska</item>
+        <item>Vaikse ookeani standardaeg – Metlakatla</item>
+        <item>Mäestikuvööndi standardaeg – Arizona</item>
+        <item>Vaikse ookeani aeg – Baja, California</item>
+        <item>Mäestikuvööndi aeg – Chihuahua</item>
+        <item>Kesk-Ameerika aeg – Tamaulipas</item>
+        <item>Mäestikuvööndi aeg – Sonora</item>
+        <item>Ida-Aafrika aeg</item>
+        <item>Atlandi ookeani standardaeg</item>
+        <item>Atlandi ookeani standardaeg</item>
+        <item>Ida-Euroopa aeg</item>
+        <item>Kaliningradi aeg</item>
+        <item>Amazon – Rondônia</item>
+        <item>Brasiilia – Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Saint-Martin</item>
+        <item>Hollandi Kariibi mere saared</item>
+        <item>Curaçao</item>
+        <item>Lõuna-Sudaan</item>
+    </string-array>
+</resources>

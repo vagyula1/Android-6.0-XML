@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Գտնվել է %1$s տպիչ</item>
+        <item quantity="one">Գտնվել է %1$s տպիչ</item>
+    </plurals>
+    <plurals name="composite_notification_title_template">
+        <item quantity="other">%1$d տպման աշխատանք</item>
+        <item quantity="one">%1$d տպման աշխատանք</item>
+    </plurals>
+</resources>

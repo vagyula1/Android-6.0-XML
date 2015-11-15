@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+        <item quantity="few">%d min</item>
+        <item quantity="many">%d min</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d godziny</item>
+        <item quantity="one">%d godzina</item>
+        <item quantity="few">%d godziny</item>
+        <item quantity="many">%d godzin</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d dnia</item>
+        <item quantity="one">%d dzień</item>
+        <item quantity="few">%d dni</item>
+        <item quantity="many">%d dni</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d tygodnia</item>
+        <item quantity="one">tydzień</item>
+        <item quantity="few">%d tygodnie</item>
+        <item quantity="many">%d tygodni</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d miesiąca</item>
+        <item quantity="one">miesiąc</item>
+        <item quantity="few">%d miesiące</item>
+        <item quantity="many">%d miesięcy</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d roku</item>
+        <item quantity="one">rok</item>
+        <item quantity="few">%d lata</item>
+        <item quantity="many">%d lat</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d wiadomości w %2$d wątku</item>
+        <item quantity="one">%d wiadomości w jednym wątku</item>
+        <item quantity="few">%1$d wiadomości w %2$d wątkach</item>
+        <item quantity="many">%1$d wiadomości w %2$d wątkach</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d wiadomości w %2$d wątku</item>
+        <item quantity="one">%d wiadomości w jednym wątku</item>
+        <item quantity="few">%1$d wiadomości w %2$d wątkach</item>
+        <item quantity="many">%1$d wiadomości w %2$d wątkach</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d nowej wiadomości</item>
+        <item quantity="one">Nowa wiadomość</item>
+        <item quantity="few">%d nowe wiadomości</item>
+        <item quantity="many">%d nowych wiadomości</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">Usunąć te wątki?</item>
+        <item quantity="one">Usunąć ten wątek?</item>
+        <item quantity="few">Usunąć te wątki?</item>
+        <item quantity="many">Usunąć te wątki?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d uczestnika</item>
+        <item quantity="one">%d uczestnik</item>
+        <item quantity="few">%d uczestników</item>
+        <item quantity="many">%d uczestników</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">Odrzuć załączniki</item>
+        <item quantity="one">Odrzuć załącznik</item>
+        <item quantity="few">Odrzuć załączniki</item>
+        <item quantity="many">Odrzuć załączniki</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d zdjęcia zapisane w albumie „%2$s”</item>
+        <item quantity="one">%1$d zdjęcie zapisane w albumie „%2$s”</item>
+        <item quantity="few">%1$d zdjęcia zapisane w albumie „%2$s”</item>
+        <item quantity="many">%1$d zdjęć zapisanych w albumie „%2$s”</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d filmu zapisane w albumie „%2$s”</item>
+        <item quantity="one">%1$d film zapisany w albumie „%2$s”</item>
+        <item quantity="few">%1$d filmy zapisane w albumie „%2$s”</item>
+        <item quantity="many">%1$d filmów zapisanych w albumie „%2$s”</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d załącznika zapisane w albumie „%2$s”</item>
+        <item quantity="one">%1$d załącznik zapisany w albumie „%2$s”</item>
+        <item quantity="few">%1$d załączniki zapisane w albumie „%2$s”</item>
+        <item quantity="many">%1$d załączników zapisanych w albumie „%2$s”</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d załącznika zapisane w folderze „Pobrane pliki”</item>
+        <item quantity="one">%d załącznik zapisany w folderze „Pobrane pliki”</item>
+        <item quantity="few">%d załączniki zapisane w folderze „Pobrane pliki”</item>
+        <item quantity="many">%d załączników zapisanych w folderze „Pobrane pliki”</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">%d załącznika zapisane</item>
+        <item quantity="one">%d załącznik zapisany</item>
+        <item quantity="few">%d załączniki zapisane</item>
+        <item quantity="many">%d załączników zapisanych</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">Nie udało się zapisać %d załącznika</item>
+        <item quantity="one">Nie udało się zapisać %d załącznika</item>
+        <item quantity="few">Nie udało się zapisać %d załączników</item>
+        <item quantity="many">Nie udało się zapisać %d załączników</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">Wyślij zdjęcia</item>
+        <item quantity="one">Wyślij zdjęcie</item>
+        <item quantity="few">Wyślij zdjęcia</item>
+        <item quantity="many">Wyślij zdjęcia</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">Wyślij pliki audio</item>
+        <item quantity="one">Wyślij plik audio</item>
+        <item quantity="few">Wyślij pliki audio</item>
+        <item quantity="many">Wyślij pliki audio</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">Wyślij filmy</item>
+        <item quantity="one">Wyślij film</item>
+        <item quantity="few">Wyślij filmy</item>
+        <item quantity="many">Wyślij filmy</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">Wyślij wizytówki</item>
+        <item quantity="one">Wyślij wizytówkę</item>
+        <item quantity="few">Wyślij wizytówki</item>
+        <item quantity="many">Wyślij wizytówki</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">Wyślij załączniki</item>
+        <item quantity="one">Wyślij załącznik</item>
+        <item quantity="few">Wyślij załączniki</item>
+        <item quantity="many">Wyślij załączniki</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d załącznika gotowe do wysłania</item>
+        <item quantity="one">Jeden załącznik gotowy do wysłania</item>
+        <item quantity="few">%d załączniki gotowe do wysłania</item>
+        <item quantity="many">%d załączników gotowych do wysłania</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d kontaktu</item>
+        <item quantity="one">%d kontakt</item>
+        <item quantity="few">%d kontakty</item>
+        <item quantity="many">%d kontaktów</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">Nieprawidłowe kontakty</item>
+        <item quantity="one">Nieprawidłowy kontakt</item>
+        <item quantity="few">Nieprawidłowe kontakty</item>
+        <item quantity="many">Nieprawidłowe kontakty</item>
+    </plurals>
+</resources>

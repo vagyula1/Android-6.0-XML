@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Underretning</item>
+        <item>E-mail</item>
+        <item>Sms</item>
+        <item>Påmindelse</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 minutter</item>
+        <item>1 minut</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+        <item>15 minutter</item>
+        <item>20 minutter</item>
+        <item>25 minutter</item>
+        <item>30 minutter</item>
+        <item>45 minutter</item>
+        <item>1 time</item>
+        <item>2 timer</item>
+        <item>3 timer</item>
+        <item>12 timer</item>
+        <item>24 timer</item>
+        <item>2 dage</item>
+        <item>1 uge</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Ingen</item>
+        <item>0 minutter</item>
+        <item>1 minut</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+        <item>15 minutter</item>
+        <item>20 minutter</item>
+        <item>25 minutter</item>
+        <item>30 minutter</item>
+        <item>45 minutter</item>
+        <item>1 time</item>
+        <item>2 timer</item>
+        <item>3 timer</item>
+        <item>12 timer</item>
+        <item>24 timer</item>
+        <item>2 dage</item>
+        <item>1 uge</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Landestandard</item>
+        <item>lørdag</item>
+        <item>Søndag</item>
+        <item>mandag</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Optaget</item>
+        <item>Ledig</item>
+        <item>Foreløbig</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Standard</item>
+        <item>Privat</item>
+        <item>Offentlig</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>først</item>
+        <item>anden</item>
+        <item>tredje</item>
+        <item>fjerde</item>
+        <item>sidst</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Intet svar</item>
+        <item>Ja</item>
+        <item>Måske</item>
+        <item>Nej</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Kun denne begivenhed</item>
+        <item>Denne og fremtidige begivenheder</item>
+        <item>Alle begivenheder</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Denne og fremtidige begivenheder</item>
+        <item>Alle begivenheder</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Kun denne begivenhed</item>
+        <item>Alle begivenheder i serien</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Dag</item>
+        <item>Uge</item>
+        <item>Måned</item>
+        <item>Dagsorden</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Kun hvis afvist</item>
+        <item>Hvis afvist eller der ikke reageres</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>GENTAG DAGLIGT</item>
+        <item>GENTAG UGENTLIGT</item>
+        <item>GENTAG MÅNEDLIGT</item>
+        <item>GENTAG ÅRLIGT</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>hver første søndag i måneden</item>
+        <item>hver anden søndag</item>
+        <item>hver tredje søndag</item>
+        <item>hver fjerde søndag</item>
+        <item>hver sidste søndag i måneden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>hver første mandag i måneden</item>
+        <item>hver anden mandag</item>
+        <item>hver tredje mandag</item>
+        <item>hver fjerde mandag</item>
+        <item>hver sidste mandag i måneden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>hver første tirsdag i måneden</item>
+        <item>hver anden tirsdag</item>
+        <item>hver tredje tirsdag</item>
+        <item>hver fjerde tirsdag</item>
+        <item>hver sidste tirsdag i måneden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>hver første onsdag i måneden</item>
+        <item>hver anden onsdag</item>
+        <item>hver tredje onsdag</item>
+        <item>hver fjerde onsdag</item>
+        <item>hver sidste onsdag i måneden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>hver første torsdag i måneden</item>
+        <item>hver anden torsdag</item>
+        <item>hver tredje torsdag</item>
+        <item>hver fjerde torsdag</item>
+        <item>hver sidste torsdag i måneden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>hver første fredag i måneden</item>
+        <item>hver anden fredag</item>
+        <item>hver tredje fredag</item>
+        <item>hver fjerde fredag</item>
+        <item>hver sidste fredag i måneden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>hver første lørdag i måneden</item>
+        <item>hver anden lørdag</item>
+        <item>hver tredje lørdag</item>
+        <item>hver fjerde lørdag</item>
+        <item>hver sidste lørdag i måneden</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Er kun et par minutter forsinket.</item>
+        <item>Er der om ca. 10 minutter.</item>
+        <item>Gå bare i gang uden mig.</item>
+        <item>Jeg kan desværre ikke nå det. Vi bliver nødt til at lave en ny aftale.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australsk centraltid – NT</item>
+        <item>Australsk centraltid – SA</item>
+        <item>Australsk tid (øst) – QLD</item>
+        <item>Australsk tid (øst) – NSW</item>
+        <item>Mountain-normaltid – Dawson Creek</item>
+        <item>Normaltid (central) – Saskatchewan</item>
+        <item>Normaltid (øst) – Atikokan</item>
+        <item>Atlantic-normaltid – Quebec</item>
+        <item>Hawaii-Aleutian – Hawaii</item>
+        <item>Hawaii-Aleutian – Alaska</item>
+        <item>Pacific-normaltid – Metlakatla</item>
+        <item>Mountain-normaltid –- Arizona</item>
+        <item>Pacific – Baja California</item>
+        <item>Mountain – Chihuahua</item>
+        <item>Centraltid – Tamaulipas</item>
+        <item>Mountain – Sonora</item>
+        <item>Østafrikansk tid</item>
+        <item>Atlantic-normaltid</item>
+        <item>Atlantic-normaltid</item>
+        <item>Østeuropæisk tid</item>
+        <item>Kaliningrad-tid</item>
+        <item>Amazona – Rondônia</item>
+        <item>Brasilia – Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Hollandsk Caribien</item>
+        <item>Curaçao</item>
+        <item>Sydsudan</item>
+    </string-array>
+</resources>

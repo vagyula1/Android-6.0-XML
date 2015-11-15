@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d hittades</item>
+        <item quantity="one">1 hittades</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d sekunder</item>
+        <item quantity="one">1 sekund</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minuter</item>
+        <item quantity="one">1 minut</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d timmar</item>
+        <item quantity="one">1 timme</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d röstmeddelanden</item>
+        <item quantity="one">röstmeddelande</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d nya röstmeddelanden</item>
+        <item quantity="one">%d nytt röstmeddelande</item>
+    </plurals>
+</resources>

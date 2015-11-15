@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>ప్రత్యుత్తరం పంపండి</item>
+        <item>అందరికీ ప్రత్యు.</item>
+        <item>ఫార్వార్డ్ చేయి</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>విజయవంతం</item>
+        <item>కనెక్షన్ లేదు</item>
+        <item>సైన్ ఇన్ చేయడం సాధ్యపడలేదు</item>
+        <item>భద్రతా లోపం</item>
+        <item>సమకాలీకరించడం సాధ్యపడలేదు</item>
+        <item>అంతర్గత లోపం</item>
+        <item>సర్వర్ లోపం</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>కొత్తది</item>
+        <item>పాతది</item>
+        <item>సంభాషణ జాబితా</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>కొత్త సంభాషణ మీరు తొలగించిన తర్వాత చూపబడాలి</item>
+        <item>పాత సంభాషణ మీరు తొలగించిన తర్వాత చూపబడాలి</item>
+        <item>సంభాషణ జాబితా మీరు తొలగించిన తర్వాత చూపబడాలి</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>ఆర్కైవ్ చేయి</item>
+        <item>తొలగించు</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>ఆర్కైవ్ చేస్తుంది</item>
+        <item>తొలగిస్తుంది</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>స్క్రీన్ ఎగువన ఎల్లప్పుడూ సందేశ చర్యలను చూపు</item>
+        <item>పోర్ట్రెయిట్‌కి తిప్పబడినప్పుడు స్క్రీన్ ఎగువన మాత్రమే సందేశ చర్యలను చూపు</item>
+        <item>సందేశ ముఖ్యశీర్షికకు వెలుపల సందేశ చర్యలను చూపవద్దు</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>ఎల్లప్పుడూ చూపు</item>
+        <item>పోర్ట్రెయిట్‌లో మాత్రమే చూపు</item>
+        <item>చూపవద్దు</item>
+    </string-array>
+</resources>

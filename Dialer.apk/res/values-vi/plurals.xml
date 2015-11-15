@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Đã tìm thấy %d</item>
+        <item quantity="one">Đã tìm thấy 1</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d giây</item>
+        <item quantity="one">1 giây</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d phút</item>
+        <item quantity="one">1 phút</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d giờ</item>
+        <item quantity="one">1 giờ</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Thư thoại</item>
+        <item quantity="one">Thư thoại</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d thư thoại mới</item>
+        <item quantity="one">%d thư thoại mới</item>
+    </plurals>
+</resources>

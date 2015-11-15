@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">"Nog net %1$d stappe oor voordat jy 'n ontwikkelaar is."</item>
+        <item quantity="one">"Nog net %1$d stap oor voordat jy 'n ontwikkelaar is."</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d vingerafdrukke is opgestel</item>
+        <item quantity="one">%1$d vingerafdruk is opgestel</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Wagwoord moet minstens %d letters bevat.</item>
+        <item quantity="one">Wagwoord moet minstens 1 letter bevat.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Wagwoord moet minstens %d kleinletters bevat.</item>
+        <item quantity="one">Wagwoord moet minstens 1 kleinletter bevat.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Wagwoord moet minstens %d hoofletters bevat.</item>
+        <item quantity="one">Wagwoord moet minstens 1 hoofletter bevat.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Wagwoord moet minstens %d syfers bevat.</item>
+        <item quantity="one">Wagwoord moet minstens 1 syfer bevat.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Wagwoord moet minstens %d spesiale simbole bevat.</item>
+        <item quantity="one">Wagwoord moet minstens 1 spesiale simbool bevat.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Wagwoord moet minstens %d nieletter-karakters bevat.</item>
+        <item quantity="one">Wagwoord moet minstens 1 nieletter-karakter bevat.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Verkeerde SIM-PIN-kode. Jy het %d pogings oor.</item>
+        <item quantity="one">Verkeerde SIM-PIN. %d poging oor voor jy jou diensverskaffer moet kontak om jou toestel te ontsluit.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d programme kan kennisgewings lees</item>
+        <item quantity="one">%d program kan kennisgewings lees</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Verander na net wekkers vir %1$d minute (tot %2$s)</item>
+        <item quantity="one">Verander na net wekkers vir een minuut tot %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Verander na net wekkers vir %1$d uur tot %2$s</item>
+        <item quantity="one">Verander na net wekkers vir een uur tot %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d toestemmings verleen</item>
+        <item quantity="one">%d toestemming verleen</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d van %2$d toestemmings verleen</item>
+        <item quantity="one">%1$d van %2$d toestemming verleen</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d bykomende toestemmings</item>
+        <item quantity="one">%d bykomende toestemming</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d programme kan hul gesteunde skakels oopmaak</item>
+        <item quantity="one">Een program kan sy gesteunde skakels oopmaak</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d programme is toegelaat om batteryoptimalisering te ignoreer</item>
+        <item quantity="one">1 program is toegelaat om batteryoptimalisering te ignoreer</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d programme het geheue gebruik in die afgelope %2$s</item>
+        <item quantity="one">1 program het geheue gebruik in die afgelope %2$s</item>
+    </plurals>
+</resources>

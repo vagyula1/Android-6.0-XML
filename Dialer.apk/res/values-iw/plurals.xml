@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">נמצאו %d</item>
+        <item quantity="one">נמצא אחד</item>
+        <item quantity="two">נמצאו %d</item>
+        <item quantity="many">נמצאו %d</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d שניות</item>
+        <item quantity="one">שנייה אחת</item>
+        <item quantity="two">%d שניות</item>
+        <item quantity="many">%d שניות</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה אחת</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה אחת</item>
+        <item quantity="two">%d שעות</item>
+        <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d הודעות דואר קולי</item>
+        <item quantity="one">הודעת דואר קולי</item>
+        <item quantity="two">%1$d הודעות דואר קולי</item>
+        <item quantity="many">%1$d הודעות דואר קולי</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d הודעות דואר קולי חדשות</item>
+        <item quantity="one">הודעת דואר קולי חדשה %d</item>
+        <item quantity="two">%d הודעות דואר קולי חדשות</item>
+        <item quantity="many">%d הודעות דואר קולי חדשות</item>
+    </plurals>
+</resources>

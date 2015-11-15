@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="reenter_fullscreen_delay_time_in_millis">5000</integer>
+    <integer name="chips_max_lines">-1</integer>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="abc_max_action_buttons">2</integer>
+    <integer name="apnsAndMmsConfigsVersion">0</integer>
+    <integer name="mediapicker_transition_duration">600</integer>
+    <integer name="asyncimage_transition_duration">300</integer>
+    <integer name="compose_transition_duration">300</integer>
+    <integer name="camera_shutter_duration">200</integer>
+    <integer name="snackbar_translation_duration_ms">300</integer>
+    <integer name="swipe_duration_ms">300</integer>
+    <integer name="swipe_max_fling_velocity_px_per_s">4000</integer>
+    <integer name="fab_animation_duration_ms">300</integer>
+    <integer name="list_to_conversation_animation_duration_ms">300</integer>
+    <integer name="reveal_view_animation_duration">300</integer>
+</resources>

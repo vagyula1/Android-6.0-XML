@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Керування дзвінками</string>
+    <string name="userCallActivityLabel">Телефон</string>
+    <string name="unknown">Невідомий</string>
+    <string name="notification_missedCallTitle">Пропущений виклик</string>
+    <string name="notification_missedCallsTitle">Пропущ. дзвінки</string>
+    <string name="notification_missedCallsMsg">Пропущ. дзвінк: %s</string>
+    <string name="notification_missedCallTicker">Пропущ. виклик від %s</string>
+    <string name="notification_missedCall_call_back">Передзвонити</string>
+    <string name="notification_missedCall_message">Повідомлення</string>
+    <string name="accessibility_call_muted">Звук виклику вимкнено.</string>
+    <string name="accessibility_speakerphone_enabled">Гучний зв’язок увімкнено.</string>
+    <string name="respond_via_sms_canned_response_1">Не можу говорити. У чому справа?</string>
+    <string name="respond_via_sms_canned_response_2">Я зараз передзвоню.</string>
+    <string name="respond_via_sms_canned_response_3">Я передзвоню пізніше.</string>
+    <string name="respond_via_sms_canned_response_4">Не можу говорити. Передзвоніть.</string>
+    <string name="respond_via_sms_setting_title">Швидкі відповіді</string>
+    <string name="respond_via_sms_setting_title_2">Редагувати швидкі відповіді</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Швидка відповідь</string>
+    <string name="respond_via_sms_confirmation_format">Повідомлення надіслано на номер %s.</string>
+    <string name="enable_account_preference_title">Облікові записи для дзвінків</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Власник пристрою дозволив лише екстрені виклики.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Цей додаток не може телефонувати без відповідного дозволу.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Щоб зателефонувати, введіть дійсний номер.</string>
+    <string name="duplicate_video_call_not_allowed">Зараз не можна почати дзвінок.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Щоб здійснювати відеодзвінки, вимкніть режим TTY.</string>
+    <string name="no_vm_number">Відстуній номер голосової пошти</string>
+    <string name="no_vm_number_msg">На SIM-карті немає збереж. номерів голос. пошти.</string>
+    <string name="add_vm_number_str">Додати номер</string>
+    <string name="change_default_dialer_dialog_title">Змінити додаток для дзвінків за умовчанням?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Зробити %1$s додатком для дзвінків за умовчанням замість додатка %2$s?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Зробити %s додатком для дзвінків за умовчанням?</string>
+</resources>

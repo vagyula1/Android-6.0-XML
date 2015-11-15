@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Cavablayın</item>
+        <item>Hamıya cavab</item>
+        <item>Yönləndirin</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Uğur</item>
+        <item>Bağlantı yoxdur</item>
+        <item>Daxil ola bilmədi</item>
+        <item>Təhlükəsizlik xətası</item>
+        <item>Sinxronlaşa bilmədi</item>
+        <item>Daxili Xəta</item>
+        <item>Server Xətası</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Yeni</item>
+        <item>Köhnə</item>
+        <item>Söhbət siyahısı</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Silinəndən sonra yeni söhbəti göstər</item>
+        <item>Silinəndən sonra köhnə söhbəti göstər</item>
+        <item>Silinəndən sonra söhbət siyahısı göstər</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Arxiv</item>
+        <item>Sil</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Arxiv</item>
+        <item>Sil</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Həmişə mesaj əməliyyatlarını ekranın yuxarısında göstər</item>
+        <item>Yalnız portret rejiminə keçən zaman mesaj əməliyyatlarını ekranın yuxarısında göstər</item>
+        <item>Mesaj başlığından kənarda mesaj əməliyyatlarını göstərmə</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Həmişə göstər</item>
+        <item>Yalnız portret rejimində göstər</item>
+        <item>Göstərmə</item>
+    </string-array>
+</resources>

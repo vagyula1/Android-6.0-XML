@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Skice</item>
+        <item quantity="one">Skica</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Izbrisati ove razgovore (ukupno %1$d)?</item>
+        <item quantity="one">Izbrisati ovaj razgovor?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Arhivirati ove razgovore (ukupno %1$d)?</item>
+        <item quantity="one">Arhivirati ovaj razgovor?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Želite li odbaciti sljedeći broj poruka: %1$d?</item>
+        <item quantity="one">Želite li odbaciti ovu poruku?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Broj razgovora s uklonjenom zvjezdicom: %1$d</item>
+        <item quantity="one">Uklanjanje zvjezdice s %1$d razgovora</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">Razgovori s isključenim zvukom: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Isključen zvuk &amp;lt;b>%1$d&amp;lt;/b> razgovora</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">Broj razgovora prijavljenih kao neželjena pošta: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> razgovor prijavljen kao neželjena pošta</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">Broj razgovora za koje je prijavljeno da nisu neželjeno pošta: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Prijavljeno je da &amp;lt;b>%1$d&amp;lt;/b> razgovor nije neželjena pošta</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">Broj razgovora označenih kao nevažnih: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> razgovor označen kao nevažan</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">Broj razgovora prijavljenih za krađu identiteta: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> razgovor prijavljen za krađu identiteta</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">Arhiviranih razgovora: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> arhivirani razgovor</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">Izbrisano &amp;lt;b>%1$d&amp;lt;/b> poruka</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> poruka izbrisana</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Promijenjene mape</item>
+        <item quantity="one">Promijenjena mapa</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">Novih poruka: %1$d</item>
+        <item quantity="one">%1$d nova poruka</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Proširi %1$d starije poruke</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Prošireno starijih poruka: %1$d</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">Nepročitano: %1$d</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">Novih poruka: %1$d</item>
+        <item quantity="one">%1$d nova poruka</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Sljedeći broj poruka izbrisat će se zauvijek: %1$d.</item>
+        <item quantity="one">%1$d poruka izbrisat će se zauvijek.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">Broj poruka: %1$d</item>
+        <item quantity="one">%1$d poruka</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">Broj privitaka: %1$d</item>
+        <item quantity="one">%1$d privitak</item>
+    </plurals>
+</resources>

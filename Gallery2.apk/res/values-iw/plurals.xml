@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">האם למחוק את הפריטים שנבחרו?</item>
+        <item quantity="one">האם למחוק את הפריט שנבחר?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">‏%1$d נבחרו</item>
+        <item quantity="zero">‏%1$d נבחרו</item>
+        <item quantity="one">‏%1$d נבחר</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">‏%1$d נבחרו</item>
+        <item quantity="zero">‏%1$d נבחרו</item>
+        <item quantity="one">‏%1$d נבחר</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">‏%1$d נבחרו</item>
+        <item quantity="zero">‏%1$d נבחרו</item>
+        <item quantity="one">‏%1$d נבחרו</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">הופך את האלבומים לזמינים באופן לא מקוון.</item>
+        <item quantity="one">הופך את האלבום לזמין במצב לא מקוון.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">‏%1$d פריטים נסרקו</item>
+        <item quantity="zero">‏%1$d פריטים נסרקו</item>
+        <item quantity="one">‏פריט %1$d נסרק</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">‏%d שניות</item>
+        <item quantity="one">שנייה אחת</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">‏%1$d תמונות</item>
+        <item quantity="one">‏תמונה %1$d</item>
+    </plurals>
+</resources>

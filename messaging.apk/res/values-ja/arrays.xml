@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>件名なし</item>
+        <item>件名なし</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>はい</item>
+        <item>いいえ</item>
+        <item>OK</item>
+        <item>笑</item>
+        <item>ありがとう</item>
+        <item>賛成</item>
+        <item>ナイス</item>
+        <item>すぐに連絡します</item>
+        <item>後で連絡します</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

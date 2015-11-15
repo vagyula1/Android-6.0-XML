@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Oznámení</item>
+        <item>E-mail</item>
+        <item>SMS</item>
+        <item>Budík</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 minut</item>
+        <item>1 minuta</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>20 minut</item>
+        <item>25 minut</item>
+        <item>30 minut</item>
+        <item>45 minut</item>
+        <item>1 hodina</item>
+        <item>2 hodiny</item>
+        <item>3 hodiny</item>
+        <item>12 hodin</item>
+        <item>24 hodin</item>
+        <item>2 dny</item>
+        <item>1 týden</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Žádné</item>
+        <item>0 minut</item>
+        <item>1 minuta</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>20 minut</item>
+        <item>25 minut</item>
+        <item>30 minut</item>
+        <item>45 minut</item>
+        <item>1 hodina</item>
+        <item>2 hodiny</item>
+        <item>3 hodiny</item>
+        <item>12 hodin</item>
+        <item>24 hodin</item>
+        <item>2 dny</item>
+        <item>1 týden</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Výchozí hodnota regionálního nastavení</item>
+        <item>Sobota</item>
+        <item>Neděle</item>
+        <item>Pondělí</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Nemám čas</item>
+        <item>K dispozici</item>
+        <item>Možná</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Výchozí nastavení</item>
+        <item>Soukromá</item>
+        <item>Veřejná</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>poslední</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Žádná odpověď</item>
+        <item>Ano</item>
+        <item>Možná</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Pouze tato událost</item>
+        <item>Tato a budoucí události</item>
+        <item>Všechny události</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Tato a budoucí události</item>
+        <item>Všechny události</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Pouze tato událost</item>
+        <item>Všechny instance události</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Den</item>
+        <item>Týden</item>
+        <item>Měsíc</item>
+        <item>Agenda</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Jen v případě odmítnutí</item>
+        <item>Při odmítnutí nebo bez odpovědi</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>OPAKOVAT DENNĚ</item>
+        <item>OPAKOVAT TÝDNĚ</item>
+        <item>OPAKOVAT MĚSÍČNĚ</item>
+        <item>OPAKOVAT ROČNĚ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>každou první neděli</item>
+        <item>každou druhou neděli</item>
+        <item>každou třetí neděli</item>
+        <item>každou čtvrtou neděli</item>
+        <item>každou poslední neděli</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>každé první pondělí</item>
+        <item>každé druhé pondělí</item>
+        <item>každé třetí pondělí</item>
+        <item>každé čtvrté pondělí</item>
+        <item>každé poslední pondělí</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>každé první úterý</item>
+        <item>každé druhé úterý</item>
+        <item>každé třetí úterý</item>
+        <item>každé čtvrté úterý</item>
+        <item>každé poslední úterý</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>každou první středu</item>
+        <item>každou druhou středu</item>
+        <item>každou třetí středu</item>
+        <item>každou čtvrtou středu</item>
+        <item>každou poslední středu</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>každý první čtvrtek</item>
+        <item>každý druhý čtvrtek</item>
+        <item>každý třetí čtvrtek</item>
+        <item>každý čtvrtý čtvrtek</item>
+        <item>každý poslední čtvrtek</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>každý první pátek</item>
+        <item>každý druhý pátek</item>
+        <item>každý třetí pátek</item>
+        <item>každý čtvrtý pátek</item>
+        <item>každý poslední pátek</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>každou první sobotu</item>
+        <item>každou druhou sobotu</item>
+        <item>každou třetí sobotu</item>
+        <item>každou čtvrtou sobotu</item>
+        <item>každou poslední sobotu</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Opozdím se o několik minut.</item>
+        <item>Jsem tam za 10 minut.</item>
+        <item>Začněte beze mne.</item>
+        <item>Lituji, nestíhám. Naplánujeme to na jindy.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Středoaustralský čas – NT</item>
+        <item>Středoaustralský čas – SA</item>
+        <item>Východoaustralský čas – QLD</item>
+        <item>Východoaustralský čas – NSW</item>
+        <item>Horský standardní – Dawson Creek</item>
+        <item>Centrální standardní – Saskatch.</item>
+        <item>Východní standardní – Atikokan</item>
+        <item>Atlantický standardní – Québec</item>
+        <item>Havajsko-aleutský čas – Havaj</item>
+        <item>Havajsko-aleutský čas – Aljaška</item>
+        <item>Pacific. standardní – Metlakatla</item>
+        <item>Horský standardní čas – Arizona</item>
+        <item>Pacifický čas – Baja California</item>
+        <item>Horský čas – Chihuahua</item>
+        <item>Severoamerický centrální čas – Tamaulipas</item>
+        <item>Horský čas – Sonora</item>
+        <item>Východoafrický čas</item>
+        <item>Atlantický standardní čas</item>
+        <item>Atlantický standardní čas</item>
+        <item>Východoevropský čas</item>
+        <item>Kaliningradský čas</item>
+        <item>Amazonie – Rondônia</item>
+        <item>Brazílie – Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Karibské Nizozemsko</item>
+        <item>Curaçao</item>
+        <item>Jižní Súdán</item>
+    </string-array>
+</resources>

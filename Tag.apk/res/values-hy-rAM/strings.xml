@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Պիտակներ</string>
+    <string name="title_scanned_tag">Նոր պիտակ է գտնվել</string>
+    <string name="title_existing_tag">Պիտակ</string>
+    <string name="tag_unknown">Պիտակի անհայտ տեսակ</string>
+    <string name="tag_empty">Դատարկ պիտակ</string>
+    <string name="button_done">Պատրաստ է</string>
+    <string name="action_text">Գրել %s-ին</string>
+    <string name="action_call">Զանգել %s-ին</string>
+    <string name="empty_tag_prompt">Այս պիտակը դատարկ է:</string>
+    <string name="import_vcard">Ներմուծել ^1</string>
+    <string name="mime_display_name">Տվյալներ NFC պիտակից</string>
+    <string name="vcard_title">Կոնտակտային տվյալներ ^1-ի համար</string>
+</resources>

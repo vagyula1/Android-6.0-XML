@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="avatarPosition">
+        <enum name="end" value="0" />
+        <enum name="start" value="1" />
+    </attr>
+    <attr name="chipBackground" format="reference" />
+    <attr name="chipDelete" format="reference" />
+    <attr name="chipFontSize" format="reference" />
+    <attr name="chipHeight" format="reference" />
+    <attr name="chipPadding" format="reference" />
+    <attr name="disableDelete" format="boolean" />
+    <attr name="invalidChipBackground" format="reference" />
+    <attr name="imageSpanAlignment">
+        <enum name="baseline" value="1" />
+        <enum name="bottom" value="0" />
+    </attr>
+    <attr name="unselectedChipBackgroundColor" format="color" />
+    <attr name="selectedChipBackgroundColor" format="color" />
+    <attr name="unselectedChipTextColor" format="color" />
+    <attr name="selectedChipTextColor" format="color" />
+</resources>

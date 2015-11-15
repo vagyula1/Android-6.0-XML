@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">%1$d ဖိုင်များကို ကူးယူနေသည်။</item>
+        <item quantity="one">%1$d ဖိုင် ကူးယူနေသည်။</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">%1$d ဖိုင် ကော်ပီ မကူးနိုင်ပါ</item>
+        <item quantity="one">%1$d ဖိုင် ကော်ပီမကူးနိုင်ပါ</item>
+    </plurals>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d минута</item>
+        <item quantity="one">1 минут</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d мин</item>
+        <item quantity="one">1 мин</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d сата(и)</item>
+        <item quantity="one">1 сат</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d дана</item>
+        <item quantity="one">1 дан</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">%d. НЕДЕЉА</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d пута</item>
+        <item quantity="one">; једанпут</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">На %d дана</item>
+        <item quantity="one">Дневно</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">На %1$d недеље(а) (%2$s)</item>
+        <item quantity="one">Недељно (%2$s)</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d догађаја</item>
+        <item quantity="one">1 догађај</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">још %d догађаја</item>
+        <item quantity="one">још 1 догађај</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">На %d дана</item>
+        <item quantity="one">На %d дан</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">На %d недеље(а)</item>
+        <item quantity="one">На %d недељу</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">На %d месеца(и)</item>
+        <item quantity="one">На %d месец</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">На %d године(а)</item>
+        <item quantity="one">На %d годину</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">За %d догађаја</item>
+        <item quantity="one">За %d догађај</item>
+    </plurals>
+</resources>

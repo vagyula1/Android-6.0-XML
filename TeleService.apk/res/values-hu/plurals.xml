@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">%s perce nincs adatkapcsolat</item>
+        <item quantity="one">%s perce nincs adatkapcsolat</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">A telefon %s percig lesz Segélykérő visszahívása módban. Ebben az üzemmódban nem használhatók olyan alkalmazások, amelyeknél adatkapcsolatra van szükség. Szeretne kilépni most?</item>
+        <item quantity="one">A telefon %s percig lesz Segélykérő visszahívása módban. Ebben az üzemmódban nem használhatók olyan alkalmazások, amelyeknél adatkapcsolatra van szükség. Szeretne kilépni most?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">A választott művelet nem érhető el Segélykérő visszahívása módban. A telefon %s percig lesz ebben a módban. Szeretne kilépni most?</item>
+        <item quantity="one">A választott művelet nem érhető el Segélykérő visszahívása módban. A telefon %s percig lesz ebben a módban. Szeretne kilépni most?</item>
+    </plurals>
+</resources>

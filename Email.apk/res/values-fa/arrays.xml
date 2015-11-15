@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>پاسخ</item>
+        <item>پاسخ به همه</item>
+        <item>باز ارسال</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>موفق شدید</item>
+        <item>اتصال برقرار نیست</item>
+        <item>ورود به سیستم ممکن نیست</item>
+        <item>خطای امنیتی</item>
+        <item>همگام‌سازی نشد</item>
+        <item>خطای داخلی</item>
+        <item>خطای سرور</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>جدیدتر</item>
+        <item>قدیمی‌تر</item>
+        <item>فهرست مکالمات</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>بعد از حذف مکالمه جدیدتر را نشان می‌دهد</item>
+        <item>بعد از حذف مکالمه قدیمی‌تر را نشان می‌دهد</item>
+        <item>بعد از حذف فهرست مکالمات را نشان می‌دهد</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>بایگانی</item>
+        <item>حذف</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>بایگانی</item>
+        <item>حذف</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>عملکردهای پیام همیشه در بالای صفحه نشان داده شود</item>
+        <item>عملکردهای پیام فقط وقتی در بالای صفحه نشان داده شود که به حالت عمودی چرخانده می‌شود</item>
+        <item>عملکردهای پیام خارج از سرصفحه پیام نشان داده نشود</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>همیشه نشان داده شود</item>
+        <item>فقط در حالت عمودی نشان داده شود</item>
+        <item>نشان داده نشود</item>
+    </string-array>
+</resources>

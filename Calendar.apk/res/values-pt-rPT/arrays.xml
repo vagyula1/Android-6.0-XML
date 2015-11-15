@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Notificação</item>
+        <item>Email</item>
+        <item>SMS</item>
+        <item>Alarme</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 minutos</item>
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+        <item>45 minutos</item>
+        <item>1 hora</item>
+        <item>2 horas</item>
+        <item>3 horas</item>
+        <item>12 horas</item>
+        <item>24 horas</item>
+        <item>2 dias</item>
+        <item>1 semana</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Nenhum</item>
+        <item>0 minutos</item>
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+        <item>45 minutos</item>
+        <item>1 hora</item>
+        <item>2 horas</item>
+        <item>3 horas</item>
+        <item>12 horas</item>
+        <item>24 horas</item>
+        <item>2 dias</item>
+        <item>1 semana</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Local predefinido</item>
+        <item>Sábado</item>
+        <item>Domingo</item>
+        <item>Segunda-feira</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Ocupado</item>
+        <item>Disponível</item>
+        <item>Tentativa</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Predefinido</item>
+        <item>Particular</item>
+        <item>Público</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>primeiro/a</item>
+        <item>segundo/a</item>
+        <item>terceiro/a</item>
+        <item>quarto/a</item>
+        <item>último</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Sem resposta</item>
+        <item>Sim</item>
+        <item>Talvez</item>
+        <item>Não</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Apenas este evento</item>
+        <item>Este e futuros eventos</item>
+        <item>Todos os eventos</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Este e futuros eventos</item>
+        <item>Todos os eventos</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Apenas este evento</item>
+        <item>Todos os eventos da série</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Dia</item>
+        <item>Semana</item>
+        <item>Mês</item>
+        <item>Agenda</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Apenas se recusado</item>
+        <item>Se recusado ou sem resposta</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>REPETIR DIARIAMENTE</item>
+        <item>REPETIR SEMANALMENTE</item>
+        <item>REPETIR MENSALMENTE</item>
+        <item>REPETIR ANUALMENTE</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>em cada primeiro domingo</item>
+        <item>em cada segundo domingo</item>
+        <item>em cada terceiro domingo</item>
+        <item>em cada quarto domingo</item>
+        <item>em cada último domingo</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>em cada primeira segunda-feira</item>
+        <item>em cada segunda segunda-feira</item>
+        <item>em cada terceira segunda-feira</item>
+        <item>em cada quarta segunda-feira</item>
+        <item>em cada última segunda-feira</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>em cada primeira terça-feira</item>
+        <item>em cada segunda terça-feira</item>
+        <item>em cada terceira terça-feira</item>
+        <item>em cada quarta terça-feira</item>
+        <item>em cada última terça-feira</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>em cada primeira quarta-feira</item>
+        <item>em cada segunda quarta-feira</item>
+        <item>em cada terceira quarta-feira</item>
+        <item>em cada quarta quarta-feira</item>
+        <item>em cada última quarta-feira</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>em cada primeira quinta-feira</item>
+        <item>em cada segunda quinta-feira</item>
+        <item>em cada terceira quinta-feira</item>
+        <item>em cada quarta quinta-feira</item>
+        <item>em cada última quinta-feira</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>em cada primeira sexta-feira</item>
+        <item>em cada segunda sexta-feira</item>
+        <item>em cada terceira sexta-feira</item>
+        <item>em cada quarta sexta-feira</item>
+        <item>em cada última sexta-feira</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>em cada primeiro sábado</item>
+        <item>em cada segundo sábado</item>
+        <item>em cada terceiro sábado</item>
+        <item>em cada quarto sábado</item>
+        <item>em cada último sábado</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Estou ligeiramente atrasado(a).</item>
+        <item>Chego daqui a cerca de 10 minutos.</item>
+        <item>Podem começar sem mim.</item>
+        <item>Lamento, mas não me é possível comparecer. Temos de reagendar.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Austrália Central – TN</item>
+        <item>Austrália Central – AS</item>
+        <item>Austrália Oriental – QLD</item>
+        <item>Austrália Oriental – NSW</item>
+        <item>Padrão Montanhas – Dawson Creek</item>
+        <item>Padrão Central – Saskatchewan</item>
+        <item>Padrão Oriental – Atikokan</item>
+        <item>Padrão do Atlântico – Quebeque</item>
+        <item>Havai-Aleútes – Havai</item>
+        <item>Havai-Aleútes – Alasca</item>
+        <item>Padrão do Pacífico – Metlakatla</item>
+        <item>Padrão das Montanhas – Arizona</item>
+        <item>Pacífico – Baja Califórnia</item>
+        <item>Montanhas – Chihuahua</item>
+        <item>Central – Tamaulipas</item>
+        <item>Montanhas – Sonora</item>
+        <item>Hora da África Oriental</item>
+        <item>Hora Padrão do Atlântico</item>
+        <item>Hora Padrão do Atlântico</item>
+        <item>Hora da Europa de Leste</item>
+        <item>Hora de Kaliningrado</item>
+        <item>Amazónia - Rondónia</item>
+        <item>Brasília - Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>São Martinho</item>
+        <item>Países Baixos Caribenhos</item>
+        <item>Curaçao</item>
+        <item>Sudão do Sul</item>
+    </string-array>
+</resources>

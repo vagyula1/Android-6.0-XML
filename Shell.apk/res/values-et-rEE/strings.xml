@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Kest</string>
+    <string name="bugreport_finished_title">Veaaruanne jäädvustati</string>
+    <string name="bugreport_finished_text">Veaaruande jagamiseks puudutage</string>
+    <string name="bugreport_confirm">Veaaruanded sisaldavad andmeid erinevatest süsteemi logifailidest, sh isiklikku ja privaatset teavet. Jagage veaaruandeid ainult usaldusväärsete rakenduste ja inimestega.</string>
+    <string name="bugreport_confirm_repeat">Kuva see sõnum järgmisel korral</string>
+    <string name="bugreport_storage_title">Veaaruanded</string>
+</resources>

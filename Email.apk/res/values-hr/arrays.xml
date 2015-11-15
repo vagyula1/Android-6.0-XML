@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Odgovor</item>
+        <item>Odgovori svima</item>
+        <item>Proslijedi</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Uspjeh</item>
+        <item>Nema veze</item>
+        <item>Neuspjela prijava</item>
+        <item>Sigurnosna pogreška</item>
+        <item>Sinkronizacija nije moguća</item>
+        <item>Interna pogreška</item>
+        <item>Pogreška poslužitelja</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Novije</item>
+        <item>Starije</item>
+        <item>Popis razgovora</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Prikaz novijeg razgovora nakon brisanja</item>
+        <item>Prikaz starijeg razgovora nakon brisanja</item>
+        <item>Prikaz popisa razgovora nakon brisanja</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Arhiviraj</item>
+        <item>Izbriši</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Arhiviraj</item>
+        <item>Izbriši</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Uvijek prikaži radnje poruka pri vrhu zaslona</item>
+        <item>Prikazuj radnje poruka pri vrhu zaslona samo kada je orijentacija okomita</item>
+        <item>Nemoj prikazivati radnje poruka izvan zaglavlja poruke</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Uvijek prikaži</item>
+        <item>Prikaži samo u okomitom prikazu</item>
+        <item>Ne prikazuj</item>
+    </string-array>
+</resources>

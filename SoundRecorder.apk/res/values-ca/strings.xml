@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Enregistrador de so</string>
+    <string name="record_your_message">Enregistreu el missatge</string>
+    <string name="message_recorded">Missatge enregistrat</string>
+    <string name="review_message">Revisió del missatge</string>
+    <string name="recording">"S'està enregistrant"</string>
+    <string name="recording_stopped">Enregistrament aturat</string>
+    <string name="storage_is_full">"L'emmagatzematge és ple"</string>
+    <string name="max_length_reached">"S'ha arribat a la longitud màxima"</string>
+    <string name="insert_sd_card">"Instal·la l'emmagatzematge USB"</string>
+    <string name="min_available">%d min disponibles</string>
+    <string name="sec_available">%d s disponibles</string>
+    <string name="accept">Fet</string>
+    <string name="discard">Descarta</string>
+    <string name="button_ok">"D'acord"</string>
+    <string name="audio_db_artist_name">Els teus enregistraments</string>
+    <string name="audio_db_album_name">"Enregistraments d'àudio"</string>
+    <string name="audio_db_playlist_name">Els meus enregistraments</string>
+    <string name="error_sdcard_access">"No es pot accedir a l'emmagatzematge USB."</string>
+    <string name="error_app_internal">"Error intern d'aplicació."</string>
+    <string name="error_mediadb_new_record">"No s'ha pogut desar l'àudio registrat."</string>
+</resources>

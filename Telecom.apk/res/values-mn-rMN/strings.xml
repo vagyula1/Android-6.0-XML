@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Гар утасны Дуудлагын Удирдлага</string>
+    <string name="userCallActivityLabel">Гар утас</string>
+    <string name="unknown">Тодорхойгүй</string>
+    <string name="notification_missedCallTitle">Аваагүй дуудлага</string>
+    <string name="notification_missedCallsTitle">Аваагүй дуудлагууд</string>
+    <string name="notification_missedCallsMsg">%s аваагүй дуудлага</string>
+    <string name="notification_missedCallTicker">%s-н аваагүй дуудлага</string>
+    <string name="notification_missedCall_call_back">Буцааж залгах</string>
+    <string name="notification_missedCall_message">Зурвас</string>
+    <string name="accessibility_call_muted">Дууг хаасан.</string>
+    <string name="accessibility_speakerphone_enabled">Чанга яригчийг идэвхжүүлсэн.</string>
+    <string name="respond_via_sms_canned_response_1">Ярих боломжгүй байна. Сонин юу байна?</string>
+    <string name="respond_via_sms_canned_response_2">Би тань руу яг одоо буцаагаад залгана.</string>
+    <string name="respond_via_sms_canned_response_3">Би тань руу дараа залгана.</string>
+    <string name="respond_via_sms_canned_response_4">Одоо ярих боломжгүй байна. Дараа надруу залгах уу?</string>
+    <string name="respond_via_sms_setting_title">Шуурхай хариунууд</string>
+    <string name="respond_via_sms_setting_title_2">Шуурхай хариунуудыг засах</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Шуурхай хариу</string>
+    <string name="respond_via_sms_confirmation_format">Зурвасыг %s руу илгээв.</string>
+    <string name="enable_account_preference_title">Дуудлагын эрхтэй бүртгэлүүд</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Энэхүү төхөөрөмжийн эзэмшигч нь зөвхөн түргэн тусламжийн дуудлага хийх боломжтой болгосон.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Энэ апп нь утасны зөвшөөрөлгүйгээр дуудлага хийх боломжгүй.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Дуудлага хийхийн тулд хүчин төгөлдөр дугаар оруулна уу.</string>
+    <string name="duplicate_video_call_not_allowed">Одоо дуудлага нэмэх боломжгүй.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Видео дуудлага хийхийн тулд TTY горимыг идэвхгүй болгоно уу.</string>
+    <string name="no_vm_number">Дуут шуудангийн дугаар байхгүй</string>
+    <string name="no_vm_number_msg">SIM карт дээр дуут шуудангийн дугаар хадгалагдаагүй байна.</string>
+    <string name="add_vm_number_str">Дугаар нэмэх</string>
+    <string name="change_default_dialer_dialog_title">Үндсэн залгагч апп-ыг өөрчлөх үү?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">%1$s-ыг %2$s-ын оронд таны үндсэн залгагч апп болгон тохируулах уу?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">%s-ыг таны үндсэн залгагч апп болгон тохируулах уу?</string>
+</resources>

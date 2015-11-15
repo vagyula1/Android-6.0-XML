@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wc_widget_12_hours_format">h:mm <font size="16" face="sans-serif"><b>a</b></font></string>
+    <string name="main_clock_12_hours_format">h:mm <font size="18" face="sans-serif"><b>a</b></font></string>
+    <string name="world_clock_12_hours_format">h:mm <font size="18" face="sans-serif"><b>a</b></font></string>
+    <string name="alarm_time_12_hours_format">h:mm <font size="24" face="sans-serif"><b>a</b></font></string>
+</resources>

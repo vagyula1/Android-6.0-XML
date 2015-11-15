@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">I-Shell</string>
+    <string name="bugreport_finished_title">Umbiko wesiphazamisi uthwetshuliwe</string>
+    <string name="bugreport_finished_text">Thinta ukuze wabelane ngombiko wakho wesiphazamisi</string>
+    <string name="bugreport_confirm">Imibiko yeziphazamisi iqukethe idatha yamafayela wokungena ahlukile wesistimu, afaka ulwazi lomuntu siqu noma lobumfihlo. Yabelana kuphela ngemibiko yeziphazamisi nezinhlelo zokusebenza nabantu obathembayo.</string>
+    <string name="bugreport_confirm_repeat">Bonisa lo mlayezo ngesikhathi esilandelayo</string>
+    <string name="bugreport_storage_title">Imibiko yeziphazamiso</string>
+</resources>

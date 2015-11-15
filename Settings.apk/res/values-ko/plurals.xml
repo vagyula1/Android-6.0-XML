@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">%1$d단계만 더 완료하면 개발자가 될 수 있습니다.</item>
+        <item quantity="one">%1$d단계만 더 완료하면 개발자가 될 수 있습니다.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">지문 %1$d개 설정됨</item>
+        <item quantity="one">지문 %1$d개 설정됨</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">비밀번호에는 문자가 %d자 이상 포함되어야 합니다.</item>
+        <item quantity="one">비밀번호에는 문자가 1자 이상 포함되어야 합니다.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">비밀번호에는 소문자가 %d자 이상 포함되어야 합니다.</item>
+        <item quantity="one">비밀번호에는 소문자가 1자 이상 포함되어야 합니다.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">비밀번호에는 대문자가 %d자 이상 포함되어야 합니다.</item>
+        <item quantity="one">비밀번호에는 대문자가 1자 이상 포함되어야 합니다.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">비밀번호에는 숫자가 %d개 이상 포함되어야 합니다.</item>
+        <item quantity="one">비밀번호에는 숫자가 1개 이상 포함되어야 합니다.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">비밀번호에는 특수 기호가 %d개 이상 포함되어야 합니다.</item>
+        <item quantity="one">비밀번호에는 특수 기호가 1개 이상 포함되어야 합니다.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">비밀번호에는 글자가 아닌 문자가 %d개 이상 포함되어야 합니다.</item>
+        <item quantity="one">비밀번호에는 글자가 아닌 문자가 1개 이상 포함되어야 합니다.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM PIN 코드가 잘못되었습니다. %d번 더 시도할 수 있습니다.</item>
+        <item quantity="one">SIM PIN 코드가 잘못되었습니다. %d번 더 실패하면 이동통신사에 문의하여 기기를 잠금 해제해야 합니다.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d개 앱이 알림을 읽을 수 있습니다.</item>
+        <item quantity="one">%d개 앱이 알림을 읽을 수 있습니다.</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">%1$d분 동안 알람만 수신 모드로 변경(%2$s까지)</item>
+        <item quantity="one">%2$s까지 1분 동안 알람만 수신 모드로 변경</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">%2$s까지 %1$d시간 동안 알람만 수신 모드로 변경</item>
+        <item quantity="one">%2$s까지 1시간 동안 알람만 수신 모드로 변경</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">권한 %d개 부여받음</item>
+        <item quantity="one">권한 %d개 부여받음</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">권한 %1$d개 중 %2$d개가 부여됨</item>
+        <item quantity="one">권한 %1$d개 중 %2$d개가 부여됨</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">추가 권한 %d개</item>
+        <item quantity="one">추가 권한 %d개</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d개 앱에서 지원되는 링크를 열 수 있습니다.</item>
+        <item quantity="one">1개 앱에서 지원되는 링크를 열 수 있습니다.</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d개 앱이 배터리 최적화를 무시하도록 허용되었습니다.</item>
+        <item quantity="one">1개 앱이 배터리 최적화를 무시하도록 허용되었습니다.</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">지난 %2$s 동안 앱 %1$d개에서 메모리를 사용했습니다.</item>
+        <item quantity="one">지난 %2$s 동안 앱 1개에서 메모리를 사용했습니다.</item>
+    </plurals>
+</resources>

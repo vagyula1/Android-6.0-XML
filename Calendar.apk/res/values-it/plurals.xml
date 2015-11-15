@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d minuti</item>
+        <item quantity="one">1 minuto</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">1 ora</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d giorni</item>
+        <item quantity="one">1 giorno</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">SETTIMANA %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; per %d volte</item>
+        <item quantity="one">; per una volta</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Ogni %d giorni</item>
+        <item quantity="one">Ogni giorno</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Ogni %1$d settimane di %2$s</item>
+        <item quantity="one">Ogni settimana di %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d eventi</item>
+        <item quantity="one">1 evento</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">Altri %d eventi</item>
+        <item quantity="one">Un altro evento</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Ogni %d giorni</item>
+        <item quantity="one">Ogni %d giorno</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Ogni %d settimane</item>
+        <item quantity="one">Ogni %d settimana</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Ogni %d mesi</item>
+        <item quantity="one">Ogni %d mese</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Ogni %d anni</item>
+        <item quantity="one">Ogni %d anni</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Per %d eventi</item>
+        <item quantity="one">Per %d evento</item>
+    </plurals>
+</resources>

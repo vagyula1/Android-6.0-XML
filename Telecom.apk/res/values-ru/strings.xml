@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Телефон – управление звонками</string>
+    <string name="userCallActivityLabel">Телефон</string>
+    <string name="unknown">Неизвестный абонент</string>
+    <string name="notification_missedCallTitle">Пропущенный вызов</string>
+    <string name="notification_missedCallsTitle">Пропущенные вызовы</string>
+    <string name="notification_missedCallsMsg">Пропущенных вызовов: %s</string>
+    <string name="notification_missedCallTicker">Пропущенные вызовы от абонента %s</string>
+    <string name="notification_missedCall_call_back">Позвонить</string>
+    <string name="notification_missedCall_message">Написать</string>
+    <string name="accessibility_call_muted">Звук выключен.</string>
+    <string name="accessibility_speakerphone_enabled">Громкая связь включена.</string>
+    <string name="respond_via_sms_canned_response_1">Не могу говорить. Что случилось?</string>
+    <string name="respond_via_sms_canned_response_2">Я сейчас вам перезвоню.</string>
+    <string name="respond_via_sms_canned_response_3">Я перезвоню вам позже.</string>
+    <string name="respond_via_sms_canned_response_4">Не могу говорить. Позвоните позже.</string>
+    <string name="respond_via_sms_setting_title">Быстрые ответы</string>
+    <string name="respond_via_sms_setting_title_2">Быстрые ответы</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Быстрый ответ</string>
+    <string name="respond_via_sms_confirmation_format">Сообщение отправлено на номер %s.</string>
+    <string name="enable_account_preference_title">Аккаунты для звонков</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Владелец устройства разрешил только экстренные вызовы.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Приложение не может совершать звонки без соответствующего разрешения.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Недействительный номер.</string>
+    <string name="duplicate_video_call_not_allowed">Невозможно позвонить в данный момент</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Чтобы делать видеозвонки, отключите режим телетайпа</string>
+    <string name="no_vm_number">Не указан номер голосовой почты</string>
+    <string name="no_vm_number_msg">На SIM-карте нет ни одного номера голосовой почты.</string>
+    <string name="add_vm_number_str">Добавить номер</string>
+    <string name="change_default_dialer_dialog_title">Новое приложение для звонков</string>
+    <string name="change_default_dialer_with_previous_app_set_text">\"%1$s\" станет приложением для звонков по умолчанию вместо \"%2$s\". Продолжить?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">\"%s\" станет приложением для звонков по умолчанию. Продолжить?</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d encontrados</item>
+        <item quantity="one">%d encontrados</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">%d segundos</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minutos</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d horas</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Correios de voz</item>
+        <item quantity="one">%1$d Correios de voz</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d novos correios de voz</item>
+        <item quantity="one">%d novos correios de voz</item>
+    </plurals>
+</resources>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>通知</item>
+        <item>メール</item>
+        <item>SMS</item>
+        <item>アラーム</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0分</item>
+        <item>1分</item>
+        <item>5分</item>
+        <item>10分</item>
+        <item>15分</item>
+        <item>20分</item>
+        <item>25分</item>
+        <item>30分</item>
+        <item>45分</item>
+        <item>1時間</item>
+        <item>2時間</item>
+        <item>3時間</item>
+        <item>12時間</item>
+        <item>24時間</item>
+        <item>2日</item>
+        <item>1週間</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>なし</item>
+        <item>0分</item>
+        <item>1分</item>
+        <item>5分</item>
+        <item>10分</item>
+        <item>15分</item>
+        <item>20分</item>
+        <item>25分</item>
+        <item>30分</item>
+        <item>45分</item>
+        <item>1時間</item>
+        <item>2時間</item>
+        <item>3時間</item>
+        <item>12時間</item>
+        <item>24時間</item>
+        <item>2日</item>
+        <item>1週間</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>ユーザーの言語/地域での既定の設定</item>
+        <item>土曜日</item>
+        <item>日曜日</item>
+        <item>月曜日</item>
+    </string-array>
+    <string-array name="availability">
+        <item>予定あり</item>
+        <item>予定なし</item>
+        <item>仮承諾</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>既定</item>
+        <item>限定公開</item>
+        <item>一般公開</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>第1</item>
+        <item>第2</item>
+        <item>第3</item>
+        <item>第4</item>
+        <item>最終</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>応答がありません</item>
+        <item>はい</item>
+        <item>未定</item>
+        <item>いいえ</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>この日の予定のみ</item>
+        <item>これ以降の予定</item>
+        <item>すべての予定</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>これ以降の予定</item>
+        <item>すべての予定</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>この予定のみ</item>
+        <item>繰り返す予定すべて</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>日</item>
+        <item>週</item>
+        <item>月</item>
+        <item>予定リスト</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>辞退した場合のみ</item>
+        <item>辞退したか応答がなかった場合</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>繰り返し: 毎日</item>
+        <item>繰り返し: 毎週</item>
+        <item>繰り返し: 毎月</item>
+        <item>繰り返し: 毎年</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>毎月第1日曜日</item>
+        <item>毎月第2日曜日</item>
+        <item>毎月第3日曜日</item>
+        <item>毎月第4日曜日</item>
+        <item>毎月最終日曜日</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>毎月第1月曜日</item>
+        <item>毎月第2月曜日</item>
+        <item>毎月第3月曜日</item>
+        <item>毎月第4月曜日</item>
+        <item>毎月最終月曜日</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>毎月第1火曜日</item>
+        <item>毎月第2火曜日</item>
+        <item>毎月第3火曜日</item>
+        <item>毎月第4火曜日</item>
+        <item>毎月最終火曜日</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>毎月第1水曜日</item>
+        <item>毎月第2水曜日</item>
+        <item>毎月第3水曜日</item>
+        <item>毎月第4水曜日</item>
+        <item>毎月最終水曜日</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>毎月第1木曜日</item>
+        <item>毎月第2木曜日</item>
+        <item>毎月第3木曜日</item>
+        <item>毎月第4木曜日</item>
+        <item>毎月最終木曜日</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>毎月第1金曜日</item>
+        <item>毎月第2金曜日</item>
+        <item>毎月第3金曜日</item>
+        <item>毎月第4金曜日</item>
+        <item>毎月最終金曜日</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>毎月第1土曜日</item>
+        <item>毎月第2土曜日</item>
+        <item>毎月第3土曜日</item>
+        <item>毎月第4土曜日</item>
+        <item>毎月最終土曜日</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>数分遅れています。</item>
+        <item>10分ほどで着きます。</item>
+        <item>先に始めていてください。</item>
+        <item>申し訳ありませんが、行けません。日程を変更する必要があります。</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>オーストラリア中部 - NT</item>
+        <item>オーストラリア中部 - SA</item>
+        <item>オーストラリア東部 - QLD</item>
+        <item>オーストラリア東部 - NSW</item>
+        <item>山岳部標準 - ドーソンクリーク</item>
+        <item>中部標準 - サスカチュワン</item>
+        <item>東部標準 - アティコカン</item>
+        <item>大西洋標準 - ケベック</item>
+        <item>ハワイアリューシャン - ハワイ</item>
+        <item>ハワイアリューシャン - アラスカ</item>
+        <item>太平洋標準 - メトラカトラ</item>
+        <item>山岳部標準 - アリゾナ</item>
+        <item>太平洋 - バハカリフォルニア</item>
+        <item>山岳部 - チワワ</item>
+        <item>中部 - タマウリパス</item>
+        <item>山岳部 - ソノラ</item>
+        <item>東アフリカ時間</item>
+        <item>大西洋標準時</item>
+        <item>大西洋標準時</item>
+        <item>東ヨーロッパ時間</item>
+        <item>カリーニングラード時間</item>
+        <item>アマゾン - ロンドニア</item>
+        <item>ブラジリア - パラー</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>シントマールテン</item>
+        <item>オランダ領カリブ</item>
+        <item>キュラソー</item>
+        <item>南スーダン</item>
+    </string-array>
+</resources>

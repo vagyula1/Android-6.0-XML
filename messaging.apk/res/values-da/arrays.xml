@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>intet emne</item>
+        <item>nosubject</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Ja</item>
+        <item>Nej</item>
+        <item>OK</item>
+        <item>Haha</item>
+        <item>Tak</item>
+        <item>Jeg er enig</item>
+        <item>Sådan!</item>
+        <item>Er på vej</item>
+        <item>Jeg vender tilbage til dig lidt senere</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

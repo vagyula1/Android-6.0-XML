@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>teema puudub</item>
+        <item>teema puudub</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Jah</item>
+        <item>Ei</item>
+        <item>OK</item>
+        <item>Hehe</item>
+        <item>Aitäh</item>
+        <item>Nõustun</item>
+        <item>Tore</item>
+        <item>Olen teel</item>
+        <item>OK, vastan sulle hiljem</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

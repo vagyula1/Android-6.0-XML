@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">வரைவுகள்</item>
+        <item quantity="one">வரைவு</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">இந்த %1$d உரையாடல்களை நீக்கவா?</item>
+        <item quantity="one">உரையாடலை நீக்கவா?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">இந்த %1$d உரையாடல்களைக் காப்பகப்படுத்தவா?</item>
+        <item quantity="one">உரையாடலைக் காப்பகப்படுத்தவா?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">%1$d செய்திகளை நிராகரிக்கவா?</item>
+        <item quantity="one">செய்தியை நிராகரிக்கவா?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d உரையாடல்களிலிருந்து நட்சத்திரம் நீக்கப்படுகிறது</item>
+        <item quantity="one">%1$d உரையாடலில் இருந்து நட்சத்திரம் நீக்கப்படுகிறது</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> முடக்கப்பட்டன</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> முடக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ஸ்பேம் எனப் புகாரளிக்கப்பட்டன</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ஸ்பேம் எனப் புகாரளிக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ஸ்பேம் அல்ல என புகாரளிக்கப்பட்டன</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ஸ்பேம் அல்ல என புகாரளிக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> முக்கியமில்லாதவை எனக் குறிக்கப்பட்டன</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> முக்கியமில்லாதது எனக் குறிக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ஃபிஷிங் எனப் புகாரளிக்கப்பட்டன</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ஃபிஷிங் எனப் புகாரளிக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> காப்பகப்படுத்தப்பட்டன</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> காப்பகப்படுத்தப்பட்டது</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> நீக்கப்பட்டன</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> நீக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">கோப்புறைகள் மாற்றப்பட்டன</item>
+        <item quantity="one">கோப்புறை மாற்றப்பட்டது</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d புதிய செய்திகள்</item>
+        <item quantity="one">%1$d புதிய செய்தி</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d பழைய செய்திகளை விரிவாக்கு</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d பழைய செய்திகள் விரிவாக்கப்பட்டன</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d படிக்காத செய்திகள்</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d புதிய செய்திகள்</item>
+        <item quantity="one">%1$d புதிய செய்தி</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d செய்திகள் நிரந்தரமாக நீக்கப்படும்.</item>
+        <item quantity="one">%1$d செய்தி நிரந்தரமாக நீக்கப்படும்.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d செய்திகள்</item>
+        <item quantity="one">%1$d செய்தி</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d இணைப்புகள்</item>
+        <item quantity="one">%1$d இணைப்பு</item>
+    </plurals>
+</resources>

@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>A=Abidjan</item>
+        <item>A=Akkra</item>
+        <item>Ə=Əddis-Əbəbə</item>
+        <item>Ə=Əlcəzair</item>
+        <item>B=Blantire</item>
+        <item>B=Brazzavil</item>
+        <item>Q=Qahirə</item>
+        <item>K=Kasablanka</item>
+        <item>K=Konakri</item>
+        <item>D=Dakar</item>
+        <item>D=Dar əs Salaam</item>
+        <item>C=Cibuti</item>
+        <item>F=Fritaun</item>
+        <item>Q=Qaborone</item>
+        <item>H=Harare</item>
+        <item>Y=Yohannesburq</item>
+        <item>K=Kampala</item>
+        <item>X=Xartum</item>
+        <item>K=Kiqali</item>
+        <item>K=Kinşasa</item>
+        <item>L=Laqos</item>
+        <item>M=Maseru</item>
+        <item>M=Moqadişo</item>
+        <item>N=Nayrobi</item>
+        <item>S=San-Tome</item>
+        <item>T=Timbuktu</item>
+        <item>T=Tripoli</item>
+        <item>T=Tunis</item>
+        <item>A=Ankoric</item>
+        <item>M=Mendoza</item>
+        <item>A=Aruba</item>
+        <item>A=Asunson</item>
+        <item>B=Barbados</item>
+        <item>B=Beliz</item>
+        <item>B=Boqota</item>
+        <item>B=Buenos-Ayres</item>
+        <item>C=Cancun</item>
+        <item>K=Karakas</item>
+        <item>K=Kayman</item>
+        <item>Ç=Çikaqo</item>
+        <item>K=Kosta Rika</item>
+        <item>C=Curaçao</item>
+        <item>D=Dawson Creek</item>
+        <item>D=Denver</item>
+        <item>D=Detroyt</item>
+        <item>D=Dominika</item>
+        <item>E=Edmonton</item>
+        <item>S=Salvador</item>
+        <item>F=Fortaleza</item>
+        <item>Q=Qrand Türk</item>
+        <item>Q=Qrenada</item>
+        <item>Q=Qvatemala</item>
+        <item>Q=Qayana</item>
+        <item>H=Halifaks</item>
+        <item>H=Havana</item>
+        <item>İ=İndianapolis</item>
+        <item>=Noks</item>
+        <item>M=Marenqo</item>
+        <item>P=Peterburq</item>
+        <item>T=Tell City</item>
+        <item>V=Vevay</item>
+        <item>V=Vincennes</item>
+        <item>V=Vinamak</item>
+        <item>K=Kinqston</item>
+        <item>N=Nuestra Señora de La Paz</item>
+        <item>L=Lima</item>
+        <item>L=Los Anceles</item>
+        <item>L=Luisvill</item>
+        <item>M=Manaqua</item>
+        <item>M=Martinika</item>
+        <item>M=Mendoza</item>
+        <item>M=Metlakatla</item>
+        <item>M=Mexiko</item>
+        <item>M=Monterrey</item>
+        <item>M=Montevideo</item>
+        <item>M=Monreal</item>
+        <item>N=Nassau</item>
+        <item>N=Nyu York</item>
+        <item>B=Beulah</item>
+        <item>C=Center</item>
+        <item>N=Nyu Salem</item>
+        <item>P=Panama</item>
+        <item>F=Finiks</item>
+        <item>P=Port of Speyn</item>
+        <item>P=Port-o-Prins</item>
+        <item>P=Puerto-Riko</item>
+        <item>S=Santo Dominqo</item>
+        <item>S=San-Paulu</item>
+        <item>S=Sent-Cons</item>
+        <item>S=Sent-Kitts</item>
+        <item>S=Sent-Lüsiya</item>
+        <item>=Sent-Tomas</item>
+        <item>T=Tixuana</item>
+        <item>T=Toronto</item>
+        <item>V=Vankuver</item>
+        <item>V=Vinnipeq</item>
+        <item>=Cənub Qütbü</item>
+        <item>L=Lonqyerbyen</item>
+        <item>A=Alma-ata</item>
+        <item>A=Amman</item>
+        <item>A=Anadır</item>
+        <item>A=Aktau</item>
+        <item>B=Bağdad</item>
+        <item>B=Bəhreyn</item>
+        <item>B=Bakı</item>
+        <item>B=Banqkok</item>
+        <item>B=Beyrut</item>
+        <item>K=Kəlkətə</item>
+        <item>D=Dəməşq</item>
+        <item>D=Dəkkə</item>
+        <item>D=Dubay</item>
+        <item>Q=Qəzza</item>
+        <item>H=Hebron</item>
+        <item>H=Hoşimin</item>
+        <item>H=Honq Konq</item>
+        <item>İ=İstanbul</item>
+        <item>C=Cakarta</item>
+        <item>Q=Qüds</item>
+        <item>K=Kabil</item>
+        <item>K=Kərəçi</item>
+        <item>K=Katmandu</item>
+        <item>K=Kuala Lumpur</item>
+        <item>K=Küveyt</item>
+        <item>M=Makao</item>
+        <item>M=Manila</item>
+        <item>M=Maskat</item>
+        <item>P=Pnompen</item>
+        <item>P=Pxenyan</item>
+        <item>Q=Qətər</item>
+        <item>Y=Yanqon</item>
+        <item>Ə=Ər-Riyad</item>
+        <item>S=Sayqon</item>
+        <item>S=Seul</item>
+        <item>Ş=Şanxay</item>
+        <item>S=Sinqapur</item>
+        <item>T=Taybey</item>
+        <item>T=Tehran</item>
+        <item>T=Tel Əviv</item>
+        <item>T=Tokio</item>
+        <item>U=Ulan-bator</item>
+        <item>B=Bermuda</item>
+        <item>K=Kanar</item>
+        <item>K=Kabo-Verde</item>
+        <item>R=Reykyavik</item>
+        <item>S=Stenli</item>
+        <item>A=Adelaida</item>
+        <item>B=Brisben</item>
+        <item>K=Kanberra</item>
+        <item>D=Darvin</item>
+        <item>M=Melburn</item>
+        <item>=Yeni Cənubi Uels</item>
+        <item>P=Pert</item>
+        <item>K=Kvinslend</item>
+        <item>S=Sidney</item>
+        <item>V=Viktoriya</item>
+        <item>N=Nyufaundlend</item>
+        <item>S=Saskaçevan</item>
+        <item>=Pasxa adası</item>
+        <item>A=Amsterdam</item>
+        <item>A=Andorra</item>
+        <item>A=Afina</item>
+        <item>B=Belfast</item>
+        <item>B=Belqrad</item>
+        <item>B=Berlin</item>
+        <item>B=Bratislava</item>
+        <item>B=Brüssel</item>
+        <item>B=Buxarest</item>
+        <item>B=Budapeşt</item>
+        <item>K=Kişinyov</item>
+        <item>K=Kopenhagen</item>
+        <item>D=Dublin</item>
+        <item>C=Cəbəllütariq</item>
+        <item>H=Helsinki</item>
+        <item>=Men adası</item>
+        <item>İ=İstanbul</item>
+        <item>K=Kiyev</item>
+        <item>L=Lissabon</item>
+        <item>L=London</item>
+        <item>L=Lüksemburq</item>
+        <item>M=Madrid</item>
+        <item>M=Malta</item>
+        <item>M=Minsk</item>
+        <item>M=Monako</item>
+        <item>M=Moskva</item>
+        <item>O=Oslo</item>
+        <item>P=Paris</item>
+        <item>P=Praqa</item>
+        <item>R=Riqa</item>
+        <item>R=Roma</item>
+        <item>S=San Marino</item>
+        <item>S=Sarayevo</item>
+        <item>S=Simferopol</item>
+        <item>S=Skopye</item>
+        <item>S=Sofiya</item>
+        <item>S=Stokholm</item>
+        <item>T=Tallin</item>
+        <item>V=Vatikan</item>
+        <item>V=Vyana</item>
+        <item>V=Vilnüs</item>
+        <item>V=Varşava</item>
+        <item>Z=Zaqreb</item>
+        <item>S=Sürix</item>
+        <item>A=Antananarivu</item>
+        <item>M=Maldiv</item>
+        <item>M=Mavriki</item>
+        <item>O=Oklənd</item>
+        <item>F=Fici</item>
+        <item>Q=Quam</item>
+        <item>H=Honolulu</item>
+        <item>K=Kiritimati</item>
+        <item>N=Numea</item>
+        <item>S=Samoa</item>
+        <item>T=Tahiti</item>
+        <item>A=Antiqua</item>
+        <item>O=Ostin</item>
+        <item>B=Boston</item>
+        <item>K=Kalqari</item>
+        <item>K=Kolumbus</item>
+        <item>D=Dallas</item>
+        <item>K=Knoxville</item>
+        <item>M=Memfis</item>
+        <item>M=Mayami</item>
+        <item>M=Minneapolis</item>
+        <item>O=Ottava</item>
+        <item>F=Filadelfiya</item>
+        <item>P=Portland</item>
+        <item>S=San Dieqo</item>
+        <item>S=San-Fransisko</item>
+        <item>S=Solt Leyk Siti</item>
+        <item>S=San Joze</item>
+        <item>S=San Salvador</item>
+        <item>S=Sietl</item>
+        <item>S=Sent-Luis</item>
+        <item>V=Vaşinqton D.C.</item>
+        <item>H=Hyuston</item>
+        <item>S=San Antonio</item>
+        <item>C=Ceksonvill</item>
+        <item>B=Baltimor</item>
+        <item>N=Neşvil</item>
+        <item>M=Miluoki</item>
+        <item>O=Oklahoma Siti</item>
+        <item>L=Las Veqas</item>
+        <item>A=Albukerke</item>
+        <item>T=Takson</item>
+        <item>S=Sakramento</item>
+        <item>A=Atlanta</item>
+        <item>K=Klivlend</item>
+        <item>N=Nyu-Orlean</item>
+        <item>T=Tampa</item>
+        <item>P=Pittsburq</item>
+        <item>S=Sinsinnati</item>
+        <item>M=Mountain View</item>
+        <item>R=Reno</item>
+        <item>B=Black Rock City</item>
+        <item>D=Doha</item>
+        <item>B=Beijing</item>
+        <item>M=Mumbai</item>
+        <item>D=Delhi</item>
+        <item>O=Osaka</item>
+        <item>L=Lahor</item>
+        <item>"S=Sana'a"</item>
+        <item>B=Barselona</item>
+        <item>M=Münhen</item>
+        <item>M=Milan</item>
+        <item>F=Frankfurt</item>
+        <item>H=Hanoy</item>
+        <item>A=Ankara</item>
+        <item>B=Banqalor</item>
+        <item>B=Brazília</item>
+        <item>K=Keyptaun</item>
+        <item>İ=İslamabad</item>
+        <item>R=Rio de Janeyro</item>
+        <item>A=Ann Arbor</item>
+        <item>B=Boulder</item>
+        <item>K=Kembric</item>
+        <item>K=Kirkland</item>
+        <item>M=Madison</item>
+        <item>Q=Quançjou</item>
+        <item>H=Heydərabad</item>
+        <item>R=Reston</item>
+        <item>B=Belo Horizonte</item>
+        <item>S=Santyaqo</item>
+        <item>M=Monroviya</item>
+        <item>K=Kolombo</item>
+        <item>Ç=Çiuaua</item>
+        <item>S=Salvador</item>
+        <item>Q=Qurqaon</item>
+        <item>M=Mançester</item>
+        <item>K=Kiyev</item>
+        <item>S=Sankt-Peterburq</item>
+        <item>K=Krakov</item>
+        <item>V=Vrotslav</item>
+        <item>H=Hamburq</item>
+        <item>O=Oulu</item>
+        <item>H=Hayfa</item>
+        <item>S=San Xuan</item>
+        <item>T=Tequsiqalpa</item>
+        <item>P=Paramaribo</item>
+        <item>K=Kito</item>
+        <item>L=Lyublyana</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>Bir dəqiqədən az qaldı.</item>
+        <item>%1$s qaldı</item>
+        <item>%2$s qaldı</item>
+        <item>%1$s %2$s qaldı</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Siqbalı ən az 1 dəqiqə sonraya qur.</item>
+        <item>Siqnalı %1$s sonraya qur.</item>
+        <item>Siqnalı %2$s sonraya qur.</item>
+        <item>Siqnalı %1$s və %2$s sonraya qur.</item>
+        <item>Siqnalı %3$s sonraya qur.</item>
+        <item>Siqnalı %1$s və %3$s sonraya qur.</item>
+        <item>Siqnalı %2$s və %3$s sonraya qur.</item>
+        <item>Siqnalı %1$s, %2$s və %3$s sonraya qur.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>1 dəqiqə</item>
+        <item>5 dəqiqə</item>
+        <item>10 dəqiqə</item>
+        <item>15 dəqiqə</item>
+        <item>20 dəqiqə</item>
+        <item>25 dəqiqə</item>
+        <item>Heç vaxt</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>Şənbə</item>
+        <item>Bazar</item>
+        <item>Bazar Ertəsi</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Təxirə sal</item>
+        <item>Kənarlaşdır</item>
+        <item>Heç nə etmə</item>
+    </string-array>
+    <string-array name="sw_lap_number_set">
+        <item>\# %d</item>
+        <item>\# %02d</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>Dəhşət sürətlisiniz.</item>
+        <item>Əməyinizin bəhrəsinin dadını çıxardın.</item>
+        <item>Androidlər sürətli olaraq bilinir, amma sizin qədər deyil.</item>
+        <item>Ohh.</item>
+        <item>L33t dəfə.</item>
+        <item>Son dərəcə gözəl bir sürət.</item>
+        <item>Zaman tunelini bir daha sınayaq.</item>
+        <item>Sadəcə sola hoppan.</item>
+        <item>Tələsmək üçün bir palitranız var.</item>
+        <item>Fotonik sürət.</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>Analoq</item>
+        <item>Rəqəmsal</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Marşall Adaları</item>
+        <item>Miduey adası</item>
+        <item>Havay</item>
+        <item>Alyaska</item>
+        <item>Sakit Okean Saat qurşağı</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Çihuahua</item>
+        <item>Dağ Saat qurşağı</item>
+        <item>Mərkəzi Amerika</item>
+        <item>Mərkəzi Vaxt</item>
+        <item>Meksiko</item>
+        <item>Saskaçevan</item>
+        <item>Boqota</item>
+        <item>Şərq Saat qurşağı</item>
+        <item>Venezuela</item>
+        <item>Atlantik Saat qurşağı (Barbados)</item>
+        <item>Atlantik Saat qurşağı (Kanada)</item>
+        <item>Manaus</item>
+        <item>Santiaqo</item>
+        <item>Nyufaundlend</item>
+        <item>Braziliya</item>
+        <item>Buenos Ayres</item>
+        <item>Qrenlandiya</item>
+        <item>Montevideo</item>
+        <item>Orta Atlantik</item>
+        <item>Azor adaları</item>
+        <item>Keyp Verde adaları</item>
+        <item>Kasablanka</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belqrad</item>
+        <item>Brüssel</item>
+        <item>Sarayevo</item>
+        <item>Vindhuk</item>
+        <item>Q. Afrika saat qurşağı</item>
+        <item>Amman, İordaniya</item>
+        <item>Afina, İstanbul</item>
+        <item>Beyrut, Livan</item>
+        <item>Qahirə</item>
+        <item>Helsinki</item>
+        <item>Yerusəlim</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bağdad</item>
+        <item>Moskva</item>
+        <item>Küveyt</item>
+        <item>Nayrobi</item>
+        <item>Tehran</item>
+        <item>Bakı</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubay</item>
+        <item>Kabil</item>
+        <item>İslamabad, Kəraçi</item>
+        <item>"Ural'sk"</item>
+        <item>Yekaterinburq</item>
+        <item>Kəlkütə</item>
+        <item>Şri-Lanka</item>
+        <item>Katmandu</item>
+        <item>Astana</item>
+        <item>Yanqon</item>
+        <item>Krasnoyarsk</item>
+        <item>Banqkok</item>
+        <item>Pekin</item>
+        <item>Honkonq</item>
+        <item>İrkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Pert</item>
+        <item>Taybey</item>
+        <item>Seul</item>
+        <item>Tokio, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaida</item>
+        <item>Darvin</item>
+        <item>Brisban</item>
+        <item>Hobart</item>
+        <item>Sidney, Kanberra</item>
+        <item>Vladivostok</item>
+        <item>Quam</item>
+        <item>Maqadan</item>
+        <item>Okland</item>
+        <item>Fici</item>
+        <item>Tonqa</item>
+        <item>Cakarta</item>
+    </string-array>
+</resources>

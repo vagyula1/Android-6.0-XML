@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>තත්පර 2</item>
+        <item>තත්පර 4</item>
+        <item>තත්පර 6</item>
+        <item>තත්පර 8</item>
+        <item>තත්පර 10</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>වතාවක්</item>
+        <item>සෑම මිනිත්තු 2 කට වරක්</item>
+        <item>සෑම මිනිත්තු 15 කට වරක්</item>
+        <item>අක්‍රිය කරන්න</item>
+    </string-array>
+</resources>

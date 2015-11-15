@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Konsepte</item>
+        <item quantity="one">Konsep</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Vee hierdie %1$d gesprekke uit?</item>
+        <item quantity="one">Vee hierdie gesprek uit?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Argiveer hierdie %1$d gesprekke?</item>
+        <item quantity="one">Argiveer hierdie gesprek?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Gooi hierdie %1$d boodskappe weg?</item>
+        <item quantity="one">Gooi hierdie boodskap weg?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Ontster tans %1$d gesprekke</item>
+        <item quantity="one">Ontster tans %1$d gesprek</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> gedemp</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> gedemp</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> as strooipos gerapporteer</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> as strooipos gerapporteer</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> gerapporteer as nie strooipos nie</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> gerapporteer as nie strooipos nie</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> gemerk as nie belangrik nie</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> gemerk as nie belangrik nie</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> as uitvissing gerapporteer</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> as uitvissing gerapporteer</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> geargiveer</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> geargiveer</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> uitgevee</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> uitgevee</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Het vouers verander</item>
+        <item quantity="one">Het vouer verander</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d nuwe boodskappe</item>
+        <item quantity="one">%1$d nuwe boodskap</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Vou %1$d ouer boodskappe uit</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d ouer boodskappe is uitgevou</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d ongelees</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d nuwe boodskappe</item>
+        <item quantity="one">%1$d nuwe boodskap</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d boodskappe sal permanent uitgevee word.</item>
+        <item quantity="one">%1$d boodskap sal permanent uitgevee word.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d boodskappe</item>
+        <item quantity="one">%1$d boodskap</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d aanhegsels</item>
+        <item quantity="one">%1$d aanhegsel</item>
+    </plurals>
+</resources>

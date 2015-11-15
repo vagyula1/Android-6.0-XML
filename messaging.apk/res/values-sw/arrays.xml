@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>kichwa hakijaongezwa</item>
+        <item>kichwa hakijaongezwa</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Ndiyo</item>
+        <item>Hapana</item>
+        <item>Sawa</item>
+        <item>Hehe</item>
+        <item>Asante</item>
+        <item>Nakubali</item>
+        <item>Shwari</item>
+        <item>Niko njiani</item>
+        <item>Sawa, nitawasiliana na wewe baadaye</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

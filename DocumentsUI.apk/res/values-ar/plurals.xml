@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">جارٍ نسخ %1$d من الملفات.</item>
+        <item quantity="zero">جارٍ نسخ %1$d ملفات.</item>
+        <item quantity="one">جارٍ نسخ ملف واحد (%1$d).</item>
+        <item quantity="two">جارٍ نسخ ملفين (%1$d).</item>
+        <item quantity="few">جارٍ نسخ %1$d ملفات.</item>
+        <item quantity="many">جارٍ نسخ %1$d ملفًا.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">تعذر نسخ %1$d من الملفات</item>
+        <item quantity="zero">لم يتعذر نسخ أية ملفات (%1$d)</item>
+        <item quantity="one">تعذر نسخ %1$d ملف</item>
+        <item quantity="two">تعذر نسخ ملفين (%1$d)</item>
+        <item quantity="few">تعذر نسخ %1$d ملفات</item>
+        <item quantity="many">تعذر نسخ %1$d ملفًا</item>
+    </plurals>
+</resources>

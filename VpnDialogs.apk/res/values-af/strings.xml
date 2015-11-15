@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">Verbindingversoek</string>
+    <string name="warning">"%s wil 'n VPN-verbinding opstel wat dit sal toelaat om netwerkverkeer te monitor. Aanvaar dit net as jy die bron vertrou. &lt;br /> &lt;br /> &lt;img src=vpn_icon /> verskyn boaan jou skerm as VPN aktief is."</string>
+    <string name="legacy_title">VPN is gekoppel</string>
+    <string name="configure">Stel op</string>
+    <string name="disconnect">Ontkoppel</string>
+    <string name="session">Sessie:</string>
+    <string name="duration">Tydsduur:</string>
+    <string name="data_transmitted">Gestuur:</string>
+    <string name="data_received">Ontvang:</string>
+    <string name="data_value_format">%1$s grepe/%2$s pakkies</string>
+</resources>

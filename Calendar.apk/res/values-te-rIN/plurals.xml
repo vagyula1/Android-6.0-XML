@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d నిమిషాలు</item>
+        <item quantity="one">1 నిమిషం</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d నిమి</item>
+        <item quantity="one">1 నిమి</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d గంటలు</item>
+        <item quantity="one">1 గంట</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d రోజులు</item>
+        <item quantity="one">1 రోజు</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">వారం %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d సార్లు</item>
+        <item quantity="one">; ఒకసారి</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">ప్రతి %d రోజులు</item>
+        <item quantity="one">ప్రతిరోజు</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">ప్రతి %1$d వారాలకు %2$s నాడు</item>
+        <item quantity="one">ప్రతి వారం %2$s నాడు</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d ఈవెంట్‌లు</item>
+        <item quantity="one">1 ఈవెంట్</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d ఈవెంట్‌లు</item>
+        <item quantity="one">+1 ఈవెంట్</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">ప్రతి %d రోజులు</item>
+        <item quantity="one">ప్రతి %d రోజు</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">ప్రతి %d వారాలు</item>
+        <item quantity="one">ప్రతి %d వారం</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">ప్రతి %d నెలలు</item>
+        <item quantity="one">ప్రతి %d నెల</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">ప్రతి %d సంవత్సరాలు</item>
+        <item quantity="one">ప్రతి %d సంవత్సరం</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d ఈవెంట్‌లకు</item>
+        <item quantity="one">%d ఈవెంట్‌కు</item>
+    </plurals>
+</resources>

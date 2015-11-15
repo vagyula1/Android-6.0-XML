@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Storan Luaran</string>
+    <string name="root_internal_storage">Storan dalaman</string>
+    <string name="root_documents">Dokumen</string>
+</resources>

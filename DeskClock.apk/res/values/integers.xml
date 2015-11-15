@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="abc_max_action_buttons">2</integer>
+    <integer name="fade_duration">250</integer>
+    <integer name="swipe_escape_velocity">100</integer>
+    <integer name="escape_animation_duration">200</integer>
+    <integer name="max_escape_animation_duration">400</integer>
+    <integer name="max_dismiss_velocity">2000</integer>
+    <integer name="snap_animation_duration">350</integer>
+    <integer name="dismiss_animation_duration">500</integer>
+    <integer name="swipe_scroll_slop">2</integer>
+    <integer name="hide_animation_duration">200</integer>
+    <integer name="dim_animation_duration">500</integer>
+    <integer name="timer_column_count">1</integer>
+    <integer name="world_clocks_per_row">1</integer>
+    <integer name="appwidget_world_clocks_per_row">2</integer>
+</resources>

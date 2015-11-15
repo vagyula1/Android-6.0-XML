@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Vasta</item>
+        <item>Vasta kõigile</item>
+        <item>Edasta</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Õnnestus</item>
+        <item>Ühendus puudub</item>
+        <item>Sisselogimine ebaõnnestus</item>
+        <item>Turvaviga</item>
+        <item>Sünkroonimine ebaõnnestus</item>
+        <item>Sisemine viga</item>
+        <item>Serveri viga</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Uuemad</item>
+        <item>Vanemad</item>
+        <item>Vestlusloend</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Uuema vestluse näitamine pärast kustutamist</item>
+        <item>Vanema vestluse näitamine pärast kustutamist</item>
+        <item>Vestlusloendi näitamine pärast kustutamist</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Arhiivimine</item>
+        <item>Kustutamine</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Arhiivimine</item>
+        <item>Kustutamine</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Kuva alati sõnumitoimingud ekraani ülaosas</item>
+        <item>Kuva vertikaalpaigutuse korral ekraani ülaosas ainult sõnumitoimingud</item>
+        <item>Ära kuva sõnumitoiminguid väljaspool sõnumi päist</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Kuva alati</item>
+        <item>Kuva ainult vertikaalpaigutuses</item>
+        <item>Ära kuva</item>
+    </string-array>
+</resources>

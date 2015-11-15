@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d मिनट</item>
+        <item quantity="one">1 मिनट</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d मि</item>
+        <item quantity="one">1 मिनट</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d घंटे</item>
+        <item quantity="one">1 घंटा</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d दिन</item>
+        <item quantity="one">1 दिन</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">%d सप्ताह</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d बार के लिए</item>
+        <item quantity="one">; एक बार के लिए</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">प्रत्‍येक %d दिन</item>
+        <item quantity="one">दैनिक</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">हर %1$d सप्ताह में %2$s को</item>
+        <item quantity="one">%2$s को साप्ताहिक रूप से</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d ईवेंट</item>
+        <item quantity="one">1 ईवेंट</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d ईवेंट</item>
+        <item quantity="one">+1 ईवेंट</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">प्रत्येक %d दिन में</item>
+        <item quantity="one">प्रत्येक %d दिन में</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">प्रत्येक %d सप्ताह में</item>
+        <item quantity="one">प्रत्येक %d सप्ताह में</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">प्रत्येक %d माह में</item>
+        <item quantity="one">प्रत्येक %d माह में</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">प्रत्येक %d वर्ष में</item>
+        <item quantity="one">प्रत्येक %d वर्ष में</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d ईवेंट के लिए</item>
+        <item quantity="one">%d ईवेंट के लिए</item>
+    </plurals>
+</resources>

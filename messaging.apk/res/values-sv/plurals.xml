@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d timmar</item>
+        <item quantity="one">%d timme</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d dagar</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d veckor</item>
+        <item quantity="one">en vecka</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d månader</item>
+        <item quantity="one">en månad</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d år</item>
+        <item quantity="one">ett år</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d meddelanden i %2$d konversationer</item>
+        <item quantity="one">%d meddelanden i en konversation</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d meddelanden i %2$d konversationer</item>
+        <item quantity="one">%d meddelanden i en konversation</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d nya meddelanden</item>
+        <item quantity="one">Nytt meddelande</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">Vill du ta bort dessa konversationer?</item>
+        <item quantity="one">Vill du ta bort konversationen?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d deltagare</item>
+        <item quantity="one">%d deltagare</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">Släng bilagor</item>
+        <item quantity="one">Släng bilaga</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d foton har sparats i albumet %2$s</item>
+        <item quantity="one">%1$d foto har sparats i albumet %2$s</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d videor har sparats i albumet %2$s</item>
+        <item quantity="one">%1$d video har sparats i albumet %2$s</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d bilagor har sparats i albumet %2$s</item>
+        <item quantity="one">%1$d bilaga har sparats i albumet %2$s</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d bilagor har sparats i Nedladdningar</item>
+        <item quantity="one">%d bilaga har sparats i Nedladdningar</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">%d bilagor sparas</item>
+        <item quantity="one">%d bilaga har sparats</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">Det gick inte att spara %d bilagor</item>
+        <item quantity="one">Det gick inte att spara %d bilaga</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">Skicka foton</item>
+        <item quantity="one">Skicka foto</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">Skicka ljud</item>
+        <item quantity="one">Skicka ljud</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">Skicka videor</item>
+        <item quantity="one">Skicka video</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">Skicka kontaktkort</item>
+        <item quantity="one">Skicka kontaktkort</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">Skicka bilagor</item>
+        <item quantity="one">Skicka bilaga</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d bilagor är klara att skicka</item>
+        <item quantity="one">En bilaga är klar att skicka</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d kontakter</item>
+        <item quantity="one">%d kontakt</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">Ogiltiga kontakter</item>
+        <item quantity="one">Ogiltig kontakt</item>
+    </plurals>
+</resources>

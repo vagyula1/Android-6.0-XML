@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="provisioning_mime_types">
+        <item>aplikazioa/com.android.kudeatutakohorniketa</item>
+        <item>aplikazioa/com.android.kudeatutakohorniketa.v2</item>
+    </string-array>
+</resources>

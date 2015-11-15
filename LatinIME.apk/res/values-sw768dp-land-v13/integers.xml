@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_emoji_keyboard_max_page_key_count">39</integer>
+</resources>

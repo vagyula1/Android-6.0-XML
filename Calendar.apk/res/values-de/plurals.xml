@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d Minuten</item>
+        <item quantity="one">1 Minute</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d Min.</item>
+        <item quantity="one">1 Min.</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d Stunden</item>
+        <item quantity="one">1 Stunde</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d Tag(e)</item>
+        <item quantity="one">1 Tag</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">Woche %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">, %d Mal</item>
+        <item quantity="one">, ein Mal</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Alle %d Tage</item>
+        <item quantity="one">Täglich</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Alle %1$d Wochen am %2$s</item>
+        <item quantity="one">Wöchentlich am %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d Termine</item>
+        <item quantity="one">1 Termin</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d Termine</item>
+        <item quantity="one">+1 Termin</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Alle %d Tage</item>
+        <item quantity="one">Nach %d Tag</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Alle %d Wochen</item>
+        <item quantity="one">Nach %d Woche</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Alle %d Monate</item>
+        <item quantity="one">Nach %d Monat</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Alle %d Jahre</item>
+        <item quantity="one">Nach %d Jahr</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d-mal</item>
+        <item quantity="one">%d-mal</item>
+    </plurals>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">နောက်ခံပုံအရှင် ရွေးချယ်ခန်း</string>
+    <string name="live_wallpaper_picker_title">သက်ရှိနောက်ခံရွေးချယ်ခြင်း</string>
+    <string name="live_wallpaper_picker_label">နောက်ခံအရှင်များ</string>
+    <string name="live_wallpaper_preview_title">နောက်ခံပုံအရှင် ကြိုကြည့်မယ်</string>
+    <string name="configure_wallpaper">ဆက်တင်များ</string>
+    <string name="wallpaper_instructions">နောက်ခံပုံ သတ်မှတ်ပါ</string>
+    <string name="live_wallpaper_empty">နောက်ခံပုံအရှင်များ မရှိပါ</string>
+    <string name="set_live_wallpaper">နောက်ခံအား သတ်မှတ်ရန်</string>
+    <string name="wallpaper_title_and_author">%1$s ကို ရေးသားသူ %2$s</string>
+    <string name="live_wallpaper_loading">နောက်ခံပုံအရှင်ကို ဆွဲခေါ်နေပါတယ် …</string>
+    <string name="wallpaper_cancel">ထားတော့</string>
+</resources>

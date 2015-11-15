@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">ลบรายการที่เลือกหรือไม่</item>
+        <item quantity="one">ลบรายการที่เลือกหรือไม่</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">เลือกไว้ %1$d</item>
+        <item quantity="zero">เลือกไว้ %1$d</item>
+        <item quantity="one">เลือกไว้ %1$d</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">เลือกไว้ %1$d</item>
+        <item quantity="zero">เลือกไว้ %1$d</item>
+        <item quantity="one">เลือกไว้ %1$d</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">เลือกไว้ %1$d</item>
+        <item quantity="zero">เลือกไว้ %1$d</item>
+        <item quantity="one">เลือกไว้ %1$d</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">กำลังทำให้ใช้งานอัลบั้มแบบออฟไลน์ได้</item>
+        <item quantity="one">กำลังทำให้ใช้งานอัลบั้มแบบออฟไลน์ได้</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">สแกน %1$d รายการแล้ว</item>
+        <item quantity="zero">สแกน %1$d รายการแล้ว</item>
+        <item quantity="one">สแกน %1$d รายการแล้ว</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">%d วินาที</item>
+        <item quantity="one">1 วินาที</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">%1$d ภาพ</item>
+        <item quantity="one">%1$d ภาพ</item>
+    </plurals>
+</resources>

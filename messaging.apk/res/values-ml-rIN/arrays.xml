@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>വിഷയമില്ല</item>
+        <item>വിഷയമൊന്നുമില്ല</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>ഉവ്വ്</item>
+        <item>ഇല്ല</item>
+        <item>ശരി</item>
+        <item>ഹിഹി</item>
+        <item>നന്ദി</item>
+        <item>ഞാൻ അംഗീകരിക്കുന്നു</item>
+        <item>കൊള്ളാം</item>
+        <item>മറുപടി നൽകാൻ തയ്യാറാണ്</item>
+        <item>ശരി, പിന്നീട് നിങ്ങളുമായി ബന്ധപ്പെടാൻ എന്നെ അനുവദിക്കുക</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

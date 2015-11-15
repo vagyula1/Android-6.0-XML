@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>без тема</item>
+        <item>няма тема</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Да</item>
+        <item>Не</item>
+        <item>ОK</item>
+        <item>Ха-ха</item>
+        <item>Благодаря</item>
+        <item>Приемам</item>
+        <item>Чудесно</item>
+        <item>Идвам</item>
+        <item>OK, ще се свържа с теб по-късно</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

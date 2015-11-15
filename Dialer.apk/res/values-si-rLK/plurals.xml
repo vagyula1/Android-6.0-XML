@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d ක් සොයා ගන්නා ලදි</item>
+        <item quantity="one">%d ක් සොයා ගන්නා ලදි</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">තත්පර %d</item>
+        <item quantity="one">තත්පර %d</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">මිනිත්තු %d</item>
+        <item quantity="one">මිනිත්තු %d</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">පැය %d</item>
+        <item quantity="one">පැය %d</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">හඬ තැපැල් %1$d</item>
+        <item quantity="one">හඬ තැපැල් %1$d</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">නව හඬ තැපැල් %d</item>
+        <item quantity="one">නව හඬ තැපැල් %d</item>
+    </plurals>
+</resources>

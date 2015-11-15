@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Отговор</item>
+        <item>Отговор до всички</item>
+        <item>Препращане</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Успех</item>
+        <item>Няма връзка</item>
+        <item>Влизането в профила не бе възможно</item>
+        <item>Грешка в сигурността</item>
+        <item>Синхронизирането не бе възможно</item>
+        <item>Вътрешна грешка</item>
+        <item>Грешка в сървъра</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>По-нова</item>
+        <item>По-старо</item>
+        <item>Списък с кореспонденции</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Показване на по-новата кореспонденция след изтриване</item>
+        <item>Показване на по-старата кореспонденция след изтриване</item>
+        <item>Показване на списъка с кореспонденции след изтриване</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Архивиране</item>
+        <item>Изтриване</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Архивиране</item>
+        <item>Изтриване</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Действията със съобщението да се показват винаги в горната част на екрана</item>
+        <item>Действията със съобщението да се показват в горната част на екрана само при завъртане във вертикална ориентация</item>
+        <item>Действията със съобщението да не се показват извън заглавката му</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Винаги да се показва</item>
+        <item>Да се показва само във вертикална ориентация</item>
+        <item>Да не се показва</item>
+    </string-array>
+</resources>

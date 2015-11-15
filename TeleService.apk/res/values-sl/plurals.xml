@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Podatkovne povezave ni %s minut</item>
+        <item quantity="one">Podatkovne povezave ni %s minuto</item>
+        <item quantity="two">Podatkovne povezave ni %s minuti</item>
+        <item quantity="few">Podatkovne povezave ni %s minute</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefon bo v načinu povratnega klica v sili %s minut. V tem načinu ni mogoče uporabljati aplikacij, ki uporabljajo podatkovno povezavo. Ali želite zapreti?</item>
+        <item quantity="one">Telefon bo v načinu povratnega klica v sili %s minuto. V tem načinu ni mogoče uporabljati aplikacij, ki uporabljajo podatkovno povezavo. Ali želite zapreti?</item>
+        <item quantity="two">Telefon bo v načinu povratnega klica v sili %s minuti. V tem načinu ni mogoče uporabljati aplikacij, ki uporabljajo podatkovno povezavo. Ali želite zapreti?</item>
+        <item quantity="few">Telefon bo v načinu povratnega klica v sili %s minute. V tem načinu ni mogoče uporabljati aplikacij, ki uporabljajo podatkovno povezavo. Ali želite zapreti?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Izbrano dejanje ni na voljo v načinu povratnega klica v sili. Telefon bo v tem načinu %s minut. Ali želite zapreti?</item>
+        <item quantity="one">Izbrano dejanje ni na voljo v načinu povratnega klica v sili. Telefon bo v tem načinu %s minuto. Ali želite zapreti?</item>
+        <item quantity="two">Izbrano dejanje ni na voljo v načinu povratnega klica v sili. Telefon bo v tem načinu %s minuti. Ali želite zapreti?</item>
+        <item quantity="few">Izbrano dejanje ni na voljo v načinu povratnega klica v sili. Telefon bo v tem načinu %s minute. Ali želite zapreti?</item>
+    </plurals>
+</resources>

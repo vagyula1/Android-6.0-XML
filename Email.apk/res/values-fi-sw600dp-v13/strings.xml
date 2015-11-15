@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">Hallinnoi kansioita</string>
+    <string name="add_cc_label">+ Kopio/piilokopio</string>
+    <string name="add_bcc_label">+ Piilokopio</string>
+    <string name="preferences_default_reply_all_summary">Käytä oletuksena vastauksissa viesti-ilmoituksiin</string>
+</resources>

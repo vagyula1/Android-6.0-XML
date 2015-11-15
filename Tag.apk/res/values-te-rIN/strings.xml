@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ట్యాగ్‌లు</string>
+    <string name="title_scanned_tag">కొత్త ట్యాగ్ సేకరించబడింది</string>
+    <string name="title_existing_tag">ట్యాగ్</string>
+    <string name="tag_unknown">తెలియని ట్యాగ్ రకం</string>
+    <string name="tag_empty">ఖాళీ ట్యాగ్</string>
+    <string name="button_done">పూర్తయింది</string>
+    <string name="action_text">%sకి వచనం పంపు</string>
+    <string name="action_call">%sకి కాల్ చేయి</string>
+    <string name="empty_tag_prompt">ఈ ట్యాగ్ ఖాళీగా ఉంది.</string>
+    <string name="import_vcard">^1ని దిగుమతి చేయండి</string>
+    <string name="mime_display_name">NFC ట్యాగ్ నుండి డేటా</string>
+    <string name="vcard_title">^1 యొక్క సంప్రదింపు సమాచారం</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">ໂຕເລືອກພາບພື້ນຫຼັງແບບເຄື່ອນໄຫວ</string>
+    <string name="live_wallpaper_picker_title">ເລືອກພາບພື້ນຫຼັງແບບເຄື່ອນໄຫວ</string>
+    <string name="live_wallpaper_picker_label">ພາບພື້ນຫຼັງແບບເຄື່ອນໄຫວ</string>
+    <string name="live_wallpaper_preview_title">ຕົວຢ່າງພາບພື້ນຫຼັງແບບເຄື່ອນໄຫວ</string>
+    <string name="configure_wallpaper">ການຕັ້ງຄ່າ...</string>
+    <string name="wallpaper_instructions">ຕັ້ງພາບພື້ນຫຼັງ</string>
+    <string name="live_wallpaper_empty">ບໍ່ມີພາບພື້ນຫຼັງແບບເຄື່ອນໄຫວ.</string>
+    <string name="set_live_wallpaper">ຕັ້ງພາບພື້ນຫຼັງ</string>
+    <string name="wallpaper_title_and_author">%1$s ໂດຍ %2$s</string>
+    <string name="live_wallpaper_loading">ກຳລັງໂຫລດພາບພື້ນຫຼັງແບບເຄື່ອນໄຫວ…</string>
+    <string name="wallpaper_cancel">ຍົກເລີກ</string>
+</resources>

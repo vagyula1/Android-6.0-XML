@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Zirriborroak</item>
+        <item quantity="one">Zirriborroa</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$d elkarrizketa hauek ezabatu nahi dituzu?</item>
+        <item quantity="one">Elkarrizketa ezabatu nahi duzu?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">%1$d elkarrizketa hauek artxibatu nahi dituzu?</item>
+        <item quantity="one">Elkarrizketa artxibatu nahi duzu?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">%1$d mezuak baztertu nahi dituzu?</item>
+        <item quantity="one">Mezua baztertu nahi duzu?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d elkarrizketari izarrak kentzen</item>
+        <item quantity="one">%1$d elkarrizketari izarra kentzen</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ezkutatu dira</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ezkutatu da</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> spama direla adierazi da</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> spama dela adierazi da</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> spama ez direla adierazi da</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> spama ez dela adierazi da</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> garrantzirik gabeko gisa markatu dira</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> garrantzirik gabeko gisa markatu da</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> phishing-a direla adierazi da</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> phishing-a dela adierazi da</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> artxibatu dira</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> artxibatu da</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ezabatu dira</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ezabatu da</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Karpetak aldatu dira</item>
+        <item quantity="one">Karpeta aldatu da</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d mezu berri</item>
+        <item quantity="one">%1$d mezu berri</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Zabaldu %1$d mezu zaharragoak ikusteko</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Zabaldu egin da %1$d mezu zaharragoak ikusteko</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d irakurri gabe</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d mezu berri</item>
+        <item quantity="one">%1$d mezu berri</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d mezu betiko ezabatuko dira.</item>
+        <item quantity="one">%1$d mezu betiko ezabatuko da.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d mezu</item>
+        <item quantity="one">%1$d mezu</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d eranskin</item>
+        <item quantity="one">%1$d eranskin</item>
+    </plurals>
+</resources>

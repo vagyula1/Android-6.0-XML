@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">आपण आता विकासक बनण्यापासून %1$d चरणे दूर आहात.</item>
+        <item quantity="one">आपण आता विकासक बनण्यापासून %1$d चरण दूर आहात.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d फिंगरप्रिंट सेटअप</item>
+        <item quantity="one">%1$d फिंगरप्रिंट सेटअप</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">संकेतशब्दामध्ये कमीत कमी %d अक्षरे असणे आवश्यक आहे.</item>
+        <item quantity="one">संकेतशब्दामध्ये कमीत कमी %d अक्षर असणे आवश्यक आहे.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">संकेतशब्दामध्ये कमीत कमी %d लोअरकेस अक्षरे असणे आवश्यक आहे.</item>
+        <item quantity="one">संकेतशब्दामध्ये कमीत कमी %d लोअरकेस अक्षर असणे आवश्यक आहे.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">संकेतशब्दामध्ये कमीत कमी %d अप्परकेस अक्षरे असणे आवश्यक आहे.</item>
+        <item quantity="one">संकेतशब्दामध्ये कमीत कमी %d अप्परकेस अक्षर असणे आवश्यक आहे.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">संकेतशब्दामध्ये कमीत कमी %d संख्यात्मक अंक असणे आवश्यक आहे.</item>
+        <item quantity="one">संकेतशब्दामध्ये कमीत कमी %d संख्यात्मक अंक असणे आवश्यक आहे.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">संकेतशब्दामध्ये कमीत कमी %d विशिष्ट चिन्हे असणे आवश्यक आहे.</item>
+        <item quantity="one">संकेतशब्दामध्ये कमीत कमी %d विशिष्ट चिन्ह असणे आवश्यक आहे.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">संकेतशब्दामध्ये कमीत कमी %d अक्षर-नसलेले वर्ण असणे आवश्यक आहे.</item>
+        <item quantity="one">संकेतशब्दामध्ये कमीत कमी %d अक्षर-नसलेला वर्ण असणे आवश्यक आहे.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">सिम पिन चुकीचा आहे, आपल्याकडे %d प्रयत्न उर्वरित आहेत.</item>
+        <item quantity="one">सिम पिन चुकीचा आहे, आपल्याकडे %d प्रयत्न उर्वरित आहे.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d अॅप्स सूचना वाचू शकतात</item>
+        <item quantity="one">%d अॅप्स सूचना वाचू शकतात</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">%1$d मिनिटांसाठी (%2$s पर्यंत) अलार्म वर बदला</item>
+        <item quantity="one">%1$d मिनिटासाठी (%2$s पर्यंत) अलार्म वर बदला</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">%2$s पर्यंत %1$d तासांसाठी अलार्म वर बदला</item>
+        <item quantity="one">%2$s पर्यंत %1$d तासासाठी अलार्म वर बदला</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d परवानग्यांना मंजूरी दिली</item>
+        <item quantity="one">%d परवानगीस मंजूरी दिली</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d पैकी %2$d परवानग्यांना मंजूरी दिली</item>
+        <item quantity="one">%1$d पैकी %2$d परवानग्यांना मंजूरी दिली</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d अतिरिक्त परवानग्या</item>
+        <item quantity="one">%d अतिरिक्त परवानगी</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d अॅप्स त्याचे समर्थित दुवे उघडू शकतात</item>
+        <item quantity="one">%d अॅप त्याचे समर्थित दुवे उघडू शकतो</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d अॅप्सने बॅटरी ऑप्टिमायझेशन दुर्लक्षित करण्याची अनुमती दिली</item>
+        <item quantity="one">%d अॅपने बॅटरी ऑप्टिमायझेशन दुर्लक्षित करण्याची अनुमती दिली</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">गेल्या %2$s मध्‍ये %1$d अ‍ॅप्सने मेमरी वापरली</item>
+        <item quantity="one">गेल्या %2$s मध्‍ये %1$d अ‍ॅपने मेमरी वापरली</item>
+    </plurals>
+</resources>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Kennisgewing</item>
+        <item>E-pos</item>
+        <item>SMS</item>
+        <item>Alarm</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 minute</item>
+        <item>1 minuut</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>15 minute</item>
+        <item>20 minute</item>
+        <item>25 minute</item>
+        <item>30 minute</item>
+        <item>45 minute</item>
+        <item>1 uur</item>
+        <item>2 uur</item>
+        <item>3 uur</item>
+        <item>12 uur</item>
+        <item>24 uur</item>
+        <item>2 dae</item>
+        <item>1 week</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Geen</item>
+        <item>0 minute</item>
+        <item>1 minuut</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>15 minute</item>
+        <item>20 minute</item>
+        <item>25 minute</item>
+        <item>30 minute</item>
+        <item>45 minute</item>
+        <item>1 uur</item>
+        <item>2 uur</item>
+        <item>3 uur</item>
+        <item>12 uur</item>
+        <item>24 uur</item>
+        <item>2 dae</item>
+        <item>1 week</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Locale-verstek</item>
+        <item>Saterdag</item>
+        <item>Sondag</item>
+        <item>Maandag</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Besig</item>
+        <item>Beskikbaar</item>
+        <item>Voorlopig</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Verstek</item>
+        <item>Privaat</item>
+        <item>Publiek</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>eerste</item>
+        <item>sekonde</item>
+        <item>derde</item>
+        <item>vierde</item>
+        <item>laaste</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Geen reaksie nie</item>
+        <item>Ja</item>
+        <item>Miskien</item>
+        <item>Nee</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Slegs hierdie gebeurtenis</item>
+        <item>Hierdie en toekomstige gebeure</item>
+        <item>Alle gebeurtenisse</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Hierdie en toekomstige gebeurtenisse</item>
+        <item>Alle gebeurtenisse</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Slegs hierdie gebeurtenis</item>
+        <item>Alle gebeurtenisse in die reeks</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Dag</item>
+        <item>Week</item>
+        <item>Maand</item>
+        <item>Agenda</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Net as afgewys</item>
+        <item>As afgewys of nie gereageer nie</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>HERHAAL DAAGLIKS</item>
+        <item>HERHAAL WEEKLIKS</item>
+        <item>HERHAAL MAANDELIKS</item>
+        <item>HERHAAL JAARLIKS</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>op elke eerste Sondag</item>
+        <item>op elke tweede Sondag</item>
+        <item>op elke derde Sondag</item>
+        <item>op elke vierde Sondag</item>
+        <item>op elke laaste Sondag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>op elke eerste Maandag</item>
+        <item>op elke tweede Maandag</item>
+        <item>op elke derde Maandag</item>
+        <item>op elke vierde Maandag</item>
+        <item>op elke laaste Maandag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>op elke eerste Dinsdag</item>
+        <item>op elke tweede Dinsdag</item>
+        <item>op elke derde Dinsdag</item>
+        <item>op elke vierde Dinsdag</item>
+        <item>op elke laaste Dinsdag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>op elke eerste Woensdag</item>
+        <item>op elke tweede Woensdag</item>
+        <item>op elke derde Woensdag</item>
+        <item>op elke vierde Woensdag</item>
+        <item>op elke laaste Woensdag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>op elke eerste Donderdag</item>
+        <item>op elke tweede Donderdag</item>
+        <item>op elke derde Donderdag</item>
+        <item>op elke vierde Donderdag</item>
+        <item>op elke laaste Donderdag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>op elke eerste Vrydag</item>
+        <item>op elke tweede Vrydag</item>
+        <item>op elke derde Vrydag</item>
+        <item>op elke vierde Vrydag</item>
+        <item>op elke laaste Vrydag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>op elke eerste Saterdag</item>
+        <item>op elke tweede Saterdag</item>
+        <item>op elke derde Saterdag</item>
+        <item>op elke vierde Saterdag</item>
+        <item>op elke laaste Saterdag</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>"Is net 'n paar minute laat."</item>
+        <item>Ek is oor ongeveer 10 minute daar.</item>
+        <item>Begin solank sonder my.</item>
+        <item>Jammer, ek kan nie meer kom nie. Ons sal moet herskeduleer.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australië sentraal - NT</item>
+        <item>Australië sentraal - SA</item>
+        <item>Australiese oosters - QLD</item>
+        <item>Australiese oosters - NSW</item>
+        <item>Bergstandaard - Dawson Creek</item>
+        <item>Sentrale standaard - Saskatchewan</item>
+        <item>Oosterse standaard - Atikokan</item>
+        <item>Atlantiese standaard - Quebec</item>
+        <item>Hawaii-Aleutian - Hawaii</item>
+        <item>Hawaii-Aleutian - Alaska</item>
+        <item>Pasifiese standaardtyd - Metlakatla</item>
+        <item>Bergstandaardtyd - Arizona</item>
+        <item>Pasifiese - Baja Kalifornië</item>
+        <item>Berg - Chihuahua</item>
+        <item>Sentraal - Tamaulipas</item>
+        <item>Berg - Sonora</item>
+        <item>Oos-Afrika-tyd</item>
+        <item>Atlantiese standaardtyd</item>
+        <item>Atlantiese standaardtyd</item>
+        <item>Oos-Europese tyd</item>
+        <item>Kaliningrad-tyd</item>
+        <item>Amasone - Rondônië</item>
+        <item>Brasilië - Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint Maarte</item>
+        <item>Karibiese Nederland</item>
+        <item>Curaçao</item>
+        <item>Suid-Soedan</item>
+    </string-array>
+</resources>

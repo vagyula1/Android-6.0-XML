@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Foonoproepbestuur</string>
+    <string name="userCallActivityLabel">Foon</string>
+    <string name="unknown">Onbekend</string>
+    <string name="notification_missedCallTitle">Gemiste oproep</string>
+    <string name="notification_missedCallsTitle">Gemiste oproepe</string>
+    <string name="notification_missedCallsMsg">%s gemiste oproepe</string>
+    <string name="notification_missedCallTicker">Gemiste oproep van %s</string>
+    <string name="notification_missedCall_call_back">Bel terug</string>
+    <string name="notification_missedCall_message">Boodskap</string>
+    <string name="accessibility_call_muted">Oproep stilgemaak.</string>
+    <string name="accessibility_speakerphone_enabled">Luidsprekerfoon geaktiveer.</string>
+    <string name="respond_via_sms_canned_response_1">"Kan nie nou praat nie. Wat's nuus?"</string>
+    <string name="respond_via_sms_canned_response_2">Ek bel jou nou-nou terug.</string>
+    <string name="respond_via_sms_canned_response_3">Ek bel jou later.</string>
+    <string name="respond_via_sms_canned_response_4">Kan nie nou praat nie. Bel my later?</string>
+    <string name="respond_via_sms_setting_title">Vinnige antwoorde</string>
+    <string name="respond_via_sms_setting_title_2">Redigeer vinnige antwoorde</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Vinnige antwoord</string>
+    <string name="respond_via_sms_confirmation_format">Boodskap gestuur na %s.</string>
+    <string name="enable_account_preference_title">Oproeprekeninge</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Net noodoproepe word deur die toesteleienaar toegelaat.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Hierdie program kan nie uitgaande oproepe maak sonder die foon se toestemming nie.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">"Voer 'n geldige nommer in om 'n oproep te maak."</string>
+    <string name="duplicate_video_call_not_allowed">Oproep kan nie op die oomblik bygevoeg word nie.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Deaktiveer TTY-modus om video-oproepe te maak.</string>
+    <string name="no_vm_number">Vermiste stemboodskapnommer</string>
+    <string name="no_vm_number_msg">Geen stemboodskapnommer is op die SIM-kaart gestoor nie.</string>
+    <string name="add_vm_number_str">Voeg nommer by</string>
+    <string name="change_default_dialer_dialog_title">Verander verstekbellerprogram?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Gebruik %1$s eerder as %2$s as jou verstekbellerprogram?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Gebruik %s as jou verstekbellerprogram?</string>
+</resources>

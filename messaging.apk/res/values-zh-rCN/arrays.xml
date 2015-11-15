@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>无主题</item>
+        <item>无主题</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>是的</item>
+        <item>不</item>
+        <item>好</item>
+        <item>呵呵</item>
+        <item>谢谢</item>
+        <item>同意</item>
+        <item>不错</item>
+        <item>在路上</item>
+        <item>稍后再回复你</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

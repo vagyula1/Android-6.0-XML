@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Черновики</item>
+        <item quantity="one">Черновик</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Удалить эти цепочки (%1$d)?</item>
+        <item quantity="one">Удалить эту цепочку?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Архивировать эти цепочки (%1$d)?</item>
+        <item quantity="one">Архивировать эту цепочку?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Удалить сообщения (%1$d)?</item>
+        <item quantity="one">Удалить это сообщение?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Пометки сняты с нескольких цепочек: %1$d</item>
+        <item quantity="one">С %1$d цепочки снята пометка</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">Цепочки игнорируются: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> цепочка игнорируется</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">Цепочки помечены как спам: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> цепочка помечена как спам</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">Цепочки удалены из спама: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> цепочка удалена из спама</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">Цепочки помечены как неважные: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> цепочка помечена как неважная</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">Цепочки помечены как фишинг: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> цепочка помечена как фишинг</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">Цепочки архивированы: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> цепочка архивирована</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">Цепочки удалены: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> цепочка удалена</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Папки изменены</item>
+        <item quantity="one">Папка изменена</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">Новых сообщений: %1$d</item>
+        <item quantity="one">%1$d новое сообщение</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Показать более старые сообщения (%1$d)</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Показаны более старые сообщения (%1$d)</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">Новых: %1$d</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">Новых сообщений: %1$d</item>
+        <item quantity="one">Новых сообщений: %1$d</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Сообщения (%1$d) будут удалены без возможности восстановления.</item>
+        <item quantity="one">%1$d сообщение будет удалено без возможности восстановления.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">Сообщений: %1$d</item>
+        <item quantity="one">Сообщений: %1$d</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">Файлов: %1$d</item>
+        <item quantity="one">Файлов: %1$d</item>
+    </plurals>
+</resources>

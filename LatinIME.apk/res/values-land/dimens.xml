@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="config_default_keyboard_height">176.0dip</dimen>
+    <dimen name="config_more_keys_keyboard_key_height">44.799988dip</dimen>
+    <dimen name="config_more_keys_keyboard_slide_allowance">53.75998dip</dimen>
+    <dimen name="config_more_keys_keyboard_vertical_correction_holo">-22.399994dip</dimen>
+    <dimen name="config_key_preview_offset_holo">1.5999756dip</dimen>
+    <dimen name="config_key_preview_height_holo">80.0dip</dimen>
+    <dimen name="config_key_preview_offset_lxx">43.599976dip</dimen>
+    <dimen name="config_key_preview_height_lxx">122.0dip</dimen>
+    <dimen name="config_suggestions_strip_height">36.0dip</dimen>
+    <dimen name="config_suggestions_strip_horizontal_margin">54.0dip</dimen>
+    <dimen name="config_suggestions_strip_edge_key_width">54.0dip</dimen>
+    <dimen name="config_more_suggestions_row_height">36.0dip</dimen>
+    <dimen name="config_gesture_floating_preview_text_size">23.0dip</dimen>
+    <dimen name="config_gesture_floating_preview_text_offset">54.0dip</dimen>
+    <dimen name="config_gesture_floating_preview_horizontal_padding">23.0dip</dimen>
+    <dimen name="config_gesture_floating_preview_vertical_padding">15.0dip</dimen>
+    <dimen name="setup_title_text_size">32.0sp</dimen>
+    <dimen name="setup_welcome_description_text_size">18.0sp</dimen>
+    <dimen name="setup_step_bullet_text_size">18.0sp</dimen>
+    <dimen name="setup_step_triangle_indicator_height">18.0dip</dimen>
+    <dimen name="setup_step_title_text_size">18.0sp</dimen>
+    <dimen name="setup_step_instruction_text_size">14.0sp</dimen>
+    <dimen name="setup_step_action_text_size">16.0sp</dimen>
+    <dimen name="setup_vertical_padding">16.0dip</dimen>
+    <dimen name="setup_horizontal_padding">12.0dip</dimen>
+    <dimen name="setup_step_action_height">42.0dip</dimen>
+    <dimen name="setup_step_horizontal_padding">20.0dip</dimen>
+    <dimen name="setup_step_horizontal_padding_half">10.0dip</dimen>
+    <dimen name="setup_step_vertical_padding">12.0dip</dimen>
+    <dimen name="setup_step_horizontal_line_height">2.0dip</dimen>
+    <dimen name="setup_title_end_margin">12.0dip</dimen>
+    <dimen name="setup_welcome_description_top_margin">12.0dip</dimen>
+    <dimen name="setup_welcome_video_top_padding">0.0dip</dimen>
+    <dimen name="setup_welcome_video_bottom_padding">12.0dip</dimen>
+</resources>

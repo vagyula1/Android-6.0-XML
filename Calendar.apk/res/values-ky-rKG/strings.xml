@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_time_zone_search">Өлкөнүн аталышын териңиз</string>
+    <string name="searchview_description_clear">Сурамды өчүрүү</string>
+    <string name="no_results_found">Бир да натыйжа табылган жок</string>
+    <string name="palestine_display_name">Палестина</string>
+    <string name="done_label">Аткарылды</string>
+    <string name="hour_picker_description">Саат боюнча айлангыч</string>
+    <string name="minute_picker_description">Мүнөт боюнча айлангыч</string>
+    <string name="select_hours">Саатты тандаңыз</string>
+    <string name="select_minutes">Мүнөттөрдү тандаңыз</string>
+    <string name="day_picker_description">Айдын күндөрү</string>
+    <string name="year_picker_description">Жыл тизмеси</string>
+    <string name="select_day">Ай жана күндү тандаңыз</string>
+    <string name="select_year">Жылды тандаңыз</string>
+    <string name="item_is_selected">%1$s тандалды</string>
+    <string name="deleted_key">%1$s жок кылынды</string>
+    <string name="color_picker_default_title">Түс тандаңыз</string>
+    <string name="color_swatch_description">Түс %1$d</string>
+    <string name="color_swatch_description_selected">%1$d түс тандалды</string>
+    <string name="more_string">+%1$d</string>
+    <string name="copy_email">Эмейл даректи көчүрүү</string>
+    <string name="copy_number">Телефон номурун көчүрүү</string>
+    <string name="action_label">Кайтуу</string>
+    <string name="accessbility_suggestion_dropdown_opened">Байланыш сунуштары ачылды</string>
+    <string name="dropdown_delete_button_desc">Алуучулардан %s дегенди алып салуу</string>
+</resources>

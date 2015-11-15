@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d நிமிடங்கள்</item>
+        <item quantity="one">1 நிமிடம்</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d நிமிடங்கள்</item>
+        <item quantity="one">1 நிமிடம்</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d மணிநேரம்</item>
+        <item quantity="one">1 மணிநேரம்</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d நாட்கள்</item>
+        <item quantity="one">1 நாள்</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">வாரம் %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d முறைகள்</item>
+        <item quantity="one">; ஒரு முறை</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">ஒவ்வொரு %d நாட்கள்</item>
+        <item quantity="one">தினசரி</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">ஒவ்வொரு %1$d வாரங்களில் - %2$s</item>
+        <item quantity="one">வாரந்தோறும் - %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d நிகழ்வுகள்</item>
+        <item quantity="one">1 நிகழ்வு</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d நிகழ்வுகள்</item>
+        <item quantity="one">+1 நிகழ்வு</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">ஒவ்வொரு %d நாட்கள்</item>
+        <item quantity="one">ஒவ்வொரு %d நாள்</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">ஒவ்வொரு %d வாரங்கள்</item>
+        <item quantity="one">ஒவ்வொரு %d வாரம்</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">ஒவ்வொரு %d மாதங்கள்</item>
+        <item quantity="one">%d மாதம்</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">ஒவ்வொரு %d ஆண்டுகள்</item>
+        <item quantity="one">ஒவ்வொரு %d ஆண்டு</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d நிகழ்வுகளுக்கு</item>
+        <item quantity="one">%d நிகழ்விற்கு</item>
+    </plurals>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Žiadne dátové pripojenie – %s min</item>
+        <item quantity="one">Žiadne dátové pripojenie – %s min</item>
+        <item quantity="few">Žiadne dátové pripojenie – %s min</item>
+        <item quantity="many">Žiadne dátové pripojenie – %s min</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefón bude %s minút v režime spätného tiesňového volania. Keď bude v tomto režime, nesmiete používať žiadne aplikácie využívajúce dátové pripojenie. Chcete ho ukončiť?</item>
+        <item quantity="one">Telefón bude %s minútu v režime spätného tiesňového volania. Keď bude v tomto režime, nesmiete používať žiadne aplikácie využívajúce dátové pripojenie. Chcete ho ukončiť?</item>
+        <item quantity="few">Telefón bude %s minúty v režime spätného tiesňového volania. Keď bude v tomto režime, nesmiete používať žiadne aplikácie využívajúce dátové pripojenie. Chcete ho ukončiť?</item>
+        <item quantity="many">Telefón bude %s minúty v režime spätného tiesňového volania. Keď bude v tomto režime, nesmiete používať žiadne aplikácie využívajúce dátové pripojenie. Chcete ho ukončiť?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Pri spustenom režime spätného tiesňového volania nie je vybraná akcia k dispozícii. Telefón bude v tomto režime %s minút. Chcete ho ukončiť?</item>
+        <item quantity="one">Pri spustenom režime spätného tiesňového volania nie je vybraná akcia k dispozícii. Telefón bude v tomto režime %s minútu. Chcete ho ukončiť?</item>
+        <item quantity="few">Pri spustenom režime spätného tiesňového volania nie je vybraná akcia k dispozícii. Telefón bude v tomto režime %s minúty. Chcete ho ukončiť?</item>
+        <item quantity="many">Pri spustenom režime spätného tiesňového volania nie je vybraná akcia k dispozícii. Telefón bude v tomto režime %s minúty. Chcete ho ukončiť?</item>
+    </plurals>
+</resources>

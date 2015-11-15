@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>এ=আবিদজান</item>
+        <item>এ=অক্রা</item>
+        <item>এ=আদ্দিস আবাবা</item>
+        <item>এ=আলজিয়ার্স</item>
+        <item>বি=ব্ল্যানটায়ার</item>
+        <item>বি=ব্রাজাভিল</item>
+        <item>সি=কায়রো</item>
+        <item>সি=কাসাব্লাংকা</item>
+        <item>সি=কোনাক্রি</item>
+        <item>ডি=ডাকার</item>
+        <item>ডি=দার এস সালাম</item>
+        <item>ডি=জিবুতি</item>
+        <item>এফ=ফ্রিটাউন</item>
+        <item>জি=গ্যাবোরোন</item>
+        <item>এইচ=হারারে</item>
+        <item>জে=জোহানেসবার্গ</item>
+        <item>কে=কাম্পালা</item>
+        <item>কে=খার্তুম</item>
+        <item>কে=কিগালি</item>
+        <item>কে=কিনসাসা</item>
+        <item>এল=লেগোস</item>
+        <item>এম=মাসেরু</item>
+        <item>এম=মোগাদিসু</item>
+        <item>এন=নাইরোবি</item>
+        <item>এস=সাও টোমে</item>
+        <item>টি=টিম্বাকটু</item>
+        <item>টি=ত্রিপোলি</item>
+        <item>টি=তিউনিস</item>
+        <item>এ=অ্যাংকারিজ</item>
+        <item>এম=মেন্ডোজা</item>
+        <item>এ=আরুবা</item>
+        <item>এ=আসাম্প্শান</item>
+        <item>বি=বার্বাডোস</item>
+        <item>বি=বেলিজ</item>
+        <item>বি=বোগোতা</item>
+        <item>বি=বুয়েনোস আইরেস</item>
+        <item>সি=কানকুন</item>
+        <item>সি=কারাকাস</item>
+        <item>সি=কেম্যান</item>
+        <item>সি=শিকাগো</item>
+        <item>সি=কোস্টারিকা</item>
+        <item>সি=কিউরাসাও</item>
+        <item>ডি=ডসন ক্রিক</item>
+        <item>ডি=ডেনভার</item>
+        <item>ডি=ডেট্রয়েট</item>
+        <item>ডি=ডোমিনিকা</item>
+        <item>ই=এডমন্টন</item>
+        <item>ই=এল সালভাদর</item>
+        <item>এফ=ফোর্তলেজ়া</item>
+        <item>জি=গ্র্যান্ড টার্ক</item>
+        <item>জি=গ্রেনাডা</item>
+        <item>জি=গুয়াটেমালা</item>
+        <item>জি=গিয়ানা</item>
+        <item>এইচ=হ্যালিফ্যাক্স</item>
+        <item>এইচ=হাভানা</item>
+        <item>আই=ইন্ডিয়ানাপলিস</item>
+        <item>কে=নক্স</item>
+        <item>এম=মারেঙ্গো</item>
+        <item>পি=পিটার্সবার্গ</item>
+        <item>টি=টেল সিটি</item>
+        <item>ভি=ভেভেয়</item>
+        <item>ভি=ভিনসেন্স</item>
+        <item>ডাব্লু=উইনাম্যাক</item>
+        <item>কে=কিংস্টন</item>
+        <item>এন=নয়েস্ত্রা সিনোরা ডি লা পাজ</item>
+        <item>এল=লিমা</item>
+        <item>এল=লস এঞ্জেলেস</item>
+        <item>এল=লুইসভিলে</item>
+        <item>এম=মানাগুয়া</item>
+        <item>এম=মার্টিনিক</item>
+        <item>এম=মেন্ডোজা</item>
+        <item>এম=মেটলেকাটলা</item>
+        <item>এম=মেক্সিকো সিটি</item>
+        <item>এম=মন্টেরি</item>
+        <item>এম=মন্টেভিডিও</item>
+        <item>এম=মন্ট্রিয়েল</item>
+        <item>এন=নাসাউ</item>
+        <item>এন=নিউ ইয়র্ক</item>
+        <item>বি=বেউলা</item>
+        <item>সি=সেন্টার</item>
+        <item>এন=নিউ সালেম</item>
+        <item>পি=পানামা</item>
+        <item>পি=ফিনিক্স</item>
+        <item>পি=পোর্ট অফ স্পেন</item>
+        <item>পি=পোর্ট-অ-প্রিন্স</item>
+        <item>পি=পুয়ের্তো রিকো</item>
+        <item>এস=সান্টো ডোমিংগো</item>
+        <item>এস=সাও পাওলো</item>
+        <item>এস=সেন্ট জনস</item>
+        <item>এস=সেন্ট কিটস</item>
+        <item>এস=সেন্ট লুসিয়া</item>
+        <item>এস=সেন্ট থমাস</item>
+        <item>টি=তিজুয়ানা</item>
+        <item>টি=টরন্টো</item>
+        <item>ভি=ভ্যাঙ্কুভার</item>
+        <item>ডাব্লু=উইনিপেগ</item>
+        <item>এস=দক্ষিণ মেরু</item>
+        <item>এল=লঞ্জিয়বিয়েঁন</item>
+        <item>এ=আলমাটি</item>
+        <item>এ=আম্মান</item>
+        <item>এ=অ্যানাডির</item>
+        <item>এ=অ্যাকটাউ</item>
+        <item>বি=বাগদাদ</item>
+        <item>বি=বাহরাইন</item>
+        <item>বি=বাকু</item>
+        <item>বি=ব্যাংকক</item>
+        <item>বি=বৈরুত</item>
+        <item>সি=কলকাতা</item>
+        <item>ডি=দামাস্কাস</item>
+        <item>ডি=ঢাকা</item>
+        <item>ডি=দুবাই</item>
+        <item>জি=গাজা</item>
+        <item>এইচ=হিব্রোণ</item>
+        <item>এইচ=হো চি মিন</item>
+        <item>এইচ=হংকং</item>
+        <item>আই=ইস্তাম্বুল</item>
+        <item>জে=জাকার্তা</item>
+        <item>জে=জেরুসালেম</item>
+        <item>কে=কাবুল</item>
+        <item>কে=করাচী</item>
+        <item>কে=কাঠমান্ডু</item>
+        <item>কে=কুয়ালালামপুর</item>
+        <item>কে=কুয়েত</item>
+        <item>এম=ম্যাকাও</item>
+        <item>এম=ম্যানিলা</item>
+        <item>এম=মাস্কট</item>
+        <item>পি=প্নম পেন</item>
+        <item>পি=পিয়ংইয়ং</item>
+        <item>কিউ=কাতার</item>
+        <item>আর=রেঙ্গুন</item>
+        <item>আর=রিয়াদ</item>
+        <item>এস=সাইগন</item>
+        <item>এস=সিউল</item>
+        <item>এস=সাংহাই</item>
+        <item>এস=সিঙ্গাপুর</item>
+        <item>টি=তাইপেই</item>
+        <item>টি=তেহরান</item>
+        <item>টি=তেল আভিভ</item>
+        <item>টি=টোকিও</item>
+        <item>ইউ=উলানবাটর</item>
+        <item>বি=বারমুডা</item>
+        <item>সি=কানারি</item>
+        <item>সি=কেপ ভার্দে</item>
+        <item>আর=রিকজাভিক</item>
+        <item>এস=স্ট্যানলি</item>
+        <item>এ=অ্যাডিলেড</item>
+        <item>বি=ব্রিসবেন</item>
+        <item>সি=ক্যানবেরা</item>
+        <item>ডি=ডারউইন</item>
+        <item>এম=মেলবোর্ন</item>
+        <item>এন=নিউ সাউথ ওয়েলস</item>
+        <item>পি=পার্থ</item>
+        <item>কিউ=কুইন্সল্যান্ড</item>
+        <item>এস=সিডনি</item>
+        <item>ভি=ভিক্টোরিয়া</item>
+        <item>এন=নিউফাউন্ডল্যান্ড</item>
+        <item>এস=সাসকাচোয়ান</item>
+        <item>ই=ইস্টার দ্বীপ</item>
+        <item>এ=আমস্টারডাম</item>
+        <item>এ=এ্যান্ডোরা</item>
+        <item>এ=এথেন্স</item>
+        <item>বি=বেলফাস্ট</item>
+        <item>বি=বেলগ্রেড</item>
+        <item>বি=বার্লিন</item>
+        <item>বি=ব্রাতিস্লাভা</item>
+        <item>বি=ব্রাসেলস</item>
+        <item>বি=বুখারেস্ট</item>
+        <item>বি=বুদাপেস্ট</item>
+        <item>সি=চিসিনৌ</item>
+        <item>সি=কোপেনহেগেন</item>
+        <item>ডি=ডাব্লিন</item>
+        <item>জি=জিব্রালটার</item>
+        <item>এইচ=হেলসিঙ্কি</item>
+        <item>আই=আইল অব ম্যান</item>
+        <item>আই=ইস্তাম্বুল</item>
+        <item>কে=কিয়েভ</item>
+        <item>এল=লিসবন</item>
+        <item>এল=লণ্ডন</item>
+        <item>এল=লাক্সেমবার্গ</item>
+        <item>এম=মাদ্রিদ</item>
+        <item>এম=মালটা</item>
+        <item>এম=মিনস্ক</item>
+        <item>এম=মোনাকো</item>
+        <item>এম=মস্কো</item>
+        <item>ও=ত্তস্লো</item>
+        <item>পি=প্যারিস</item>
+        <item>পি=প্রাগ</item>
+        <item>আর=রিগা</item>
+        <item>আর=রোম</item>
+        <item>এস=সান মারিনো</item>
+        <item>এস=সারায়েভো</item>
+        <item>এস=সিমফেরোপল</item>
+        <item>এস=স্কোপজে</item>
+        <item>এস=সোফিয়া</item>
+        <item>এস=স্টকহোম</item>
+        <item>টি=তাল্লিন</item>
+        <item>ভি=ভ্যাটিকান</item>
+        <item>ভি=ভিয়েনা</item>
+        <item>ভি=ভিলনিয়াস</item>
+        <item>ডাব্লু=ওয়ারশ</item>
+        <item>জেড=জাগরেব</item>
+        <item>জেড=জুরিখ</item>
+        <item>এ=আন্তঙানারীবো</item>
+        <item>এম=মালদ্বীপ</item>
+        <item>এম=মরিশাস</item>
+        <item>এ=অকল্যান্ড</item>
+        <item>এফ=ফিজি</item>
+        <item>জি=গুয়াম</item>
+        <item>এইচ=হনলুলু</item>
+        <item>কে=কীর্তিমাতি</item>
+        <item>এন=নুমিয়া</item>
+        <item>এস=সামোয়া</item>
+        <item>টি=তাহিতি</item>
+        <item>এ=এন্টিগুয়া</item>
+        <item>এ=অস্টিন</item>
+        <item>বি=বস্টন</item>
+        <item>সি=ক্যালগেরি</item>
+        <item>সি=কলম্বাস</item>
+        <item>ডি=ডালাস</item>
+        <item>কে=নক্সভেল</item>
+        <item>এম=মেমফিস</item>
+        <item>এম=মিয়ামি</item>
+        <item>এম=মিনিয়াপলিস</item>
+        <item>ও=অটোয়া</item>
+        <item>পি=ফিলাডেলফিয়া</item>
+        <item>পি=পোর্টল্যান্ড</item>
+        <item>এস=সান ডিযেগো</item>
+        <item>এস=সানফ্রান্সিসকো</item>
+        <item>এস=সল্ট লেক সিটি</item>
+        <item>এস=সান জোসে</item>
+        <item>এস=সান সালভাদর</item>
+        <item>এস=সিয়াটেল</item>
+        <item>এস=সেন্ট লুইস</item>
+        <item>ডাব্লু=ওয়াশিংটন ডিসি</item>
+        <item>এইচ=হিউস্টন</item>
+        <item>এস=সান আন্তোনিও</item>
+        <item>জে=জ্যাকসনভিল্লে</item>
+        <item>বি=বাল্টিমোর</item>
+        <item>এন=ন্যাশভিল</item>
+        <item>এম=মিলওয়াকি</item>
+        <item>ও=ওকলাহোমা সিটি</item>
+        <item>এল=লাস ভেগাস</item>
+        <item>এ=আল্বকরকী</item>
+        <item>টি=টিউশন</item>
+        <item>এস=সাক্রামেন্টো</item>
+        <item>এ=আটলান্টা</item>
+        <item>সি=ক্লিভল্যান্ড</item>
+        <item>এন=নিউ অর্লিন্স</item>
+        <item>টি=টাম্পা</item>
+        <item>পি=পিটসবার্গ</item>
+        <item>সি=সিনসিনাটি</item>
+        <item>এম=মাউন্টেন ভিউ</item>
+        <item>আর=রেনু</item>
+        <item>বি=ব্ল্যাক রক সিটি</item>
+        <item>ডি=দোহা</item>
+        <item>বি=বেইজিং</item>
+        <item>এম=মুম্বাই</item>
+        <item>ডি=দিল্লি</item>
+        <item>ও=ওসাকা</item>
+        <item>এল=লাহোর</item>
+        <item>এস=সানা</item>
+        <item>বি=বার্সেলোনা</item>
+        <item>এম=মিউনিখ</item>
+        <item>এম=মিলান</item>
+        <item>এফ=ফ্রাংকফুর্ট</item>
+        <item>এইচ=হ্যানয়</item>
+        <item>এ=আঙ্কারা</item>
+        <item>বি=বেঙ্গালুরু</item>
+        <item>বি=ব্রাসিলিয়া</item>
+        <item>সি=কেপ টাউন</item>
+        <item>আই=ইসলামাবাদ</item>
+        <item>আর=রিও ডি জ্যানেরিও</item>
+        <item>এ=অ্যান আর্বর</item>
+        <item>বি=বোল্ডার</item>
+        <item>সি=কেমব্রিজ</item>
+        <item>কে=কার্কল্যান্ড</item>
+        <item>এম=ম্যাডিসন</item>
+        <item>জি=গুয়াংঝো</item>
+        <item>এইচ=হায়দ্রাবাদ</item>
+        <item>আর=রেস্টন</item>
+        <item>বি=বেলো হরিজন্তে</item>
+        <item>এস=সান্টিয়াগো</item>
+        <item>এম=মনরোভিয়া</item>
+        <item>সি=কলম্বো</item>
+        <item>সি=চিহুয়াহুয়া</item>
+        <item>এস=সালভাদর</item>
+        <item>জি=গুরগাঁও</item>
+        <item>এম=ম্যানচেস্টার</item>
+        <item>কে=কিয়েভ</item>
+        <item>এস=সেন্ট পিটার্সবার্গ</item>
+        <item>কে=ক্রোকাও</item>
+        <item>ডাব্লু=রোক্লো</item>
+        <item>এইচ=হামবুর্গ</item>
+        <item>ও=উলু</item>
+        <item>এইচ=হাইফা</item>
+        <item>এস=সান জুয়ান</item>
+        <item>টি=তেগুসিগালপা</item>
+        <item>পি=প্যারামারিবো</item>
+        <item>কিউ=কুইটো</item>
+        <item>এল=লিউব্লিয়ানা</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>এক মিনিটেরও কম সময় বাকি আছে</item>
+        <item>%1$s বাকি</item>
+        <item>%2$s বাকি</item>
+        <item>%1$s %2$s বাকি</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>এখন থেকে ১ মিনিটের কম সময়ের জন্য অ্যালার্ম সেট করা হয়েছে।</item>
+        <item>এখন থেকে %1$s-র জন্য অ্যালার্ম সেট করা হয়েছে।</item>
+        <item>এখন থেকে %2$s-র জন্য অ্যালার্ম সেট করা হয়েছে।</item>
+        <item>এখন থেকে %1$s ও %2$s-র জন্য অ্যালার্ম সেট করা হয়েছে।</item>
+        <item>এখন থেকে %3$s-র জন্য অ্যালার্ম সেট করা হয়েছে।</item>
+        <item>এখন থেকে %1$s ও %3$s-র জন্য অ্যালার্ম সেট করা হয়েছে।</item>
+        <item>এখন থেকে %2$s ও %3$s-র জন্য অ্যালার্ম সেট করা হয়েছে।</item>
+        <item>এখন থেকে %1$s, %2$s, ও %3$s-র জন্য অ্যালার্ম সেট করা হয়েছে।</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>১ মিনিট</item>
+        <item>৫ মিনিট</item>
+        <item>১০ মিনিট</item>
+        <item>১৫ মিনিট</item>
+        <item>২০ মিনিট</item>
+        <item>২৫ মিনিট</item>
+        <item>কখনই নয়</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>শনিবার</item>
+        <item>রবিবার</item>
+        <item>সোমবার</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>স্নুজ</item>
+        <item>খারিজ</item>
+        <item>কিছু করবেন না</item>
+    </string-array>
+    <string-array name="sw_lap_number_set">
+        <item>\# %d</item>
+        <item>\# %02d</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>আপনি আসলেই এক গতিময় দৈত্য।</item>
+        <item>আপনার শ্রমের ফসল উপভোগ করুন।</item>
+        <item>অ্যান্ড্রয়েডগুলোকে গতিবান হিসেবে জানি, কিন্তু তারাও আপনার মত দ্রুতগতির নয়!</item>
+        <item>ফু:।</item>
+        <item>L33t গুণ।</item>
+        <item>এমন বিস্ময়কর গতি।</item>
+        <item>চলুন আমরা আবার সময়ের পাকে দৌড় দিই।</item>
+        <item>কেবল বাম দিকে এ লাফই যথেষ্ট।</item>
+        <item>তাড়াহুড়োর জন্য আপনার বিশেষ দক্ষতা আছে।</item>
+        <item>আলোর গতি।</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>অ্যানালগ</item>
+        <item>ডিজিটাল</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>মার্শাল আইল্যান্ডস</item>
+        <item>মিডওয়ে আইল্যান্ড</item>
+        <item>হাওয়াই</item>
+        <item>আলাস্কা</item>
+        <item>প্রশান্ত মহাসাগরীয় সময়</item>
+        <item>তিয়াওয়ানা</item>
+        <item>আরিজোনা</item>
+        <item>চিহুয়াহুয়া</item>
+        <item>পার্বত্য সময়</item>
+        <item>মধ্য আমেরিকা</item>
+        <item>কেন্দ্রীয় সময়</item>
+        <item>মেক্সিকো সিটি</item>
+        <item>সাসকাচেওয়ান</item>
+        <item>বোগোটা</item>
+        <item>পূর্বাঞ্চলীয় সময়</item>
+        <item>ভেনেজুয়েলা</item>
+        <item>আটলান্টিক সময় (বার্বাডোজ)</item>
+        <item>আটলান্টিক সময় (কানাডা)</item>
+        <item>মানাউস</item>
+        <item>সান্টিয়াগো</item>
+        <item>নিউফাউন্ডল্যান্ড</item>
+        <item>ব্রাসিলিয়া</item>
+        <item>বুয়েনস আইরাস</item>
+        <item>গ্রীনল্যান্ড</item>
+        <item>মন্টেভিডিও</item>
+        <item>মধ্য-আটলান্টিক</item>
+        <item>অ্যাজোরেস</item>
+        <item>কেপ ভার্দ আইল্যান্ডস</item>
+        <item>কাসাব্লাঙ্কা</item>
+        <item>লন্ডন, ডাবলিন</item>
+        <item>আমসটার্ডাম, বার্লিন</item>
+        <item>বেলগ্রেড</item>
+        <item>ব্রাসেলস</item>
+        <item>সারাজেভো</item>
+        <item>উইনধোক</item>
+        <item>প. আফ্রিকা সময়</item>
+        <item>আম্মান, জর্ডান</item>
+        <item>এথেনস, ইস্তানবুল</item>
+        <item>বৈরুত, লেবানন</item>
+        <item>কায়রো</item>
+        <item>হেলসিঙ্কি</item>
+        <item>জেরুজালেম</item>
+        <item>মিন্সক</item>
+        <item>হারারে</item>
+        <item>বাগদাদ</item>
+        <item>মস্কো</item>
+        <item>কুয়েত</item>
+        <item>নাইরোবি</item>
+        <item>তেহরান</item>
+        <item>বাকু</item>
+        <item>তিবলিসি</item>
+        <item>ইয়েরাভান</item>
+        <item>দুবাই</item>
+        <item>কাবুল</item>
+        <item>ইসলামাবাদ, করাচি</item>
+        <item>উরালস্ক</item>
+        <item>ইয়েকাটেরিনবার্গ</item>
+        <item>কোলকাতা</item>
+        <item>শ্রীলঙ্কা</item>
+        <item>কাঠমান্ডু</item>
+        <item>আসটানা</item>
+        <item>ইয়াংগন</item>
+        <item>ক্রাসনোইয়ার্স্ক</item>
+        <item>ব্যাংকক</item>
+        <item>বেইজিং</item>
+        <item>হংকং</item>
+        <item>ইর্কুট্স্ক</item>
+        <item>কুয়ালালামপুর</item>
+        <item>পার্থ</item>
+        <item>তাইপেই</item>
+        <item>সিউল</item>
+        <item>টোকিও, ওসাকা</item>
+        <item>ইয়াকুট্স্ক</item>
+        <item>এ্যাডেলেইড</item>
+        <item>ডারউইন</item>
+        <item>ব্রিসবেন</item>
+        <item>হোবার্ট</item>
+        <item>সিডনি, ক্যানবেরা</item>
+        <item>ভ্লাদিভস্তোক</item>
+        <item>গুয়াম</item>
+        <item>ম্যাগাডান</item>
+        <item>অকল্যান্ড</item>
+        <item>ফিজি</item>
+        <item>টোঙ্গা</item>
+        <item>জাকার্তা</item>
+    </string-array>
+</resources>

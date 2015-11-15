@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Svara</item>
+        <item>Svara öllum</item>
+        <item>Áframsenda</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Tókst</item>
+        <item>Engin tenging</item>
+        <item>Innskráning tókst ekki</item>
+        <item>Öryggisvilla</item>
+        <item>Ekki var hægt að samstilla</item>
+        <item>Innri villa</item>
+        <item>Villa á þjóni</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Nýrri</item>
+        <item>Eldri</item>
+        <item>Samtalalisti</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Sýna nýrra samtal eftir að þú eyðir</item>
+        <item>Sýna eldra samtal eftir að þú eyðir</item>
+        <item>Sýna samtalalista eftir að þú eyðir</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Setja í geymslu</item>
+        <item>Eyða</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Setja í geymslu</item>
+        <item>Eyða</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Sýna alltaf aðgerðir skeyta efst á skjánum</item>
+        <item>Sýna aðeins aðgerðir skeyta efst á skjánum þegar honum er snúið í skammsnið</item>
+        <item>Ekki sýna aðgerðir skeyta utan skeytahauss</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Sýna alltaf</item>
+        <item>Sýna aðeins í skammsniði</item>
+        <item>Ekki sýna</item>
+    </string-array>
+</resources>

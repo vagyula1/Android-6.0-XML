@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ਅਵਾਜ਼ ਰਿਕਾਰਡਰ</string>
+    <string name="record_your_message">ਆਪਣਾ ਸੁਨੇਹਾ ਰਿਕਾਰਡ ਕਰੋ</string>
+    <string name="message_recorded">ਸੁਨੇਹਾ ਰਿਕਾਰਡ ਕੀਤਾ</string>
+    <string name="review_message">ਸੁਨੇਹੇ ਦੀ ਸਮੀਖਿਆ ਕਰੋ</string>
+    <string name="recording">ਰਿਕਾਰਡਿੰਗ</string>
+    <string name="recording_stopped">ਰਿਕਾਰਡਿੰਗ ਰੋਕੀ</string>
+    <string name="storage_is_full">ਸਟੋਰੇਜ ਪੂਰੀ ਹੈ</string>
+    <string name="max_length_reached">ਅਧਿਕਤਮ ਲੰਮਾਈ ਪੂਰੀ ਹੋਈ</string>
+    <string name="insert_sd_card">USB ਸਟੋਰੇਜ ਮਾਊਂਟ ਕਰੋ</string>
+    <string name="min_available">%d ਮਿੰਟ ਉਪਲਬਧ</string>
+    <string name="sec_available">%d ਉਪਲਬਧ</string>
+    <string name="accept">ਹੋ ਗਿਆ</string>
+    <string name="discard">ਬਰਖਾਸਤ ਕਰੋ</string>
+    <string name="button_ok">ਠੀਕ</string>
+    <string name="audio_db_artist_name">ਤੁਹਾਡੀਆਂ ਰਿਕਾਰਡਿੰਗਾਂ</string>
+    <string name="audio_db_album_name">ਔਡੀਓ ਰਿਕਾਰਡਿੰਗਾਂ</string>
+    <string name="audio_db_playlist_name">ਮੇਰੀਆਂ ਰਿਕਾਰਡਿੰਗਾਂ</string>
+    <string name="error_sdcard_access">USB ਸਟੋਰੇਜ ਤੱਕ ਨਹੀਂ ਪਹੁੰਚ ਸਕਦਾ।</string>
+    <string name="error_app_internal">ਅੰਦਰੂਨੀ ਐਪਲੀਕੇਸ਼ਨ ਅਸ਼ੁੱਧੀ।</string>
+    <string name="error_mediadb_new_record">ਰਿਕਾਰਡ ਕੀਤਾ ਔਡੀਓ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਕਰ ਸਕਦਾ।</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>제목 없음</item>
+        <item>nosubject</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>예</item>
+        <item>아니요</item>
+        <item>알겠습니다</item>
+        <item>하하</item>
+        <item>감사합니다.</item>
+        <item>동의합니다</item>
+        <item>좋습니다.</item>
+        <item>가는 중입니다</item>
+        <item>나중에 연락드리겠습니다</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Garso įrašymo priemonė</string>
+    <string name="record_your_message">Įrašykite savo pranešimą</string>
+    <string name="message_recorded">Pranešimas įrašytas</string>
+    <string name="review_message">Peržiūrėti pranešimą</string>
+    <string name="recording">Įrašoma</string>
+    <string name="recording_stopped">Įrašas sustabdytas</string>
+    <string name="storage_is_full">Saugykla pilna</string>
+    <string name="max_length_reached">Pasiektas didžiausias galimas ilgis</string>
+    <string name="insert_sd_card">Įrengti USB atmintį</string>
+    <string name="min_available">Galima %d min.</string>
+    <string name="sec_available">Galima %d sek.</string>
+    <string name="accept">Atlikta</string>
+    <string name="discard">Atmesti</string>
+    <string name="button_ok">Gerai</string>
+    <string name="audio_db_artist_name">Jūsų įrašai</string>
+    <string name="audio_db_album_name">Garso įrašai</string>
+    <string name="audio_db_playlist_name">Mano įrašai</string>
+    <string name="error_sdcard_access">Neįmanoma pasiekti USB atminties.</string>
+    <string name="error_app_internal">Vidinė programos klaida</string>
+    <string name="error_mediadb_new_record">Nepavyko išsaugoti įrašyto garso.</string>
+</resources>

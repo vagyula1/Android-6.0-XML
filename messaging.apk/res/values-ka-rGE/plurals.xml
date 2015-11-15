@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d წთ.</item>
+        <item quantity="one">%d წთ.</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d საათის</item>
+        <item quantity="one">%d საათის</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d დღის</item>
+        <item quantity="one">%d დღის</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d კვირის</item>
+        <item quantity="one">კვირის</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d თვის</item>
+        <item quantity="one">თვის</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d წლის</item>
+        <item quantity="one">წლის</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d შეტყობინება %2$d მიმოწერაში</item>
+        <item quantity="one">%d შეტყობინება ერთ მიმოწერაში</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d შეტყობინება %2$d მიმოწერაში</item>
+        <item quantity="one">%d შეტყობინება ერთ მიმოწერაში</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d ახალი შეტყობინება</item>
+        <item quantity="one">ახალი შეტყობინება</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">წაიშალოს ეს მიმოწერები?</item>
+        <item quantity="one">წაიშალოს ეს მიმოწერა?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d მონაწილე</item>
+        <item quantity="one">%d მონაწილე</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">დანართების გაუქმება</item>
+        <item quantity="one">დანართის გაუქმება</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d ფოტო შენახულია ალბომში „%2$s“</item>
+        <item quantity="one">%1$d ფოტო შენახულია ალბომში „%2$s“</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d ვიდეო შენახულია ალბომში „%2$s“</item>
+        <item quantity="one">%1$d ვიდეო შენახულია ალბომში „%2$s“</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d მიმაგრებული ფაილი შენახულია ალბომში „%2$s“</item>
+        <item quantity="one">%1$d მიმაგრებული ფაილი შენახულია ალბომში „%2$s“</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d მიმაგრებული ფაილი შენახულია „ჩამოტვირთვებში“</item>
+        <item quantity="one">%d მიმაგრებული ფაილი შენახულია „ჩამოტვირთვებში“</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">შენახულია %d დანართი</item>
+        <item quantity="one">შენახულია %d დანართი</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">%d დანართის შენახვა ვერ მოხერხდა</item>
+        <item quantity="one">%d დანართის შენახვა ვერ მოხერხდა</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">ფოტოების გაგზავნა</item>
+        <item quantity="one">ფოტოს გაგზავნა</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">აუდიო ჩანაწერების გაგზავნა</item>
+        <item quantity="one">აუდიო ჩანაწერის გაგზავნა</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">ვიდეოების გაგზავნა</item>
+        <item quantity="one">ვიდეოს გაგზავნა</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">კონტაქტის ბარათების გაგზავნა</item>
+        <item quantity="one">კონტაქტის ბარათის გაგზავნა</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">დანართების გაგზავნა</item>
+        <item quantity="one">დანართის გაგზავნა</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d დანართი მზად არის გასაგზავნად</item>
+        <item quantity="one">გასაგზავნად მზად არის ერთი დანართი</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d კონტაქტი</item>
+        <item quantity="one">%d კონტაქტი</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">კონტაქტები არასწორია</item>
+        <item quantity="one">კონტაქტი არასწორია</item>
+    </plurals>
+</resources>

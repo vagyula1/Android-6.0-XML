@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d মিনিট</item>
+        <item quantity="one">১ মিনিট</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d মিনিট</item>
+        <item quantity="one">১ মিনিট</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d ঘন্টা</item>
+        <item quantity="one">১ ঘন্টা</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d দিন</item>
+        <item quantity="one">১ দিন</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">%d নং সপ্তাহ</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d বারের জন্য</item>
+        <item quantity="one">; একবারের জন্য</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">প্রতি %d দিনে</item>
+        <item quantity="one">প্রতিদিন</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">প্রতি %1$d সপ্তাহ পর পর %2$s এ</item>
+        <item quantity="one">প্রতি সপ্তাহের %2$s এ</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+১</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%dটি ইভেন্ট</item>
+        <item quantity="one">১টি ইভেন্ট</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%dটি ইভেন্ট</item>
+        <item quantity="one">+১টি ইভেন্ট</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">প্রতি %d দিনে</item>
+        <item quantity="one">প্রতি %d দিনে</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">প্রতি %d সপ্তাহে</item>
+        <item quantity="one">প্রতি %d সপ্তাহে</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">প্রতি %d মাসে</item>
+        <item quantity="one">প্রতি %d মাসে</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">প্রতি %d বছরে</item>
+        <item quantity="one">প্রতি %d বছরে</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%dটি ইভেন্টের জন্য</item>
+        <item quantity="one">%dটি ইভেন্টের জন্য</item>
+    </plurals>
+</resources>

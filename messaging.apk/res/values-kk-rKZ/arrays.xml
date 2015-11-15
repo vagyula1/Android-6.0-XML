@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>тақырыпсыз</item>
+        <item>тақырып жоқ</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Иә</item>
+        <item>Жоқ</item>
+        <item>Жарайды</item>
+        <item>Хехе</item>
+        <item>Рақмет</item>
+        <item>Келісемін</item>
+        <item>Жақсы</item>
+        <item>Жолдамын</item>
+        <item>Жарайды, кейінірек хабарласамын</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

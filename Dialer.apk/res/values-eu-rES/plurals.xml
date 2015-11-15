@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d aurkitu dira</item>
+        <item quantity="one">Bat aurkitu da</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d segundo</item>
+        <item quantity="one">segundo bat</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minutu</item>
+        <item quantity="one">minutu bat</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d ordu</item>
+        <item quantity="one">ordubete</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">Erantzungailuko %1$d mezu</item>
+        <item quantity="one">Erantzungailuko mezua</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d ahots-postako mezu berri</item>
+        <item quantity="one">%d ahots-postako mezu berri</item>
+    </plurals>
+</resources>

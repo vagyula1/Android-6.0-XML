@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Kopieer tans %1$d lêers.</item>
+        <item quantity="one">Kopieer tans %1$d lêer.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Kon %1$d lêers nie kopieer nie</item>
+        <item quantity="one">Kon %1$d lêer nie kopieer nie</item>
+    </plurals>
+</resources>

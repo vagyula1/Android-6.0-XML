@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>മറുപടി നൽകുക</item>
+        <item>എല്ലാവർക്കും മറുപടി നൽകുക</item>
+        <item>കൈമാറുക</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>വിജയകരം</item>
+        <item>കണക്ഷനൊന്നുമില്ല</item>
+        <item>സൈൻ ഇൻ ചെയ്യാനായില്ല</item>
+        <item>സുരക്ഷാ പിശക്</item>
+        <item>സമന്വയിപ്പിക്കാനായില്ല</item>
+        <item>ആന്തരിക പിശക്</item>
+        <item>സെര്‍വര്‍ പിശക്</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>പുതിയത്</item>
+        <item>പഴയത്</item>
+        <item>സംഭാഷണ ലിസ്റ്റ്</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>നിങ്ങൾ ഇല്ലാതാക്കിയതിനുശേഷം പുതിയ സംഭാഷണം കാണിക്കുക</item>
+        <item>നിങ്ങൾ ഇല്ലാതാക്കിയതിനുശേഷം പഴയ സംഭാഷണം കാണിക്കുക</item>
+        <item>നിങ്ങൾ ഇല്ലാതാക്കിയതിനുശേഷം സംഭാഷണ ലിസ്റ്റ് കാണിക്കുക</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>ആര്‍ക്കൈവുചെയ്യുക</item>
+        <item>ഇല്ലാതാക്കുക</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>ആര്‍ക്കൈവുചെയ്യുക</item>
+        <item>ഇല്ലാതാക്കുക</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>സന്ദേശ പ്രവർത്തനങ്ങൾ എപ്പോഴും സ്ക്രീനിന് മുകളിൽ കാണിക്കുക</item>
+        <item>പോർട്രെയ്‌റ്റിലേക്ക് തിരിക്കുമ്പോൾ സന്ദേശ പ്രവർത്തനങ്ങൾ എപ്പോഴും സ്ക്രീനിന് മുകളിൽ മാത്രം കാണിക്കുക</item>
+        <item>സന്ദേശ ശീർഷകത്തിന് പുറത്ത് സന്ദേശ പ്രവർത്തനങ്ങൾ കാണിക്കരുത്</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>എല്ലായ്പ്പോഴും ദൃശ്യമാക്കുക</item>
+        <item>പോർട്രെയ്‌റ്റിൽ മാത്രം കാണിക്കുക</item>
+        <item>കാണിക്കരുത്</item>
+    </string-array>
+</resources>

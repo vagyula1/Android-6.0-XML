@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d daqiqa</item>
+        <item quantity="one">%d daqiqa</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d soat</item>
+        <item quantity="one">%d soat</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d kun</item>
+        <item quantity="one">%d kun</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d hafta</item>
+        <item quantity="one">bir hafta</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d oy</item>
+        <item quantity="one">bir oy</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d yil</item>
+        <item quantity="one">bir yil</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">Suhbatlar: %1$d, xabarlar: %2$d</item>
+        <item quantity="one">Suhbatdagi xabarlar soni: %d</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">Suhbatlar: %1$d, xabarlar: %2$d</item>
+        <item quantity="one">Suhbatdagi xabarlar soni: %d</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d ta yangi xabar</item>
+        <item quantity="one">Yangi xabar</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">Bu suhbatlar o’chirib tashlansinmi?</item>
+        <item quantity="one">Bu suhbat o’chirib tashlansinmi?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d ta ishtirokchi</item>
+        <item quantity="one">%d ta ishtirokchi</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">Biriktirmalarni olib tashlash</item>
+        <item quantity="one">Biriktirmani olib tashlash</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d ta rasm “%2$s” albomiga saqlandi</item>
+        <item quantity="one">%1$d ta rasm “%2$s” albomiga saqlandi</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d ta video “%2$s” albomiga saqlandi</item>
+        <item quantity="one">%1$d ta video “%2$s” albomiga saqlandi</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d ta biriktirma “%2$s” albomiga saqlandi</item>
+        <item quantity="one">%1$d ta biriktirma “%2$s” albomiga saqlandi</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d ta biriktirma “Yuklanishlar” jildiga saqlandi</item>
+        <item quantity="one">%d ta biriktirma “Yuklanishlar” jildiga saqlandi</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">%d ta biriktirma saqlandi</item>
+        <item quantity="one">%d ta biriktirma saqlandi</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">%d ta biriktirmani saqlab bo’lmadi</item>
+        <item quantity="one">%d ta biriktirmani saqlab bo’lmadi</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">Rasmlarni yuborish</item>
+        <item quantity="one">Rasmni yuborish</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">Audio faylni yuborish</item>
+        <item quantity="one">Audio faylni yuborish</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">Videolarni yuborish</item>
+        <item quantity="one">Videoni yuborish</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">Kontaktlar kartasini yuborish</item>
+        <item quantity="one">Kontaktlar kartasini yuborish</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">Biriktirmani yuborish</item>
+        <item quantity="one">Biriktirmani yuborish</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d ta biriktirma yuborishga tayyor</item>
+        <item quantity="one">Biriktirma yuborishga tayyor</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d ta kontakt</item>
+        <item quantity="one">%d ta kontakt</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">Kontaktlar topilmadi</item>
+        <item quantity="one">Kontakt topilmadi</item>
+    </plurals>
+</resources>

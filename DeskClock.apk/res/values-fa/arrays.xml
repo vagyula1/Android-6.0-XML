@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>ا=آبیجان</item>
+        <item>ا=آکرا</item>
+        <item>ا=آدیس‌آبابا</item>
+        <item>=الجزایر</item>
+        <item>=بلانتیر</item>
+        <item>=برازاویل</item>
+        <item>=قاهره</item>
+        <item>=کازابلانکا</item>
+        <item>=کوناکری</item>
+        <item>=داکار</item>
+        <item>=دارالسلام</item>
+        <item>=جیبوتی</item>
+        <item>=فریتاون</item>
+        <item>=گابورون</item>
+        <item>=حراره</item>
+        <item>=ژوهانسبورگ</item>
+        <item>=کامپالا</item>
+        <item>=خارطوم</item>
+        <item>=کیگالی</item>
+        <item>=کینشاسا</item>
+        <item>=لاگوس</item>
+        <item>=ماسرو</item>
+        <item>=موگادیشو</item>
+        <item>=نایروبی</item>
+        <item>=سائوتومه</item>
+        <item>=تیمبوکتو</item>
+        <item>=طرابلس</item>
+        <item>=تونس</item>
+        <item>=انکوریج</item>
+        <item>=مندوزا</item>
+        <item>ا=آروبا</item>
+        <item>ا=آسونسیون</item>
+        <item>=باربادوس</item>
+        <item>=بلیز</item>
+        <item>=بوگوتا</item>
+        <item>=بوینس‌آیرس</item>
+        <item>=کانکون</item>
+        <item>=کاراکاس</item>
+        <item>=کیمن</item>
+        <item>=شیکاگو</item>
+        <item>=کاستاریکا</item>
+        <item>=کوراسائو</item>
+        <item>=داوسون کریک</item>
+        <item>=دنور</item>
+        <item>=دیترویت</item>
+        <item>=دومینیکا</item>
+        <item>=ادمونتون</item>
+        <item>=السالوادور</item>
+        <item>=فورتالزا</item>
+        <item>=گراند تورک</item>
+        <item>=گرنادا</item>
+        <item>=گواتمالا</item>
+        <item>=گویان</item>
+        <item>=هالیفاکس</item>
+        <item>=هاوانا</item>
+        <item>=ایندیاناپولیس</item>
+        <item>=ناکس</item>
+        <item>=مارنگو</item>
+        <item>=پترزبورگ</item>
+        <item>=تله‌سیتی</item>
+        <item>=ویوای</item>
+        <item>=وینسنس</item>
+        <item>=ویناماک</item>
+        <item>=کینگستون</item>
+        <item>=لاپاز</item>
+        <item>=لیما</item>
+        <item>=لس‌آنجلس</item>
+        <item>=لوییویل</item>
+        <item>=ماناگوا</item>
+        <item>=مارتینیک</item>
+        <item>=مندوزا</item>
+        <item>=متلاکاتلا</item>
+        <item>=مکزیکوسیتی</item>
+        <item>=مونتری</item>
+        <item>=مونته‌ویدئو</item>
+        <item>=مونترال</item>
+        <item>=ناسائو</item>
+        <item>=نیویورک</item>
+        <item>=بیولا</item>
+        <item>=سنتر</item>
+        <item>=نیوسیلم</item>
+        <item>=پاناما</item>
+        <item>=فینیکس</item>
+        <item>=پرت آو اسپاین</item>
+        <item>=پورتو پرنس</item>
+        <item>=پورتوریکو</item>
+        <item>=سانتو دومینگو</item>
+        <item>=سائوپائولو</item>
+        <item>=سنت‌جونز</item>
+        <item>=سنت‌کیتس</item>
+        <item>=سنت‌لوسیا</item>
+        <item>=سنت‌ توماس</item>
+        <item>=تیجوانا</item>
+        <item>=تورنتو</item>
+        <item>=ونکوور</item>
+        <item>=وینیپگ</item>
+        <item>=قطب جنوب</item>
+        <item>=لانگیربین</item>
+        <item>ا=آلماتی</item>
+        <item>=امان</item>
+        <item>ا=آنادیر</item>
+        <item>ا=آکتاو</item>
+        <item>=بغداد</item>
+        <item>=بحرین</item>
+        <item>=باکو</item>
+        <item>=بانکوک</item>
+        <item>=بیروت</item>
+        <item>=کلکته</item>
+        <item>=دمشق</item>
+        <item>=داکا</item>
+        <item>=دبی</item>
+        <item>=غزه</item>
+        <item>=هبرون</item>
+        <item>=هو شی‌ مین</item>
+        <item>=هنگ‌ کنگ</item>
+        <item>=استانبول</item>
+        <item>=جاکارتا</item>
+        <item>=اورشلیم</item>
+        <item>=کابل</item>
+        <item>=کراچی</item>
+        <item>=کاتماندو</item>
+        <item>=کوالالامپور</item>
+        <item>=کویت</item>
+        <item>=ماکائو</item>
+        <item>=مانیل</item>
+        <item>=مسقط</item>
+        <item>=پنوم‌‌پن</item>
+        <item>=پیونگ‌یانگ</item>
+        <item>=قطر</item>
+        <item>=رانگون</item>
+        <item>=ریاض</item>
+        <item>=سایگون</item>
+        <item>=سئول</item>
+        <item>=شانگهای</item>
+        <item>=سنگاپور</item>
+        <item>=تایپه</item>
+        <item>=تهران</item>
+        <item>=تل‌آویو</item>
+        <item>=توکیو</item>
+        <item>=اولان‌باتور</item>
+        <item>=برمودا</item>
+        <item>=قناری</item>
+        <item>=کیپ‌ورد</item>
+        <item>=ریکیاویک</item>
+        <item>=استنلی</item>
+        <item>ا=آدلاید</item>
+        <item>=بریزبن</item>
+        <item>=کانبرا</item>
+        <item>=داروین</item>
+        <item>=ملبورن</item>
+        <item>=ولز جنوبی جدید</item>
+        <item>=پرت</item>
+        <item>=کوئینزلند</item>
+        <item>=سیدنی</item>
+        <item>=ویکتوریا</item>
+        <item>=نیوفاندلند</item>
+        <item>=ساسکاچوان</item>
+        <item>=جزیره ایستر</item>
+        <item>=آمستردام</item>
+        <item>=آندورا</item>
+        <item>ا=آتن</item>
+        <item>=بلفاست</item>
+        <item>=بلگراد</item>
+        <item>=برلین</item>
+        <item>=براتیسلاوا</item>
+        <item>=بروکسل</item>
+        <item>=بخارست</item>
+        <item>=بوداپست</item>
+        <item>=کیشیناو</item>
+        <item>=کپنهاگ</item>
+        <item>=دوبلین</item>
+        <item>=جبل‌الطارق</item>
+        <item>=هلسینکی</item>
+        <item>=جزیزه من</item>
+        <item>=استانبول</item>
+        <item>=کی‌یف</item>
+        <item>=لیسبون</item>
+        <item>=لندن</item>
+        <item>=لوکزامبورگ</item>
+        <item>=مادرید</item>
+        <item>=مالت</item>
+        <item>=مینسک</item>
+        <item>=موناکو</item>
+        <item>=مسکو</item>
+        <item>=اسلو</item>
+        <item>=پاریس</item>
+        <item>=پراگ</item>
+        <item>=ریگا</item>
+        <item>=رم</item>
+        <item>=سان‌مارینو</item>
+        <item>=سارایوو</item>
+        <item>=سیمفروپل</item>
+        <item>=اسکوپیه</item>
+        <item>=صوفیه</item>
+        <item>=استکهلم</item>
+        <item>=تالین</item>
+        <item>=واتیکان</item>
+        <item>=وین</item>
+        <item>=ویلنیوس</item>
+        <item>=ورشو</item>
+        <item>=زاگرب</item>
+        <item>=زوریخ</item>
+        <item>=آنتاناناریوو</item>
+        <item>=مالدیو</item>
+        <item>=موریس</item>
+        <item>=اوکلند</item>
+        <item>=فیجی</item>
+        <item>=گوام</item>
+        <item>=هونولولو</item>
+        <item>=کیریتیماتی</item>
+        <item>=نومئا</item>
+        <item>=ساموآ</item>
+        <item>=تاهیتی</item>
+        <item>ا=آنتیگوا</item>
+        <item>ا=آستین</item>
+        <item>=بوستون</item>
+        <item>=کلگری</item>
+        <item>=کلمبوس</item>
+        <item>=دالاس</item>
+        <item>=ناکسویل</item>
+        <item>=ممفیس</item>
+        <item>=میامی</item>
+        <item>=مینابولیس</item>
+        <item>=اتاوا</item>
+        <item>=فیلادلفیا</item>
+        <item>=پورتلند</item>
+        <item>=سن‌دیگو</item>
+        <item>=سان‌فرانسیسکو</item>
+        <item>=سالت‌لیک‌سیتی</item>
+        <item>=سن‌خوزه</item>
+        <item>=سان‌سالوادور</item>
+        <item>=سیاتل</item>
+        <item>=سنت‌لوئیس</item>
+        <item>=واشینگتن، دی.سی.</item>
+        <item>=هوستون</item>
+        <item>=سن‌آنتونیو</item>
+        <item>=جکسون‌ویل</item>
+        <item>=بالتیمور</item>
+        <item>=نشویل</item>
+        <item>=میلواکی</item>
+        <item>=اوکلاهما</item>
+        <item>=لاس‌وگاس</item>
+        <item>=البوکرکی</item>
+        <item>=توسان</item>
+        <item>=ساکرامنتو</item>
+        <item>=آتلانتا</item>
+        <item>=کلیولند</item>
+        <item>=نیواورلئان</item>
+        <item>=تمپا</item>
+        <item>=پیتسبرگ</item>
+        <item>=سینسیناتی</item>
+        <item>=مانتین‌ویو</item>
+        <item>=رنو</item>
+        <item>=بلک راک سیتی</item>
+        <item>=دوحه</item>
+        <item>=پکن</item>
+        <item>=بمبئی</item>
+        <item>=دهلی</item>
+        <item>=اوزاکا</item>
+        <item>=لاهور</item>
+        <item>=صنعا</item>
+        <item>=بارسلونا</item>
+        <item>=مونیخ</item>
+        <item>=میلان</item>
+        <item>=فرانکفورت</item>
+        <item>=هانوی</item>
+        <item>ا=آنکارا</item>
+        <item>=بنگلور</item>
+        <item>=برازیلیا</item>
+        <item>=کیپ‌تاون</item>
+        <item>=اسلام‌آ‌باد</item>
+        <item>=ریودوژانیرو</item>
+        <item>ا=آن‌آریور</item>
+        <item>=بولدر</item>
+        <item>=کمبریج</item>
+        <item>=کرکلند</item>
+        <item>=مدیسون</item>
+        <item>=گوانگ‌ژو</item>
+        <item>=حیدرآباد</item>
+        <item>=رستون</item>
+        <item>=بلو هوریزونته</item>
+        <item>=سانتیاگو</item>
+        <item>=مونروویا</item>
+        <item>=کلمبو</item>
+        <item>=چی‌واوا</item>
+        <item>=سالوادور</item>
+        <item>=گورگان</item>
+        <item>=منچستر</item>
+        <item>=کی‌یف</item>
+        <item>=سن‌پترزبورگ</item>
+        <item>=کراکوف</item>
+        <item>=وروتسواف</item>
+        <item>=هامبورگ</item>
+        <item>=اولو</item>
+        <item>=هیفا</item>
+        <item>=سان‌خوآن</item>
+        <item>=تگوسیگالپا</item>
+        <item>=پاراماریبو</item>
+        <item>=کیتو</item>
+        <item>=لیوبلیانا</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>کمتر از یک دقیقه باقیمانده است</item>
+        <item>%1$s باقیمانده</item>
+        <item>%2$s باقیمانده</item>
+        <item>%1$s %2$s باقیمانده</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>هشدار برای کمتر از ۱ دقیقه دیگر از حالا تنظیم شد.</item>
+        <item>هشدار برای %1$s دیگر از حالا تنظیم شد.</item>
+        <item>هشدار برای %2$s دیگر از حالا تنظیم شد.</item>
+        <item>هشدار برای %1$s و %2$s از حالا تنظیم شد.</item>
+        <item>هشدار برای %3$s دیگر از حالا تنظیم شد.</item>
+        <item>هشدار برای %1$s و %3$s دیگر از حالا تنظیم شد.</item>
+        <item>هشدار برای %2$s و %3$s دیگر از حالا تنظیم شد.</item>
+        <item>هشدار برای %1$s و %2$s و %3$s دیگر از حالا تنظیم شد.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>۱ دقیقه</item>
+        <item>۵ دقیقه</item>
+        <item>۱۰ دقیقه</item>
+        <item>۱۵ دقیقه</item>
+        <item>۲۰ دقیقه</item>
+        <item>۲۵ دقیقه</item>
+        <item>هیچ‌وقت</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>شنبه</item>
+        <item>یک‌شنبه</item>
+        <item>دوشنبه</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>تعویق</item>
+        <item>رد کردن</item>
+        <item>كاری انجام نشود</item>
+    </string-array>
+    <string-array name="sw_lap_number_set">
+        <item>شماره %d</item>
+        <item>شماره %02d</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>شما واقعاً خدای سرعت هستید.</item>
+        <item>از ثمره زحمات خود لذت ببرید.</item>
+        <item>‏Androidها به چالاکی معروفند، اما نه به اندازه شما!</item>
+        <item>اوف.</item>
+        <item>‏L33t بار.</item>
+        <item>عجب سرعت حیرت‌آوری.</item>
+        <item>بیایید توقف زمان را دوباره انجام دهیم.</item>
+        <item>فقط یک پرش به چپ.</item>
+        <item>شما پالتی برای سرعت دارید.</item>
+        <item>سرعت فوتونی.</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>آنالوگ</item>
+        <item>دیجیتال</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>جزایر مارشال</item>
+        <item>جزیره میدوی</item>
+        <item>هاوایی</item>
+        <item>آلاسکا</item>
+        <item>وقت اقیانوس آرام</item>
+        <item>تیهوانا</item>
+        <item>آریزونا</item>
+        <item>چیواوا</item>
+        <item>وقت کوه‌های راکی</item>
+        <item>آمریکای مرکزی</item>
+        <item>وقت مرکزی</item>
+        <item>مکزیکوسیتی</item>
+        <item>ساسکاچوان</item>
+        <item>بوگوتا</item>
+        <item>وقت شرقی</item>
+        <item>ونزوئلا</item>
+        <item>زمان اقیانوس اطلس (باربادوس)</item>
+        <item>زمان اقیانوس اطلس (کانادا)</item>
+        <item>ماناوس</item>
+        <item>سانتیاگو</item>
+        <item>نیوفاندلند</item>
+        <item>برازیلیا</item>
+        <item>بوینوس آیرس</item>
+        <item>گرینلند</item>
+        <item>مونته ویدئو</item>
+        <item>آتلانتیک میانی</item>
+        <item>آزورس</item>
+        <item>جزایر کیپ ورد</item>
+        <item>کازابلانکا</item>
+        <item>لندن، دوبلین</item>
+        <item>آمستردام، برلین</item>
+        <item>بلگراد</item>
+        <item>بروکسل</item>
+        <item>سارایوو</item>
+        <item>ويندهوک</item>
+        <item>وقت غرب آفریقا</item>
+        <item>عمان، اردن</item>
+        <item>آتن، استانبول</item>
+        <item>بیروت، لبنان</item>
+        <item>قاهره</item>
+        <item>هلسینکی</item>
+        <item>بیت‌المقدس</item>
+        <item>مينسک</item>
+        <item>هراره</item>
+        <item>بغداد</item>
+        <item>مسکو</item>
+        <item>کویت</item>
+        <item>نایروبی</item>
+        <item>تهران</item>
+        <item>باکو</item>
+        <item>تفلیس</item>
+        <item>ایروان</item>
+        <item>دبی</item>
+        <item>کابل</item>
+        <item>اسلام آباد، کراچی</item>
+        <item>اورالسک</item>
+        <item>یکاترینبورگ</item>
+        <item>کلکته</item>
+        <item>سری لانکا</item>
+        <item>کاتماندو</item>
+        <item>آستانا</item>
+        <item>یانگون</item>
+        <item>کراسنویارسک</item>
+        <item>بانکوک</item>
+        <item>پکن</item>
+        <item>هنگ کنگ</item>
+        <item>ایرکوتسک</item>
+        <item>کوالالامپور</item>
+        <item>پرث</item>
+        <item>تایپه</item>
+        <item>سئول</item>
+        <item>توکیو، اوزاکا</item>
+        <item>یاکوتسک</item>
+        <item>آدلاید</item>
+        <item>داروین</item>
+        <item>بریسبین</item>
+        <item>هوبارت</item>
+        <item>سیدنی، کانبرا</item>
+        <item>ولادی ووستوک</item>
+        <item>گوام</item>
+        <item>ماگادان</item>
+        <item>اوکلند</item>
+        <item>فیجی</item>
+        <item>تونگا</item>
+        <item>جاکارتا</item>
+    </string-array>
+</resources>

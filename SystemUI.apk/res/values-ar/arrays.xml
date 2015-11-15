@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>جارٍ الفحص...</item>
+        <item>جارٍ الاتصال…</item>
+        <item>جارٍ المصادقة…</item>
+        <item>‏جارٍ الحصول على عنوان IP…</item>
+        <item>متصل</item>
+        <item>معلق</item>
+        <item>جارٍ فصل الاتصال...</item>
+        <item>غير متصل</item>
+        <item>غير ناجح</item>
+        <item>تم حظرها</item>
+        <item>يتم تجنب الاتصال الضعيف مؤقتًا</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>جارٍ الفحص...</item>
+        <item>جارٍ الاتصال بجهاز %1$s…</item>
+        <item>جارٍ المصادقة مع %1$s…</item>
+        <item>‏جارٍ الحصول على عنوان IP من %1$s…</item>
+        <item>متصل بـ %1$s</item>
+        <item>معلق</item>
+        <item>جارٍ قطع الاتصال بـ %1$s…</item>
+        <item>غير متصل</item>
+        <item>غير ناجح</item>
+        <item>تم حظرها</item>
+        <item>يتم تجنب الاتصال الضعيف مؤقتًا</item>
+    </string-array>
+</resources>

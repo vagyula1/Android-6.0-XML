@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Protecció</string>
+    <string name="bugreport_finished_title">"S'ha registrat l'informe d'error"</string>
+    <string name="bugreport_finished_text">"Toca aquí per compartir el teu informe d'error."</string>
+    <string name="bugreport_confirm">"Els informes d'error contenen dades dels diferents fitxers de registre del sistema, inclosa informació privada i personal. Comparteix els informes d'error només amb les aplicacions i amb les persones en qui confies."</string>
+    <string name="bugreport_confirm_repeat">Mostra aquest missatge la propera vegada</string>
+    <string name="bugreport_storage_title">"Informes d'error"</string>
+</resources>

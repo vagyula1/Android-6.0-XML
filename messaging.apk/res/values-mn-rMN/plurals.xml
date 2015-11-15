@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d минут</item>
+        <item quantity="one">%d минут</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d цаг</item>
+        <item quantity="one">%d цаг</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d өдөр</item>
+        <item quantity="one">%d өдөр</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d долоо хоног</item>
+        <item quantity="one">долоо хоног</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d сар</item>
+        <item quantity="one">нэг сар</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d жил</item>
+        <item quantity="one">нэг жил</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d Харилцан ярианд %2$d зурвас байна</item>
+        <item quantity="one">Нэг харилцан ярианд %d зурвас байна</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d Харилцан ярианд %2$d зурвас байна</item>
+        <item quantity="one">Нэг харилцан ярианд %d зурвас байна</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d шинэ зурвас</item>
+        <item quantity="one">Шинэ зурвас</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">Эдгээр харилцан яриаг устгах уу?</item>
+        <item quantity="one">Энэ харилцан яриаг устах уу?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d оролцогч</item>
+        <item quantity="one">%d оролцогч</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">Хавсралтыг цуцлах</item>
+        <item quantity="one">Хавсралтыг цуцлах</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d зургийг \"%2$s\" цомогт хадгаллаа</item>
+        <item quantity="one">%1$d зургийг \"%2$s\" цомогт хадгаллаа</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d бичлэгийг \"%2$s\" цомогт хадгаллаа</item>
+        <item quantity="one">%1$d бичлэгийг \"%2$s\" цомогт хадгаллаа</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d хавсралтыг \"%2$s\" цомогт хадгаллаа</item>
+        <item quantity="one">%1$d хавсралтыг \"%2$s\" цомогт хадгаллаа</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d хавсралтыг \"Татаж авсан файл\"-д хадгаллаа</item>
+        <item quantity="one">%d хавсралтыг \"Татаж aвсан файл\"-д хадгаллаа</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">%d хавсралт хадгалсан</item>
+        <item quantity="one">%d хавсралт хадгалсан</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">%d хавсралтыг хадгалж чадсангүй</item>
+        <item quantity="one">%d хавсралтыг хадгалж чадсангүй</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">Зураг илгээх</item>
+        <item quantity="one">Зураг илгээх</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">Аудио илгээх</item>
+        <item quantity="one">Аудио илгээх</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">Видео илгээх</item>
+        <item quantity="one">Видео илгээх</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">Харилцагчийн карт илгээх</item>
+        <item quantity="one">Харилцагчийн карт илгээх</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">Хавсралт илгээх</item>
+        <item quantity="one">Хавсралт илгээх</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">Илгээхэд бэлэн %d хавсралт байна</item>
+        <item quantity="one">Илгээхэд бэлэн нэг хавсралт байна</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d харилцагч</item>
+        <item quantity="one">%d харилцагч</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">Харилцагчийн хаяг буруу байна</item>
+        <item quantity="one">Харилцагчийн хаяг буруу байна</item>
+    </plurals>
+</resources>

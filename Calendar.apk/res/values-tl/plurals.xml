@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d (na) minuto</item>
+        <item quantity="one">1 minuto</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d (na) min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d (na) oras</item>
+        <item quantity="one">1 oras</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d (na) araw</item>
+        <item quantity="one">1 araw</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">LINGGO %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d (na) beses</item>
+        <item quantity="one">; isang beses</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Bawat %d araw</item>
+        <item quantity="one">Araw-araw</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%2$s bawat %1$d (na) linggo</item>
+        <item quantity="one">%2$s linggu-linggo</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d (na) kaganapan</item>
+        <item quantity="one">1 kaganapan</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">%d (na) kaganapan</item>
+        <item quantity="one">+1 kaganapan</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Bawat %d (na) araw</item>
+        <item quantity="one">Bawat %d araw</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Bawat %d (na) linggo</item>
+        <item quantity="one">Bawat %d linggo</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Bawat %d (na) buwan</item>
+        <item quantity="one">Bawat %d buwan</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Bawat %d (na) taon</item>
+        <item quantity="one">Bawat %d taon</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Para sa %d (na) kaganapan</item>
+        <item quantity="one">Para sa %d (na) kaganapan</item>
+    </plurals>
+</resources>

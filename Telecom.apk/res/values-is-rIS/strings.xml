@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Símtalastjórnun</string>
+    <string name="userCallActivityLabel">Sími</string>
+    <string name="unknown">Óþekkt</string>
+    <string name="notification_missedCallTitle">Ósvarað símtal</string>
+    <string name="notification_missedCallsTitle">Ósvöruð símtöl</string>
+    <string name="notification_missedCallsMsg">%s ósvöruð símtöl</string>
+    <string name="notification_missedCallTicker">Ósvarað símtal frá %s</string>
+    <string name="notification_missedCall_call_back">Hringja til baka</string>
+    <string name="notification_missedCall_message">Skilaboð</string>
+    <string name="accessibility_call_muted">Símtal þaggað.</string>
+    <string name="accessibility_speakerphone_enabled">Kveikt á hátalara.</string>
+    <string name="respond_via_sms_canned_response_1">Kemst ekki í símann. Eitthvað títt?</string>
+    <string name="respond_via_sms_canned_response_2">Ég hringi strax í þig til baka.</string>
+    <string name="respond_via_sms_canned_response_3">Ég hringi í þig seinna.</string>
+    <string name="respond_via_sms_canned_response_4">Get ekki svarað. Heyrast síðar?</string>
+    <string name="respond_via_sms_setting_title">Snarsvör</string>
+    <string name="respond_via_sms_setting_title_2">Breyta snarsvörum</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Snarsvar</string>
+    <string name="respond_via_sms_confirmation_format">Skilaboð send til %s.</string>
+    <string name="enable_account_preference_title">Símtalareikningar</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Eigandi tækisins leyfir aðeins neyðarsímtöl.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Þetta forrit getur ekki hringt án heimildar í símanum.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Sláðu inn gilt númer til að hringja símtal.</string>
+    <string name="duplicate_video_call_not_allowed">Ekki er hægt að bæta símtali við sem stendur.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Slökktu á fjarritastillingu til að hringja myndsímtöl.</string>
+    <string name="no_vm_number">Talhólfsnúmer vantar</string>
+    <string name="no_vm_number_msg">Ekkert talhólfsnúmer er vistað á SIM-kortinu.</string>
+    <string name="add_vm_number_str">Bæta númeri við</string>
+    <string name="change_default_dialer_dialog_title">Viltu skipta um sjálfgefið hringiforrit?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Nota %1$s í stað %2$s sem sjálfgefið hringiforrit?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Nota %s sem sjálfgefið hringiforrit?</string>
+</resources>

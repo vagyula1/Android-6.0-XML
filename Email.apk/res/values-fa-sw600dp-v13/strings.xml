@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">مدیریت پوشه‌ها</string>
+    <string name="add_cc_label">+ گیرندهٔ کپی/گیرنده مخفی</string>
+    <string name="add_bcc_label">+ گیرنده مخفی</string>
+    <string name="preferences_default_reply_all_summary">به عنوان پیش‌فرض برای پاسخ به اعلان پیام استفاده شود</string>
+</resources>

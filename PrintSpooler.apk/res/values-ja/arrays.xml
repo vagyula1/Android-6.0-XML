@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pdf_printer_media_sizes">
+        <item>JIS_B10</item>
+        <item>JIS_B9</item>
+        <item>JIS_B8</item>
+        <item>JIS_B7</item>
+        <item>JIS_B6</item>
+        <item>JIS_B5</item>
+        <item>JIS_B4</item>
+        <item>JIS_B3</item>
+        <item>JIS_B2</item>
+        <item>JIS_B1</item>
+        <item>JIS_B0</item>
+        <item>JIS_EXEC</item>
+        <item>JPN_CHOU4</item>
+        <item>JPN_CHOU3</item>
+        <item>JPN_CHOU2</item>
+        <item>JPN_HAGAKI</item>
+        <item>JPN_OUFUKU</item>
+        <item>JPN_KAHU</item>
+        <item>JPN_KAKU2</item>
+        <item>JPN_YOU4</item>
+    </string-array>
+    <string-array name="color_mode_labels">
+        <item>モノクロ</item>
+        <item>カラー</item>
+    </string-array>
+    <string-array name="duplex_mode_labels">
+        <item>なし</item>
+        <item>長辺</item>
+        <item>短辺</item>
+    </string-array>
+    <string-array name="orientation_labels">
+        <item>縦向き</item>
+        <item>横向き</item>
+    </string-array>
+</resources>

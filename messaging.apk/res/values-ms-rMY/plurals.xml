@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">%d jam</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d hari</item>
+        <item quantity="one">%d hari</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d minggu</item>
+        <item quantity="one">seminggu</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d bulan</item>
+        <item quantity="one">sebulan</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d tahun</item>
+        <item quantity="one">setahun</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d mesej dalam %2$d perbualan</item>
+        <item quantity="one">%d mesej dalam satu perbualan</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d mesej dalam %2$d perbualan</item>
+        <item quantity="one">%d mesej dalam satu perbualan</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d mesej baharu</item>
+        <item quantity="one">Mesej baharu</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">Padamkan perbualan ini?</item>
+        <item quantity="one">Padamkan perbualan ini?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d peserta</item>
+        <item quantity="one">%d peserta</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">Buang lampiran</item>
+        <item quantity="one">Buang lampiran</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d foto disimpan ke album \"%2$s\"</item>
+        <item quantity="one">%1$d foto disimpan ke album \"%2$s\"</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d video disimpan ke album \"%2$s\"</item>
+        <item quantity="one">%1$d video disimpan ke album \"%2$s\"</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d lampiran disimpan ke album \"%2$s\"</item>
+        <item quantity="one">%1$d lampiran disimpan ke album \"%2$s\"</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d lampiran disimpan ke \"Muat Turun\"</item>
+        <item quantity="one">%d lampiran disimpan ke \"Muat Turun\"</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">%d lampiran disimpan</item>
+        <item quantity="one">%d lampiran disimpan</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">Tidak dapat menyimpan %d lampiran</item>
+        <item quantity="one">Tidak dapat menyimpan %d lampiran</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">Hantar foto</item>
+        <item quantity="one">Hantar foto</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">Hantar audio</item>
+        <item quantity="one">Hantar audio</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">Hantar video</item>
+        <item quantity="one">Hantar video</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">Hantar kad kenalan</item>
+        <item quantity="one">Hantar kad kenalan</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">Hantar lampiran</item>
+        <item quantity="one">Hantar lampiran</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d lampiran sedia untuk dihantar</item>
+        <item quantity="one">Satu lampiran sedia untuk dihantar</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d kenalan</item>
+        <item quantity="one">%d kenalan</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">Kenalan tidak sah</item>
+        <item quantity="one">Kenalan tidak sah</item>
+    </plurals>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Yanıt</item>
+        <item>Tümünü yanıtla</item>
+        <item>Yönlendir</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Başarılı</item>
+        <item>Bağlantı yok</item>
+        <item>Oturum açılamadı</item>
+        <item>Güvenlik hatası</item>
+        <item>Senkronize edilemedi</item>
+        <item>Dahili Hata</item>
+        <item>Sunucu Hatası</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Daha yeni</item>
+        <item>Daha eski</item>
+        <item>İleti dizisi listesi</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Sildikten sonra daha yeni ileti dizisini göster</item>
+        <item>Sildikten sonra daha eski ileti dizisini göster</item>
+        <item>Sildikten sonra ileti dizisi listesini göster</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Arşivle</item>
+        <item>Sil</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Arşivle</item>
+        <item>Sil</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>İleti işlemlerini her zaman ekranın üst kısmında göster</item>
+        <item>İleti işlemlerini yalnızca dikey tutulduğunda ekranın üst kısmında göster</item>
+        <item>İleti işlemlerini iletinin üst bilgisi dışında gösterme</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Her zaman göster</item>
+        <item>Yalnızca dikey tutulduğunda göster</item>
+        <item>Gösterme</item>
+    </string-array>
+</resources>

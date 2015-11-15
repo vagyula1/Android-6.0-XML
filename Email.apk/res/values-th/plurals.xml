@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">ร่างจดหมาย</item>
+        <item quantity="one">ร่างจดหมาย</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">ลบการสนทนาทั้ง %1$d รายการนี้หรือไม่</item>
+        <item quantity="one">ลบการสนทนานี้หรือไม่</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">เก็บการสนทนาทั้ง %1$d รายการนี้ถาวรหรือไม่</item>
+        <item quantity="one">เก็บการสนทนานี้ถาวรหรือไม่</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">ยกเลิก %1$d ข้อความนี้ไหม</item>
+        <item quantity="one">ยกเลิกข้อความนี้ไหม</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">กำลังเลิกติดดาวการสนทนา %1$d รายการ</item>
+        <item quantity="one">กำลังเลิกติดดาวการสนทนา %1$d รายการ</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">ปิดเสียง &amp;lt;b>%1$d&amp;lt;/b> รายการแล้ว</item>
+        <item quantity="one">ปิดเสียง &amp;lt;b>%1$d&amp;lt;/b> รายการแล้ว</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">รายงาน &amp;lt;b>%1$d&amp;lt;/b> รายการว่าเป็นจดหมายขยะแล้ว</item>
+        <item quantity="one">รายงาน &amp;lt;b>%1$d&amp;lt;/b> รายการว่าเป็นจดหมายขยะแล้ว</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">รายงาน &amp;lt;b>%1$d&amp;lt;/b> รายการว่าไม่ใช่จดหมายขยะแล้ว</item>
+        <item quantity="one">รายงาน &amp;lt;b>%1$d&amp;lt;/b> รายการว่าไม่ใช่จดหมายขยะแล้ว</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">ทำเครื่องหมาย &amp;lt;b>%1$d&amp;lt;/b> รายการว่าไม่สำคัญแล้ว</item>
+        <item quantity="one">ทำเครื่องหมาย &amp;lt;b>%1$d&amp;lt;/b> รายการว่าไม่สำคัญแล้ว</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">รายงาน &amp;lt;b>%1$d&amp;lt;/b> รายการว่าเป็นฟิชชิงแล้ว</item>
+        <item quantity="one">รายงาน &amp;lt;b>%1$d&amp;lt;/b> รายการว่าเป็นฟิชชิงแล้ว</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">เก็บ &amp;lt;b>%1$d&amp;lt;/b> รายการแล้ว</item>
+        <item quantity="one">เก็บ &amp;lt;b>%1$d&amp;lt;/b> รายการแล้ว</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">ลบ &amp;lt;b>%1$d&amp;lt;/b> รายการแล้ว</item>
+        <item quantity="one">ลบ &amp;lt;b>%1$d&amp;lt;/b> รายการแล้ว</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">เปลี่ยนโฟลเดอร์แล้ว</item>
+        <item quantity="one">เปลี่ยนโฟลเดอร์แล้ว</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d ข้อความใหม่</item>
+        <item quantity="one">%1$d ข้อความใหม่</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">ขยายข้อความเก่า %1$d ข้อความ</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">ขยายข้อความเก่า %1$d ข้อความ</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">ยังไม่ได้อ่าน %1$d ข้อความ</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d ข้อความใหม่</item>
+        <item quantity="one">%1$d ข้อความใหม่</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d ข้อความจะถูกลบออกอย่างถาวร</item>
+        <item quantity="one">%1$d ข้อความจะถูกลบออกอย่างถาวร</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d ข้อความ</item>
+        <item quantity="one">%1$d ข้อความ</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d ไฟล์แนบ</item>
+        <item quantity="one">%1$d ไฟล์แนบ</item>
+    </plurals>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>ตอบ</item>
+        <item>ตอบทุกคน</item>
+        <item>ส่งต่อ</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>สำเร็จ</item>
+        <item>ไม่มีการเชื่อมต่อ</item>
+        <item>ไม่สามารถลงชื่อเข้าใช้</item>
+        <item>ข้อผิดพลาดของการรักษาความปลอดภัย</item>
+        <item>ไม่สามารถซิงค์</item>
+        <item>ข้อผิดพลาดภายใน</item>
+        <item>เกิดข้อผิดพลาดที่เซิร์ฟเวอร์</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>ใหม่กว่า</item>
+        <item>เก่ากว่า</item>
+        <item>รายการการสนทนา</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>แสดงการสนทนาที่ใหม่กว่าหลังจากลบ</item>
+        <item>แสดงการสนทนาที่เก่ากว่าหลังจากลบ</item>
+        <item>แสดงรายการสนทนาหลังจากลบ</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>เก็บ</item>
+        <item>ลบ</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>เก็บ</item>
+        <item>ลบ</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>แสดงการทำงานกับข้อความที่ด้านบนของหน้าจอทุกครั้ง</item>
+        <item>แสดงการทำงานกับข้อความที่ด้านบนของหน้าจอเมื่อหมุนเป็นแนวตั้งเท่านั้น</item>
+        <item>อย่าแสดงการทำงานกับข้อความนอกส่วนหัวของข้อความ</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>แสดงตลอดเวลา</item>
+        <item>แสดงในแนวตั้งเท่านั้น</item>
+        <item>ไม่แสดง</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">[Çöþýîñĝ %1$d ƒîļéš. one two three]</item>
+        <item quantity="one">[Çöþýîñĝ %1$d ƒîļé. one two three]</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">"[Çöûļðñ'ţ çöþý %1$d ƒîļéš one two three]"</item>
+        <item quantity="one">"[Çöûļðñ'ţ çöþý %1$d ƒîļé one two three]"</item>
+    </plurals>
+</resources>

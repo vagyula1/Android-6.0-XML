@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Gestão de chamadas do telemóvel</string>
+    <string name="userCallActivityLabel">Telemóvel</string>
+    <string name="unknown">Desconhecido</string>
+    <string name="notification_missedCallTitle">Chamada não atendida</string>
+    <string name="notification_missedCallsTitle">Chamadas não atendidas</string>
+    <string name="notification_missedCallsMsg">%s chamadas não atendidas</string>
+    <string name="notification_missedCallTicker">Chamada não atendida de %s</string>
+    <string name="notification_missedCall_call_back">Ligar de volta</string>
+    <string name="notification_missedCall_message">Mensagem</string>
+    <string name="accessibility_call_muted">Chamada sem som.</string>
+    <string name="accessibility_speakerphone_enabled">Alta voz ativada.</string>
+    <string name="respond_via_sms_canned_response_1">Não posso falar agora. Que se passa?</string>
+    <string name="respond_via_sms_canned_response_2">Telefono-lhe já a seguir.</string>
+    <string name="respond_via_sms_canned_response_3">Telefono-lhe mais tarde.</string>
+    <string name="respond_via_sms_canned_response_4">Pode telefonar-me mais tarde?</string>
+    <string name="respond_via_sms_setting_title">Respostas rápidas</string>
+    <string name="respond_via_sms_setting_title_2">Editar respostas rápidas</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Resposta rápida</string>
+    <string name="respond_via_sms_confirmation_format">Mensagem enviada para %s.</string>
+    <string name="enable_account_preference_title">Contas de chamadas</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Só são permitidas chamadas de emergência pelo proprietário do dispositivo.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Esta aplicação não pode fazer chamadas sem a autorização do telefone.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Para telefonar, introduza um número válido.</string>
+    <string name="duplicate_video_call_not_allowed">Não é possível adicionar a chamada neste momento.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Desative o modo teletipo para efetuar videochamadas.</string>
+    <string name="no_vm_number">Número do correio de voz em falta</string>
+    <string name="no_vm_number_msg">Não existe um número de correio de voz armazenado no cartão SIM.</string>
+    <string name="add_vm_number_str">Adicionar número</string>
+    <string name="change_default_dialer_dialog_title">Alterar aplicação de Telefone predefinida?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Utilizar %1$s em vez de %2$s como a aplicação de telefone predefinida?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Utilizar %s como a aplicação de telefone predefinida?</string>
+</resources>

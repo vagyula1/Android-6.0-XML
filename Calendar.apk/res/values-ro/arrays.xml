@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Notificare</item>
+        <item>E-mail</item>
+        <item>SMS</item>
+        <item>Alarmă</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 minute</item>
+        <item>1 minut</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>15 minute</item>
+        <item>20 de minute</item>
+        <item>25 de minute</item>
+        <item>30 de minute</item>
+        <item>45 de minute</item>
+        <item>1 oră</item>
+        <item>2 ore</item>
+        <item>3 ore</item>
+        <item>12 ore</item>
+        <item>24 de ore</item>
+        <item>2 zile</item>
+        <item>1 săptămână</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Niciunul</item>
+        <item>0 minute</item>
+        <item>1 minut</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>15 minute</item>
+        <item>20 de minute</item>
+        <item>25 de minute</item>
+        <item>30 de minute</item>
+        <item>45 de minute</item>
+        <item>1 oră</item>
+        <item>2 ore</item>
+        <item>3 ore</item>
+        <item>12 ore</item>
+        <item>24 de ore</item>
+        <item>2 zile</item>
+        <item>1 săptămână</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Codul local prestabilit</item>
+        <item>Sâmbătă</item>
+        <item>Duminică</item>
+        <item>Luni</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Ocupat</item>
+        <item>Disponibil</item>
+        <item>Tentativă</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Prestabilit</item>
+        <item>Privat</item>
+        <item>Public</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>primul</item>
+        <item>al doilea</item>
+        <item>al treilea</item>
+        <item>al patrulea</item>
+        <item>ultimul</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Niciun răspuns</item>
+        <item>Da</item>
+        <item>Poate</item>
+        <item>Nu</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Doar acest eveniment</item>
+        <item>Acest eveniment şi cele viitoare</item>
+        <item>Toate evenimentele</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Acesta şi evenimentele viitoare</item>
+        <item>Toate evenimentele</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Doar acest eveniment</item>
+        <item>Toate evenimentele din serie</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Zi</item>
+        <item>Săptămână</item>
+        <item>Lună</item>
+        <item>Agendă</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Numai dacă sunt respinse</item>
+        <item>Dacă sunt respinse sau fără răspuns</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>REPETAȚI ZILNIC</item>
+        <item>REPETAȚI SĂPTĂMÂNAL</item>
+        <item>REPETAȚI LUNAR</item>
+        <item>REPETAȚI ANUAL</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>în prima duminică din lună</item>
+        <item>în a doua duminică din lună</item>
+        <item>în a treia duminică din lună</item>
+        <item>în a patra duminică din lună</item>
+        <item>în ultima duminică din lună</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>în prima luni din lună</item>
+        <item>în a doua luni din lună</item>
+        <item>în a treia luni din lună</item>
+        <item>în a patra luni din lună</item>
+        <item>în ultima luni din lună</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>în prima marți din lună</item>
+        <item>în a doua marți din lună</item>
+        <item>în a treia marți din lună</item>
+        <item>în a patra marți din lună</item>
+        <item>în ultima marți din lună</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>în prima miercuri din lună</item>
+        <item>în a doua miercuri din lună</item>
+        <item>în a treia miercuri din lună</item>
+        <item>în a patra miercuri din lună</item>
+        <item>în ultima miercuri din lună</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>în prima joi din lună</item>
+        <item>în a doua joi din lună</item>
+        <item>în a treia joi din lună</item>
+        <item>în a patra joi din lună</item>
+        <item>în ultima joi din lună</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>în prima vineri din lună</item>
+        <item>în a doua vineri din lună</item>
+        <item>în a treia vineri din lună</item>
+        <item>în a patra vineri din lună</item>
+        <item>în ultima vineri din lună</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>în prima sâmbătă din lună</item>
+        <item>în a doua sâmbătă din lună</item>
+        <item>în a treia sâmbătă din lună</item>
+        <item>în a patra sâmbătă din lună</item>
+        <item>în ultima sâmbătă din lună</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Întârzii numai câteva minute.</item>
+        <item>Ajung în aproximativ 10 minute.</item>
+        <item>Începeţi fără mine.</item>
+        <item>Îmi pare rău, nu pot să ajung. Va trebui să ne vedem altădată.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Ora Australiei Centrale – NT</item>
+        <item>Ora Australiei Centrale – SA</item>
+        <item>Ora Australiei de Est – QLD</item>
+        <item>Ora Australiei de Est – NSW</item>
+        <item>Oră Zonă muntoasă – Dawson Creek</item>
+        <item>Ora stand. centr. – Saskatchewan</item>
+        <item>Ora standard de est – Atikokan</item>
+        <item>Ora standard Atlantic – Quebec</item>
+        <item>Ora Hawaii-Aleutine – Hawaii</item>
+        <item>Ora Hawaii-Aleutine – Alaska</item>
+        <item>Ora stand. Pacific – Metlakatla</item>
+        <item>Ora standard Zona muntoasă – AZ</item>
+        <item>Ora Pacific – Baja California</item>
+        <item>Ora Zonei muntoase – Chihuahua</item>
+        <item>Ora centrală – Tamaulipas</item>
+        <item>Ora Zonei muntoase – Sonora</item>
+        <item>Ora Africii de Est</item>
+        <item>Ora standard a Atlanticului</item>
+        <item>Ora standard a Atlanticului</item>
+        <item>Ora Europei de Est</item>
+        <item>Ora Kaliningradului</item>
+        <item>Amazon – Rondônia</item>
+        <item>Brasilia – Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint-Maarten</item>
+        <item>Insulele Caraibe Olandeze</item>
+        <item>Curaçao</item>
+        <item>Sudanul de Sud</item>
+    </string-array>
+</resources>

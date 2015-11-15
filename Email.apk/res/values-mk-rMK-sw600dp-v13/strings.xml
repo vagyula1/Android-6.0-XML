@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">Управувај со папки</string>
+    <string name="add_cc_label">+ Цц/Бцц</string>
+    <string name="add_bcc_label">+ Бцц</string>
+    <string name="preferences_default_reply_all_summary">Користи како стандард за одговарање на известувања за пораки</string>
+</resources>

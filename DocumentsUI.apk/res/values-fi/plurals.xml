@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Kopioidaan %1$d tiedostoa.</item>
+        <item quantity="one">Kopioidaan %1$d tiedosto.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">%1$d tiedoston kopioiminen epäonnistui.</item>
+        <item quantity="one">%1$d tiedoston kopioiminen epäonnistui.</item>
+    </plurals>
+</resources>

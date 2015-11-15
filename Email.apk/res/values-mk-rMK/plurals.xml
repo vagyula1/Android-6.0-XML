@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Нацрти</item>
+        <item quantity="one">Нацрт</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Избришете ги овие %1$d разговори?</item>
+        <item quantity="one">Избришете го овој разговор?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Архивирајте ги овие %1$d разговори?</item>
+        <item quantity="one">Архивирајте го овој разговор?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Отфрлете ги овие %1$d пораки?</item>
+        <item quantity="one">Отфрли ја оваа порака?</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d непрочитани</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d нови пораки</item>
+        <item quantity="one">%1$d нова порака</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d пораки трајно ќе се избришат.</item>
+        <item quantity="one">%1$d порака трајно ќе се избрише.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d пораки</item>
+        <item quantity="one">%1$d порака</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d прилози</item>
+        <item quantity="one">%1$d прилог</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Қабыршық</string>
+    <string name="bugreport_finished_title">Вирус туралы баянат қабылданды</string>
+    <string name="bugreport_finished_text">Бөліс үшін, вирус туралы баянатты түртіңіз.</string>
+    <string name="bugreport_confirm">Вирус туралы баянатта жүйеде тіркелген әртүрлі файлдар туралы деректер болады, оған жеке және құпия ақпарат та кіреді. Вирус баянаттарын сенімді қолданбалар және сенімді адамдармен ғана бөлісіңіз.</string>
+    <string name="bugreport_confirm_repeat">Бұл хабарды келесі жолы көрсетіңіз</string>
+    <string name="bugreport_storage_title">Қате туралы баяндамалар</string>
+</resources>

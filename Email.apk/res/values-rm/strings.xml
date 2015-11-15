@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">E-mail</string>
+    <string name="veiled_address" />
+    <string name="veiled_alternate_text" />
+    <string name="veiled_alternate_text_unknown_person" />
+    <string name="veiled_summary_unknown_person" />
+    <string name="view_app_page" />
+    <string name="account_settings_action">Parameters dal conto</string>
+    <string name="mailbox_name_display_inbox">Posta entrada</string>
+    <string name="mailbox_name_display_outbox">Posta sortida</string>
+    <string name="mailbox_name_display_drafts">Sbozs</string>
+    <string name="mailbox_name_display_trash">Chanaster da palpiri</string>
+    <string name="mailbox_name_display_sent">Tramess</string>
+    <string name="mailbox_name_display_junk">Nungiavischà</string>
+    <string name="debug_title">Debug</string>
+    <string name="message_compose_fwd_header_fmt">"
+
+-------- Messadi original --------
+Object: %1$s
+Da: %2$s
+A: %3$s
+Cc: %4$s
+
+"</string>
+    <string name="account_setup_basics_manual_setup_action">Configuraziun manuala</string>
+    <string name="account_setup_check_settings_retr_info_msg">Recuperar las infurmaziuns davart il conto…</string>
+    <string name="account_setup_names_account_name_label">Dar in num al conto (facultativ)</string>
+    <string name="account_setup_names_user_name_label">Voss num (vegn mussà en messadis che sortan)</string>
+    <string name="account_setup_account_type_instructions">Da tge tip da conto sa tracti?</string>
+    <string name="account_setup_incoming_security_none_label">Nagin</string>
+    <string name="account_setup_incoming_delete_policy_label">Stizzar ils e-mails dal server</string>
+    <string name="account_setup_incoming_delete_policy_never_label">Mai</string>
+    <string name="account_setup_incoming_delete_policy_delete_label">Sche jau stiz els da la posta entrada</string>
+    <string name="account_setup_incoming_imap_path_prefix_label">"Prefix da la via d'access IMAP"</string>
+    <string name="account_setup_incoming_imap_path_prefix_hint">Facultativ</string>
+    <string name="account_setup_options_mail_check_frequency_never">Mai</string>
+    <string name="account_setup_options_mail_check_frequency_push">Automaticamain (push)</string>
+    <string name="account_setup_options_mail_check_frequency_5min">Mintga 5 minutas</string>
+    <string name="account_setup_options_mail_check_frequency_10min">Mintga 10 minutas</string>
+    <string name="account_setup_options_mail_check_frequency_15min">Mintga 15 minutas</string>
+    <string name="account_setup_options_mail_check_frequency_30min">Mintga 30 minutas</string>
+    <string name="account_setup_options_mail_check_frequency_1hour">Mintga ura</string>
+    <string name="account_setup_failed_tls_required">TLS è obligatoric ma na vegn betg sustegnì dal server.</string>
+    <string name="account_setup_security_required_title">Administraziun da la segirezza a distanza</string>
+    <string name="account_setup_failed_dlg_edit_details_action">Modifitgar ils detagls</string>
+    <string name="account_settings_notify_label">Avis ad e-mails</string>
+    <string name="account_settings_summary">\"Frequenza da sincronisaziun, avis, etc.\"</string>
+    <string name="account_settings_incoming_label">Messadis che entran</string>
+    <string name="account_settings_outgoing_label">Parameters da sortida</string>
+    <string name="account_settings_description_label">Num dal conto</string>
+    <string name="account_settings_name_label">Voss num</string>
+    <string name="account_settings_notifications">Parameters dad avis</string>
+    <string name="account_settings_sync_contacts_enable">Sincronisar ils contacts</string>
+    <string name="account_settings_sync_contacts_summary">Sincronisar ils contacts per quest conto</string>
+    <string name="account_settings_sync_calendar_enable">Sincronisar il chalender</string>
+    <string name="account_settings_sync_email_summary">Sincronisar ils e-mails per quest conto</string>
+    <string name="label_notification_vibrate_title">Vibrar</string>
+    <string name="account_settings_servers">Parameters dal server</string>
+    <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+    <string name="device_admin_label">E-mail</string>
+    <string name="device_admin_description">Activescha las directivas da segirezza specificas per il server</string>
+    <string name="next_action">Vinavant</string>
+    <string name="done_action">Terminà</string>
+    <string name="account_folder_list_summary_starred">Cun staila</string>
+    <string name="account_folder_list_summary_drafts">Sbozs</string>
+    <string name="account_folder_list_summary_outbox">Posta sortida</string>
+    <string name="exchange_name">Da fatschenta</string>
+</resources>

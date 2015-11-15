@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Ara només et queden %1$d passos per convertir-te en desenvolupador.</item>
+        <item quantity="one">Ara només et queda %1$d pas per convertir-te en desenvolupador.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d empremtes digitals configurades</item>
+        <item quantity="one">%1$d empremta digital configurada</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">La contrasenya ha de contenir com a mínim %d lletres.</item>
+        <item quantity="one">La contrasenya ha de contenir com a mínim 1 lletra.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">La contrasenya ha de contenir com a mínim %d lletres en minúscules.</item>
+        <item quantity="one">La contrasenya ha de contenir com a mínim 1 lletra en minúscules.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">La contrasenya ha de contenir com a mínim %d lletres en majúscules.</item>
+        <item quantity="one">La contrasenya ha de contenir com a mínim 1 lletra en majúscules.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">La contrasenya ha de contenir com a mínim %d dígits numèrics.</item>
+        <item quantity="one">La contrasenya ha de contenir com a mínim 1 dígit numèric.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">La contrasenya ha de contenir com a mínim %d símbols especials.</item>
+        <item quantity="one">La contrasenya ha de contenir com a mínim 1 símbol especial.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">La contrasenya ha de contenir com a mínim %d caràcters que no siguin una lletra.</item>
+        <item quantity="one">La contrasenya ha de contenir com a mínim 1 caràcter que no sigui una lletra.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">El codi PIN de la SIM no és correcte. Et queden %d intents.</item>
+        <item quantity="one">"El codi PIN de la SIM no és correcte. Et queda %d intent; si no l'encertes, contacta amb l'operador de telefonia mòbil per desbloquejar el dispositiu."</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d aplicacions poden llegir notificacions</item>
+        <item quantity="one">%d aplicació pot llegir notificacions</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Canvia al mode Només alarmes durant %1$d minuts (fins a les %2$s)</item>
+        <item quantity="one">Canvia al mode Només alarmes durant un minut fins a les %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Canvia al mode Només alarmes durant %1$d hores fins a les %2$s</item>
+        <item quantity="one">Canvia al mode Només alarmes durant una hora fins a les %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d permisos concedits</item>
+        <item quantity="one">%d permís concedit</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d permisos de %2$d concedits</item>
+        <item quantity="one">%1$d permís de %2$d concedit</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d permisos addicionals</item>
+        <item quantity="one">%d permís addicional</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d aplicacions poden obrir els seus enllaços admesos</item>
+        <item quantity="one">Una aplicació pot obrir els seus enllaços admesos</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">"%d aplicacions amb permís per ignorar l'optimització de la bateria"</item>
+        <item quantity="one">"1 aplicació amb permís per ignorar l'optimització de la bateria"</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d aplicacions han utilitzat memòria durant les últimes %2$s</item>
+        <item quantity="one">1 aplicació ha utilitzat memòria durant les últimes %2$s</item>
+    </plurals>
+</resources>

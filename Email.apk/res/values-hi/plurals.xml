@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">अधूरा ईमेल</item>
+        <item quantity="one">अधूरा ईमेल</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">ये %1$d बातचीत हटाएं?</item>
+        <item quantity="one">इस बातचीत को हटाएं?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">ये %1$d बातचीत संग्रहीत करें?</item>
+        <item quantity="one">इस बातचीत को संग्रहीत करें?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">इन %1$d संदेशों को छोड़ें?</item>
+        <item quantity="one">इस संदेश को छोड़ें?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d बातचीत के तारांकन हटाए जा रहे हैं</item>
+        <item quantity="one">%1$d बातचीत के तारांकन हटाए जा रहे हैं</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> को म्‍यूट कि‍या गया</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> को म्‍यूट कि‍या गया</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> की अनचाहा ईमेल के रूप में रिपोर्ट की गई</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> की अनचाहा ईमेल के रूप में रिपोर्ट की गई</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> की अनचाहा ईमेल नहीं के रूप में रिपोर्ट की गई</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> की अनचाहा ईमेल नहीं के रूप में रिपोर्ट की गई</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> को महत्‍वपूर्ण नहीं के रूप में चि‍ह्नि‍त कि‍या गया</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> को महत्‍वपूर्ण नहीं के रूप में चि‍ह्नि‍त कि‍या गया</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> की फ़िशिंग के रूप में रिपोर्ट की गई</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> की फ़िशिंग के रूप में रिपोर्ट की गई</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ईमेल को संग्रहीत कि‍या गया</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ईमेल को संग्रहीत कि‍या गया</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> को हटा दिया गया</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> को हटा दिया गया</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">फ़ोल्डर बदल दिए गए.</item>
+        <item quantity="one">फ़ोल्‍डर बदल दिया गया.</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d नए संदेश</item>
+        <item quantity="one">%1$d नया संदेश</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d पुराने संदेश विस्तृत करें</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d पुराने संदेश विस्तृत किए गए</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d अपठित</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d नए संदेश</item>
+        <item quantity="one">%1$d नया संदेश</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d संदेश स्थायी रूप से हटा दिए जाएंगे.</item>
+        <item quantity="one">%1$d संदेश स्थायी रूप हटा दिया जाएगा.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d संदेश</item>
+        <item quantity="one">%1$d संदेश</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d अटैचमेंट</item>
+        <item quantity="one">%1$d अटैचमेंट</item>
+    </plurals>
+</resources>

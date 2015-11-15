@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d мин</item>
+        <item quantity="one">%d мин</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d дни</item>
+        <item quantity="one">%d ден</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d седмици</item>
+        <item quantity="one">една седмица</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d месеца</item>
+        <item quantity="one">един месец</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d години</item>
+        <item quantity="one">една година</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d съобщения в %2$d разговора</item>
+        <item quantity="one">%d съобщения в един разговор</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d съобщения в %2$d разговора</item>
+        <item quantity="one">%d съобщения в един разговор</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d нови съобщения</item>
+        <item quantity="one">Ново съобщение</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">Да се изтрият ли тези разговори?</item>
+        <item quantity="one">Да се изтрие ли този разговор?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d участници</item>
+        <item quantity="one">%d участник</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">Отхвърляне на прикачените файлове</item>
+        <item quantity="one">Отхвърляне на прикачения файл</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d снимки са запазени в албума „%2$s“</item>
+        <item quantity="one">%1$d снимка е запазена в албума „%2$s“</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d видеоклипа са запазени в албума „%2$s“</item>
+        <item quantity="one">%1$d видеоклип е запазен в албума „%2$s“</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d прикачени файла са запазени в албума „%2$s“</item>
+        <item quantity="one">%1$d прикачен файл е запазен в албума „%2$s“</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d прикачени файла са запазени в „Изтегляния“</item>
+        <item quantity="one">%d прикачен файл е запазен в „Изтегляния“</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">%d прикачени файла са запазени</item>
+        <item quantity="one">%d прикачен файл е запазен</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">%d прикачени файла не можаха да бъдат запазени</item>
+        <item quantity="one">%d прикачен файл не можа да се запази</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">Изпращане на снимките</item>
+        <item quantity="one">Изпращане на снимката</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">Изпращане на аудиозаписите</item>
+        <item quantity="one">Изпращане на аудиозаписа</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">Изпращане на видеоклиповете</item>
+        <item quantity="one">Изпращане на видеоклипа</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">Изпращане на визитните картички</item>
+        <item quantity="one">Изпращане на визитната картичка</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">Изпращане на прикачените файлове</item>
+        <item quantity="one">Изпращане на прикачения файл</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d прикачени файла са готови за изпращане</item>
+        <item quantity="one">Един прикачен файл е готов за изпращане</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d контакта</item>
+        <item quantity="one">%d контакт</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">Контактите са невалидни</item>
+        <item quantity="one">Контактът е невалиден</item>
+    </plurals>
+</resources>

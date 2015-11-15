@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Héj</string>
+    <string name="bugreport_finished_title">Programhiba-jelentés rögzítve</string>
+    <string name="bugreport_finished_text">Érintse meg a programhiba-jelentés megosztásához</string>
+    <string name="bugreport_confirm">A programhiba-jelentések a rendszer különféle naplófájljaiból származó adatokat tartalmaznak, köztük személyes és magánjellegű információkat is. Csak olyan alkalmazásokkal és személyekkel osszon meg programhiba-jelentéseket, amelyekben vagy akikben megbízik.</string>
+    <string name="bugreport_confirm_repeat">Üzenet mutatása legközelebb</string>
+    <string name="bugreport_storage_title">Hibajelentések</string>
+</resources>

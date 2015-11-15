@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">[ÅÑŢ ĤÅĻ ŠéŕVîçé one two three]</string>
+    <string name="permdesc_antradio">[Åļļöŵš ţĥé åþþļîçåţîöñ ţö ðîŕéçţļý çöñƒîĝûŕé ţĥé ÅÑŢ ŕåðîö. Ḿåļîçîöûš åþþļîçåţîöñš ḿåý þŕéVéñţ ţĥé ÅÑŢ Ŕåðîö ŠéŕVîçé ƒŕöḿ þŕöVîðîñĝ ÅÑŢ ƒûñçţîöñåļîţý ţö öţéŕ åþþļîçåţîöñš. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]</string>
+    <string name="permlab_antradio">[ûšé ÅÑŢ ĥåŕðŵåŕé one two three]</string>
+    <string name="permdesc_ant">[Åļļöŵš ţĥé åþþļîçåţîöñ ţö çöḿḿûñîçåţé ŵîţĥ ÅÑŢ ðéVîçéš ûšîñĝ ţĥé þŕöхý šéŕVîçé. Ḿåļîçîöûš åþþļîçåţîöñš ḿåý åçQûîŕé îñƒöŕḿåţîöñ ƒŕöḿ, öŕ ţŕåñšḿîţ ţö, ÅÑŢ ðéVîçéš ŵîţĥöûţ ýöûŕ ķñöŵļéðĝé. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen]</string>
+    <string name="permlab_ant">[ûšé ÅÑŢ ŕåðîö îñţéŕƒåçé one two three]</string>
+    <string name="permdesc_antAdmin">[Åļļöŵš ţĥé åþþļîçåţîöñ ţö ðîŕéçţļý çöñƒîĝûŕé ţĥé ÅÑŢ ŕåðîö ţĥŕöûĝĥ ţĥé þŕöхý šéŕVîçé. Ḿåļîçîöûš åþþļîçåţîöñš ḿåý þŕéVéñţ öţĥéŕ ÅÑŢ åþþļîçåţîöñš ƒŕöḿ çöññéçţîñĝ ţö ÅÑŢ ðéVîçéš. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]</string>
+    <string name="permlab_antAdmin">[çöñţŕöļ ÅÑŢ ŕåðîö çöñƒîĝûŕåţîöñ one two three four]</string>
+</resources>

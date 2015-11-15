@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Сиздин иштеп чыгуучу болушуңузга %1$d кадам калды.</item>
+        <item quantity="one">Сиздин иштеп чыгуучу болушуңузга %1$d кадам калды.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d манжа изин коюу</item>
+        <item quantity="one">%1$d манжа изин коюу</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Сырсөз кеминде %d тамгадан турушу керек.</item>
+        <item quantity="one">Сырсөз кеминде 1 тамгадан турушу керек.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Сырсөз кеминде %d кичине тамга камтышы керек.</item>
+        <item quantity="one">Сырсөз кеминде 1 кичине тамга камтышы керек.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Сырсөз кеминде %d баш тамга камтышы керек.</item>
+        <item quantity="one">Сырсөз кеминде 1 баш тамга камтышы керек.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Сырсөз кеминде %d сандык орундан турушу керек.</item>
+        <item quantity="one">Сырсөз кеминде 1 сандык орундан турушу керек.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Сырсөз кеминде %d атайын белги камтышы керек.</item>
+        <item quantity="one">Сырсөз кеминде 1 атайын белги камтышы керек.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Сырсөз кеминде %d тамга эмес белги камтышы керек.</item>
+        <item quantity="one">Сырсөз кеминде 1 тамга эмес белги камтышы керек.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM PIN-коду туура эмес, сизде %d аракет калды.</item>
+        <item quantity="one">SIM PIN-коду туура эмес, түзмөк кулпусун ачуу үчүн операторуңузга кайрылуудан мурун %d аракет калды.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d колдонмо эскертмелерди окуй алат</item>
+        <item quantity="one">%d колдонмо эскертмелерди окуй алат</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">%1$d мүнөткө ойготкучтар гана режимине өзгөртүү (%2$s чейин)</item>
+        <item quantity="one">%2$s чейин бир мүнөткө ойготкучтар гана режимине өзгөртүү</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">%2$s чейин %1$d саатка ойготкучтар гана режимине өзгөртүү</item>
+        <item quantity="one">%2$s чейин бир саатка ойготкучтар гана режимине өзгөртүү</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d уруксат берилди</item>
+        <item quantity="one">%d уруксат берилди</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d ичинен %2$d уруксат берилди</item>
+        <item quantity="one">%1$d ичинен %2$d уруксат берилди</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d кошумча уруксат</item>
+        <item quantity="one">%d кошумча уруксат</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d колдонмо колдоого алынган шилтемелерин ача алат</item>
+        <item quantity="one">Бир колдонмо колдоого алынган шилтемелерин ача алат</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d колдонмо батареянын кубатын көп керектейт</item>
+        <item quantity="one">1 колдонмо батареянын кубатын көп керектейт</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">Акыркы %2$s эстутумду %1$d колдонмо керектеди</item>
+        <item quantity="one">Акыркы %2$s эстутумду 1 колдонмо керектеди</item>
+    </plurals>
+</resources>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Ilmoitus</item>
+        <item>Sähköposti</item>
+        <item>Tekstiviesti</item>
+        <item>Hälytys</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 minuuttia</item>
+        <item>1 minuutti</item>
+        <item>5 minuuttia</item>
+        <item>10 minuuttia</item>
+        <item>15 minuuttia</item>
+        <item>20 minuuttia</item>
+        <item>25 minuuttia</item>
+        <item>30 minuuttia</item>
+        <item>45 minuuttia</item>
+        <item>1 tunti</item>
+        <item>2 tuntia</item>
+        <item>3 tuntia</item>
+        <item>12 tuntia</item>
+        <item>24 tuntia</item>
+        <item>2 päivää</item>
+        <item>1 viikko</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Ei mitään</item>
+        <item>0 minuuttia</item>
+        <item>1 minuutti</item>
+        <item>5 minuuttia</item>
+        <item>10 minuuttia</item>
+        <item>15 minuuttia</item>
+        <item>20 minuuttia</item>
+        <item>25 minuuttia</item>
+        <item>30 minuuttia</item>
+        <item>45 minuuttia</item>
+        <item>1 tunti</item>
+        <item>2 tuntia</item>
+        <item>3 tuntia</item>
+        <item>12 tuntia</item>
+        <item>24 tuntia</item>
+        <item>2 päivää</item>
+        <item>1 viikko</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Oletussijainti</item>
+        <item>lauantai</item>
+        <item>sunnuntai</item>
+        <item>maanantai</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Varattu</item>
+        <item>Tavoitettavissa</item>
+        <item>Alustava</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Oletus</item>
+        <item>Yksityinen</item>
+        <item>Julkinen</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>ensimmäinen</item>
+        <item>sekunti</item>
+        <item>kolmas</item>
+        <item>neljäs</item>
+        <item>viimeinen</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Ei vastausta</item>
+        <item>Kyllä</item>
+        <item>Ehkä</item>
+        <item>Ei</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Vain tämä tapahtuma</item>
+        <item>Tämä ja tulevat tapahtumat</item>
+        <item>Kaikki tapahtumat</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Tämä ja tulevat tapahtumat</item>
+        <item>Kaikki tapahtumat</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Vain tämä tapahtuma</item>
+        <item>Kaikki toistokerrat</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Päivä</item>
+        <item>Viikko</item>
+        <item>Kuukausi</item>
+        <item>Tapahtumat</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Vain jos kieltäydyn</item>
+        <item>Jos kieltäydyn tai en vastaa</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>TOISTA PÄIVITTÄIN</item>
+        <item>TOISTA VIIKOITTAIN</item>
+        <item>TOISTA KUUKAUSITTAIN</item>
+        <item>TOISTA VUOSITTAIN</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>kuukauden 1. sunnuntai</item>
+        <item>kuukauden 2. sunnuntai</item>
+        <item>kuukauden 3. sunnuntai</item>
+        <item>kuukauden 4. sunnuntai</item>
+        <item>kuukauden viimeinen sunnuntai</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>kuukauden 1. maanantai</item>
+        <item>kuukauden 2. maanantai</item>
+        <item>kuukauden 3. maanantai</item>
+        <item>kuukauden 4. maanantai</item>
+        <item>kuukauden viimeinen maanantai</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>kuukauden 1. tiistai</item>
+        <item>kuukauden 2. tiistai</item>
+        <item>kuukauden 3. tiistai</item>
+        <item>kuukauden 4. tiistai</item>
+        <item>kuukauden viimeinen tiistai</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>kuukauden 1. keskiviikko</item>
+        <item>kuukauden 2. keskiviikko</item>
+        <item>kuukauden 3. keskiviikko</item>
+        <item>kuukauden 4. keskiviikko</item>
+        <item>kuukauden viim. keskiviikko</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>kuukauden 1. torstai</item>
+        <item>kuukauden 2. torstai</item>
+        <item>kuukauden 3. torstai</item>
+        <item>kuukauden 4. torstai</item>
+        <item>kuukauden viimeinen torstai</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>kuukauden 1. perjantai</item>
+        <item>kuukauden 2. perjantai</item>
+        <item>kuukauden 3. perjantai</item>
+        <item>kuukauden 4. perjantai</item>
+        <item>kuukauden viimeinen perjantai</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>kuukauden 1. lauantai</item>
+        <item>kuukauden 2. lauantai</item>
+        <item>kuukauden 3. lauantai</item>
+        <item>kuukauden 4. lauantai</item>
+        <item>kuukauden viimeinen lauantai</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Myöhästyn muutaman minuutin.</item>
+        <item>Olen paikalla noin 10 minuutin kuluttua.</item>
+        <item>Voitte aloittaa ilman minua.</item>
+        <item>En pääse paikalle. Sovitaanko uusi aika?</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Keski-Australian aika – NT</item>
+        <item>Keski-Australian aika – SA</item>
+        <item>Itä-Australian aika – QLD</item>
+        <item>Itä-Australian aika – NSW</item>
+        <item>Kalliovuoret – Dawson Creek</item>
+        <item>Keskinen norm. – Saskatchewan</item>
+        <item>Itäinen normaaliaika – Atikokan</item>
+        <item>Atlantin normaaliaika – Quebec</item>
+        <item>Hawaiji ja Aleutit – Havaiji</item>
+        <item>Hawaiji ja Aleutit – Alaska</item>
+        <item>Tyynenmeren norm. – Metlakatla</item>
+        <item>Kalliovuort. norm.aika – Arizona</item>
+        <item>Tyynimeri – Baja California</item>
+        <item>Kalliovuoret – Chihuahua</item>
+        <item>Keskinen – Tamaulipas</item>
+        <item>Kalliovuoret – Sonora</item>
+        <item>Itä-Afrikan aika</item>
+        <item>Kanadan Atlantin normaaliaika</item>
+        <item>Kanadan Atlantin normaaliaika</item>
+        <item>Itä-Euroopan aika</item>
+        <item>Kaliningradin aika</item>
+        <item>Amazon – Rondônia</item>
+        <item>Brasilia – Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Alankomaiden Karibian saaret</item>
+        <item>Curaçao</item>
+        <item>Etelä-Sudan</item>
+    </string-array>
+</resources>

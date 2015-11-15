@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d ditemui</item>
+        <item quantity="one">1 ditemui</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">1 saat</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minit</item>
+        <item quantity="one">1 minit</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">1 jam</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Mel suara</item>
+        <item quantity="one">Mel suara</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d mel suara baharu</item>
+        <item quantity="one">%d mel suara baharu</item>
+    </plurals>
+</resources>

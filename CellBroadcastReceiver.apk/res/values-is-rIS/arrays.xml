@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 sekúndur</item>
+        <item>4 sekúndur</item>
+        <item>6 sekúndur</item>
+        <item>8 sekúndur</item>
+        <item>10 sekúndur</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>Einu sinni</item>
+        <item>Á 2 mínútna fresti</item>
+        <item>Á 15 mínútna fresti</item>
+        <item>Slökkt</item>
+    </string-array>
+</resources>

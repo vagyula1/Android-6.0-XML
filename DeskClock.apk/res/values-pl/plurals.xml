@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_duration">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
+        <item quantity="few">%d min</item>
+        <item quantity="many">%d min</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Drzemka przez %d minuty.</item>
+        <item quantity="one">Drzemka przez minutę.</item>
+        <item quantity="few">Drzemka przez %d minuty.</item>
+        <item quantity="many">Drzemka przez %d minut.</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s dnia</item>
+        <item quantity="one">1 dzień</item>
+        <item quantity="few">%s dni</item>
+        <item quantity="many">%s dni</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s godziny</item>
+        <item quantity="one">1 godzina</item>
+        <item quantity="few">%s godziny</item>
+        <item quantity="many">%s godzin</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minuty</item>
+        <item quantity="one">1 minuta</item>
+        <item quantity="few">%s minuty</item>
+        <item quantity="many">%s minut</item>
+    </plurals>
+    <plurals name="snooze_duration">
+        <item quantity="other">%s minuty</item>
+        <item quantity="one">1 minuta</item>
+        <item quantity="few">%s minuty</item>
+        <item quantity="many">%s minut</item>
+    </plurals>
+    <plurals name="snooze_picker_label">
+        <item quantity="other">minuty</item>
+        <item quantity="one">minuta</item>
+        <item quantity="few">minuty</item>
+        <item quantity="many">minut</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">%s minuty</item>
+        <item quantity="one">1 minuta</item>
+        <item quantity="few">%s minuty</item>
+        <item quantity="many">%s minut</item>
+    </plurals>
+    <plurals name="Nhours_description">
+        <item quantity="other">%d godziny</item>
+        <item quantity="one">1 godzina</item>
+        <item quantity="few">%d godziny</item>
+        <item quantity="many">%d godzin</item>
+    </plurals>
+    <plurals name="Nminutes_description">
+        <item quantity="other">%d minuty</item>
+        <item quantity="one">1 minuta</item>
+        <item quantity="few">%d minuty</item>
+        <item quantity="many">%d minut</item>
+    </plurals>
+    <plurals name="Nseconds_description">
+        <item quantity="other">%d sekundy</item>
+        <item quantity="one">1 sekunda</item>
+        <item quantity="few">%d sekundy</item>
+        <item quantity="many">%d sekund</item>
+    </plurals>
+    <plurals name="alarm_delete_confirmation">
+        <item quantity="other">Usunąć wybrane alarmy?</item>
+        <item quantity="one">Usunąć wybrany alarm?</item>
+        <item quantity="few">Usunąć wybrane alarmy?</item>
+        <item quantity="many">Usunąć wybrane alarmy?</item>
+    </plurals>
+</resources>

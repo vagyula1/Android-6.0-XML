@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Notificatn</item>
+        <item>Email</item>
+        <item>SMS</item>
+        <item>Alarma</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 minuto</item>
+        <item>1 minuto</item>
+        <item>5 minuto</item>
+        <item>10 minuto</item>
+        <item>15 minuto</item>
+        <item>20 minuto</item>
+        <item>25 minuto</item>
+        <item>30 minuto</item>
+        <item>45 minuto</item>
+        <item>1 oras</item>
+        <item>2 oras</item>
+        <item>3 oras</item>
+        <item>12 oras</item>
+        <item>24 oras</item>
+        <item>2 araw</item>
+        <item>1 linggo</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Wala</item>
+        <item>0 minuto</item>
+        <item>1 minuto</item>
+        <item>5 minuto</item>
+        <item>10 minuto</item>
+        <item>15 minuto</item>
+        <item>20 minuto</item>
+        <item>25 minuto</item>
+        <item>30 minuto</item>
+        <item>45 minuto</item>
+        <item>1 oras</item>
+        <item>2 oras</item>
+        <item>3 oras</item>
+        <item>12 oras</item>
+        <item>24 na oras</item>
+        <item>2 araw</item>
+        <item>1 linggo</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Lokal na default</item>
+        <item>Sabado</item>
+        <item>Linggo</item>
+        <item>Lunes</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Abala</item>
+        <item>Available</item>
+        <item>Pansamantala</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Default</item>
+        <item>Pribado</item>
+        <item>Pampubliko</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>una</item>
+        <item>segundo</item>
+        <item>pangatlo</item>
+        <item>pang-apat</item>
+        <item>panghuli</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Walang tugon</item>
+        <item>Oo</item>
+        <item>Maaari</item>
+        <item>Hindi</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Ang kaganapang ito lang</item>
+        <item>Ito at mga kaganapan sa hinaharap</item>
+        <item>Lahat ng mg kaganapan</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Itong &amp; mga kaganapan sa hinaharap</item>
+        <item>Lahat ng mga kaganapan</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Ang kaganapang ito lamang</item>
+        <item>Lahat ng mga kaganapan sa serye</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Araw</item>
+        <item>Linggo</item>
+        <item>Buwan</item>
+        <item>Agenda</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Kung tinanggihan lang</item>
+        <item>Kung tinanggihan o hindi tinugunan</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>ULITIN ARAW-ARAW</item>
+        <item>ULITIN LINGGO-LINGGO</item>
+        <item>ULITIN BUWAN-BUWAN</item>
+        <item>ULITIN TAON-TAON</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>tuwing unang Linggo</item>
+        <item>tuwing ikalawang Linggo</item>
+        <item>tuwing ikatlong Linggo</item>
+        <item>tuwing ikaapat na Linggo</item>
+        <item>tuwing huling Linggo</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>tuwing unang Lunes</item>
+        <item>tuwing ikalawang Lunes</item>
+        <item>tuwing ikatlong Lunes</item>
+        <item>tuwing ikaapat na Lunes</item>
+        <item>tuwing huling Lunes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>tuwing unang Martes</item>
+        <item>tuwing ikalawang Martes</item>
+        <item>tuwing ikatlong Martes</item>
+        <item>tuwing ikaapat na Martes</item>
+        <item>tuwing huling Martes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>tuwing unang Miyerkules</item>
+        <item>tuwing ikalawang Miyerkules</item>
+        <item>tuwing ikatlong Miyerkules</item>
+        <item>tuwing ikaapat na Miyerkules</item>
+        <item>tuwing huling Miyerkules</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>tuwing unang Huwebes</item>
+        <item>tuwing ikalawang Huwebes</item>
+        <item>tuwing ikatlong Huwebes</item>
+        <item>tuwing ikaapat na Huwebes</item>
+        <item>tuwing huling Huwebes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>tuwing unang Biyernes</item>
+        <item>tuwing ikalawang Biyernes</item>
+        <item>tuwing ikatlong Biyernes</item>
+        <item>tuwing ikaapat na Biyernes</item>
+        <item>tuwing huling Biyernes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>tuwing unang Sabado</item>
+        <item>tuwing ikalawang Sabado</item>
+        <item>tuwing ikatlong Sabado</item>
+        <item>tuwing ikaapat na Sabado</item>
+        <item>tuwing huling Sabado</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Mahuhuli nang ilang minuto lang.</item>
+        <item>Darating na sa loob ng mga 10 minuto.</item>
+        <item>Magsimula na kayo nang wala ako.</item>
+        <item>Paumanhin, hindi ako makakapunta. Kakailanganin nating mag-reschedule.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australian Central - NT</item>
+        <item>Australian Central - SA</item>
+        <item>Australian Eastern - QLD</item>
+        <item>Australian Eastern - NSW</item>
+        <item>Mountain Standard - Dawson Creek</item>
+        <item>Central Standard - Saskatchewan</item>
+        <item>Eastern Standard - Atikokan</item>
+        <item>Atlantic Standard - Quebec</item>
+        <item>Hawaii-Aleutian - Hawaii</item>
+        <item>Hawaii-Aleutian - Alaska</item>
+        <item>Pacific Standard - Metlakatla</item>
+        <item>Mountain Standard - Arizona</item>
+        <item>Pacific - Baja California</item>
+        <item>Mountain - Chihuahua</item>
+        <item>Central - Tamaulipas</item>
+        <item>Mountain - Sonora</item>
+        <item>East Africa Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>Eastern European Time</item>
+        <item>Kaliningrad Time</item>
+        <item>Amazon - Rondônia</item>
+        <item>Brasilia - Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Caribbean Netherlands</item>
+        <item>Curaçao</item>
+        <item>South Sudan</item>
+    </string-array>
+</resources>

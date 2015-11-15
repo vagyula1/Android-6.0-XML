@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>ا=أبيدجان</item>
+        <item>ا=أكرا</item>
+        <item>ا=أديس أبابا</item>
+        <item>ج=الجزائر</item>
+        <item>=بلانتيري</item>
+        <item>=برازافيل</item>
+        <item>ق=القاهرة</item>
+        <item>د=الدار البيضاء</item>
+        <item>=كوناكري</item>
+        <item>=داكار</item>
+        <item>=دار السلام</item>
+        <item>=جيبوتي</item>
+        <item>=فريتاون</item>
+        <item>=غابورون</item>
+        <item>=هراري</item>
+        <item>=جوهانسبرغ</item>
+        <item>=كامبالا</item>
+        <item>خ=الخرطوم</item>
+        <item>=كيغالي</item>
+        <item>=كينشاسا</item>
+        <item>=لاغوس</item>
+        <item>=ماسيرو</item>
+        <item>=مقديشو</item>
+        <item>=نيروبي</item>
+        <item>=ساو تومي</item>
+        <item>=تمبكتو</item>
+        <item>=طرابلس</item>
+        <item>=تونس</item>
+        <item>ا=أنكوريج</item>
+        <item>=مندوزا</item>
+        <item>ا=أروبا</item>
+        <item>ا=أسونسيون</item>
+        <item>=باربادوس</item>
+        <item>=بليز</item>
+        <item>=بوغوتا</item>
+        <item>=بوينس آيرس</item>
+        <item>=كانكون</item>
+        <item>=كاراكاس</item>
+        <item>=جزر كايمان</item>
+        <item>=شيكاغو</item>
+        <item>=كوستا ريكا</item>
+        <item>=كوراساو</item>
+        <item>=داوسون كريك</item>
+        <item>=دنفر</item>
+        <item>=ديترويت</item>
+        <item>د=الدومينيكا</item>
+        <item>ا=ادمنتون</item>
+        <item>س=السلفادور</item>
+        <item>=فورتاليزا</item>
+        <item>=غراند ترك</item>
+        <item>=غرينادا</item>
+        <item>=غواتيمالا</item>
+        <item>=غيانا</item>
+        <item>=هاليفاكس</item>
+        <item>=هافانا</item>
+        <item>ا=إنديانابوليس</item>
+        <item>=نوكس</item>
+        <item>=مارينغو</item>
+        <item>=بطرسبورغ</item>
+        <item>=تل سيتي</item>
+        <item>=فيفاي</item>
+        <item>=فينسينس</item>
+        <item>=ويناماك</item>
+        <item>=كينغستون</item>
+        <item>=نوسترا سينورا دي لاباز</item>
+        <item>=ليما</item>
+        <item>=لوس أنجلوس</item>
+        <item>=لويفيل</item>
+        <item>=ماناغوا</item>
+        <item>=مارتينيك</item>
+        <item>=مندوزا</item>
+        <item>=ميتلاكاتلا</item>
+        <item>=مكسيكو سيتي</item>
+        <item>=مونتيري</item>
+        <item>=مونتيفيديو</item>
+        <item>=مونتريال</item>
+        <item>=ناساو</item>
+        <item>=نيويورك</item>
+        <item>=بيولا</item>
+        <item>=سنتر</item>
+        <item>=نيو سالم</item>
+        <item>=بنما</item>
+        <item>=فينيكس</item>
+        <item>=بورت أوف سبين</item>
+        <item>=بورت أو برنس</item>
+        <item>=بورتوريكو</item>
+        <item>=سانتو دومينغو</item>
+        <item>=ساو باولو</item>
+        <item>=سانت جونز</item>
+        <item>=سانت كيتس</item>
+        <item>=سانت لوسيا</item>
+        <item>=سانت توماس</item>
+        <item>=تيخوانا</item>
+        <item>=تورونتو</item>
+        <item>=فانكوفر</item>
+        <item>=وينيبيغ</item>
+        <item>ق=القطب الجنوبي</item>
+        <item>=لونغياربين</item>
+        <item>ا=ألماتي</item>
+        <item>=عمّان</item>
+        <item>ا=أنادير</item>
+        <item>ا=أكاتو</item>
+        <item>=بغداد</item>
+        <item>ب=البحرين</item>
+        <item>=باكو</item>
+        <item>=بانكوك</item>
+        <item>=بيروت</item>
+        <item>=كلكتا</item>
+        <item>=دمشق</item>
+        <item>=دكا</item>
+        <item>=دبي</item>
+        <item>=غزة</item>
+        <item>خ=الخليل</item>
+        <item>=هو تشي منه</item>
+        <item>=هونغ كونغ</item>
+        <item>ا=إسطنبول</item>
+        <item>=جاكرتا</item>
+        <item>ق=القدس</item>
+        <item>=كابول</item>
+        <item>=كراتشي</item>
+        <item>=كاتماندو</item>
+        <item>=كوالا لمبور</item>
+        <item>ك=الكويت</item>
+        <item>=ماكاو</item>
+        <item>=مانيلا</item>
+        <item>=مسقط</item>
+        <item>=بنوم بنه</item>
+        <item>=بيونغ يانغ</item>
+        <item>=قطر</item>
+        <item>=رانغون</item>
+        <item>ر=الرياض</item>
+        <item>=سايغون</item>
+        <item>=سيول</item>
+        <item>=شنغهاي</item>
+        <item>=سنغافورة</item>
+        <item>=تايبيه</item>
+        <item>=طهران</item>
+        <item>=تل أبيب</item>
+        <item>=طوكيو</item>
+        <item>ا=أولان باتور</item>
+        <item>=برمودا</item>
+        <item>ك=الكناري</item>
+        <item>ر=الرأس الأخضر</item>
+        <item>=ريكيافيك</item>
+        <item>=ستانلي</item>
+        <item>ا=أديليد</item>
+        <item>=بريسبان</item>
+        <item>=كانبرا</item>
+        <item>=داروين</item>
+        <item>=ملبورن</item>
+        <item>=نيو ساوث ويلز</item>
+        <item>=بيرث</item>
+        <item>=كوينزلاند</item>
+        <item>=سيدني</item>
+        <item>=فيكتوريا</item>
+        <item>=نيوفاوندلاند</item>
+        <item>=ساسكاتشوان</item>
+        <item>=جزيرة الفصح</item>
+        <item>ا=أمستردام</item>
+        <item>ا=أندورا</item>
+        <item>ا=أثينا</item>
+        <item>=بلفاست</item>
+        <item>=بلغراد</item>
+        <item>=برلين</item>
+        <item>=براتيسلافا</item>
+        <item>=بروكسل</item>
+        <item>=بوخارست</item>
+        <item>=بودابست</item>
+        <item>=كيشيناو</item>
+        <item>=كوبنهاغن</item>
+        <item>=دبلن</item>
+        <item>=جبل طارق</item>
+        <item>=هلسنكي</item>
+        <item>=جزيرة مان</item>
+        <item>ا=إسطنبول</item>
+        <item>=كييف</item>
+        <item>=لشبونة</item>
+        <item>=لندن</item>
+        <item>=لوكسمبورغ</item>
+        <item>=مدريد</item>
+        <item>=مالطا</item>
+        <item>=مينسك</item>
+        <item>=موناكو</item>
+        <item>=موسكو</item>
+        <item>ا=أوسلو</item>
+        <item>=باريس</item>
+        <item>=براغ</item>
+        <item>=ريغا</item>
+        <item>=روما</item>
+        <item>=سان مارينو</item>
+        <item>=سراييفو</item>
+        <item>=سيمفيروبول</item>
+        <item>=سكوبيه</item>
+        <item>=صوفيا</item>
+        <item>=ستوكهولم</item>
+        <item>=تالين</item>
+        <item>ف=الفاتيكان</item>
+        <item>=فيينا</item>
+        <item>=فيلنيوس</item>
+        <item>=وارسو</item>
+        <item>=زغرب</item>
+        <item>=زيورخ</item>
+        <item>ا=أنتاناناريفو</item>
+        <item>=جزر المالديف</item>
+        <item>=موريشيوس</item>
+        <item>ا=أوكلاند</item>
+        <item>=فيجي</item>
+        <item>=غوام</item>
+        <item>=هونولولو</item>
+        <item>=كيريتيماس</item>
+        <item>=نوميا</item>
+        <item>=ساموا</item>
+        <item>=تاهيتي</item>
+        <item>ا=أنتيغوا</item>
+        <item>ا=أوستن</item>
+        <item>=بوسطن</item>
+        <item>=كالغاري</item>
+        <item>=كولومبوس</item>
+        <item>=دالاس</item>
+        <item>=نوكسفيل</item>
+        <item>=ممفيس</item>
+        <item>=ميامي</item>
+        <item>=مينيابوليس</item>
+        <item>ا=أوتاوا</item>
+        <item>=فيلادلفيا</item>
+        <item>=بورتلاند</item>
+        <item>=سان دييغو</item>
+        <item>=سان فرانسيسكو</item>
+        <item>=سولت ليك سيتي</item>
+        <item>=سان خوسيه</item>
+        <item>=سان سلفادور</item>
+        <item>=سياتل</item>
+        <item>=سانت لويس</item>
+        <item>=واشنطن العاصمة</item>
+        <item>=هيوستن</item>
+        <item>=سان أنطونيو</item>
+        <item>=جاكسونفيل</item>
+        <item>=بالتيمور</item>
+        <item>=ناشفيل</item>
+        <item>=ميلووكي</item>
+        <item>ا=أوكلاهوما سيتي</item>
+        <item>=لاس فيغاس</item>
+        <item>ا=البوكيرك</item>
+        <item>=توسون</item>
+        <item>=ساكرامنتو</item>
+        <item>ا=أتلانتا</item>
+        <item>=كليفلاند</item>
+        <item>=نيو أورليانز</item>
+        <item>=تامبا</item>
+        <item>=بيتسبرغ</item>
+        <item>=سينسيناتي</item>
+        <item>=ماونتن فيو</item>
+        <item>=رينو</item>
+        <item>=بلاك روك سيتي</item>
+        <item>د=الدوحة</item>
+        <item>=بكين</item>
+        <item>=مومباي</item>
+        <item>=دلهي</item>
+        <item>ا=أوساكا</item>
+        <item>=لاهور</item>
+        <item>=صنعاء</item>
+        <item>=برشلونة</item>
+        <item>=ميونخ</item>
+        <item>=ميلان</item>
+        <item>=فرانكفورت</item>
+        <item>=هانوي</item>
+        <item>ا=أنقرة</item>
+        <item>=بنغالور</item>
+        <item>=برازيليا</item>
+        <item>=كيب تاون</item>
+        <item>ا=اسلام آباد</item>
+        <item>=ريو دي جانيرو</item>
+        <item>ا=آن أربور</item>
+        <item>=بولدر</item>
+        <item>=كامبريدج</item>
+        <item>=كيركلاند</item>
+        <item>=ماديسون</item>
+        <item>=ﻛﻮﺍﻧﻐﺘﺸﻮ</item>
+        <item>=حيدر آباد</item>
+        <item>=ريستون</item>
+        <item>=بيلو هوريزونتي</item>
+        <item>=سانتياغو</item>
+        <item>=مونروفيا</item>
+        <item>=كولمبو</item>
+        <item>=شيواوا</item>
+        <item>س=السلفادور</item>
+        <item>=جورجاون</item>
+        <item>=مانشستر</item>
+        <item>=كييف</item>
+        <item>=سانت بطرسبورغ</item>
+        <item>=كراكوف</item>
+        <item>=فروتسواف</item>
+        <item>=هامبورغ</item>
+        <item>ا=أولو</item>
+        <item>=حيفا</item>
+        <item>=سان خوان</item>
+        <item>=تيغوسيغالبا</item>
+        <item>=باراماريبو</item>
+        <item>=كيتو</item>
+        <item>=ليوبليانا</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>يتبقى أقل من دقيقة</item>
+        <item>تتبقى %1$s</item>
+        <item>تتبقى %2$s</item>
+        <item>تتبقى %1$s %2$s</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>تم ضبط المنبه على أقل من دقيقة واحدة من الآن.</item>
+        <item>تم ضبط المنبه على %1$s من الآن.</item>
+        <item>تم ضبط المنبه على %2$s من الآن.</item>
+        <item>تم ضبط المنبه على %1$s و%2$s من الآن.</item>
+        <item>تم ضبط المنبه على %3$s من الآن.</item>
+        <item>تم ضبط المنبه على %1$s و%3$s من الآن.</item>
+        <item>تم ضبط المنبه على %2$s و%3$s من الآن.</item>
+        <item>تم ضبط المنبه على %1$s و%2$s و%3$s من الآن.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>دقيقة واحدة</item>
+        <item>5 دقائق</item>
+        <item>10 دقائق</item>
+        <item>15 دقيقة</item>
+        <item>20 دقيقة</item>
+        <item>25 دقيقة</item>
+        <item>أبدًا</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>السبت</item>
+        <item>الأحد</item>
+        <item>الاثنين</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>غفوة</item>
+        <item>تجاهل</item>
+        <item>عدم إجراء شيء</item>
+    </string-array>
+    <string-array name="sw_lap_number_set">
+        <item>العدد %d</item>
+        <item>العدد %02d</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>يمكنك إجراء كل شيء بسرعة البرق.</item>
+        <item>استمتع بحصاد ثمار تعبك.</item>
+        <item>‏مشهور أن أجهزة Android سريعة، لكن ليس بسرعتك!</item>
+        <item>فو</item>
+        <item>‏L33t أوقات</item>
+        <item>هذه السرعة المذهلة.</item>
+        <item>هيا بنا نجري التحريف الزمني مرة أخرى.</item>
+        <item>الانتقال إلى اليمين.</item>
+        <item>لديك لوحة للإسراع.</item>
+        <item>السرعة الضوئية</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>تناظري</item>
+        <item>رقمي</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>جزر مارشال</item>
+        <item>جزيرة ميدواي</item>
+        <item>هاواي</item>
+        <item>ألاسكا</item>
+        <item>توقيت المحيط الهادي</item>
+        <item>تيغوانا</item>
+        <item>أريزونا</item>
+        <item>تشي هواوا</item>
+        <item>التوقيت الجبلي</item>
+        <item>أمريكا الوسطى</item>
+        <item>توقيت مركزي</item>
+        <item>مدينة مكسيكو</item>
+        <item>ساسكاتشوان</item>
+        <item>بوغوتا</item>
+        <item>توقيت شرقي</item>
+        <item>فنزويلا</item>
+        <item>توقيت المحيط الأطلسي (باربادوس)</item>
+        <item>توقيت المحيط الأطلسي (كندا)</item>
+        <item>مناويس</item>
+        <item>سانتياغو</item>
+        <item>نيوفاوندلاند</item>
+        <item>برازيليا</item>
+        <item>بوینس آیرس</item>
+        <item>غرينلاند</item>
+        <item>مونتيفيديو</item>
+        <item>إقليم الأطلسي الأوسط</item>
+        <item>الأزور</item>
+        <item>جزر الرأس الأخضر</item>
+        <item>الدار البيضاء</item>
+        <item>لندن، دبلن</item>
+        <item>أمستردام، برلين</item>
+        <item>بلغراد</item>
+        <item>بروكسل</item>
+        <item>سراييفو</item>
+        <item>ویندهوك</item>
+        <item>توقيت غرب إفريقيا</item>
+        <item>عمان، الأردن</item>
+        <item>أثينا، إسطنبول</item>
+        <item>بيروت، لبنان</item>
+        <item>القاهرة</item>
+        <item>هلسینكي</item>
+        <item>القدس</item>
+        <item>مینسك</item>
+        <item>هراري</item>
+        <item>بغداد</item>
+        <item>موسكو</item>
+        <item>الكويت</item>
+        <item>نیروبي</item>
+        <item>طهران</item>
+        <item>باكو</item>
+        <item>تبليسي</item>
+        <item>ایروان</item>
+        <item>دبي</item>
+        <item>كابول</item>
+        <item>إسلام أباد، كراتشي</item>
+        <item>أورالسك</item>
+        <item>يكاترينبورغ</item>
+        <item>كولكاتا</item>
+        <item>سريلانكا</item>
+        <item>كاثماندو</item>
+        <item>أستانا</item>
+        <item>يانغون</item>
+        <item>كراسنويارسك</item>
+        <item>بانكوك</item>
+        <item>بكين</item>
+        <item>هونج كونج</item>
+        <item>إركوتسك</item>
+        <item>كوالالامبور</item>
+        <item>بيرث</item>
+        <item>تایبي</item>
+        <item>سيول</item>
+        <item>طوكيو، أوساكا</item>
+        <item>ياكوتسك</item>
+        <item>أديليد</item>
+        <item>داروين</item>
+        <item>بريزبين</item>
+        <item>هوبارت</item>
+        <item>سيدني، كانبيرا</item>
+        <item>فلاديفوستوك</item>
+        <item>غوام</item>
+        <item>ماغادان</item>
+        <item>آكلاند</item>
+        <item>فيجي</item>
+        <item>تونغا</item>
+        <item>جاكارتا</item>
+    </string-array>
+</resources>

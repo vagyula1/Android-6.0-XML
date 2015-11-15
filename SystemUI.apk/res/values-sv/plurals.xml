@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d skärmar i översikten</item>
+        <item quantity="one">En skärm i översikten</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Du angav fel pinkod för SIM-kortet. %d försök återstår.</item>
+        <item quantity="one">Du angav fel pinkod för SIM-kortet. %d försök återstår innan du måste kontakta operatören för att låsa upp enheten.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Du angav fel PUK-kod för SIM-kortet. %d försök återstår innan SIM-kortet blir obrukbart.</item>
+        <item quantity="one">Du angav fel PUK-kod för SIM-kortet. %d försök återstår innan SIM-kortet blir obrukbart.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Enheten har inte låsts upp på %d timmar. Bekräfta det grafiska lösenordet.</item>
+        <item quantity="one">Enheten har inte låsts upp på %d timme. Bekräfta det grafiska lösenordet.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">Enheten har inte låsts upp på %d timmar. Bekräfta pinkoden.</item>
+        <item quantity="one">Enheten har inte låsts upp på %d timme. Bekräfta pinkoden.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Enheten har inte låsts upp på %d timmar. Bekräfta lösenordet.</item>
+        <item quantity="one">Enheten har inte låsts upp på %d timme. Bekräfta lösenordet.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Quản lý cuộc gọi điện thoại</string>
+    <string name="userCallActivityLabel">Điện thoại</string>
+    <string name="unknown">Không xác định</string>
+    <string name="notification_missedCallTitle">Cuộc gọi nhỡ</string>
+    <string name="notification_missedCallsTitle">Cuộc gọi nhỡ</string>
+    <string name="notification_missedCallsMsg">%s cuộc gọi nhỡ</string>
+    <string name="notification_missedCallTicker">Cuộc gọi nhỡ từ %s</string>
+    <string name="notification_missedCall_call_back">Gọi lại</string>
+    <string name="notification_missedCall_message">Tin nhắn</string>
+    <string name="accessibility_call_muted">Đã tắt tiếng cuộc gọi.</string>
+    <string name="accessibility_speakerphone_enabled">Đã bật loa ngoài.</string>
+    <string name="respond_via_sms_canned_response_1">Giờ tôi ko thể nói chuyện. Gì vậy?</string>
+    <string name="respond_via_sms_canned_response_2">Tôi sẽ gọi lại ngay.</string>
+    <string name="respond_via_sms_canned_response_3">Tôi sẽ gọi lại sau.</string>
+    <string name="respond_via_sms_canned_response_4">Giờ tôi ko thể nói chuyện. Gọi sau nhé?</string>
+    <string name="respond_via_sms_setting_title">Trả lời nhanh</string>
+    <string name="respond_via_sms_setting_title_2">Chỉnh sửa trả lời nhanh</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Trả lời nhanh</string>
+    <string name="respond_via_sms_confirmation_format">Đã gửi tin nhắn tới %s.</string>
+    <string name="enable_account_preference_title">Tài khoản gọi</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Chỉ chủ sở hữu thiết bị mới được phép thực hiện cuộc gọi khẩn cấp.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Ứng dụng này không thể thực hiện cuộc gọi đi mà không có quyền của Điện thoại.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Để thực hiện cuộc gọi, hãy nhập một số hợp lệ.</string>
+    <string name="duplicate_video_call_not_allowed">Không thể thêm cuộc gọi tại thời điểm này.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Vui lòng tắt Chế độ TTY để thực hiện cuộc gọi điện video.</string>
+    <string name="no_vm_number">Thiếu số thư thoại</string>
+    <string name="no_vm_number_msg">Không có số thư thoại nào được lưu trữ trên thẻ SIM.</string>
+    <string name="add_vm_number_str">Thêm số điện thoại</string>
+    <string name="change_default_dialer_dialog_title">Thay đổi ứng dụng Trình quay số mặc định?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Sử dụng %1$s làm ứng dụng trình quay số mặc định của bạn thay vì %2$s?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Sử dụng %s làm ứng dụng trình quay số mặc định của bạn?</string>
+</resources>

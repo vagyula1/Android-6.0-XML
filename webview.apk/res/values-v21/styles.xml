@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SelectActionMenuShare">
+        <item name="android:icon">?android:actionModeShareDrawable</item>
+    </style>
+    <style name="SelectActionMenuWebSearch">
+        <item name="android:icon">?android:actionModeWebSearchDrawable</item>
+    </style>
+</resources>

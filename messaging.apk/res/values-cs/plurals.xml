@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+        <item quantity="few">%d min</item>
+        <item quantity="many">%d min</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d hodin</item>
+        <item quantity="one">%d hodina</item>
+        <item quantity="few">%d hodiny</item>
+        <item quantity="many">%d hodiny</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d dnů</item>
+        <item quantity="one">%d den</item>
+        <item quantity="few">%d dny</item>
+        <item quantity="many">%d dne</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d týdnů</item>
+        <item quantity="one">jeden týden</item>
+        <item quantity="few">%d týdny</item>
+        <item quantity="many">%d týdne</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d měsíců</item>
+        <item quantity="one">jeden měsíc</item>
+        <item quantity="few">%d měsíce</item>
+        <item quantity="many">%d měsíce</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d let</item>
+        <item quantity="one">jeden rok</item>
+        <item quantity="few">%d roky</item>
+        <item quantity="many">%d roku</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">Počet zpráv v %1$d konverzacích: %2$d</item>
+        <item quantity="one">Počet zpráv v jedné konverzaci: %d</item>
+        <item quantity="few">Počet zpráv ve %1$d konverzacích: %2$d</item>
+        <item quantity="many">Počet zpráv v %1$d konverzace: %2$d</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">Počet zpráv v %1$d konverzacích: %2$d</item>
+        <item quantity="one">Počet zpráv v jedné konverzaci: %d</item>
+        <item quantity="few">Počet zpráv ve %1$d konverzacích: %2$d</item>
+        <item quantity="many">Počet zpráv v %1$d konverzace: %2$d</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d nových zpráv</item>
+        <item quantity="one">Nová zpráva</item>
+        <item quantity="few">%d nové zprávy</item>
+        <item quantity="many">%d nové zprávy</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">Smazat tyto konverzace?</item>
+        <item quantity="one">Smazat tuto konverzaci?</item>
+        <item quantity="few">Smazat tyto konverzace?</item>
+        <item quantity="many">Smazat tyto konverzace?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d účastníků</item>
+        <item quantity="one">%d účastník</item>
+        <item quantity="few">%d účastníci</item>
+        <item quantity="many">%d účastníka</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">Zahodit přílohy</item>
+        <item quantity="one">Zahodit přílohu</item>
+        <item quantity="few">Zahodit přílohy</item>
+        <item quantity="many">Zahodit přílohy</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d fotek bylo uloženo do alba %2$s.</item>
+        <item quantity="one">%1$d fotka byla uložena do alba %2$s.</item>
+        <item quantity="few">%1$d fotky byly uloženy do alba %2$s.</item>
+        <item quantity="many">%1$d fotky bylo uloženo do alba %2$s.</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d videí bylo uloženo do alba %2$s.</item>
+        <item quantity="one">%1$d video bylo uloženo do alba %2$s.</item>
+        <item quantity="few">%1$d videa byla uložena do alba %2$s.</item>
+        <item quantity="many">%1$d videa bylo uloženo do alba %2$s.</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d příloh bylo uloženo do alba %2$s.</item>
+        <item quantity="one">%1$d příloha byla uložena do alba %2$s.</item>
+        <item quantity="few">%1$d přílohy byly uloženy do alba %2$s.</item>
+        <item quantity="many">%1$d přílohy bylo uloženo do alba %2$s.</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d příloh bylo uloženo do složky stažených položek.</item>
+        <item quantity="one">%d příloha byla uložena do složky stažených položek.</item>
+        <item quantity="few">%d přílohy byly uloženy do složky stažených položek.</item>
+        <item quantity="many">%d přílohy bylo uloženo do složky stažených položek.</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">Uloženo %d příloh</item>
+        <item quantity="one">Uložena %d příloha</item>
+        <item quantity="few">Uloženy %d přílohy</item>
+        <item quantity="many">Uloženo %d přílohy</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">%d příloh se nepodařilo uložit</item>
+        <item quantity="one">%d přílohu se nepodařilo uložit</item>
+        <item quantity="few">%d přílohy se nepodařilo uložit</item>
+        <item quantity="many">%d přílohy se nepodařilo uložit</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">Odeslat fotky</item>
+        <item quantity="one">Odeslat fotku</item>
+        <item quantity="few">Odeslat fotky</item>
+        <item quantity="many">Odeslat fotky</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">Odeslat zvukové nahrávky</item>
+        <item quantity="one">Odeslat zvukovou nahrávku</item>
+        <item quantity="few">Odeslat zvukové nahrávky</item>
+        <item quantity="many">Odeslat zvukové nahrávky</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">Odeslat videa</item>
+        <item quantity="one">Odeslat video</item>
+        <item quantity="few">Odeslat videa</item>
+        <item quantity="many">Odeslat videa</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">Odeslat vizitky</item>
+        <item quantity="one">Odeslat vizitku</item>
+        <item quantity="few">Odeslat vizitky</item>
+        <item quantity="many">Odeslat vizitky</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">Odeslat přílohy</item>
+        <item quantity="one">Odeslat přílohu</item>
+        <item quantity="few">Odeslat přílohy</item>
+        <item quantity="many">Odeslat přílohy</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d příloh je připraveno k odeslání</item>
+        <item quantity="one">Jedna příloha je připravena k odeslání</item>
+        <item quantity="few">%d přílohy jsou připraveny k odeslání</item>
+        <item quantity="many">%d přílohy je připraveno k odeslání</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d kontaktů</item>
+        <item quantity="one">%d kontakt</item>
+        <item quantity="few">%d kontakty</item>
+        <item quantity="many">%d kontaktu</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">Neplatné kontakty</item>
+        <item quantity="one">Neplatný kontakt</item>
+        <item quantity="few">Neplatné kontakty</item>
+        <item quantity="many">Neplatné kontakty</item>
+    </plurals>
+</resources>

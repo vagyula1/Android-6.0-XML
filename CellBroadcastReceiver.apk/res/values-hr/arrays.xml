@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 sekunde</item>
+        <item>4 sekunde</item>
+        <item>6 sekundi</item>
+        <item>8 sekundi</item>
+        <item>10 sekundi</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>Jedanput</item>
+        <item>Svake 2 minute</item>
+        <item>Svakih 15 minuta</item>
+        <item>Isključeno</item>
+    </string-array>
+</resources>

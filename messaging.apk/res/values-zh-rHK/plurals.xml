@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d分鐘</item>
+        <item quantity="one">%d分鐘</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d小時</item>
+        <item quantity="one">%d小時</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d天</item>
+        <item quantity="one">%d天</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d個星期</item>
+        <item quantity="one">一個星期</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d個月</item>
+        <item quantity="one">一個月</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d年</item>
+        <item quantity="one">一年</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d個對話中的%2$d則訊息</item>
+        <item quantity="one">一個對話中的%d則訊息</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d個對話中的%2$d則訊息</item>
+        <item quantity="one">一個對話中的%d則訊息</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d 則新訊息</item>
+        <item quantity="one">新訊息</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">要刪除這些對話嗎？</item>
+        <item quantity="one">要刪除這個對話嗎？</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d位參加者</item>
+        <item quantity="one">%d位參加者</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">捨棄附件</item>
+        <item quantity="one">捨棄附件</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d 張相片已儲存至「%2$s」相簿</item>
+        <item quantity="one">%1$d 張相片已儲存至「%2$s」相簿</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d 部影片已儲存至「%2$s」相簿</item>
+        <item quantity="one">%1$d 部影片已儲存至「%2$s」相簿</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d 個附件已儲存至「%2$s」相簿</item>
+        <item quantity="one">%1$d 個附件已儲存至「%2$s」相簿</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d 個附件已儲存至「下載」</item>
+        <item quantity="one">%d 個附件已儲存至「下載」</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">已儲存%d個附件</item>
+        <item quantity="one">已儲存%d個附件</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">無法儲存%d個附件</item>
+        <item quantity="one">無法儲存%d個附件</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">傳送相片</item>
+        <item quantity="one">傳送相片</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">傳送音效檔案</item>
+        <item quantity="one">傳送音效檔案</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">傳送影片</item>
+        <item quantity="one">傳送影片</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">傳送聯絡資料</item>
+        <item quantity="one">傳送聯絡資料</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">傳送附件</item>
+        <item quantity="one">傳送附件</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d個附件正等待傳送</item>
+        <item quantity="one">一個附件正等待傳送</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d 個聯絡人</item>
+        <item quantity="one">%d 個聯絡人</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">無效的聯絡人</item>
+        <item quantity="one">無效的聯絡人</item>
+    </plurals>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Javob berish</item>
+        <item>Barchasiga</item>
+        <item>Yo‘naltirish</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Yangiroq</item>
+        <item>Eskiroq</item>
+        <item>Suhbatlar ro‘yxati</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>O‘chirgandan so‘ng yangiroq suhbatni ko‘rsatish</item>
+        <item>O‘chirgandan so‘ng eskiroq suhbatni ko‘rsatish</item>
+        <item>O‘chirgandan so‘ng suhbatlar ro‘yxatini ko‘rsatish</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Xabar harakatlari doim ekranning yuqorisida ko‘rsatilsin</item>
+        <item>Xabar harakatlari faqat bo‘yiga rejimiga o‘tilganda ekranning yuqorisida ko‘rsatilsin</item>
+        <item>Xabar harakatlari xabar sarlavhasidan tashqarida ko‘rsatilmasin</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Har doim ko‘rsatilsin</item>
+        <item>Faqat bo‘yiga rejimida ko‘rsatilsin</item>
+        <item>Ko‘rsatilmasin</item>
+    </string-array>
+</resources>

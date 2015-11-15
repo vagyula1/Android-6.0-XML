@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Звукозаписувач</string>
+    <string name="record_your_message">Запишіть повідомл.</string>
+    <string name="message_recorded">Повідомл. записано</string>
+    <string name="review_message">Перегл. повідом.</string>
+    <string name="recording">Запис</string>
+    <string name="recording_stopped">Запис зупинено</string>
+    <string name="storage_is_full">"Пам'ять заповнена"</string>
+    <string name="max_length_reached">Досягнуто максим. довжини</string>
+    <string name="insert_sd_card">Підключіть пам’ять USB</string>
+    <string name="min_available">%d хв. доступно</string>
+    <string name="sec_available">%dсек. доступно</string>
+    <string name="accept">Готово</string>
+    <string name="discard">Відхилити</string>
+    <string name="button_ok">OK</string>
+    <string name="audio_db_artist_name">Ваші записи</string>
+    <string name="audio_db_album_name">Аудіозаписи</string>
+    <string name="audio_db_playlist_name">Мої записи</string>
+    <string name="error_sdcard_access">Неможливо отримати доступ до пам’яті USB.</string>
+    <string name="error_app_internal">Внутрішня помилка програми.</string>
+    <string name="error_mediadb_new_record">Не вдається зберегти записане аудіо.</string>
+</resources>

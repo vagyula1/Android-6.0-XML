@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Taslaklar</item>
+        <item quantity="one">Taslak</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Bu %1$d ileti dizisi silinsin mi?</item>
+        <item quantity="one">Bu ileti dizisi silinsin mi?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Bu %1$d ileti dizisi arşivlensin mi?</item>
+        <item quantity="one">Bu ileti dizisi arşivlensin mi?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Bu %1$d ileti silinsin mi?</item>
+        <item quantity="one">Bu ileti silinsin mi?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d ileti dizisinin yıldızı kaldırılıyor</item>
+        <item quantity="one">%1$d ileti dizisinin yıldızı kaldırılıyor</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ileti dizisi yoksayıldı</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ileti dizisi yoksayıldı</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ileti dizisi spam olarak bildirildi</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ileti dizisi spam olarak bildirildi</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ileti dizisinin spam olmadığı bildirildi</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ileti dizisinin spam olmadığı bildirildi</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ileti dizisi önemli değil olarak işaretlendi</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ileti dizisi önemli değil olarak işaretlendi</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ileti dizisi kimlik avı olarak bildirildi</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ileti dizisi kimlik avı olarak bildirildi</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ileti dizisi arşivlendi</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ileti dizisi arşivlendi</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ileti dizisi silindi</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ileti dizisi silindi</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Klasörler değişti</item>
+        <item quantity="one">Klasör değişti</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d yeni ileti</item>
+        <item quantity="one">%1$d yeni ileti</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Daha eski %1$d iletiye genişlet</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Daha eski %1$d iletiye genişletildi</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d tane okunmadı</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d yeni ileti</item>
+        <item quantity="one">%1$d yeni ileti</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d ileti kalıcı olarak silinecek.</item>
+        <item quantity="one">%1$d ileti kalıcı olarak silinecek.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d ileti</item>
+        <item quantity="one">%1$d ileti</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d ek</item>
+        <item quantity="one">%1$d ek</item>
+    </plurals>
+</resources>

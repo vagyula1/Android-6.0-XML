@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>A=Abidjan</item>
+        <item>A=Akkra</item>
+        <item>A=Addis-Abeba</item>
+        <item>J=Jazoir</item>
+        <item>B=Blantayr</item>
+        <item>B=Brazzavill</item>
+        <item>Q=Qohira</item>
+        <item>K=Kasablanka</item>
+        <item>K=Konakri</item>
+        <item>D=Dakar</item>
+        <item>D=Dor-us-Salom</item>
+        <item>J=Jibuti</item>
+        <item>F=Fritaun</item>
+        <item>G=Gaborone</item>
+        <item>X=Xarare</item>
+        <item>Y=Yoxannesburg</item>
+        <item>K=Kampala</item>
+        <item>X=Xartum</item>
+        <item>K=Kigali</item>
+        <item>K=Kinshasa</item>
+        <item>L=Lagos</item>
+        <item>M=Maseru</item>
+        <item>M=Mogadisho</item>
+        <item>N=Nayrobi</item>
+        <item>S=San-Tome</item>
+        <item>T=Timbuktu</item>
+        <item>T=Tripoli</item>
+        <item>T=Tunis</item>
+        <item>A=Ankorij</item>
+        <item>M=Mendosa</item>
+        <item>A=Aruba</item>
+        <item>A=Asunson</item>
+        <item>B=Barbados</item>
+        <item>B=Beliz</item>
+        <item>B=Bogota</item>
+        <item>B=Buenos-Ayres</item>
+        <item>K=Kankun</item>
+        <item>K=Karakas</item>
+        <item>K=Kayman orollari</item>
+        <item>Ch=Chikago</item>
+        <item>K=Kosta-Rika</item>
+        <item>K=Kyurasao</item>
+        <item>=Douson-Krik</item>
+        <item>D=Denver</item>
+        <item>D=Detroyt</item>
+        <item>D=Dominika</item>
+        <item>E=Edmonton</item>
+        <item>E=El-Salvador</item>
+        <item>F=Fortaleza</item>
+        <item>G=Grand-Turk oroli</item>
+        <item>G=Grenada</item>
+        <item>G=Gvatemala</item>
+        <item>G=Gayana</item>
+        <item>G=Galifaks</item>
+        <item>G=Gavana</item>
+        <item>I=Indianapolis</item>
+        <item>N=Noks</item>
+        <item>M=Marengo</item>
+        <item>P=Petersburg</item>
+        <item>T=Tell-Siti</item>
+        <item>V=Vevay</item>
+        <item>V=Vinsens</item>
+        <item>V=Vinamak</item>
+        <item>K=Kingston</item>
+        <item>N=Nuestra Senyora de La-Pas</item>
+        <item>L=Lima</item>
+        <item>L=Los-Anjeles</item>
+        <item>L=Luisvill</item>
+        <item>M=Managua</item>
+        <item>M=Martinika</item>
+        <item>M=Mendosa</item>
+        <item>M=Metlakatla</item>
+        <item>M=Mexiko</item>
+        <item>M=Monterrey</item>
+        <item>M=Montevideo</item>
+        <item>M=Monreal</item>
+        <item>N=Nassau</item>
+        <item>N=Nyu-York</item>
+        <item>B=Beula</item>
+        <item>S=Sentr</item>
+        <item>N=Nyu-Salem</item>
+        <item>P=Panama</item>
+        <item>F=Feniks</item>
+        <item>P=Port-of-Speyn</item>
+        <item>P=Port-o-Prens</item>
+        <item>P=Puerto-Riko</item>
+        <item>S=Santo-Domingo</item>
+        <item>S=San-Paulu</item>
+        <item>S=Sent-Jons</item>
+        <item>S=Sent-Kits</item>
+        <item>S=Sent-Lyusiya</item>
+        <item>S=Sent-Tomas</item>
+        <item>T=Tixuana</item>
+        <item>T=Toronto</item>
+        <item>V=Vankuver</item>
+        <item>V=Vinnipeg</item>
+        <item>J=Janubiy qutb</item>
+        <item>L=Longyir</item>
+        <item>O=Olma-Ota</item>
+        <item>A=Amman</item>
+        <item>A=Anadir</item>
+        <item>A=Aqtov</item>
+        <item>B=Bag‘dod</item>
+        <item>B=Bahrayn</item>
+        <item>B=Boku</item>
+        <item>B=Bangkok</item>
+        <item>B=Bayrut</item>
+        <item>K=Kalkutta</item>
+        <item>D=Damashq</item>
+        <item>D=Dakka</item>
+        <item>D=Dubay</item>
+        <item>G‘=G‘azo</item>
+        <item>H=Hebron</item>
+        <item>H=Hoshimin</item>
+        <item>G=Gonkong</item>
+        <item>I=Istanbul</item>
+        <item>J=Jakarta</item>
+        <item>Q=Quddus</item>
+        <item>Q=Qobul</item>
+        <item>K=Karachi</item>
+        <item>K=Katmandu</item>
+        <item>K=Kuala-Lumpur</item>
+        <item>Q=Quvayt</item>
+        <item>M=Makao</item>
+        <item>M=Manila</item>
+        <item>M=Maskat</item>
+        <item>P=Pnompen</item>
+        <item>P=Pxenyan</item>
+        <item>Q=Qatar</item>
+        <item>R=Rangun</item>
+        <item>A=Ar-Riyod</item>
+        <item>S=Saygon</item>
+        <item>S=Seul</item>
+        <item>Sh=Shanxay</item>
+        <item>S=Singapur</item>
+        <item>T=Taypey</item>
+        <item>T=Tehron</item>
+        <item>T=Tel-Aviv</item>
+        <item>T=Tokio</item>
+        <item>U=Ulanbator</item>
+        <item>B=Bermuda orollari</item>
+        <item>K=Kanar orollari</item>
+        <item>K=Kabo-Verde</item>
+        <item>R=Reykyavik</item>
+        <item>S=Stenli</item>
+        <item>A=Adelaida</item>
+        <item>B=Brisben</item>
+        <item>K=Kanberra</item>
+        <item>D=Darvin</item>
+        <item>M=Melburn</item>
+        <item>Y=Yangi Janubiy Uels</item>
+        <item>P=Pert</item>
+        <item>K=Kvinslend</item>
+        <item>S=Sidney</item>
+        <item>V=Viktoriya</item>
+        <item>N=Nyufaundlend</item>
+        <item>S=Saskachevan</item>
+        <item>P=Pasxa oroli</item>
+        <item>A=Amsterdam</item>
+        <item>A=Andorra</item>
+        <item>A=Afina</item>
+        <item>B=Belfast</item>
+        <item>B=Belgrad</item>
+        <item>B=Berlin</item>
+        <item>B=Bratislava</item>
+        <item>B=Brussel</item>
+        <item>B=Buxarest</item>
+        <item>B=Budapesht</item>
+        <item>K=Kishinyov</item>
+        <item>K=Kopengagen</item>
+        <item>D=Dublin</item>
+        <item>G=Gibraltar</item>
+        <item>X=Xelsinki</item>
+        <item>M=Men oroli</item>
+        <item>I=Istanbul</item>
+        <item>K=Kiyev</item>
+        <item>L=Lissabon</item>
+        <item>L=London</item>
+        <item>L=Lyuksemburg</item>
+        <item>M=Madrid</item>
+        <item>M=Malta</item>
+        <item>M=Minsk</item>
+        <item>M=Monako</item>
+        <item>M=Moskva</item>
+        <item>O=Oslo</item>
+        <item>P=Parij</item>
+        <item>P=Praga</item>
+        <item>R=Riga</item>
+        <item>R=Rim</item>
+        <item>S=San-Marino</item>
+        <item>S=Sarayevo</item>
+        <item>S=Simferopol</item>
+        <item>S=Skopye</item>
+        <item>S=Sofiya</item>
+        <item>S=Stokgolm</item>
+        <item>T=Tallin</item>
+        <item>V=Vatikan</item>
+        <item>V=Vena</item>
+        <item>V=Vilnyus</item>
+        <item>V=Varshava</item>
+        <item>Z=Zagreb</item>
+        <item>S=Syurix</item>
+        <item>A=Antananarivu</item>
+        <item>M=Maldiv orollari</item>
+        <item>M=Mavrikiy</item>
+        <item>O=Oklend</item>
+        <item>F=Fiji</item>
+        <item>G=Guam</item>
+        <item>G=Gonolulu</item>
+        <item>K=Kiritimati</item>
+        <item>N=Numea</item>
+        <item>S=Samoa</item>
+        <item>T=Taiti</item>
+        <item>A=Antigua</item>
+        <item>O=Ostin</item>
+        <item>B=Boston</item>
+        <item>K=Kalgari</item>
+        <item>K=Kolumbus</item>
+        <item>D=Dallas</item>
+        <item>N=Noksvill</item>
+        <item>M=Memfis</item>
+        <item>M=Mayami</item>
+        <item>M=Minneapolis</item>
+        <item>O=Ottava</item>
+        <item>F=Filadelfiya</item>
+        <item>P=Portlend</item>
+        <item>S=San-Diyego</item>
+        <item>S=San-Fransisko</item>
+        <item>S=Solt-Leyk-Siti</item>
+        <item>S=San-Xose</item>
+        <item>S=San-Salvador</item>
+        <item>S=Sietl</item>
+        <item>S=Sent-Luis</item>
+        <item>V=Vashington (Kolumbiya okrugi)</item>
+        <item>X=Xyuston</item>
+        <item>S=San-Antonio</item>
+        <item>J=Jeksonvill</item>
+        <item>B=Baltimor</item>
+        <item>N=Neshvill</item>
+        <item>M=Miluoki</item>
+        <item>O=Oklaxoma-Siti</item>
+        <item>L=Las-Vegas</item>
+        <item>A=Albukerke</item>
+        <item>T=Tuson</item>
+        <item>S=Sakramento</item>
+        <item>A=Atlanta</item>
+        <item>K=Klivlend</item>
+        <item>Y=Yangi Orlean</item>
+        <item>T=Tampa</item>
+        <item>P=Pitsburg</item>
+        <item>S=Sinsinatti</item>
+        <item>M=Mauntin-Vyu</item>
+        <item>R=Rino</item>
+        <item>B=Blek-Rok-Siti</item>
+        <item>D=Doha</item>
+        <item>P=Pekin</item>
+        <item>M=Mumbay</item>
+        <item>D=Dehli</item>
+        <item>O=Osaka</item>
+        <item>L=Lahor</item>
+        <item>S=Sana</item>
+        <item>B=Barselona</item>
+        <item>M=Myunxen</item>
+        <item>M=Milan</item>
+        <item>F=Frankfurt</item>
+        <item>X=Xanoy</item>
+        <item>A=Anqara</item>
+        <item>B=Bangalor</item>
+        <item>B=Brazilia</item>
+        <item>K=Keyptaun</item>
+        <item>I=Islomobod</item>
+        <item>R=Rio-de-Janeyro</item>
+        <item>A=Ann-Arbor</item>
+        <item>B=Boulder</item>
+        <item>K=Kembrij</item>
+        <item>K=Kirklend</item>
+        <item>M=Medison</item>
+        <item>G=Guanjou</item>
+        <item>H=Haydarobod</item>
+        <item>R=Reston</item>
+        <item>B=Belu-Orizonti</item>
+        <item>S=Santyago</item>
+        <item>M=Monroviya</item>
+        <item>K=Kolombo</item>
+        <item>Ch=Chixuaxua</item>
+        <item>S=Salvador</item>
+        <item>G=Gurgaon</item>
+        <item>M=Manchester</item>
+        <item>K=Kiyev</item>
+        <item>S=Sankt-Peterburg</item>
+        <item>K=Krakov</item>
+        <item>V=Vrotslav</item>
+        <item>G=Gamburg</item>
+        <item>O=Oulu</item>
+        <item>X=Xayfa</item>
+        <item>S=San-Xuan</item>
+        <item>T=Tegusigalpa</item>
+        <item>P=Paramaribo</item>
+        <item>K=Kito</item>
+        <item>L=Lyublyana</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>Bir daqiqadan kamroq qoldi</item>
+        <item>%1$s qoldi</item>
+        <item>%2$s qoldi</item>
+        <item>%1$s %2$s qoldi</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Uyg‘otkich signali 1 daqiqa ichida chalinadi.</item>
+        <item>Uyg‘otkich signali %1$sdan so‘ng chalinadi.</item>
+        <item>Uyg‘otkich signali %2$sdan so‘ng chalinadi.</item>
+        <item>Uyg‘otkich signali %1$s %2$sdan so‘ng chalinadi.</item>
+        <item>Uyg‘otkich signali %3$sdan so‘ng chalinadi.</item>
+        <item>Uyg‘otkich signali %1$s %3$sdan so‘ng chalinadi.</item>
+        <item>Uyg‘otkich %2$su %3$sdan so‘ng chalinadi.</item>
+        <item>Uyg‘otkich signali %1$s %2$s %3$sdan so‘ng chalinadi.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>1 daqiqa</item>
+        <item>5 daqiqa</item>
+        <item>10 daqiqa</item>
+        <item>15 daqiqa</item>
+        <item>20 daqiqa</item>
+        <item>25 daqiqa</item>
+        <item>Hech qachon</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>Shanba</item>
+        <item>Yakshanba</item>
+        <item>Dushanba</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Qoldirish</item>
+        <item>O‘chirish</item>
+        <item>Hech narsa</item>
+    </string-array>
+    <string-array name="sw_lap_number_set">
+        <item>\#%d</item>
+        <item>\#%02d</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>Siz haqiqatdan ham Shumaxer ekansiz!</item>
+        <item>Siz juda yaxshi mehnat qildingiz.</item>
+        <item>Siz Androiddan ham tezkor ekansiz!</item>
+        <item>Uff!</item>
+        <item>L33t marta.</item>
+        <item>Mana buni tezlik desa bo‘ladi!</item>
+        <item>Vaqtdan og‘ish – shu bizga kerak!</item>
+        <item>Chapga sakrash.</item>
+        <item>Siz vaqtingizni behuda sarflamas ekansiz.</item>
+        <item>Yorug‘likdan ham tezroq.</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>Soat mili</item>
+        <item>Raqamli</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Marshall orollari</item>
+        <item>Midvey oroli</item>
+        <item>Gavayi</item>
+        <item>Alyaska</item>
+        <item>Tinch okeani vaqti</item>
+        <item>Tixuana</item>
+        <item>Arizona</item>
+        <item>Chixuaxua</item>
+        <item>Tog‘ vaqti (AQSH)</item>
+        <item>Markaziy Amerika</item>
+        <item>Markaziy vaqt</item>
+        <item>Mexiko</item>
+        <item>Saskachevan</item>
+        <item>Bogota</item>
+        <item>Sharqiy vaqt</item>
+        <item>Venesuela</item>
+        <item>Atlantika vaqti (Barbados)</item>
+        <item>Atlantika vaqti (Kanada)</item>
+        <item>Manaus</item>
+        <item>Santyago</item>
+        <item>Nyufaundlend</item>
+        <item>Brazilia</item>
+        <item>Buenos-Ayres</item>
+        <item>Grenlandiya</item>
+        <item>Montevideo</item>
+        <item>Markaziy Atlantika vaqti</item>
+        <item>Azor orollari</item>
+        <item>Kabo-Verde orollari</item>
+        <item>Kasablanka</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrad</item>
+        <item>Bryussel</item>
+        <item>Sarayevo</item>
+        <item>Vindxuk</item>
+        <item>G‘arbiy Afrika vaqti</item>
+        <item>Amman, Iordaniya</item>
+        <item>Afina, Istanbul</item>
+        <item>Bayrut, Livan</item>
+        <item>Qohira</item>
+        <item>Xelsinki</item>
+        <item>Quddus</item>
+        <item>Minsk</item>
+        <item>Xarare</item>
+        <item>Bag‘dod</item>
+        <item>Moskva</item>
+        <item>Quvayt</item>
+        <item>Nayrobi</item>
+        <item>Tehron</item>
+        <item>Boku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubay</item>
+        <item>Qobul</item>
+        <item>Islomobod, Karachi</item>
+        <item>Uralsk</item>
+        <item>Yekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Shri-Lanka</item>
+        <item>Katmandu</item>
+        <item>Ostona</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Pekin</item>
+        <item>Gonkong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Pert</item>
+        <item>Taypey</item>
+        <item>Seul</item>
+        <item>Tokio, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaida</item>
+        <item>Darvin</item>
+        <item>Brisben</item>
+        <item>Xobart</item>
+        <item>Sidney, Kanberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Oklend</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+        <item>Jakarta</item>
+    </string-array>
+</resources>

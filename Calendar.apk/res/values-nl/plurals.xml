@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d minuten</item>
+        <item quantity="one">1 minuut</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">1 min.</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">1 uur</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d dagen</item>
+        <item quantity="one">1 dag</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">WEEK %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d keer</item>
+        <item quantity="one">; één keer</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Elke %d dagen</item>
+        <item quantity="one">Dagelijks</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Elke %1$d weken op %2$s</item>
+        <item quantity="one">Wekelijks op %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d afspraken</item>
+        <item quantity="one">1 afspraak</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d afspraken</item>
+        <item quantity="one">+1 afspraak</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Elke %d dagen</item>
+        <item quantity="one">Elke %d dag</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Elke %d weken</item>
+        <item quantity="one">Elke %d week</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Elke %d maanden</item>
+        <item quantity="one">Elke %d maand</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Elke %d jaar</item>
+        <item quantity="one">Elk %d jaar</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Voor %d evenementen</item>
+        <item quantity="one">Voor %d afspraak</item>
+    </plurals>
+</resources>

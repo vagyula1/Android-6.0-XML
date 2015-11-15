@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>sans objet</item>
+        <item>aucun objet</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Oui</item>
+        <item>Non</item>
+        <item>OK</item>
+        <item>Hé hé</item>
+        <item>Merci</item>
+        <item>"J'accepte"</item>
+        <item>Bien</item>
+        <item>En chemin</item>
+        <item>OK, je te réponds plus tard</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

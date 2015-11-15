@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">ניהול תיקיות</string>
+    <string name="add_cc_label">+ עותק/עותק מוסתר</string>
+    <string name="add_bcc_label">+ עותק מוסתר</string>
+    <string name="preferences_default_reply_all_summary">השתמש כברירת מחדל עבור תשובות להודעות בדבר כניסת הודעות</string>
+</resources>

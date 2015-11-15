@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Ջնջե՞լ ընտրված տարրերը</item>
+        <item quantity="one">Ջնջե՞լ ընտրված նյութը:</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d ընտրված</item>
+        <item quantity="zero">%1$d ընտրված</item>
+        <item quantity="one">%1$d ընտրված</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">%1$d ընտրված</item>
+        <item quantity="zero">%1$d ընտրված</item>
+        <item quantity="one">%1$d ընտրված</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">%1$d ընտրված</item>
+        <item quantity="zero">%1$d ընտրված</item>
+        <item quantity="one">%1$d ընտրված</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Ալբոմները հասանելի դարձնել անցանց:</item>
+        <item quantity="one">Ալբոմը հասանելի դարձնել անցանց:</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d տարր սկանավորվել են</item>
+        <item quantity="zero">%1$d նյութ սկանավորվել է</item>
+        <item quantity="one">%1$d նյութ սկանավորվել է</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">%d վայրկյան</item>
+        <item quantity="one">1 վայրկյան</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">%1$d լուսանկար</item>
+        <item quantity="one">%1$d լուսանկար</item>
+    </plurals>
+</resources>

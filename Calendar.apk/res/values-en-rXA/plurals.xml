@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">[%d ḿîñûţéš one two]</item>
+        <item quantity="one">[1 ḿîñûţé one two]</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">[%d ḿîñš one]</item>
+        <item quantity="one">[1 ḿîñ one]</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">[%d ĥöûŕš one two]</item>
+        <item quantity="one">[1 ĥöûŕ one two]</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">[%d ðåýš one]</item>
+        <item quantity="one">[1 ðåý one]</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">[ŴÉÉĶ %d one]</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">[; ƒöŕ %d ţîḿéš one two]</item>
+        <item quantity="one">[; ƒöŕ öñé ţîḿé one two three]</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">[ÉVéŕý %d ðåýš one two]</item>
+        <item quantity="one">[Ðåîļý one]</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">[ÉVéŕý %1$d ŵééķš öñ %2$s one two three]</item>
+        <item quantity="one">[Ŵééķļý öñ %2$s one two]</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">[+%d one]</item>
+        <item quantity="one">[+1 one]</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">[%d éVéñţš one two]</item>
+        <item quantity="one">[1 éVéñţ one two]</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">[+%d éVéñţš one two]</item>
+        <item quantity="one">[+1 éVéñţ one two]</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">[ÉVéŕý %d ðåýš one two]</item>
+        <item quantity="one">[ÉVéŕý %d ðåý one two]</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">[ÉVéŕý %d ŵééķš one two]</item>
+        <item quantity="one">[ÉVéŕý %d ŵééķ one two]</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">[ÉVéŕý %d ḿöñţĥš one two]</item>
+        <item quantity="one">[ÉVéŕý %d ḿöñţĥ one two]</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">[ÉVéŕý %d ýéåŕš one two]</item>
+        <item quantity="one">[ÉVéŕý %d ýéåŕ one two]</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">[Föŕ %d éVéñţš one two]</item>
+        <item quantity="one">[Föŕ %d éVéñţ one two]</item>
+    </plurals>
+</resources>

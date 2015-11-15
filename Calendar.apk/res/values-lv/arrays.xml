@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Paziņojums</item>
+        <item>E-pasts</item>
+        <item>Īsziņa</item>
+        <item>Signāls</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 minūšu</item>
+        <item>1 minūte</item>
+        <item>5 minūtes</item>
+        <item>10 minūtes</item>
+        <item>15 minūtes</item>
+        <item>20 minūtes</item>
+        <item>25 minūtes</item>
+        <item>30 minūtes</item>
+        <item>45 minūtes</item>
+        <item>1 stunda</item>
+        <item>2 stundas</item>
+        <item>3 stundas</item>
+        <item>12 stundas</item>
+        <item>24 stundas</item>
+        <item>2 dienas</item>
+        <item>1 nedēļa</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Nav</item>
+        <item>0 minūšu</item>
+        <item>1 minūte</item>
+        <item>5 minūtes</item>
+        <item>10 minūtes</item>
+        <item>15 minūtes</item>
+        <item>20 minūtes</item>
+        <item>25 minūtes</item>
+        <item>30 minūtes</item>
+        <item>45 minūtes</item>
+        <item>1 stunda</item>
+        <item>2 stundas</item>
+        <item>3 stundas</item>
+        <item>12 stundas</item>
+        <item>24 stundas</item>
+        <item>2 dienas</item>
+        <item>1 nedēļa</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Lokalizācijas noklusējums</item>
+        <item>Sestdiena</item>
+        <item>Svētdiena</item>
+        <item>Pirmdiena</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Aizņemts</item>
+        <item>Pieejams</item>
+        <item>Pagaidu</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Noklusējums</item>
+        <item>Privāts</item>
+        <item>Publisks</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>pirmā</item>
+        <item>otrā</item>
+        <item>trešā</item>
+        <item>ceturtā</item>
+        <item>pēdējā</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Nav atbildes</item>
+        <item>Jā</item>
+        <item>Varbūt</item>
+        <item>Nē</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Tikai šo pasākumu</item>
+        <item>Šis un nākamie pasākumi</item>
+        <item>Visus pasākumus</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Šo un nākamos pasākumus</item>
+        <item>Visus pasākumus</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Tikai šis pasākums</item>
+        <item>Visus virknes pasākumus</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Diena</item>
+        <item>Nedēļa</item>
+        <item>Mēnesis</item>
+        <item>Darba kārtība</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Tikai tad, ja tiek noraidīti</item>
+        <item>Ja tiek noraidīti vai ignorēti</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>ATKĀRTOT KATRU DIENU</item>
+        <item>ATKĀRTOT KATRU NED.</item>
+        <item>ATKĀRTOT KATRU MĒN.</item>
+        <item>ATKĀRTOT KATRU GADU</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>katra mēneša pirmajā svētdienā</item>
+        <item>katra mēneša otrajā svētdienā</item>
+        <item>katra mēneša trešajā svētdienā</item>
+        <item>katra mēn. ceturtajā svētdienā</item>
+        <item>katra mēneša pēdējā svētdienā</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>katra mēneša pirmajā pirmdienā</item>
+        <item>katra mēneša otrajā pirmdienā</item>
+        <item>katra mēneša trešajā pirmdienā</item>
+        <item>katra mēn. ceturtajā pirmdienā</item>
+        <item>katra mēneša pēdējā pirmdienā</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>katra mēneša pirmajā otrdienā</item>
+        <item>katra mēneša otrajā otrdienā</item>
+        <item>katra mēneša trešajā otrdienā</item>
+        <item>katra mēn. ceturtajā otrdienā</item>
+        <item>katra mēneša pēdējā otrdienā</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>katra mēneša pirmajā trešdienā</item>
+        <item>katra mēneša otrajā trešdienā</item>
+        <item>katra mēneša trešajā trešdienā</item>
+        <item>katra mēn. ceturtajā trešdienā</item>
+        <item>katra mēneša pēdējā trešdienā</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>katra mēn. pirmajā ceturtdienā</item>
+        <item>katra mēn. otrajā ceturtdienā</item>
+        <item>katra mēn. trešajā ceturtdienā</item>
+        <item>katra mēn. ceturt. ceturtdienā</item>
+        <item>katra mēn. pēdējā ceturtdienā</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>katra mēn. pirmajā piektdienā</item>
+        <item>katra mēneša otrajā piektdienā</item>
+        <item>katra mēn. trešajā piektdienā</item>
+        <item>katra mēn. ceturt. piektdienā</item>
+        <item>katra mēneša pēdējā piektdienā</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>katra mēneša pirmajā sestdienā</item>
+        <item>katra mēneša otrajā sestdienā</item>
+        <item>katra mēneša trešajā sestdienā</item>
+        <item>katra mēn. ceturtajā sestdienā</item>
+        <item>katra mēneša pēdējā sestdienā</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Kavēšu dažas minūtes.</item>
+        <item>Būšu pēc aptuveni 10 minūtēm.</item>
+        <item>Sāciet bez manis.</item>
+        <item>Diemžēl nevarēšu ierasties, pasākumu vajadzēs pārcelt.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Austrālijas centr. laiks — NT</item>
+        <item>Austrālijas centr. laiks — SA</item>
+        <item>Austrālijas austrumu laiks — QLD</item>
+        <item>Austrālijas austrumu laiks — NSW</item>
+        <item>Kalnu r. st. laiks — Dousonkrīka</item>
+        <item>Centr. st. laiks — Saskačevana</item>
+        <item>Austrumu standarta laiks — Atikokana</item>
+        <item>Atlantijas standarta laiks — Kvebeka</item>
+        <item>Havaju–Aleutu laiks — Havajas</item>
+        <item>Havaju–Aleutu laiks — Aļaska</item>
+        <item>Klusā ok. st. laiks — Metlakatla</item>
+        <item>Kalnu rajona st. laiks — Arizona</item>
+        <item>Klusā ok. l. — Lejaskalifornija</item>
+        <item>Kalnu rajona laiks — Čivava</item>
+        <item>Centrālais laiks — Tamaulipasa</item>
+        <item>Kalnu rajona laiks — Sonora</item>
+        <item>Austrumāfrikas laiks</item>
+        <item>Atlantijas standarta laiks</item>
+        <item>Atlantijas standarta laiks</item>
+        <item>Austrumeiropas laiks</item>
+        <item>Kaļiņingradas laiks</item>
+        <item>Amazone — Rondonija</item>
+        <item>Brazilja — Para</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sintmārtena</item>
+        <item>Nīderlandes Karību salas</item>
+        <item>Kirasao</item>
+        <item>Dienvidsudāna</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Знайдено %d</item>
+        <item quantity="one">Знайдено %d</item>
+        <item quantity="few">Знайдено %d</item>
+        <item quantity="many">Знайдено %d</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">%d секунда</item>
+        <item quantity="few">%d секунди</item>
+        <item quantity="many">%d секунд</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d хвилини</item>
+        <item quantity="one">%d хвилина</item>
+        <item quantity="few">%d хвилини</item>
+        <item quantity="many">%d хвилин</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d години</item>
+        <item quantity="one">%d година</item>
+        <item quantity="few">%d години</item>
+        <item quantity="many">%d годин</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d голосових повідомлень</item>
+        <item quantity="one">%1$d голосове повідомлення</item>
+        <item quantity="few">%1$d голосові повідомлення</item>
+        <item quantity="many">%1$d голосових повідомлень</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d нового повідомлення голосової пошти</item>
+        <item quantity="one">%d нове повідомлення голосової пошти</item>
+        <item quantity="few">%d нові повідомлення голосової пошти</item>
+        <item quantity="many">%d нових повідомлень голосової пошти</item>
+    </plurals>
+</resources>

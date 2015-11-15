@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>geen onderwerp</item>
+        <item>geenonderwerp</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Ja</item>
+        <item>Nee</item>
+        <item>OK</item>
+        <item>Haha</item>
+        <item>Hartelijk dank</item>
+        <item>Ik ga akkoord</item>
+        <item>Mooi</item>
+        <item>Ik ben onderweg</item>
+        <item>Hier kom ik later op terug</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

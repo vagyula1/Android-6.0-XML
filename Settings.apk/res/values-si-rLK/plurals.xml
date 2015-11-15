@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">ඔබට දැන් සංවර්ධකයකු වීමට ඇත්තේ පියවර %1$d කි.</item>
+        <item quantity="one">ඔබට දැන් සංවර්ධකයකු වීමට ඇත්තේ පියවර %1$d කි.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">ඇඟිලි සලකුණු පිහිටුවීම් %1$d</item>
+        <item quantity="one">ඇඟිලි සලකුණු පිහිටුවීම් %1$d</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">මුරපදයෙහි අඩුම තරමේ අකුරු %d ක් වත් තිබිය යුතුය.</item>
+        <item quantity="one">මුරපදයෙහි අඩුම තරමේ අකුරු %d ක් වත් තිබිය යුතුය.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">මුරපදයෙහි අඩුම තරමේ කුඩා අකුරු %d ක් වත් තිබිය යුතුය.</item>
+        <item quantity="one">මුරපදයෙහි අඩුම තරමේ කුඩා අකුරු %d ක් වත් තිබිය යුතුය.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">මුරපදයෙහි අඩුම තරමේ ලොකු අකුරු %d ක් වත් තිබිය යුතුය.</item>
+        <item quantity="one">මුරපදයෙහි අඩුම තරමේ ලොකු අකුරු %d ක් වත් තිබිය යුතුය.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">මුරපදයෙහි අඩුම තරමේ ඉලක්කම් %d ක් වත් තිබිය යුතුය.</item>
+        <item quantity="one">මුරපදයෙහි අඩුම තරමේ ඉලක්කම් %d ක් වත් තිබිය යුතුය.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">මුරපදයෙහි අඩුම තරමේ විශේෂ සංකේත %d ක් වත් අඩංගු විය යුතුය.</item>
+        <item quantity="one">මුරපදයෙහි අඩුම තරමේ විශේෂ සංකේත %d ක් වත් අඩංගු විය යුතුය.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">මුරපදයෙහි අඩුම තරමේ අකුරක් නොවන අක්ෂර %d ක් වත් තිබිය යුතුය.</item>
+        <item quantity="one">මුරපදයෙහි අඩුම තරමේ අකුරක් නොවන අක්ෂර %d ක් වත් තිබිය යුතුය.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">වැරදී SIM PIN කේතයකි, ඔබගේ දුරකථනයේ අඟුල හැරීමට ඔබගේ වාහකයා සම්බන්ධ කරගැනීමට පෙර ඔබ සතුව තවත් උත්සාහයන් %d ක් ඉතිරිව ඇත.</item>
+        <item quantity="one">වැරදී SIM PIN කේතයකි, ඔබගේ දුරකථනයේ අඟුල හැරීමට ඔබගේ වාහකයා සම්බන්ධ කරගැනීමට පෙර ඔබ සතුව තවත් උත්සාහයන් %d ක් ඉතිරිව ඇත.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">යෙදුම් %d කට දැනුම්දීම් කියවිය හැක</item>
+        <item quantity="one">යෙදුම් %d කට දැනුම්දීම් කියවිය හැක</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">මිනිත්තු %1$d ක් සඳහා සීනු පමණක් වෙත මාරු වෙන්න (%2$s තෙක්)</item>
+        <item quantity="one">මිනිත්තු %1$d ක් සඳහා සීනු පමණක් වෙත මාරු වෙන්න (%2$s තෙක්)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">%2$s තෙක් පැය %1$d ක් සඳහා සීනු පමණක් වෙත මාරු වෙන්න</item>
+        <item quantity="one">%2$s තෙක් පැය %1$d ක් සඳහා සීනු පමණක් වෙත මාරු වෙන්න</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d අවසර ලබාදෙන ලදි</item>
+        <item quantity="one">%d අවසර ලබාදෙන ලදි</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">අවසර %1$d න් %2$d ක් ලබා දෙන ලදී</item>
+        <item quantity="one">අවසර %1$d න් %2$d ක් ලබා දෙන ලදී</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">අමතර අවසර %d</item>
+        <item quantity="one">අමතර අවසර %d</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">යෙදුම් %d කට ඒවායේ සහය දක්වන සබැඳි විවෘත කළ හැක</item>
+        <item quantity="one">යෙදුම් %d කට ඒවායේ සහය දක්වන සබැඳි විවෘත කළ හැක</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">යෙදුම් %d කට බැටරි ප්‍රශස්තකරණය මඟ හැරීමට ඉඩ දෙයි</item>
+        <item quantity="one">යෙදුම් %d කට බැටරි ප්‍රශස්තකරණය මඟ හැරීමට ඉඩ දෙයි</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">අන්තිම %2$s තුළ මතකය යෙදුම් %1$d ක් භාවිතා කරන ලදි</item>
+        <item quantity="one">අන්තිම %2$s තුළ මතකය යෙදුම් %1$d ක් භාවිතා කරන ලදි</item>
+    </plurals>
+</resources>

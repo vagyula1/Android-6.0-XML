@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d aurkitu dira</item>
+        <item quantity="one">Bat aurkitu da</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d kontaktuk telefono-zenbakia dute</item>
+        <item quantity="one">Kontaktu batek telefono-zenbakia du</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d aurkitu dira</item>
+        <item quantity="one">Bat aurkitu da</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">%0$d iturburutakoak bateratu dira</item>
+        <item quantity="one">ez da bateratu</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d talde</item>
+        <item quantity="one">Talde bat</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%2$s taldeko %1$d pertsona</item>
+        <item quantity="one">%2$s taldeko %1$d pertsona</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d pertsona</item>
+        <item quantity="one">%1$d pertsona</item>
+    </plurals>
+</resources>

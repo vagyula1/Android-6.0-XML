@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>উত্তর দিন</item>
+        <item>সকলকে উত্তর দিন</item>
+        <item>ফরোয়ার্ড</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>সফল</item>
+        <item>কোনো সংযোগ নেই</item>
+        <item>সাইন ইন করা যায়নি</item>
+        <item>নিরাপত্তা ত্রুটি</item>
+        <item>সিঙ্ক করা যায়নি</item>
+        <item>অভ্যন্তরীণ ত্রুটি</item>
+        <item>সার্ভার ত্রুটি</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>অপেক্ষাকৃত নতুন</item>
+        <item>অপেক্ষাকৃত পুরানো</item>
+        <item>কথোপকথন তালিকা</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>আপনি মোছার পর অপেক্ষাকৃত নতুন কথোপকথন দেখান</item>
+        <item>আপনি মোছার পর অপেক্ষাকৃত পুরানো কথোপকথন দেখান</item>
+        <item>আপনি মোছার পর কথোপকথন তালিকা দেখান</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>সংরক্ষণ করুন</item>
+        <item>মুছুন</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>সংরক্ষণ করুন</item>
+        <item>মুছুন</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>সর্বদা স্ক্রীনের শীর্ষে বার্তা অ্যাকশনগুলি দেখান</item>
+        <item>প্রতিকৃতি মোডে ঘোরানো হলেই কেবলমাত্র বার্তা অ্যাকশনগুলিকে স্ক্রীনের শীর্ষে দেখান</item>
+        <item>বার্তার শিরোলেখের বাইরে বার্তা অ্যাকশনগুলি দেখাবেন না</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>সর্বদা দেখান</item>
+        <item>শুধুমাত্র প্রতিকৃতি মোডে দেখান</item>
+        <item>দেখাবেন না</item>
+    </string-array>
+</resources>

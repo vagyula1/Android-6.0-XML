@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d дена</item>
+        <item quantity="one">%d ден</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d седмици</item>
+        <item quantity="one">%d седмица</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d месеци</item>
+        <item quantity="one">%d месец</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d години</item>
+        <item quantity="one">%d година</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d пораки во %2$d разговори</item>
+        <item quantity="one">%1$d пораки во %2$d разговор</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d пораки во %2$d разговори</item>
+        <item quantity="one">%1$d пораки во %2$d разговор</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d нови пораки</item>
+        <item quantity="one">%d нова порака</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">Да се избришат разговориве?</item>
+        <item quantity="one">Да се избрише разговоров?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d учесници</item>
+        <item quantity="one">%d учесник</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">Отфрли ги прилозите</item>
+        <item quantity="one">Отфрли го прилогот</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d фотографии се зачуваа во албумот „%2$s“</item>
+        <item quantity="one">%1$d фотографија се зачува во албумот „%2$s“</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d видеа се зачуваа во албумот „%2$s“</item>
+        <item quantity="one">%1$d видео се зачува во албумот „%2$s“</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d прилози се зачуваа во албумот „%2$s“</item>
+        <item quantity="one">%1$d прилог се зачува во албумот „%2$s“</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d прилози се зачуваа во „Преземања“</item>
+        <item quantity="one">%d прилог се зачува во „Преземања“</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">Зачувани се %d прилози</item>
+        <item quantity="one">Зачуван е %d прилог</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">Не можеше да се зачуваат %d прилози</item>
+        <item quantity="one">Не можеше да се зачува %d прилог</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">Испрати ги фотографиите</item>
+        <item quantity="one">Испрати ја фотографијата</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">Испрати ги аудиата</item>
+        <item quantity="one">Испрати го аудиото</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">Испрати ги видеата</item>
+        <item quantity="one">Испрати го видеото</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">Испрати ги картичките за контакт</item>
+        <item quantity="one">Испрати ја картичката за контакт</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">Испрати ги прилозите</item>
+        <item quantity="one">Испрати го прилогот</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d прилози се подготвени за испраќање</item>
+        <item quantity="one">%d прилог е подготвен за испраќање</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d контакти</item>
+        <item quantity="one">%d контакт</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">Неважечки контакти</item>
+        <item quantity="one">Неважечки контакт</item>
+    </plurals>
+</resources>

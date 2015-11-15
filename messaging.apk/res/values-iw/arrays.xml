@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>ללא נושא</item>
+        <item>ללא נושא</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>כן</item>
+        <item>לא</item>
+        <item>אישור</item>
+        <item>חחח</item>
+        <item>תודה</item>
+        <item>אני מסכים</item>
+        <item>נחמד</item>
+        <item>אני בדרך</item>
+        <item>אוקיי, נדבר מאוחר יותר</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

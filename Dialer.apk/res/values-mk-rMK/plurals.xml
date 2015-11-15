@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d пронајдени</item>
+        <item quantity="one">%d пронајден</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">%d секунда</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">%d минута</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d говорни пораки</item>
+        <item quantity="one">%1$d говорна порака</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d нови говорни пораки</item>
+        <item quantity="one">%d нова говорна порака</item>
+    </plurals>
+</resources>

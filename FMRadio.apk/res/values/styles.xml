@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CardView">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
+        <item name="cardElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+    </style>
+    <style name="CardView.Light" parent="@style/CardView">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style>
+    <style name="CardView.Dark" parent="@style/CardView">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style>
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowBackground">@color/theme_windowBackground</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:actionOverflowButtonStyle">@style/FmOverflowButtonStyle</item>
+        <item name="android:colorPrimary">@color/theme_primary_color</item>
+        <item name="android:colorPrimaryDark">@color/theme_primarydark_color</item>
+    </style>
+    <style name="LightTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:textColorPrimary">@color/theme_title_color</item>
+        <item name="android:windowBackground">@color/white_color</item>
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:colorPrimary">@color/theme_primary_color</item>
+        <item name="android:colorPrimaryDark">@color/theme_primarydark_color</item>
+    </style>
+    <style name="FmOverflowButtonStyle" parent="@android:style/Widget.Material.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_menu_moreoverflow_material</item>
+    </style>
+</resources>

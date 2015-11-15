@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">ගොනු %1$d ක් පිටපත් කරමින්.</item>
+        <item quantity="one">ගොනු %1$d ක් පිටපත් කරමින්.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">ගොනු %1$d ක් පිටපත් කළ නොහැකි විය</item>
+        <item quantity="one">ගොනු %1$d ක් පිටපත් කළ නොහැකි විය</item>
+    </plurals>
+</resources>

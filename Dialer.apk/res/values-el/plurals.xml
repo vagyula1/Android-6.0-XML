@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Βρέθηκαν %d</item>
+        <item quantity="one">Βρέθηκε 1</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d δευτερόλεπτα</item>
+        <item quantity="one">1 δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d λεπτά</item>
+        <item quantity="one">1 λεπτό</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d ώρες</item>
+        <item quantity="one">1 ώρα</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Μηνύματα αυτόμ. τηλεφωνητή</item>
+        <item quantity="one">Μήνυμα αυτόματου τηλεφωνητή</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d νέα φωνητικά μηνύματα</item>
+        <item quantity="one">%d νέο φωνητικό μήνυμα</item>
+    </plurals>
+</resources>

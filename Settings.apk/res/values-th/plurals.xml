@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">คุณกำลังจะได้เป็นนักพัฒนาซอฟต์แวร์ในอีก %1$d ขั้นตอน</item>
+        <item quantity="one">คุณกำลังจะได้เป็นนักพัฒนาซอฟต์แวร์ในอีก %1$d ขั้นตอน</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">ตั้งค่าลายนิ้วมือ %1$d รายการ</item>
+        <item quantity="one">ตั้งค่าลายนิ้วมือ %1$d รายการ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">รหัสผ่านต้องมีตัวอักษรอย่างน้อย %d ตัว</item>
+        <item quantity="one">รหัสผ่านต้องมีตัวอักษรอย่างน้อย 1 ตัว</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">รหัสผ่านต้องมีอักษรตัวพิมพ์เล็กอย่างน้อย %d ตัว</item>
+        <item quantity="one">รหัสผ่านต้องมีอักษรตัวพิมพ์เล็กอย่างน้อย 1 ตัว</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">รหัสผ่านต้องมีอักษรตัวพิมพ์ใหญ่อย่างน้อย %d ตัว</item>
+        <item quantity="one">รหัสผ่านต้องมีอักษรตัวพิมพ์ใหญ่อย่างน้อย 1 ตัว</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">รหัสผ่านต้องมีตัวเลขอย่างน้อย %d ตัว</item>
+        <item quantity="one">รหัสผ่านต้องมีตัวเลขอย่างน้อย 1 ตัว</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">รหัสผ่านต้องมีสัญลักษณ์พิเศษอย่างน้อย %d ตัว</item>
+        <item quantity="one">รหัสผ่านต้องมีสัญลักษณ์พิเศษอย่างน้อย 1 ตัว</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">รหัสผ่านต้องมีอักขระที่ไม่ใช่ตัวอักษรอย่างน้อย %d ตัว</item>
+        <item quantity="one">รหัสผ่านต้องมีอักขระที่ไม่ใช่ตัวอักษรอย่างน้อย 1 ตัว</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">รหัส PIN ของซิมไม่ถูกต้อง คุณพยายามได้อีก %d ครั้ง</item>
+        <item quantity="one">รหัส PIN ของซิมไม่ถูกต้อง คุณพยายามได้อีก %d ครั้งก่อนที่จะต้องติดต่อผู้ให้บริการเพื่อปลดล็อกอุปกรณ์</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d แอปสามารถอ่านการแจ้งเตือนได้</item>
+        <item quantity="one">%d แอปสามารถอ่านการแจ้งเตือนได้</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">เปลี่ยนเป็นเฉพาะปลุกเท่านั้นเป็นเวลา %1$d นาที (จนถึงเวลา %2$s)</item>
+        <item quantity="one">เปลี่ยนเป็นเฉพาะปลุกเท่านั้นเป็นเวลา 1 นาทีจนถึงเวลา %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">เปลี่ยนเป็นเฉพาะปลุกเท่านั้นเป็นเวลา %1$d ชั่วโมงจนถึงเวลา %2$s</item>
+        <item quantity="one">เปลี่ยนเป็นเฉพาะปลุกเท่านั้นเป็นเวลา 1 ชั่วโมงจนถึงเวลา %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">มอบสิทธิ์ %d รายการ</item>
+        <item quantity="one">มอบสิทธิ์ %d รายการ</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">อนุญาต %1$d จาก %2$d รายการแล้ว</item>
+        <item quantity="one">อนุญาต %1$d จาก %2$d รายการแล้ว</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">สิทธิ์เพิ่มเติม %d รายการ</item>
+        <item quantity="one">สิทธิ์เพิ่มเติม %d รายการ</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d แอปสามารถเปิดลิงก์ที่สนับสนุนของตัวเอง</item>
+        <item quantity="one">1 แอปสามารถเปิดลิงก์ที่สนับสนุนของตัวเอง</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d แอปได้รับอนุญาตให้ละเว้นการเพิ่มประสิทธิภาพแบตเตอรี่</item>
+        <item quantity="one">1 แอปได้รับอนุญาตให้ละเว้นการเพิ่มประสิทธิภาพแบตเตอรี่</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d แอปใช้หน่วยความจำใน %2$sที่ผ่านมา</item>
+        <item quantity="one">1 แอปใช้หน่วยความจำใน %2$sที่ผ่านมา</item>
+    </plurals>
+</resources>

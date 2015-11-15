@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Etichete</string>
+    <string name="title_scanned_tag">A fost colectată o etichetă nouă</string>
+    <string name="title_existing_tag">Etichetă</string>
+    <string name="tag_unknown">Tip de etichetă necunoscut</string>
+    <string name="tag_empty">Etichetă goală</string>
+    <string name="button_done">Terminat</string>
+    <string name="action_text">Trimiteţi mesaj la %s</string>
+    <string name="action_call">Apelaţi %s</string>
+    <string name="empty_tag_prompt">Această etichetă este goală.</string>
+    <string name="import_vcard">Importaţi ^1</string>
+    <string name="mime_display_name">Date de la eticheta NFC</string>
+    <string name="vcard_title">Informaţii de contact pentru ^1</string>
+</resources>

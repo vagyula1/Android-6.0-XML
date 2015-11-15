@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Responder</item>
+        <item>Responder a todos</item>
+        <item>Reenviar</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Sin errores</item>
+        <item>Sin conexión</item>
+        <item>Error al iniciar sesión</item>
+        <item>Error de seguridad</item>
+        <item>No se ha podido sincronizar</item>
+        <item>Error interno</item>
+        <item>Error del servidor</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Más reciente</item>
+        <item>Más antigua</item>
+        <item>Lista de conversaciones</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Mostrar conversación más reciente después de eliminar</item>
+        <item>Mostrar conversación más antigua después de eliminar</item>
+        <item>Mostrar lista de conversaciones después de eliminar</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Archivar</item>
+        <item>Eliminar</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Archivar</item>
+        <item>Eliminar</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Mostrar siempre acciones de mensajes en la parte superior de la pantalla</item>
+        <item>Mostrar solo acciones de mensajes en la parte superior de la pantalla en modo vertical</item>
+        <item>No mostrar acciones de mensajes fuera del encabezado del mensaje</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Mostrar siempre</item>
+        <item>Mostrar solo en modo vertical</item>
+        <item>No mostrar</item>
+    </string-array>
+</resources>

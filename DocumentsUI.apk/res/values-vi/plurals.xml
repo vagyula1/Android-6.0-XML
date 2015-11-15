@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Đang sao chép %1$d tệp.</item>
+        <item quantity="one">Đang sao chép %1$d tệp.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Không thể sao chép %1$d tệp</item>
+        <item quantity="one">Không thể sao chép %1$d tệp</item>
+    </plurals>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>ಪ್ರತ್ಯುತ್ತರ</item>
+        <item>ಎಲ್ಲರಿಗೂ ಪ್ರತ್ಯುತ್ತರಿಸು</item>
+        <item>ಫಾರ್ವರ್ಡ್</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>ಯಶಸ್ವಿಯಾಗಿದೆ</item>
+        <item>ಯಾವುದೇ ಸಂಪರ್ಕವಿಲ್ಲ</item>
+        <item>ಸೈನ್ ಇನ್ ಮಾಡಲಾಗಲಿಲ್ಲ</item>
+        <item>ಸುರಕ್ಷತಾ ದೋಷ</item>
+        <item>ಸಿಂಕ್ ಮಾಡಲಾಗಲಿಲ್ಲ</item>
+        <item>ಆಂತರಿಕ ದೋಷ</item>
+        <item>ಸರ್ವರ್ ದೋಷ</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>ಹೊಸದಾದ</item>
+        <item>ಹಳೆಯದು</item>
+        <item>ಸಂವಾದ ಪಟ್ಟಿ</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>ನೀವು ಅಳಿಸಿದ ನಂತರ ಹೊಸದಾದ ಸಂವಾದವನ್ನು ತೋರಿಸು</item>
+        <item>ನೀವು ಅಳಿಸಿದ ನಂತರ ಹಳೆಯದಾದ ಸಂವಾದವನ್ನು ತೋರಿಸು</item>
+        <item>ನೀವು ಅಳಿಸಿದ ಬಳಿಕ ಸಂವಾದ ಪಟ್ಟಿಯನ್ನು ತೋರಿಸು</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>ಆರ್ಕೈವ್</item>
+        <item>ಅಳಿಸು</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>ಆರ್ಕೈವ್</item>
+        <item>ಅಳಿಸು</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>ಪರದೆಯ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಸಂದೇಶದ ಕ್ರಿಯೆಗಳನ್ನು ಯಾವಾಗಲೂ ತೋರಿಸಿ</item>
+        <item>ಪೋಟ್ರೇಟ್ ಮೋಡ್‌ಗೆ ಬದಲಿಸಿದಾಗ ಪರದೆಯ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಸಂದೇಶದ ಕ್ರಿಯೆಗಳನ್ನು ಯಾವಾಗಲೂ ತೋರಿಸಿ</item>
+        <item>ಸಂದೇಶ ಶಿರೋಲೇಖದ ಹೊರಗೆ ಸಂದೇಶದ ಕ್ರಿಯೆಗಳನ್ನು ತೋರಿಸಬೇಡಿ</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>ಯಾವಾಗಲೂ ತೋರಿಸು</item>
+        <item>ಪೋಟ್ರೇಟ್‌ನಲ್ಲಿ ಮಾತ್ರ ತೋರಿಸು</item>
+        <item>ತೋರಿಸಬೇಡ</item>
+    </string-array>
+</resources>

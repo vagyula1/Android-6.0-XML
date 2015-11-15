@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">Tvarkyti aplankus</string>
+    <string name="add_cc_label">+ kop. / nemat. kop.</string>
+    <string name="add_bcc_label">+ nematomoji kopija</string>
+    <string name="preferences_default_reply_all_summary">Naudoti kaip numatytąjį atsakant į pranešimus</string>
+</resources>

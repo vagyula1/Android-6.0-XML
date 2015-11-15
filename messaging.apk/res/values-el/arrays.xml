@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>χωρίς θέμα</item>
+        <item>χωρίς θέμα</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Ναι</item>
+        <item>Όχι</item>
+        <item>ΟΚ</item>
+        <item>Χαχα</item>
+        <item>Σας ευχαριστούμε</item>
+        <item>Συμφωνώ</item>
+        <item>Ωραία</item>
+        <item>Έρχομαι</item>
+        <item>Εντάξει, θα επικοινωνήσω μαζί σου αργότερα</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

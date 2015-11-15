@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>स्क्यान गरिँदै...</item>
+        <item>जडान हुँदै...</item>
+        <item>प्रमाणित गर्दै ...</item>
+        <item>IP ठेगाना पत्ता लगाउँदै ...</item>
+        <item>जडान गरिएको</item>
+        <item>निलम्बित</item>
+        <item>विच्छेदन गर्दै...</item>
+        <item>विच्छेदन भएको</item>
+        <item>असफल</item>
+        <item>रोक्का गरियो</item>
+        <item>अस्थायी रूपमा कमजोर जडान बेवास्ता गर्दै</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>स्क्यान गर्दै...</item>
+        <item>%1$sसँग जडान हुँदै...</item>
+        <item>%1$sको साथ प्रमाणित गर्दै…</item>
+        <item>%1$sबाट IP ठेगाना प्राप्त गर्दै…</item>
+        <item>%1$sसँग जडित</item>
+        <item>निलम्बित</item>
+        <item>%1$sबाट विच्छेदन गर्दै...</item>
+        <item>विच्छेदन भएको</item>
+        <item>असफल</item>
+        <item>रोकियो</item>
+        <item>अस्थायी रूपमा कमजोर जडान हटाइँदै</item>
+    </string-array>
+</resources>

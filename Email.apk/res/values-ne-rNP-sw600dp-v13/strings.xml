@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">फोल्डरहरु ब्वस्थापन गर्नुहोस्</string>
+    <string name="add_cc_label">+ Cc/Bcc</string>
+    <string name="add_bcc_label">+ Bcc</string>
+    <string name="preferences_default_reply_all_summary">सन्देश सूचनाको जवाफ दिनको लागि पूर्वनिर्धारितको रूपमा प्रयोग गर्नुहोस्</string>
+</resources>

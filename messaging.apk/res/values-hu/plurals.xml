@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d perce</item>
+        <item quantity="one">%d perce</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d órája</item>
+        <item quantity="one">%d órája</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d napja</item>
+        <item quantity="one">%d napja</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d hét</item>
+        <item quantity="one">egy hét</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d hónap</item>
+        <item quantity="one">egy hónap</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d év</item>
+        <item quantity="one">egy év</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d üzenet %2$d beszélgetésben</item>
+        <item quantity="one">%d üzenet egy beszélgetésben</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d üzenet %2$d beszélgetésben</item>
+        <item quantity="one">%d üzenet egy beszélgetésben</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d új üzenet</item>
+        <item quantity="one">Új üzenet</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">Törli ezeket a beszélgetéseket?</item>
+        <item quantity="one">Törli ezt a beszélgetést?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d résztvevő</item>
+        <item quantity="one">%d résztvevő</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">Mellékletek elvetése</item>
+        <item quantity="one">Melléklet elvetése</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d fotó mentve a következő albumba: %2$s</item>
+        <item quantity="one">%1$d fotó mentve a következő albumba: %2$s</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d videó mentve a következő albumba: %2$s</item>
+        <item quantity="one">%1$d videó mentve a következő albumba: %2$s</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d melléklet mentve a következő albumba: %2$s</item>
+        <item quantity="one">%1$d melléklet mentve a következő albumba: %2$s</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d melléklet mentve a „Letöltések” közé</item>
+        <item quantity="one">%d melléklet mentve a „Letöltések” közé</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">%d melléklet sikeresen mentve</item>
+        <item quantity="one">%d melléklet sikeresen mentve</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">%d melléklet mentése nem sikerült</item>
+        <item quantity="one">%d melléklet mentése nem sikerült</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">Fotók küldése</item>
+        <item quantity="one">Fotó küldése</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">Hangok küldése</item>
+        <item quantity="one">Hang küldése</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">Videók küldése</item>
+        <item quantity="one">Videó küldése</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">Névjegykártyák küldése</item>
+        <item quantity="one">Névjegykártya küldése</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">Mellékletek küldése</item>
+        <item quantity="one">Melléklet küldése</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d melléklet készen áll a küldésre</item>
+        <item quantity="one">Egy melléklet készen áll a küldésre</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d névjegy</item>
+        <item quantity="one">%d névjegy</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">Érvénytelen névjegy</item>
+        <item quantity="one">Érvénytelen névjegy</item>
+    </plurals>
+</resources>

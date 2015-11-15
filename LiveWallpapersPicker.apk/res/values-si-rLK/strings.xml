@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">සජීවී වෝල්පේපර් තෝරනය</string>
+    <string name="live_wallpaper_picker_title">සජීවී වෝල්පේපර තෝරන්න</string>
+    <string name="live_wallpaper_picker_label">සජීවී වෝල්පේපර්</string>
+    <string name="live_wallpaper_preview_title">සජීවී වෝල්පේපර පෙරදසුන</string>
+    <string name="configure_wallpaper">සැකසීම්...</string>
+    <string name="wallpaper_instructions">වෝල්පේපරය සකසන්න</string>
+    <string name="live_wallpaper_empty">සජීවී වෝල්පේපර් නැත.</string>
+    <string name="set_live_wallpaper">වෝල්පේපරය සකසන්න</string>
+    <string name="wallpaper_title_and_author">%2$s ගේ %1$s</string>
+    <string name="live_wallpaper_loading">සජීවී වෝල්පේපරය පූරණය වේ…</string>
+    <string name="wallpaper_cancel">අවලංගු කරන්න</string>
+</resources>

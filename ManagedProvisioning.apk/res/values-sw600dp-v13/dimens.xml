@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="suw_decor_padding_top">256.0dip</dimen>
+    <item type="dimen" name="suw_illustration_aspect_ratio">0.0</item>
+    <dimen name="main_text_padding_top">40.0dip</dimen>
+    <dimen name="dialog_fragment_width">548.0dip</dimen>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">[ĻîVé Ŵåļļþåþéŕ Þîçķéŕ one two three]</string>
+    <string name="live_wallpaper_picker_title">[Šéļéçţ ļîVé ŵåļļþåþéŕ one two three]</string>
+    <string name="live_wallpaper_picker_label">[ĻîVé Ŵåļļþåþéŕš one two three]</string>
+    <string name="live_wallpaper_preview_title">[ĻîVé ŵåļļþåþéŕ þŕéVîéŵ one two three]</string>
+    <string name="configure_wallpaper">[Šéţţîñĝš… one two]</string>
+    <string name="wallpaper_instructions">[Šéţ ŵåļļþåþéŕ one two]</string>
+    <string name="live_wallpaper_empty">[Ñö ļîVé ŵåļļþåþéŕš. one two three]</string>
+    <string name="set_live_wallpaper">[Šéţ ŵåļļþåþéŕ one two]</string>
+    <string name="wallpaper_title_and_author">[%1$s ɓý %2$s one]</string>
+    <string name="live_wallpaper_loading">[Ļöåðîñĝ ļîVé ŵåļļþåþéŕ… one two three]</string>
+    <string name="wallpaper_cancel">[Çåñçéļ one two]</string>
+</resources>

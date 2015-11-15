@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 ວິນາທີ</item>
+        <item>4 ວິນາທີ</item>
+        <item>6 ວິນາທີ</item>
+        <item>8 ວິ​ນາ​ທີ</item>
+        <item>10 ວິນາທີ</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>ເທື່ອດຽວ</item>
+        <item>ທຸກ 2 ນາ​ທີ</item>
+        <item>ທຸກ 15 ນາທີ</item>
+        <item>ປິດ</item>
+    </string-array>
+</resources>

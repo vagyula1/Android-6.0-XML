@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Brouillons</item>
+        <item quantity="one">Version préliminaire</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Supprimer ces %1$d conversations?</item>
+        <item quantity="one">Supprimer cette conversation?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Archiver ces %1$d conversations?</item>
+        <item quantity="one">Archiver cette conversation ?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Supprimer ces %1$d messages?</item>
+        <item quantity="one">Supprimer ce message?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">"Suppression de l'étoile de %1$d conversations en cours…"</item>
+        <item quantity="one">"Suppression de l'étoile de %1$d conversation en cours…"</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> conversations ignorées</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> conversation ignorée</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> conversations marquées comme pourriel.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> conversation marquée comme pourriel.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">"&amp;lt;b>%1$d&amp;lt;/b> conversations marquées comme n'étant pas du pourriel"</item>
+        <item quantity="one">"&amp;lt;b>%1$d&amp;lt;/b> conversation marquée comme n'étant pas du pourriel"</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">"&amp;lt;b>%1$d&amp;lt;/b> conversations marquées comme n'étant pas importantes."</item>
+        <item quantity="one">"&amp;lt;b>%1$d&amp;lt;/b> conversation marquée comme n'étant pas importantes."</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">"&amp;lt;b>%1$d&amp;lt;/b> conversations signalées comme étant de l'hameçonnage"</item>
+        <item quantity="one">"&amp;lt;b>%1$d&amp;lt;/b> conversation signalée comme étant de l'hameçonnage"</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">%1$d conversations archivées.</item>
+        <item quantity="one">%1$d conversation archivée.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">%1$d conversations supprimées.</item>
+        <item quantity="one">%1$d conversation supprimée.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Dossiers modifiés</item>
+        <item quantity="one">Dossier modifié</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d nouveaux messages</item>
+        <item quantity="one">%1$d nouveau message</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Développer %1$d messages plus anciens</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d messages plus anciens développés</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d non lus</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d nouveaux messages</item>
+        <item quantity="one">%1$d nouveau message</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d messages seront supprimés de manière définitive.</item>
+        <item quantity="one">%1$d message sera supprimé de manière définitive.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d messages</item>
+        <item quantity="one">%1$d message</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d pièces jointes</item>
+        <item quantity="one">%1$d pièce jointe</item>
+    </plurals>
+</resources>

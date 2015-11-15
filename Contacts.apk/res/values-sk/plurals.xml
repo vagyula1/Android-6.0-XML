@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d nájdených položiek</item>
+        <item quantity="one">1 nájdená položka</item>
+        <item quantity="few">%d nájdené položky</item>
+        <item quantity="many">%d nájdenej položky</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d kontaktov s telefónnym číslom</item>
+        <item quantity="one">1 kontakt s telefónnym číslom</item>
+        <item quantity="few">%d kontakty s telefónnym číslom</item>
+        <item quantity="many">%d kontaktu s telefónnym číslom</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d nájdených položiek</item>
+        <item quantity="one">1 nájdená položka</item>
+        <item quantity="few">%d nájdené položky</item>
+        <item quantity="many">%d nájdenej položky</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">zlúčenie (počet zdrojov: %0$d)</item>
+        <item quantity="one">zlúčenie sa nepodarilo</item>
+        <item quantity="few">zlúčenie (počet zdrojov: %0$d)</item>
+        <item quantity="many">zlúčenie (počet zdrojov: %0$d)</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d skupín</item>
+        <item quantity="one">1 skupina</item>
+        <item quantity="few">%0$d skupiny</item>
+        <item quantity="many">%0$d skupiny</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">Počet ľudí zo skupiny %2$s: %1$d</item>
+        <item quantity="one">Počet ľudí zo skupiny %2$s: %1$d</item>
+        <item quantity="few">Počet ľudí zo skupiny %2$s: %1$d</item>
+        <item quantity="many">Počet ľudí zo skupiny %2$s: %1$d</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">Počet ľudí: %1$d</item>
+        <item quantity="one">Počet ľudí: %1$d</item>
+        <item quantity="few">Počet ľudí: %1$d</item>
+        <item quantity="many">Počet ľudí: %1$d</item>
+    </plurals>
+</resources>

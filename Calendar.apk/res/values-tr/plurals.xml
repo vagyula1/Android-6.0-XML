@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">1 dakika</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d dak</item>
+        <item quantity="one">1 dak</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">1 saat</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">1 gün</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">%d. HAFTA</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d kerelik</item>
+        <item quantity="one">; bir kerelik</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Her %d günde bir</item>
+        <item quantity="one">Günlük</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d haftada bir her %2$s</item>
+        <item quantity="one">Haftalık olarak her %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d etkinlik</item>
+        <item quantity="one">1 etkinlik</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d etkinlik</item>
+        <item quantity="one">+1 etkinlik</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Her %d günde bir</item>
+        <item quantity="one">Her %d günde bir</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Her %d haftada bir</item>
+        <item quantity="one">Her %d haftada bir</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Her %d ayda bir</item>
+        <item quantity="one">Her %d ayda bir</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Her %d yılda bir</item>
+        <item quantity="one">Her %d yılda bir</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d etkinlik için</item>
+        <item quantity="one">%d etkinlik için</item>
+    </plurals>
+</resources>

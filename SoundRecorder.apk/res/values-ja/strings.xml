@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">音声レコーダー</string>
+    <string name="record_your_message">メッセージの録音</string>
+    <string name="message_recorded">メッセージを録音しました</string>
+    <string name="review_message">メッセージの確認</string>
+    <string name="recording">録音中</string>
+    <string name="recording_stopped">録音を停止しました</string>
+    <string name="storage_is_full">メモリがいっぱいです</string>
+    <string name="max_length_reached">最大サイズに達しました</string>
+    <string name="insert_sd_card">USBストレージをマウント</string>
+    <string name="min_available">%d分録音可能</string>
+    <string name="sec_available">%d秒録音可能</string>
+    <string name="accept">完了</string>
+    <string name="discard">破棄</string>
+    <string name="button_ok">OK</string>
+    <string name="audio_db_artist_name">録音リスト</string>
+    <string name="audio_db_album_name">録音</string>
+    <string name="audio_db_playlist_name">マイ録音</string>
+    <string name="error_sdcard_access">USBストレージにアクセスできません。</string>
+    <string name="error_app_internal">内部アプリケーションエラーが発生しました。</string>
+    <string name="error_mediadb_new_record">録音を保存できませんでした。</string>
+</resources>

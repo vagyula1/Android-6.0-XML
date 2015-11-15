@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Απάντηση</item>
+        <item>Απάντ. σε όλους</item>
+        <item>Προώθηση</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Επιτυχία</item>
+        <item>Δεν υπάρχει σύνδεση</item>
+        <item>Δεν ήταν δυνατή η σύνδεση</item>
+        <item>Σφάλμα ασφάλειας</item>
+        <item>Συγχρονισμός αδύνατος</item>
+        <item>Εσωτερικό σφάλμα</item>
+        <item>Σφάλμα διακομιστή</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Νεότερες</item>
+        <item>Παλαιότερες</item>
+        <item>Λίστα συνομιλιών</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Εμφάνιση νεότερης συνομιλίας μετά τη διαγραφή</item>
+        <item>Εμφάνιση παλαιότερης συνομιλίας μετά τη διαγραφή</item>
+        <item>Εμφάνιση λίστας συνομιλιών μετά τη διαγραφή</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Αρχειοθέτηση</item>
+        <item>Διαγραφή</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Αρχειοθέτηση</item>
+        <item>Διαγραφή</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Οι ενέργειες του μηνύματος εμφανίζονται πάντα στην κορυφή της οθόνης</item>
+        <item>Να εμφανίζονται μόνο ενέργειες μηνύματος στην κορυφή της οθόνης όταν ο προσανατολισμός είναι κατακόρυφος</item>
+        <item>Να μην εμφανίζονται ενέργειες μηνύματος εκτός της κεφαλίδας μηνύματος</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Να εμφανίζεται πάντα</item>
+        <item>Μόνο στην κατακόρυφη προβολή</item>
+        <item>Να μην εμφανίζονται</item>
+    </string-array>
+</resources>

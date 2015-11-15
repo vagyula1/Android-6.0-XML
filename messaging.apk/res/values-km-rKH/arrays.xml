@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>គ្មាន​ប្រធានបទ</item>
+        <item>គ្មាន​ប្រធាន​បទ</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>បាទ/ចាស</item>
+        <item>ទេ</item>
+        <item>យល់ព្រម</item>
+        <item>ហេហេ</item>
+        <item>អរគុណ</item>
+        <item>ខ្ញុំ​យល់​ព្រម</item>
+        <item>ល្អ</item>
+        <item>នៅ​តាម​ផ្លូវ​</item>
+        <item>យល់ព្រម ខ្ញុំ​នឹង​ទាក់ទង​អ្នក​ពេល​ក្រោយ</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

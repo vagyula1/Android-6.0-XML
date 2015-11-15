@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">下書き</item>
+        <item quantity="one">下書き</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$d件のスレッドを削除しますか？</item>
+        <item quantity="one">このスレッドを削除しますか？</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">%1$d件のスレッドをアーカイブしますか？</item>
+        <item quantity="one">このスレッドをアーカイブしますか？</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">%1$d件のメッセージを削除しますか？</item>
+        <item quantity="one">このメッセージを破棄しますか？</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d件のスレッドからスターを外しています</item>
+        <item quantity="one">%1$d件のスレッドからスターを外しています</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b>件をミュートしました</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b>件をミュートしました</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b>件を迷惑メールとして報告しました</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b>件を迷惑メールとして報告しました</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b>件を迷惑メールではないメールとして報告しました</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b>件を迷惑メールではないメールとして報告しました</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b>件の重要マークを外しました</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b>件の重要マークを外しました</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b>件をフィッシングとして報告しました</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b>件をフィッシングとして報告しました</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b>件をアーカイブしました</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b>件をアーカイブしました</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b>件を削除しました</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b>件を削除しました</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">フォルダを変更しました</item>
+        <item quantity="one">フォルダを変更しました</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">新着メール%1$d件</item>
+        <item quantity="one">新着メール%1$d件</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">以前のメール%1$d件を展開</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">以前のメール%1$d件を展開済み</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d件の未読</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">新着メール%1$d件</item>
+        <item quantity="one">新着メール%1$d件</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d件のメッセージが完全に削除されます。</item>
+        <item quantity="one">%1$d件のメッセージが完全に削除されます。</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d件のメッセージ</item>
+        <item quantity="one">%1$d件のメッセージ</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d個の添付ファイル</item>
+        <item quantity="one">%1$d個の添付ファイル</item>
+    </plurals>
+</resources>

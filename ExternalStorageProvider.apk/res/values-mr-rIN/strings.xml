@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">बाह्य संचयन</string>
+    <string name="root_internal_storage">अंतर्गत संचयन</string>
+    <string name="root_documents">दस्तऐवज</string>
+</resources>

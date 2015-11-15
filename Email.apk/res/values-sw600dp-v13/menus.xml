@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="menu" name="message_header_overflow_menu">@menu/message_header_overflow_menu_land_or_tablet</item>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">"S'estan copiant %1$d fitxers."</item>
+        <item quantity="one">"S'està copiant %1$d fitxer."</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">"No s'han pogut copiar %1$d fitxers"</item>
+        <item quantity="one">"No s'ha pogut copiar %1$d fitxer"</item>
+    </plurals>
+</resources>

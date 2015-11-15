@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Záznam zvuku</string>
+    <string name="record_your_message">Zaznamenajte svoju správu</string>
+    <string name="message_recorded">Správa bola zaznamenaná</string>
+    <string name="review_message">Skontrolovať správu</string>
+    <string name="recording">Prebieha zaznamenávanie</string>
+    <string name="recording_stopped">Záznam bol zastavený</string>
+    <string name="storage_is_full">Ukladací priestor je plný</string>
+    <string name="max_length_reached">Bola dosiahnutá maximálna povolená dĺžka</string>
+    <string name="insert_sd_card">Pripojiť úložisko USB</string>
+    <string name="min_available">K dispozícii %d min</string>
+    <string name="sec_available">K dispozícii %d s</string>
+    <string name="accept">Hotovo</string>
+    <string name="discard">Zahodiť</string>
+    <string name="button_ok">OK</string>
+    <string name="audio_db_artist_name">Vaše záznamy</string>
+    <string name="audio_db_album_name">Zvukové záznamy</string>
+    <string name="audio_db_playlist_name">Moje záznamy</string>
+    <string name="error_sdcard_access">Nedá sa získať prístup k úložisku USB.</string>
+    <string name="error_app_internal">Vnútorná chyba aplikácie.</string>
+    <string name="error_mediadb_new_record">Zaznamenaný zvuk sa nepodarilo uložiť.</string>
+</resources>

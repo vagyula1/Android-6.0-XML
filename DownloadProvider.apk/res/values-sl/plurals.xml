@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">Poteka prenos toliko datotek: %d</item>
+        <item quantity="one">Poteka prenos 1 datoteke</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">Št. datotek na čakanju: %d</item>
+        <item quantity="one">Na čakanju je 1 datoteka</item>
+    </plurals>
+</resources>

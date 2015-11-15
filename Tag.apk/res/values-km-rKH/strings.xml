@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ស្លាក</string>
+    <string name="title_scanned_tag">ស្លាក​ថ្មី​ដែល​​បាន​ប្រមូល​</string>
+    <string name="title_existing_tag">ស្លាក</string>
+    <string name="tag_unknown">មិន​ស្គាល់​ប្រភេទ​ស្លាក</string>
+    <string name="tag_empty">សម្អាត​ស្លាក</string>
+    <string name="button_done">រួចរាល់</string>
+    <string name="action_text">ផ្ញើ​សារ %s</string>
+    <string name="action_call">ហៅ %s</string>
+    <string name="empty_tag_prompt">ស្លាក​នេះ​គឺ​ទទេ​។</string>
+    <string name="import_vcard">នាំចូល ^1</string>
+    <string name="mime_display_name">ទិន្នន័យ​ពី​ស្លាក NFC</string>
+    <string name="vcard_title">ព័ត៌មាន​ទំនាក់ទំនង​សម្រាប់ ^ 1</string>
+</resources>

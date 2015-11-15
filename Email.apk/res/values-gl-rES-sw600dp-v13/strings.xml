@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">Xestionar cartafoles</string>
+    <string name="add_cc_label">+ Cc/Cco</string>
+    <string name="add_bcc_label">+ Cco</string>
+    <string name="preferences_default_reply_all_summary">Usar como predeterminado para responder notificacións de mensaxes</string>
+</resources>

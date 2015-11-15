@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Phone Call Management</string>
+    <string name="userCallActivityLabel">Telefono</string>
+    <string name="unknown">Sconosciuto</string>
+    <string name="notification_missedCallTitle">Chiamata senza risposta</string>
+    <string name="notification_missedCallsTitle">Chiamate senza risposta</string>
+    <string name="notification_missedCallsMsg">%s chiamate senza risposta</string>
+    <string name="notification_missedCallTicker">Chiamata senza risposta da %s</string>
+    <string name="notification_missedCall_call_back">Richiama</string>
+    <string name="notification_missedCall_message">Messaggio</string>
+    <string name="accessibility_call_muted">Chiamata disattivata.</string>
+    <string name="accessibility_speakerphone_enabled">Vivavoce attivo.</string>
+    <string name="respond_via_sms_canned_response_1">Non posso parlare ora. Che succede?</string>
+    <string name="respond_via_sms_canned_response_2">Ti richiamo subito.</string>
+    <string name="respond_via_sms_canned_response_3">Ti chiamo dopo.</string>
+    <string name="respond_via_sms_canned_response_4">Non posso parlare ora. Mi chiami dopo?</string>
+    <string name="respond_via_sms_setting_title">Risposte rapide</string>
+    <string name="respond_via_sms_setting_title_2">Modifica risposte rapide</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Risposta rapida</string>
+    <string name="respond_via_sms_confirmation_format">Messaggio inviato a %s.</string>
+    <string name="enable_account_preference_title">Account di chiamata</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Il proprietario del dispositivo consente soltanto chiamate di emergenza.</string>
+    <string name="outgoing_call_not_allowed_no_permission">"Non è possibile effettuare chiamate tramite questa applicazione senza l'autorizzazione sul telefono."</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Per effettuare una chiamata, inserisci un numero valido.</string>
+    <string name="duplicate_video_call_not_allowed">Al momento non è possibile aggiungere la chiamata.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Per poter fare videochiamate devi disattivare la modalità TTY.</string>
+    <string name="no_vm_number">Numero segreteria mancante</string>
+    <string name="no_vm_number_msg">Nessun numero di segreteria presente nella SIM.</string>
+    <string name="add_vm_number_str">Aggiungi numero</string>
+    <string name="change_default_dialer_dialog_title">"Modificare l'app tastiera predefinita?"</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Utilizzare %1$s invece di %2$s come app tastiera predefinita?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Utilizzare %s come app tastiera predefinita?</string>
+</resources>

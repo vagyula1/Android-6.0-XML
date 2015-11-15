@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_go_key">Пачаць</string>
+    <string name="label_next_key">Далей</string>
+    <string name="label_previous_key">Назад</string>
+    <string name="label_done_key">Гатова</string>
+    <string name="label_send_key">Адправіць</string>
+    <string name="label_pause_key">Паўза</string>
+    <string name="label_wait_key">Чакае</string>
+</resources>

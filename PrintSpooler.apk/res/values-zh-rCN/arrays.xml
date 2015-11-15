@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pdf_printer_media_sizes">
+        <item>ROC_8K</item>
+        <item>ROC_16K</item>
+        <item>PRC_1</item>
+        <item>PRC_2</item>
+        <item>PRC_3</item>
+        <item>PRC_4</item>
+        <item>PRC_5</item>
+        <item>PRC_6</item>
+        <item>PRC_7</item>
+        <item>PRC_8</item>
+        <item>PRC_9</item>
+        <item>PRC_10</item>
+        <item>PRC_16K</item>
+        <item>OM_PA_KAI</item>
+        <item>OM_DAI_PA_KAI</item>
+        <item>OM_JUURO_KU_KAI</item>
+    </string-array>
+    <string-array name="color_mode_labels">
+        <item>黑白</item>
+        <item>彩色</item>
+    </string-array>
+    <string-array name="duplex_mode_labels">
+        <item>无</item>
+        <item>长边</item>
+        <item>短边</item>
+    </string-array>
+    <string-array name="orientation_labels">
+        <item>纵向</item>
+        <item>横向</item>
+    </string-array>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d دقیقه</item>
+        <item quantity="one">۱ دقیقه</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d دقیقه</item>
+        <item quantity="one">۱ دقیقه</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d ساعت</item>
+        <item quantity="one">۱ ساعت</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d روز</item>
+        <item quantity="one">۱ روز</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">هفته %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">؛ برای %d بار</item>
+        <item quantity="one">؛ برای یکبار</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">هر %d روز</item>
+        <item quantity="one">روزانه</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">هر %1$d در روزهای %2$s</item>
+        <item quantity="one">هفتگی در روزهای %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d رویداد</item>
+        <item quantity="one">1 رویداد</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d رویداد</item>
+        <item quantity="one">1+ کردن رویداد</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">هر %d روز</item>
+        <item quantity="one">هر %d روز</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">هر %d هفته</item>
+        <item quantity="one">هر %d هفته</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">هر %d ماه</item>
+        <item quantity="one">هر %d ماه</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">هر %d سال</item>
+        <item quantity="one">هر %d سال</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">برای %d رویداد</item>
+        <item quantity="one">برای %d رویداد</item>
+    </plurals>
+</resources>

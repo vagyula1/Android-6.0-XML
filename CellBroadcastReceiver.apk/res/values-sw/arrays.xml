@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>Sekunde 2</item>
+        <item>Sekunde 4</item>
+        <item>Sekunde 6</item>
+        <item>Sekunde 8</item>
+        <item>Sekunde 10</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>Mara moja</item>
+        <item>Kila baada ya dakika 2</item>
+        <item>Kila baada ya dakika 15</item>
+        <item>Zimezimwa</item>
+    </string-array>
+</resources>

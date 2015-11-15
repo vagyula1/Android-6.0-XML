@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ComposeArea" parent="@style/AbstractComposeAreaWithRtl">
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:maxWidth">@dimen/compose_scrollview_max_width</item>
+        <item name="android:layout_weight">70.0</item>
+    </style>
+</resources>

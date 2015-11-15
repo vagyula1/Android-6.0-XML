@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ध्वनि रेकर्डर</string>
+    <string name="record_your_message">तपाईँको सन्देश रेकर्ड गर्नुहोस्</string>
+    <string name="message_recorded">सन्देश रेकर्ड भयो</string>
+    <string name="review_message">सन्देश समीक्षा गर्नुहोस्</string>
+    <string name="recording">रेकर्ड गर्दै</string>
+    <string name="recording_stopped">रेकर्ड गर्न रोकियो</string>
+    <string name="storage_is_full">भण्डारण भरिएको छ</string>
+    <string name="max_length_reached">अधिकतम लम्बाइ पुग्यो</string>
+    <string name="insert_sd_card">USB भण्डारण माउन्ट गर्नुहोस्</string>
+    <string name="min_available">%d न्यूनतम उपलब्ध</string>
+    <string name="sec_available">%d उपलब्ध</string>
+    <string name="accept">भयो</string>
+    <string name="discard">त्याग्नुहोस्</string>
+    <string name="button_ok">ठीक छ</string>
+    <string name="audio_db_artist_name">तपाईँका रेकर्डिङहरू</string>
+    <string name="audio_db_album_name">अडियो रेकर्डिङहरू</string>
+    <string name="audio_db_playlist_name">मेरा रेकर्डिङहरू</string>
+    <string name="error_sdcard_access">USB भण्डारण पहुँच गर्न सकिँदैन।</string>
+    <string name="error_app_internal">आन्तरिक अनुप्रयोग त्रुटि।</string>
+    <string name="error_mediadb_new_record">रेकर्ड भएको अडियो बचत गर्न सकेन।</string>
+</resources>

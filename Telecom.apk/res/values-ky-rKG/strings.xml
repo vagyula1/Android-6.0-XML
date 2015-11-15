@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Телефон чалууларын башкаруу</string>
+    <string name="userCallActivityLabel">Телефон</string>
+    <string name="unknown">Белгисиз</string>
+    <string name="notification_missedCallTitle">Кабыл алынбаган чалуу</string>
+    <string name="notification_missedCallsTitle">Кабыл алынбаган чалуулар</string>
+    <string name="notification_missedCallsMsg">%s кабыл алынбаган чалуу</string>
+    <string name="notification_missedCallTicker">%s дегенден кабыл алынбаган чалуу</string>
+    <string name="notification_missedCall_call_back">Кайра чалуу</string>
+    <string name="notification_missedCall_message">Билдирүү</string>
+    <string name="accessibility_call_muted">Чалуу үнсүз тартипте.</string>
+    <string name="accessibility_speakerphone_enabled">Динамик иштеп жатат.</string>
+    <string name="respond_via_sms_canned_response_1">Азыр сүйлөшө албайм. Эмне болду?</string>
+    <string name="respond_via_sms_canned_response_2">Кайра чалам.</string>
+    <string name="respond_via_sms_canned_response_3">Кийинчерээк чалып коём.</string>
+    <string name="respond_via_sms_canned_response_4">Сүйлөшө албайм. Кийин чаласызбы?</string>
+    <string name="respond_via_sms_setting_title">Тез жооптор</string>
+    <string name="respond_via_sms_setting_title_2">Тез жоопторду өзгөртүү</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Тез жооп</string>
+    <string name="respond_via_sms_confirmation_format">%s номуруна билдирүү жөнөтүлдү.</string>
+    <string name="enable_account_preference_title">Чалуу каттоо эсептери</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Түзмөк ээси шашылыш кырдаалдарда чалууга гана уруксат берген</string>
+    <string name="outgoing_call_not_allowed_no_permission">Бул колдонмо тийиштүү уруксатсыз чалууларды жасай албайт.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Чалуу үчүн, жарактуу номер киргизиңиз.</string>
+    <string name="duplicate_video_call_not_allowed">Бул жолу чалууну кошуу мүмкүн эмес.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Видео чалууларды аткаруу үчүн Телетайп түзмөк режимин өчүрүңүз.</string>
+    <string name="no_vm_number">Үн почтасынын номери жок болуп жатат</string>
+    <string name="no_vm_number_msg">SIM-картада сакталган үн почтасынын номери жок.</string>
+    <string name="add_vm_number_str">Номер кошуу</string>
+    <string name="change_default_dialer_dialog_title">Демейки номер тергич колдонмо өзгөрүлсүнбү?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Демейки номер тергич колдонмо катары мурунку %2$s колдонмонун ордуна %1$s бул колдонмо колдонулсунбу?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Демейки номер тергич колдонмо катары %s колдонулсунбу?</string>
+</resources>

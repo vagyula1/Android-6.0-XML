@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d dk.</item>
+        <item quantity="one">%d dk.</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">%d gün</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d hafta</item>
+        <item quantity="one">bir hafta</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d ay</item>
+        <item quantity="one">bir ay</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d yıl</item>
+        <item quantity="one">bir yıl</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d ileti dizisinde %2$d ileti</item>
+        <item quantity="one">Bir ileti dizisinde %d ileti</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d ileti dizisinde %2$d ileti</item>
+        <item quantity="one">Bir ileti dizisinde %d ileti</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d yeni ileti</item>
+        <item quantity="one">Yeni ileti</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">Bu ileti dizileri silinsin mi?</item>
+        <item quantity="one">Bu ileti dizisi silinsin mi?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d katılımcı</item>
+        <item quantity="one">%d katılımcı</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">Ekleri sil</item>
+        <item quantity="one">Eki sil</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d fotoğraf, \"%2$s\" albümüne kaydedildi</item>
+        <item quantity="one">%1$d fotoğraf, \"%2$s\" albümüne kaydedildi</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d video, \"%2$s\" albümüne kaydedildi</item>
+        <item quantity="one">%1$d video, \"%2$s\" albümüne kaydedildi</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">Ekli %1$d dosya, \"%2$s\" albümüne kaydedildi</item>
+        <item quantity="one">Ekli %1$d dosya, \"%2$s\" albümüne kaydedildi</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">Ekli %d dosya, \"İndirilenler\"e kaydedildi</item>
+        <item quantity="one">Ekli %d dosya, \"İndirilenler\"e kaydedildi</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">%d ek kaydedildi</item>
+        <item quantity="one">%d ek kaydedildi</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">%d ek kaydedilemedi</item>
+        <item quantity="one">%d ek kaydedilemedi</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">Fotoğrafları gönder</item>
+        <item quantity="one">Fotoğrafı gönder</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">Ses dosyalarını gönder</item>
+        <item quantity="one">Ses dosyasını gönder</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">Videoları gönder</item>
+        <item quantity="one">Videoyu gönder</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">Kişi kartlarını gönder</item>
+        <item quantity="one">Kişi kartını gönder</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">Ekleri gönder</item>
+        <item quantity="one">Eki gönder</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d ek gönderilmeye hazır</item>
+        <item quantity="one">Bir ek gönderilmeye hazır</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d kişi</item>
+        <item quantity="one">%d kişi</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">Geçersiz kişiler</item>
+        <item quantity="one">Geçersiz kişi</item>
+    </plurals>
+</resources>

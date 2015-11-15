@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Πρόγραμμα εγγραφής ήχου</string>
+    <string name="record_your_message">Εγγράψτε το μήνυμά σας</string>
+    <string name="message_recorded">Το μήνυμα καταγράφηκε</string>
+    <string name="review_message">Επισκόπηση μηνύματος</string>
+    <string name="recording">Εγγραφή</string>
+    <string name="recording_stopped">Η εγγραφή διακόπηκε</string>
+    <string name="storage_is_full">Ο αποθηκευτικός χώρος είναι πλήρης</string>
+    <string name="max_length_reached">Έχετε φθάσει στη μέγιστη διάρκεια</string>
+    <string name="insert_sd_card">Προσάρτηση χώρου αποθήκευσης USB</string>
+    <string name="min_available">%d λεπτά διαθέσιμα</string>
+    <string name="sec_available">%d δευτ. διαθέσιμα</string>
+    <string name="accept">Τέλος</string>
+    <string name="discard">Απόρριψη</string>
+    <string name="button_ok">OK</string>
+    <string name="audio_db_artist_name">Οι εγγραφές σας</string>
+    <string name="audio_db_album_name">Εγγραφές ήχου</string>
+    <string name="audio_db_playlist_name">Οι εγγραφές μου</string>
+    <string name="error_sdcard_access">Δεν είναι δυνατή η πρόσβαση στον χώρο αποθήκευσης USB.</string>
+    <string name="error_app_internal">Εσωτερικό σφάλμα εφαρμογής.</string>
+    <string name="error_mediadb_new_record">Δεν ήταν δυνατή η αποθήκευση της ηχογράφησης.</string>
+</resources>

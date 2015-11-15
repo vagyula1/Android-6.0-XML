@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Telefon – zarządzanie połączeniami</string>
+    <string name="userCallActivityLabel">Telefon</string>
+    <string name="unknown">Nieznany</string>
+    <string name="notification_missedCallTitle">Nieodebrane połączenie</string>
+    <string name="notification_missedCallsTitle">Połączenia nieodebrane</string>
+    <string name="notification_missedCallsMsg">%s nieodebranych połączeń</string>
+    <string name="notification_missedCallTicker">Nieodebrane połączenie z %s</string>
+    <string name="notification_missedCall_call_back">Oddzwoń</string>
+    <string name="notification_missedCall_message">Wiadomość</string>
+    <string name="accessibility_call_muted">Połączenie wyciszone.</string>
+    <string name="accessibility_speakerphone_enabled">Głośnik włączony.</string>
+    <string name="respond_via_sms_canned_response_1">Nie mogę rozmawiać. Co słychać?</string>
+    <string name="respond_via_sms_canned_response_2">Za chwilę do Ciebie oddzwonię.</string>
+    <string name="respond_via_sms_canned_response_3">Zadzwonię do Ciebie później.</string>
+    <string name="respond_via_sms_canned_response_4">Nie mogę rozmawiać. Zadzwonisz później?</string>
+    <string name="respond_via_sms_setting_title">Szybkie odpowiedzi</string>
+    <string name="respond_via_sms_setting_title_2">Edytuj szybkie odpowiedzi</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Szybka odpowiedź</string>
+    <string name="respond_via_sms_confirmation_format">Wiadomość wysłano na numer %s.</string>
+    <string name="enable_account_preference_title">Konta telefoniczne</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Właściciel urządzenia zezwala tylko na połączenia alarmowe.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Ta aplikacja nie może wykonywać połączeń bez uprawnienia Telefon.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Aby zadzwonić, wybierz prawidłowy numer.</string>
+    <string name="duplicate_video_call_not_allowed">Nie można w tej chwili dodać połączenia.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Wyłącz tryb TTY, by korzystać z rozmów wideo.</string>
+    <string name="no_vm_number">Brakuje numeru poczty głosowej</string>
+    <string name="no_vm_number_msg">Na karcie SIM nie ma zapisanego numeru poczty głosowej.</string>
+    <string name="add_vm_number_str">Dodaj numer</string>
+    <string name="change_default_dialer_dialog_title">Zmienić domyślną aplikację telefonu?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Zmienić %2$s na %1$s jako domyślną aplikację telefonu?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Ustawić %s jako domyślną aplikację telefonu?</string>
+</resources>

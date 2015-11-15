@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>सूचना</item>
+        <item>ईमेल</item>
+        <item>SMS</item>
+        <item>अलार्म</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 मिनट</item>
+        <item>1 मिनट</item>
+        <item>5 मिनट</item>
+        <item>10 मिनट</item>
+        <item>15 मिनट</item>
+        <item>20 मिनट</item>
+        <item>25 मिनट</item>
+        <item>30 मिनट</item>
+        <item>45 मिनट</item>
+        <item>1 घंटा</item>
+        <item>2 घंटे</item>
+        <item>3 घंटे</item>
+        <item>12 घंटे</item>
+        <item>24 घंटे</item>
+        <item>2 दिन</item>
+        <item>1 सप्ताह</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>कोई नहीं</item>
+        <item>0 मिनट</item>
+        <item>1 मिनट</item>
+        <item>5 मिनट</item>
+        <item>10 मिनट</item>
+        <item>15 मिनट</item>
+        <item>20 मिनट</item>
+        <item>25 मिनट</item>
+        <item>30 मिनट</item>
+        <item>45 मिनट</item>
+        <item>1 घंटा</item>
+        <item>2 घंटे</item>
+        <item>3 घंटे</item>
+        <item>12 घंटे</item>
+        <item>24 घंटे</item>
+        <item>2 दिन</item>
+        <item>1 सप्ताह</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>स्थान डिफ़ॉल्ट</item>
+        <item>शनिवार</item>
+        <item>रविवार</item>
+        <item>सोमवार</item>
+    </string-array>
+    <string-array name="availability">
+        <item>व्यस्त</item>
+        <item>उपलब्ध</item>
+        <item>अस्‍थायी</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>सामान्य</item>
+        <item>निजी</item>
+        <item>सार्वजनिक</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>पहला</item>
+        <item>सेकंड</item>
+        <item>तीसरा</item>
+        <item>चौथा</item>
+        <item>अंतिम</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>कोई प्रतिसाद नहीं</item>
+        <item>हां</item>
+        <item>" शायद"</item>
+        <item>नहीं</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>केवल यह ईवेंट</item>
+        <item>यह और आगामी ईवेंट</item>
+        <item>सभी ईवेंट</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>यह और भविष्य के ईवेंट</item>
+        <item>सभी ईवेंट</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>केवल यह ईवेंट</item>
+        <item>श्रृंखला में सभी ईवेंट</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>दिन</item>
+        <item>सप्ताह</item>
+        <item>माह</item>
+        <item>कार्यसूची</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>केवल अस्वीकार होने पर</item>
+        <item>यदि अस्वीकार हुआ हो या उत्तर न मिला हो</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>हर दिन दोहराएं</item>
+        <item>हर सप्ताह दोहराएं</item>
+        <item>हर माह दोहराएं</item>
+        <item>हर वर्ष दोहराएं</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>प्रत्येक पहले रविवार को</item>
+        <item>प्रत्येक दूसरे रविवार को</item>
+        <item>प्रत्येक तीसरे रविवार को</item>
+        <item>प्रत्येक चौथे रविवार को</item>
+        <item>प्रत्येक अंतिम रविवार को</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>प्रत्येक पहले सोमवार को</item>
+        <item>प्रत्येक दूसरे सोमवार को</item>
+        <item>प्रत्येक तीसरे सोमवार को</item>
+        <item>प्रत्येक चौथे सोमवार को</item>
+        <item>प्रत्येक अंतिम सोमवार को</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>प्रत्येक पहले मंगलवार को</item>
+        <item>प्रत्येक दूसरे मंगलवार को</item>
+        <item>प्रत्येक तीसरे मंगलवार को</item>
+        <item>प्रत्येक चौथे मंगलवार को</item>
+        <item>प्रत्येक अंतिम मंगलवार को</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>प्रत्येक पहले बुधवार को</item>
+        <item>प्रत्येक दूसरे बुधवार को</item>
+        <item>प्रत्येक तीसरे बुधवार को</item>
+        <item>प्रत्येक चौथे बुधवार को</item>
+        <item>प्रत्येक अंतिम बुधवार को</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>प्रत्येक पहले गुरुवार को</item>
+        <item>प्रत्येक दूसरे गुरुवार को</item>
+        <item>प्रत्येक तीसरे गुरुवार को</item>
+        <item>प्रत्येक चौथे गुरुवार को</item>
+        <item>प्रत्येक अंतिम गुरुवार को</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>प्रत्येक पहले शुक्रवार को</item>
+        <item>प्रत्येक दूसरे शुक्रवार को</item>
+        <item>प्रत्येक तीसरे शुक्रवार को</item>
+        <item>प्रत्येक चौथे शुक्रवार को</item>
+        <item>प्रत्येक अंतिम शुक्रवार को</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>प्रत्येक पहले शनिवार को</item>
+        <item>प्रत्येक दूसरे शनिवार को</item>
+        <item>प्रत्येक तीसरे शनिवार को</item>
+        <item>प्रत्येक चौथे शनिवार को</item>
+        <item>प्रत्येक अंतिम शनिवार को</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>केवल कुछ मिनटों के विलंब से चल रहा है.</item>
+        <item>लगभग 10 मिनट में वहां पहुंचें.</item>
+        <item>आगे बढ़ें और मेरे बिना प्रारंभ करें.</item>
+        <item>क्षमा करें, मुझसे यह कार्य नहीं हो पा रहा है. हमें पुन: शेड्यूल करना होगा.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>मध्य ऑस्ट्रेलियाई - NT</item>
+        <item>मध्य ऑस्ट्रेलियाई - SA</item>
+        <item>पूर्वी ऑस्ट्रेलियाई - QLD</item>
+        <item>पूर्वी ऑस्ट्रेलियाई - NSW</item>
+        <item>पर्वतीय मानक - डॉसन क्रीक</item>
+        <item>मध्य मानक - सास्केचवान</item>
+        <item>पूर्वी मानक - एटिकोकन</item>
+        <item>अटलांटिक मानक - क्यूबेक</item>
+        <item>हवाई-एल्यूशियन - हवाई</item>
+        <item>हवाई-एल्यूशियन - अलास्का</item>
+        <item>प्रशांत मानक - मेटलाकाटला</item>
+        <item>पर्वतीय मानक - एरिज़ोना</item>
+        <item>प्रशांत - बाजा कैलिफ़ोर्निया</item>
+        <item>पर्वत - चिहुआहुआ</item>
+        <item>मध्य - टमाउलिपास</item>
+        <item>पर्वत - सोनोरा</item>
+        <item>पूर्वी अफ़्रीकी समय</item>
+        <item>अटलांटिक मानक समय</item>
+        <item>अटलांटिक मानक समय</item>
+        <item>पूर्वी यूरोपीय समय</item>
+        <item>कालिनिनग्राद समय</item>
+        <item>अमेज़न - रॉन्डॉनिया</item>
+        <item>ब्राज़िलिया - पैरा</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>सिंट मार्टिन</item>
+        <item>कैरेबियाई नीदरलैंड्स</item>
+        <item>क्यूरासाओ</item>
+        <item>दक्षिण सूडान</item>
+    </string-array>
+</resources>

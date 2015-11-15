@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">ტელეფონის ზარების მართვა</string>
+    <string name="userCallActivityLabel">ტელეფონი</string>
+    <string name="unknown">უცნობი</string>
+    <string name="notification_missedCallTitle">გამოტოვებული ზარი</string>
+    <string name="notification_missedCallsTitle">გამოტოვებული ზარები</string>
+    <string name="notification_missedCallsMsg">%s გამოტოვებული ზარები</string>
+    <string name="notification_missedCallTicker">გამოტოვებული ზარი %s-ისგან</string>
+    <string name="notification_missedCall_call_back">გადარეკვა</string>
+    <string name="notification_missedCall_message">შეტყობინების გაგზავნა</string>
+    <string name="accessibility_call_muted">ზარი დადუმებულია.</string>
+    <string name="accessibility_speakerphone_enabled">სპიკერები ჩართულია.</string>
+    <string name="respond_via_sms_canned_response_1">ვერ ვლაპარაკობ. რა ხდება?</string>
+    <string name="respond_via_sms_canned_response_2">ცოტა ხანში გადმოვრეკავ.</string>
+    <string name="respond_via_sms_canned_response_3">მოგვიანებით გადმოვრეკავ.</string>
+    <string name="respond_via_sms_canned_response_4">ვერ ვპასუხობ. მოგვიანებით დამირეკე.</string>
+    <string name="respond_via_sms_setting_title">სწრაფი პასუხი</string>
+    <string name="respond_via_sms_setting_title_2">სწრაფი პასუხის რედაქტირება</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">სწრაფი პასუხი</string>
+    <string name="respond_via_sms_confirmation_format">შეტყობინება გაიგზავნა %s-თან.</string>
+    <string name="enable_account_preference_title">დარეკვის ანგარიშები</string>
+    <string name="outgoing_call_not_allowed_user_restriction">მოწყობილობის მფლობელის მიერ ნებადართულია მხოლოდ საგანგებო ზარების განხორციელება.</string>
+    <string name="outgoing_call_not_allowed_no_permission">ეს აპლიკაცია ტელეფონის ნებართვის გარეშე გამავალ ზარებს ვერ განახორციელებს.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">ზარის განხორციელებისათვის, შეიყვანეთ მოქმედი ნომერი.</string>
+    <string name="duplicate_video_call_not_allowed">ამ ეტაპზე ზარის დამატება ვერ ხერხდება.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">ვიდეოზარების განხორციელებისათვის, გთხოვთ, გამორთოთ TTY რეჟიმი</string>
+    <string name="no_vm_number">ხმოვანი ფოსტის ნომერი არ არის</string>
+    <string name="no_vm_number_msg">SIM ბარათზე ხმოვანი ფოსტის ნომერი შენახული არ არის.</string>
+    <string name="add_vm_number_str">ნომრის დამატება</string>
+    <string name="change_default_dialer_dialog_title">გსურთ ამკრეფის ნაგულისხმევი აპის შეცვლა?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">გსურთ ამკრეფის ნაგულისხმევ აპად %2$s-ის ნაცვლად %1$s-ის გამოყენება?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">გსურთ, გამოიყენოთ %s, როგორც ამკრეფის ნაგულისხმევი აპი?</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">[Þĥöñé Çåļļ Ḿåñåĝéḿéñţ one two three]</string>
+    <string name="userCallActivityLabel">[Þĥöñé one]</string>
+    <string name="unknown">[Ûñķñöŵñ one two]</string>
+    <string name="notification_missedCallTitle">[Ḿîššéð çåļļ one two]</string>
+    <string name="notification_missedCallsTitle">[Ḿîššéð çåļļš one two]</string>
+    <string name="notification_missedCallsMsg">[%s ḿîššéð çåļļš one two]</string>
+    <string name="notification_missedCallTicker">[Ḿîššéð çåļļ ƒŕöḿ %s one two three]</string>
+    <string name="notification_missedCall_call_back">[Çåļļ ɓåçķ one two]</string>
+    <string name="notification_missedCall_message">[Ḿéššåĝé one two]</string>
+    <string name="accessibility_call_muted">[Çåļļ ḿûţéð. one two]</string>
+    <string name="accessibility_speakerphone_enabled">[Šþéåķéŕþĥöñé éñåɓļéð. one two three]</string>
+    <string name="respond_via_sms_canned_response_1">"[Çåñ'ţ ţåļķ ñöŵ. Ŵĥåţ'š ûþ¿ one two three]"</string>
+    <string name="respond_via_sms_canned_response_2">"[Î'ļļ çåļļ ýöû ŕîĝĥţ ɓåçķ. one two three]"</string>
+    <string name="respond_via_sms_canned_response_3">"[Î'ļļ çåļļ ýöû ļåţéŕ. one two three]"</string>
+    <string name="respond_via_sms_canned_response_4">"[Çåñ'ţ ţåļķ ñöŵ. Çåļļ ḿé ļåţéŕ¿ one two three four]"</string>
+    <string name="respond_via_sms_setting_title">[qûîçķ ŕéšþöñšéš one two three]</string>
+    <string name="respond_via_sms_setting_title_2">[Éðîţ Qûîçķ ŕéšþöñšéš one two three]</string>
+    <string name="respond_via_sms_setting_summary">[]</string>
+    <string name="respond_via_sms_edittext_dialog_title">[qûîçķ ŕéšþöñšé one two three]</string>
+    <string name="respond_via_sms_confirmation_format">[Ḿéššåĝé šéñţ ţö %s. one two three]</string>
+    <string name="enable_account_preference_title">[Çåļļîñĝ åççöûñţš one two three]</string>
+    <string name="outgoing_call_not_allowed_user_restriction">[Öñļý éḿéŕĝéñçý çåļļš åŕé åļļöŵéð ɓý ţĥé ðéVîçé öŵñéŕ. one two three four five six]</string>
+    <string name="outgoing_call_not_allowed_no_permission">[Ţĥîš åþþļîçåţîöñ çåññöţ ḿåķé öûţĝöîñĝ çåļļš ŵîţĥöûţ ţĥé Þĥöñé þéŕḿîššîöñ. one two three four five six seven eight]</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">[Ţö þļåçé å çåļļ, éñţéŕ å Våļîð ñûḿɓéŕ. one two three four five]</string>
+    <string name="duplicate_video_call_not_allowed">[Çåļļ çåññöţ ɓé åððéð åţ ţĥîš ţîḿé. one two three four]</string>
+    <string name="video_call_not_allowed_if_tty_enabled">[Þļéåšé ðîšåɓļé ŢŢÝ Ḿöðé ţö ḿåķé Vîðéö çåļļš. one two three four five]</string>
+    <string name="no_vm_number">[Ḿîššîñĝ Vöîçéḿåîļ ñûḿɓéŕ one two three]</string>
+    <string name="no_vm_number_msg">[Ñö Vöîçéḿåîļ ñûḿɓéŕ îš šţöŕéð öñ ţĥé ŠÎḾ çåŕð. one two three four five six]</string>
+    <string name="add_vm_number_str">[Åðð ñûḿɓéŕ one two]</string>
+    <string name="change_default_dialer_dialog_title">[Çĥåñĝé ðéƒåûļţ Ðîåļéŕ åþþ¿ one two three four]</string>
+    <string name="change_default_dialer_with_previous_app_set_text">[Ûšé %1$s îñšţéåð öƒ %2$s åš ýöûŕ ðéƒåûļţ ðîåļéŕ åþþ¿ one two three four five]</string>
+    <string name="change_default_dialer_no_previous_app_set_text">[Ûšé %s åš ýöûŕ ðéƒåûļţ ðîåļéŕ åþþ¿ one two three four]</string>
+    <string name="test_account_0_label">[q Ḿöɓîļé one two]</string>
+    <string name="test_account_1_label">[Ḿåŕķéţ Ŵîŕéļéšš one two three]</string>
+    <string name="test_account_2_label">[Šöñöḿå Çîŕçļéš Ţåļķ Þļûš one two three]</string>
+    <string name="test_account_3_label">[βåý νöîçé Çĥåţ Þŕö one two three]</string>
+    <string name="test_account_0_short_description">[Åççöûñţ ŵîţĥ q Ḿöɓîļé one two three]</string>
+    <string name="test_account_1_short_description">[Åççöûñţ ŵîţĥ Ḿåŕķéţ Ŵîŕéļéšš one two three four]</string>
+    <string name="test_account_2_short_description">[Ţåļķ ţö éVéŕýöñé îñ ýöûŕ Çîŕçļéš¡ one two three four]</string>
+    <string name="test_account_3_short_description">[Çĥåţ ŵîţĥ Çĥåţ Ñéţŵöŕķ ûšéŕš one two three four]</string>
+    <string name="handle_restricted">[ŔÉŠŢŔÎÇŢÉÐ one two]</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">Կառավարել պանակները</string>
+    <string name="add_cc_label">+ Պճ/Ծպճ</string>
+    <string name="add_bcc_label">+ Ծպճ</string>
+    <string name="preferences_default_reply_all_summary">Օգտագործել ըստ կանխադրման՝ բոլոր ծանուցումների համար</string>
+</resources>

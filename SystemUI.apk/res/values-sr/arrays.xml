@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Скенирање...</item>
+        <item>Повезивање…</item>
+        <item>Потврђује се аутентичност...</item>
+        <item>Преузимање IP адресе...</item>
+        <item>Повезано</item>
+        <item>Обустављено</item>
+        <item>Прекидање везе...</item>
+        <item>Веза је прекинута</item>
+        <item>Неуспешно</item>
+        <item>Блокирано</item>
+        <item>Привремено избегавање лоше везе</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Скенирање...</item>
+        <item>Повезивање са мрежом %1$s…</item>
+        <item>Проверавање идентитета мреже %1$s...</item>
+        <item>Добијање IP адресе од мреже %1$s…</item>
+        <item>Повезано са мрежом %1$s</item>
+        <item>Обустављено</item>
+        <item>Прекидање везе са мрежом %1$s…</item>
+        <item>Веза је прекинута</item>
+        <item>Неуспешно</item>
+        <item>Блокирано</item>
+        <item>Привремено избегавање лоше везе</item>
+    </string-array>
+</resources>

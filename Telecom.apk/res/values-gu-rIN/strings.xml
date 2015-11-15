@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">ફોન કૉલ સંચાલન</string>
+    <string name="userCallActivityLabel">ફોન</string>
+    <string name="unknown">અજાણ્યું</string>
+    <string name="notification_missedCallTitle">છૂટેલો કૉલ</string>
+    <string name="notification_missedCallsTitle">છૂટેલા કૉલ્સ</string>
+    <string name="notification_missedCallsMsg">%s છૂટેલા કૉલ્સ</string>
+    <string name="notification_missedCallTicker">%s નો કૉલ ચૂકી ગયાં</string>
+    <string name="notification_missedCall_call_back">કૉલ બેક</string>
+    <string name="notification_missedCall_message">સંદેશ</string>
+    <string name="accessibility_call_muted">કૉલ મ્યૂટ કરેલ છે.</string>
+    <string name="accessibility_speakerphone_enabled">સ્પીકરફોન પસંદ કરેલ છે.</string>
+    <string name="respond_via_sms_canned_response_1">હમણાં વાત કરી શકાતી નથી. શું ચાલે છે?</string>
+    <string name="respond_via_sms_canned_response_2">હું તરત જ પાછો કૉલ કરીશ.</string>
+    <string name="respond_via_sms_canned_response_3">હું પછીથી કૉલ કરીશ.</string>
+    <string name="respond_via_sms_canned_response_4">હમણાં વાત કરી શકાતી નથી. મને પછીથી કૉલ કરી શકશો?</string>
+    <string name="respond_via_sms_setting_title">ઝડપી પ્રતિસાદ</string>
+    <string name="respond_via_sms_setting_title_2">ઝડપી પ્રતિસાદ સંપાદિત કરો</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">ઝડપી પ્રતિસાદ</string>
+    <string name="respond_via_sms_confirmation_format">%s પર સંદેશ મોકલ્યો.</string>
+    <string name="enable_account_preference_title">કૉલિંગ એકાઉન્ટ્સ</string>
+    <string name="outgoing_call_not_allowed_user_restriction">ઉપકરણના માલિક દ્વારા ફક્ત કટોકટીના કૉલ્સને મંજૂરી અપાયેલ છે.</string>
+    <string name="outgoing_call_not_allowed_no_permission">ફોન પરવાનગી વિના આ એપ્લિકેશન આઉટગોઇંગ કૉલ્સ કરી શકતી નથી.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">કૉલ કરવા માટે, માન્ય નંબર દાખલ કરો.</string>
+    <string name="duplicate_video_call_not_allowed">આ સમયે કૉલ ઉમેરી શકાતો નથી.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">કૃપા કરીને વિડિઓ કૉલ્સ કરવા માટે TTY મોડ અક્ષમ કરો.</string>
+    <string name="no_vm_number">વૉઇસમેઇલ નંબર ખૂટે છે</string>
+    <string name="no_vm_number_msg">SIM કાર્ડ પર કોઈ વૉઇસમેઇલ નંબર સંગ્રહિત નથી.</string>
+    <string name="add_vm_number_str">નંબર ઉમેરો</string>
+    <string name="change_default_dialer_dialog_title">ડિફોલ્ટ ડાયલર એપ્લિકેશન બદલીએ?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">તમારી ડિફોલ્ટ ડાયલર એપ્લિકેશન તરીકે %2$s ને બદલે %1$s નો ઉપયોગ કરીએ?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">તમારી ડિફોલ્ટ ડાયલર એપ્લિકેશન તરીકે %s નો ઉપયોગ કરીએ?</string>
+</resources>

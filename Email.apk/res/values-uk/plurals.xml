@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Чернетки</item>
+        <item quantity="one">Чернетка</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Видалити ці ланцюжки (%1$d)?</item>
+        <item quantity="one">Видалити ланцюжок?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Архівувати ці ланцюжки (%1$d)?</item>
+        <item quantity="one">Архівувати цей ланцюжок повідомлень?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Видалити ці повідомлення (%1$d)?</item>
+        <item quantity="one">Відхилити повідомлення?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Видалення зірочки з ланцюжків повідомлень (%1$d)</item>
+        <item quantity="one">Видалення зірочки з %1$d ланцюжка повідомлень</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">Проігноровано &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Проігноровано &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">Позначено як спам &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Позначено як спам &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">Позначено як не спам &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Позначено як не спам &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">Позначено як неважливі &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Позначено як неважливий &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">Позначено як фішинг &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Позначено як фішинг &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">Заархівовано &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Заархівовано &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">Видалено &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="one">Видалено &amp;lt;b>%1$d&amp;lt;/b></item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Змінено папки</item>
+        <item quantity="one">Змінено папку</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">Нових повідомлень: %1$d</item>
+        <item quantity="one">%1$d нове повідомлення</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Розгорнути попередні повідомлення (%1$d)</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Попередні повідомлення (%1$d) розгорнуто</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">Не прочитано: %1$d</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">Нових повідомлень: %1$d</item>
+        <item quantity="one">%1$d нове повідомлення</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Повідомлення (%1$d) буде видалено назавжди.</item>
+        <item quantity="one">%1$d повідомлення буде видалено назавжди.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">Повідомлень: %1$d</item>
+        <item quantity="one">Повідомлень: %1$d</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">Вкладених файлів: %1$d</item>
+        <item quantity="one">Вкладених файлів: %1$d</item>
+    </plurals>
+</resources>

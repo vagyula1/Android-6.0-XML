@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_time_zone_search">Shkruaj emrin e shtetit</string>
+    <string name="searchview_description_clear">Pastro pyetjen</string>
+    <string name="no_results_found">Nuk u gjet asnjë rezultat</string>
+    <string name="palestine_display_name">Palestinë</string>
+    <string name="done_label">U krye!</string>
+    <string name="hour_picker_description">Rrëshqitësi rrethor i orëve</string>
+    <string name="minute_picker_description">Rrëshqitësi rrethor i minutave</string>
+    <string name="select_hours">Zgjidh orët</string>
+    <string name="select_minutes">Zgjidh minutat</string>
+    <string name="day_picker_description">Tabela mujore e ditëve</string>
+    <string name="year_picker_description">Lista e viteve</string>
+    <string name="select_day">Zgjidh muajin dhe ditën</string>
+    <string name="select_year">Zgjidh vitin</string>
+    <string name="item_is_selected">Artikulli %1$s është përzgjedhur</string>
+    <string name="deleted_key">%1$s u fshi</string>
+    <string name="color_picker_default_title">Zgjidh një ngjyrë</string>
+    <string name="color_swatch_description">Ngjyra %1$d</string>
+    <string name="color_swatch_description_selected">U zgjodh ngjyra %1$d</string>
+    <string name="more_string">+%1$d</string>
+    <string name="copy_email">Kopjo adresën e mail-it</string>
+    <string name="copy_number">Kopjo numrin e telefonit</string>
+    <string name="action_label">Kthehu</string>
+    <string name="accessbility_suggestion_dropdown_opened">Sugjerimet e kontakteve u hapën</string>
+    <string name="dropdown_delete_button_desc">Hiq %s nga marrësit</string>
+</resources>

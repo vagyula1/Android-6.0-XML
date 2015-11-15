@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 վայրկյան</item>
+        <item>4 վայրկյան</item>
+        <item>6 վայրկյան</item>
+        <item>8 վայրկյան</item>
+        <item>10 վայրկյան</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>Մի անգամ</item>
+        <item>2 րոպեն մեկ</item>
+        <item>15 րոպեն մեկ</item>
+        <item>Անջատել</item>
+    </string-array>
+</resources>

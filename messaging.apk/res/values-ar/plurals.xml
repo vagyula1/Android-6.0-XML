@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d من الدقائق</item>
+        <item quantity="zero">%d دقيقة</item>
+        <item quantity="one">%d دقيقة</item>
+        <item quantity="two">دقيقتان (%d)</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d من الساعات</item>
+        <item quantity="zero">%d ساعة</item>
+        <item quantity="one">%d ساعة</item>
+        <item quantity="two">ساعتان (%d)</item>
+        <item quantity="few">%d ساعات</item>
+        <item quantity="many">%d ساعة</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d من الأيام</item>
+        <item quantity="zero">%d يوم</item>
+        <item quantity="one">يوم واحد (%d)</item>
+        <item quantity="two">يومان (%d)</item>
+        <item quantity="few">%d أيام</item>
+        <item quantity="many">%d يومًا</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d من الأسابيع</item>
+        <item quantity="zero">%d أسبوع</item>
+        <item quantity="one">أسبوع</item>
+        <item quantity="two">أسبوعان (%d)</item>
+        <item quantity="few">%d أسابيع</item>
+        <item quantity="many">%d أسبوعًا</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d من الأشهر</item>
+        <item quantity="zero">%d شهر</item>
+        <item quantity="one">شهر</item>
+        <item quantity="two">شهران (%d)</item>
+        <item quantity="few">%d أشهر</item>
+        <item quantity="many">%d شهرًا</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d من الأعوام</item>
+        <item quantity="zero">%d عام</item>
+        <item quantity="one">عام</item>
+        <item quantity="two">عامان (%d)</item>
+        <item quantity="few">%d أعوام</item>
+        <item quantity="many">%d عامًا</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d من الرسائل في %2$d من المحادثات</item>
+        <item quantity="zero">%1$d من الرسائل في %2$d محادثة</item>
+        <item quantity="one">%d من الرسائل في محادثة واحدة</item>
+        <item quantity="two">%1$d من الرسائل في محادثتين (%2$d)</item>
+        <item quantity="few">%1$d من الرسائل في %2$d محادثات</item>
+        <item quantity="many">%1$d من الرسائل في %2$d محادثة</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d من الرسائل في %2$d من المحادثات</item>
+        <item quantity="zero">%1$d من الرسائل في %2$d محادثة</item>
+        <item quantity="one">%d من الرسائل في محادثة واحدة</item>
+        <item quantity="two">%1$d من الرسائل في محادثتين (%2$d)</item>
+        <item quantity="few">%1$d من الرسائل في %2$d محادثات</item>
+        <item quantity="many">%1$d من الرسائل في %2$d محادثة</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d من الرسائل الجديدة</item>
+        <item quantity="zero">ليست هناك أية رسالة جديدة (%d)</item>
+        <item quantity="one">رسالة جديدة</item>
+        <item quantity="two">رسالتان (%d) جديدتان</item>
+        <item quantity="few">%d رسائل جديدة</item>
+        <item quantity="many">%d رسالة جديدة</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">هل تريد حذف هذه المحادثات؟</item>
+        <item quantity="zero">ليست هناك محادثات.</item>
+        <item quantity="one">هل تريد حذف هذه الدردشة؟</item>
+        <item quantity="two">هل تريد حذف هاتين المحادثتين؟</item>
+        <item quantity="few">هل تريد حذف هذه المحادثات؟</item>
+        <item quantity="many">هل تريد حذف هذه المحادثات؟</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d من المشاركين</item>
+        <item quantity="zero">ليس هناك أي مشارك (%d)</item>
+        <item quantity="one">مشارك واحد (%d)</item>
+        <item quantity="two">مشاركان (%d)</item>
+        <item quantity="few">%d مشاركين</item>
+        <item quantity="many">%d مشاركًا</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">تجاهل المرفقات</item>
+        <item quantity="zero">ليست هناك مرفقات</item>
+        <item quantity="one">تجاهل المرفق</item>
+        <item quantity="two">تجاهل المرفقين</item>
+        <item quantity="few">تجاهل المرفقات</item>
+        <item quantity="many">تجاهل المرفقات</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">تم حفظ %1$d من الصور في الألبوم \"%2$s\"</item>
+        <item quantity="zero">لم يتم حفظ أية صورة (%1$d) في الألبوم \"%2$s\"</item>
+        <item quantity="one">تم حفظ صورة واحدة (%1$d) في الألبوم \"%2$s\"</item>
+        <item quantity="two">تم حفظ صورتين (%1$d) في الألبوم \"%2$s\"</item>
+        <item quantity="few">تم حفظ %1$d صور في الألبوم \"%2$s\"</item>
+        <item quantity="many">تم حفظ %1$d صورة في الألبوم \"%2$s\"</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">تم حفظ %1$d من مقاطع الفيديو في الألبوم \"%2$s\"</item>
+        <item quantity="zero">لم يتم حفظ أي مقطع فيديو (%1$d) في الألبوم \"%2$s\"</item>
+        <item quantity="one">تم حفظ مقطع فيديو واحد (%1$d) في الألبوم \"%2$s\"</item>
+        <item quantity="two">تم حفظ مقطعي فيديو (%1$d) في الألبوم \"%2$s\"</item>
+        <item quantity="few">تم حفظ %1$d مقاطع فيديو في الألبوم \"%2$s\"</item>
+        <item quantity="many">تم حفظ %1$d مقطع فيديو في الألبوم \"%2$s\"</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">تم حفظ %1$d من المرفقات في ألبوم \"%2$s\"</item>
+        <item quantity="zero">لم يتم حفظ أي مرفق (%1$d) في ألبوم \"%2$s\"</item>
+        <item quantity="one">تم حفظ مرفق %1$d في ألبوم \"%2$s\"</item>
+        <item quantity="two">تم حفظ مرفقين (%1$d) في ألبوم \"%2$s\"</item>
+        <item quantity="few">تم حفظ %1$d مرفقات في ألبوم \"%2$s\"</item>
+        <item quantity="many">تم حفظ %1$d مرفقًا في ألبوم \"%2$s\"</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">تم حفظ %d من المرفقات في \"التنزيلات\"</item>
+        <item quantity="zero">لم يتم حفظ أي مرفق (%d) في \"التنزيلات\"</item>
+        <item quantity="one">تم حفظ مرفق واحد (%d) في \"التنزيلات\"</item>
+        <item quantity="two">تم حفظ مرفقين (%d) في \"التنزيلات\"</item>
+        <item quantity="few">تم حفظ %d مرفقات في \"التنزيلات\"</item>
+        <item quantity="many">تم حفظ %d مرفقًا في \"التنزيلات\"</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">تم حفظ %d من المرفقات</item>
+        <item quantity="zero">لم يتم حفظ أية مرفقات (%d)</item>
+        <item quantity="one">تم حفظ مرفق واحد %d</item>
+        <item quantity="two">تم حفظ مرفقين (%d)</item>
+        <item quantity="few">تم حفظ %d مرفقات</item>
+        <item quantity="many">تم حفظ %d مرفقًا</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">تعذر حفظ %d من المرفقات</item>
+        <item quantity="zero">لم يتعذر حفظ أية مرفقات (%d)</item>
+        <item quantity="one">تعذر حفظ مرفق واحد (%d)</item>
+        <item quantity="two">تعذر حفظ مرفقين (%d)</item>
+        <item quantity="few">تعذر حفظ %d مرفقات</item>
+        <item quantity="many">تعذر حفظ %d مرفقًا</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">إرسال الصور</item>
+        <item quantity="zero">ليست هناك صور لإرسالها</item>
+        <item quantity="one">إرسال الصورة</item>
+        <item quantity="two">إرسال الصورتين</item>
+        <item quantity="few">إرسال الصور</item>
+        <item quantity="many">إرسال الصور</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">إرسال ملفات الصوت</item>
+        <item quantity="zero">ليست هناك ملفات صوت لإرسالها</item>
+        <item quantity="one">إرسال ملف الصوت</item>
+        <item quantity="two">إرسال ملفيّ الصوت</item>
+        <item quantity="few">إرسال ملفات الصوت</item>
+        <item quantity="many">إرسال ملفات الصوت</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">إرسال ملفات الفيديو</item>
+        <item quantity="zero">ليست هناك ملفات فيديو لإرسالها</item>
+        <item quantity="one">إرسال ملف الفيديو</item>
+        <item quantity="two">إرسال ملفي الفيديو</item>
+        <item quantity="few">إرسال ملفات الفيديو</item>
+        <item quantity="many">إرسال ملفات الفيديو</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">إرسال بطاقات جهة الاتصال</item>
+        <item quantity="zero">ليست هناك بطاقات جهة اتصال لإرسالها</item>
+        <item quantity="one">إرسال بطاقة جهة الاتصال</item>
+        <item quantity="two">إرسال بطاقتي جهة الاتصال</item>
+        <item quantity="few">إرسال بطاقات جهة الاتصال</item>
+        <item quantity="many">إرسال بطاقات جهة الاتصال</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">إرسال المرفقات</item>
+        <item quantity="zero">ليست هناك مرفقات لإرسالها</item>
+        <item quantity="one">إرسال المرفق</item>
+        <item quantity="two">إرسال المرفقين</item>
+        <item quantity="few">إرسال المرفقات</item>
+        <item quantity="many">إرسال المرفقات</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d من المرفقات الجاهزة للإرسال</item>
+        <item quantity="zero">لم يتم تحديد أي مرفقات</item>
+        <item quantity="one">مرفق واحد جاهز للإرسال</item>
+        <item quantity="two">مرفقان (%d) جاهزان للإرسال</item>
+        <item quantity="few">%d مرفقات جاهزة للإرسال</item>
+        <item quantity="many">%d مرفقًا جاهزًا للإرسال</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d من جهات الاتصال</item>
+        <item quantity="zero">ليست هناك أية جهة اتصال (%d)</item>
+        <item quantity="one">جهة اتصال واحدة (%d)</item>
+        <item quantity="two">جهتا اتصال (%d)</item>
+        <item quantity="few">%d جهات اتصال</item>
+        <item quantity="many">%d جهة اتصال</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">جهات اتصال غير صالحة</item>
+        <item quantity="zero">ليست هناك جهات اتصال غير صالحة</item>
+        <item quantity="one">جهة اتصال غير صالحة</item>
+        <item quantity="two">جهتا اتصال غير صالحتين</item>
+        <item quantity="few">جهات اتصال غير صالحة</item>
+        <item quantity="many">جهات اتصال غير صالحة</item>
+    </plurals>
+</resources>

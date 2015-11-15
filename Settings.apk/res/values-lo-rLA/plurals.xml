@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">ປະຈຸບັນທ່ານຍັງຢູ່ຫ່າງ %1$d ຂັ້ນຕອນຈາກການເປັນຜູ້ພັດທະນາ.</item>
+        <item quantity="one">ປະຈຸບັນທ່ານຍັງຢູ່ຫ່າງ %1$d ຂັ້ນຕອນຈາກການເປັນຜູ້ພັດທະນາ.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d ລາຍ​ນີ້ວ​ມື​ຖືກ​ຕັ້ງ​​ແລ້ວ</item>
+        <item quantity="one">%1$d ລາຍ​ນີ້ວ​ມື​ຖືກ​ຕັ້ງ​ແລ້ວ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">ລະຫັດຜ່ານຕ້ອງມີຕົວອັກສອນຢ່າງໜ້ອຍ %d ຕົວ.</item>
+        <item quantity="one">ລະຫັດຜ່ານຕ້ອງມີຕົວອັກສອນຢ່າງໜ້ອຍ 1 ຕົວ.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">ລະຫັດຜ່ານຕ້ອງມີຕົວພິມນ້ອຍຢ່າງໜ້ອຍ %d ຕົວ.</item>
+        <item quantity="one">ລະຫັດຜ່ານຕ້ອງມີຕົວພິມນ້ອຍຢ່າງໜ້ອຍ 1 ຕົວ.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">ລະຫັດຜ່ານຕ້ອງມີຕົວພິມໃຫຍ່ຢ່າງໜ້ອຍ %d ຕົວ.</item>
+        <item quantity="one">ລະຫັດຜ່ານຕ້ອງມີຕົວພິມໃຫຍ່ຢ່າງໜ້ອຍ 1 ຕົວ.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">ລະຫັດຜ່ານຕ້ອງມີຕົວເລກຢ່າງໜ້ອຍ %d ຕົວ.</item>
+        <item quantity="one">ລະຫັດຜ່ານຕ້ອງມີຕົວເລກຢ່າງໜ້ອຍ 1 ຕົວ.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">ລະຫັດຜ່ານຕ້ອງມີສັນຍາລັກພິເສດຢ່າງໜ້ອຍ %d ຕົວ.</item>
+        <item quantity="one">ລະຫັດຜ່ານຕ້ອງມີສັນຍາລັກພິເສດຢ່າງໜ້ອຍ 1 ຕົວ.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">ລະຫັດຜ່ານຕ້ອງມີອັກຂະລະທີ່ບໍ່ແມ່ນອັກສອນນໍາຢ່າງໜ້ອຍ %d ຕົວ.</item>
+        <item quantity="one">ລະຫັດຜ່ານຕ້ອງມີອັກຂະລະທີ່ບໍ່ແມ່ນອັກສອນນໍາຢ່າງນ້ອຍ 1 ຕົວ.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">ລະຫັດ SIM PIN ບໍ່ຖືກຕ້ອງ, ທ່ານຍັງພະຍາຍາມໄດ້ອີກ %d ຄັ້ງ.</item>
+        <item quantity="one">ລະຫັດ PIN ຂອງ SIM ບໍ່ຖືກຕ້ອງ, ທ່ານສາມາດລອງໄດ້ອີກ %d ເທື່ອກ່ອນທີ່ທ່ານຈະຕ້ອງຕິດຕໍ່ຫາຜູ່ໃຫ້ບໍລິການຂອງທ່ານ ເພື່ອປົດລັອກອຸປະກອນຂອງທ່ານ.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d ແອັບສາມາດອ່ານການແຈ້ງເຕືອນໄດ້</item>
+        <item quantity="one">%d ແອັບສາມາດອ່ານການແຈ້ງເຕືອນໄດ້</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">ປ່ຽນ​ເປັນ​ໂມງ​ປຸກ​ເປັນ​ເວ​ລາ %1$d ນາ​ທີເທົ່າ​ນັ້ນ (ຈົນ​ຮອດ %2$s)</item>
+        <item quantity="one">ປ່ຽນ​ເປັນ​ໂມງ​ປຸກ​ເປັນ​ເວ​ລາໜຶ່ງ​ນາ​ທີ​​ເທົ່າ​ນັ້ນ​ຈົນ​ຮອດ %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">ປ່ຽນ​ເປັນ​ໂມງ​ປຸກ​ເປັນ​ເວ​ລາ %1$d ຊົ່ວ​ໂມງ​ເທົ່າ​ນັ້ນ​ຈົນ​ຮອດ %2$s</item>
+        <item quantity="one">ປ່ຽນ​ເປັນ​ໂມງ​ປຸກ​ເປັນ​ເວ​ລາ​ໜຶ່ງ​ຊົ່ວ​ໂມງ​ເທົ່ານັ້ນຈົນ​ຮອດ %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d ການ​ອະ​ນຸ​ຍາດ​ໃຫ້​ໄປ​ແລ້ວ</item>
+        <item quantity="one">%d ການ​ອະ​ນຸ​ຍາດ​ໃຫ້​ໄປ​ແລ້ວ</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d ໃນ %2$d ການ​ອະ​ນຸ​ຍາດ​ແມ່ນ​ໄດ້​ໃຫ້​ແລ້ວ</item>
+        <item quantity="one">%1$d ໃນ %2$d ການ​ອະ​ນຸ​ຍາດ​ແມ່ນ​ໄດ້​ໃຫ້​ແລ້ວ</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d ການ​ອະ​ນຸ​ຍາດ​ເພີ່ມ​ເຕີມ</item>
+        <item quantity="one">%d ການອະນຸຍາດເພີ່ມເຕີມ</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d ​ແອັບ​ສາ​ມາດ​ເປີດລິ້ງ​ທີ່​ຮອງ​ຮັບ​​ຂອງ​ມັນ​ໄດ້</item>
+        <item quantity="one">ໜຶ່ງ​ແອັບ​ສາ​ມາດ​ເປີດລິ້ງ​ທີ່​ຮອງ​ຮັບ​ຂອງ​ມັນ​ໄດ້</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d ແອັບໄດ້ຮັບອະນຸຍາດໃຫ້ລະເລີຍການປັບແບັດເຕີຣີໃຫ້ເໝາະສົມ</item>
+        <item quantity="one">1 ແອັບໄດ້ຮັບອະນຸຍາດໃຫ້ລະເລີຍການປັບແບັດເຕີຣີໃຫ້ເໝາະສົມ</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d ແອັບ​ໃຊ້​ຄວາມ​ຈຳ​ຢູ່​ໃນ %2$s ຜ່ານ​ມາ</item>
+        <item quantity="one">1 ແອັບ​ໃຊ້​ຄວາມ​ຈຳ​ຢູ່​ໃນ %2$s ຜ່ານ​ມາ</item>
+    </plurals>
+</resources>

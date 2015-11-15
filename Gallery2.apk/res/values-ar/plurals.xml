@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">هل تريد حذف العناصر المحددة؟</item>
+        <item quantity="one">هل تريد حذف العنصر المحدد؟</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">‏تم تحديد %1$d</item>
+        <item quantity="zero">‏تم تحديد %1$d</item>
+        <item quantity="one">‏تم تحديد %1$d</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">‏تم تحديد %1$d</item>
+        <item quantity="zero">‏تم تحديد %1$d</item>
+        <item quantity="one">‏تم تحديد %1$d</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">‏تم تحديد %1$d</item>
+        <item quantity="zero">‏تم تحديد %1$d</item>
+        <item quantity="one">‏تم تحديد %1$d</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">جارٍ جعل الألبومات متاحة في وضع عدم الاتصال.</item>
+        <item quantity="one">جارٍ جعل الألبوم متاحًا في وضع عدم الاتصال.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">‏تم مسح %1$d من العناصر ضوئيًا</item>
+        <item quantity="zero">‏تم مسح %1$d من العناصر ضوئيًا</item>
+        <item quantity="one">‏تم مسح %1$d عنصر ضوئيًا</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">‏%d ثانية</item>
+        <item quantity="one">ثانية واحدة</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">‏%1$d من الصور</item>
+        <item quantity="one">‏%1$d صورة</item>
+    </plurals>
+</resources>

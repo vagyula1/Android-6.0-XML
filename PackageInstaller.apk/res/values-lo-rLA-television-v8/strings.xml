@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="current_permission_template">%1$s / %2$s</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">ປະຕິເສດ ແລະຢ່າຖາມອີກ</string>
+    <string name="grant_dialog_how_to_change">ທ່ານສາມາດປ່ຽນແປງສິ່ງນີ້ໃນພາຍຫຼັງໄດ້ໃນການຕັ້ງຄ່າ > ແອັບ</string>
+    <string name="preference_show_system_apps">ສະ​ແດງ​ແອັບ​ລະ​ບົບ</string>
+</resources>

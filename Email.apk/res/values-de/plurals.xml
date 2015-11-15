@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Entwürfe</item>
+        <item quantity="one">Entwurf</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Diese %1$d Konversationen löschen?</item>
+        <item quantity="one">Diese Konversation löschen?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Diese %1$d Konversationen archivieren?</item>
+        <item quantity="one">Diese Konversation archivieren?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">%1$d Nachrichten verwerfen?</item>
+        <item quantity="one">Nachricht verwerfen?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Markierung von %1$d Konversationen wird aufgehoben</item>
+        <item quantity="one">Markierung von %1$d Konversation wird aufgehoben</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> stumm geschaltet</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> stumm geschaltet</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> als Spam gemeldet</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> als Spam gemeldet</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> als Nicht-Spam gemeldet</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> als Nicht-Spam gemeldet</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> als nicht wichtig markiert</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> als nicht wichtig markiert</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> als Phishing gemeldet</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> als Phishing gemeldet</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> archiviert</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> archiviert</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> gelöscht</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> gelöscht</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Ordner geändert</item>
+        <item quantity="one">Ordner geändert</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d neue Nachrichten</item>
+        <item quantity="one">%1$d neue Nachricht</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d ältere Nachrichten maximieren</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d ältere Nachrichten wurden maximiert.</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d ungelesene</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d neue Nachrichten</item>
+        <item quantity="one">%1$d neue Nachricht</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d Nachrichten werden endgültig gelöscht.</item>
+        <item quantity="one">%1$d Nachricht wird endgültig gelöscht.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d Nachrichten</item>
+        <item quantity="one">%1$d Nachricht</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d Anhänge</item>
+        <item quantity="one">%1$d Anhang</item>
+    </plurals>
+</resources>

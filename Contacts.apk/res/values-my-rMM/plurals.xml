@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d ခုတွေ့ရှိသည်</item>
+        <item quantity="one">1ခု တွေ့ရှိသည်</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">ဖုန်းနံပါတ်များပါသောအဆက်အသွယ်%dခု</item>
+        <item quantity="one">ဖုန်းနံပါတ်ပါသောအဆက်အသွယ်1ခု</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d ခု တွေ့ရှိသည်</item>
+        <item quantity="one">1ခု တွေ့ရှိသည်</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">ရင်းမြစ် %0$d ခုမှ ပူးပေါင်းထားသည်</item>
+        <item quantity="one">မပူးပေါင်းပါ</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">အုပ်စု %0$dစု</item>
+        <item quantity="one">အုပ်စု 1စု</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%2$s မှ လူ%1$d ယောက်</item>
+        <item quantity="one">%2$s မှ လူ%1$d ယောက်</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">လူ %1$d ယောက်</item>
+        <item quantity="one">လူ %1$d ယောက်</item>
+    </plurals>
+</resources>

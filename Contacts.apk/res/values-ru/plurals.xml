@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Найдено %d контактов</item>
+        <item quantity="one">Найден %d контакт</item>
+        <item quantity="few">Найдено %d контакта</item>
+        <item quantity="many">Найдено %d контактов</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d контактов с номером телефона</item>
+        <item quantity="one">%d контакт с номером телефона</item>
+        <item quantity="few">%d контакта с номером телефона</item>
+        <item quantity="many">%d контактов с номером телефона</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Найдено %d контактов</item>
+        <item quantity="one">Найден %d контакт</item>
+        <item quantity="few">Найдено %d контакта</item>
+        <item quantity="many">Найдено %d контактов</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">Объединено %0$d контактов</item>
+        <item quantity="one">Объединен %0$d контакт</item>
+        <item quantity="few">Объединены %0$d контакта</item>
+        <item quantity="many">Объединено %0$d контактов</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d групп</item>
+        <item quantity="one">%0$d группа</item>
+        <item quantity="few">%0$d группы</item>
+        <item quantity="many">%0$d групп</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d человек из %2$s</item>
+        <item quantity="one">%1$d человек из %2$s</item>
+        <item quantity="few">%1$d человека из %2$s</item>
+        <item quantity="many">%1$d человек из %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">В группе %1$d человек</item>
+        <item quantity="one">В группе %1$d человек</item>
+        <item quantity="few">В группе %1$d человека</item>
+        <item quantity="many">В группе %1$d человек</item>
+    </plurals>
+</resources>

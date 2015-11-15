@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Ștergeţi articolele selectate?</item>
+        <item quantity="one">Ștergeţi articolul selectat?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d selectate</item>
+        <item quantity="zero">%1$d selectate</item>
+        <item quantity="one">%1$d selectat</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">%1$d selectate</item>
+        <item quantity="zero">%1$d selectate</item>
+        <item quantity="one">%1$d selectat</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">%1$d selectate</item>
+        <item quantity="zero">%1$d selectate</item>
+        <item quantity="one">%1$d selectat</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Se fac disponibile offline albumele</item>
+        <item quantity="one">Se face disponibil offline albumul.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d (de) elemente scanate</item>
+        <item quantity="zero">%1$d elemente scanate</item>
+        <item quantity="one">%1$d element scanat</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">%d (de) secunde</item>
+        <item quantity="one">O secundă</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">%1$d fotografii</item>
+        <item quantity="one">%1$d fotografie</item>
+    </plurals>
+</resources>

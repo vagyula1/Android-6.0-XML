@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">टैग</string>
+    <string name="title_scanned_tag">नए टैग एकत्रित किए गए</string>
+    <string name="title_existing_tag">टैग</string>
+    <string name="tag_unknown">अज्ञात टैग प्रकार</string>
+    <string name="tag_empty">खाली टैग</string>
+    <string name="button_done">पूर्ण</string>
+    <string name="action_text">%s को SMS भेजें</string>
+    <string name="action_call">%s को कॉल करें</string>
+    <string name="empty_tag_prompt">यह टैग खाली है.</string>
+    <string name="import_vcard">^1 आयात करें</string>
+    <string name="mime_display_name">NFC टैग से डेटा</string>
+    <string name="vcard_title">^1 के लिए संपर्क जानकारी</string>
+</resources>

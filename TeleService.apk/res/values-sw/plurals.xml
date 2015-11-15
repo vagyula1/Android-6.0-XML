@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Hakuna muunganisho wa data kwa dakika %s</item>
+        <item quantity="one">Hakuna muunganisho wa data kwa dakika %s</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Simu itakuwa katika hali ya Simu ya Dharura kwa dakika %s. Ukiwa katika hali hii hakuna programu zinazotumia muunganisho wa data zinazoweza kutumiwa. Je, unataka kuondoka sasa?</item>
+        <item quantity="one">Simu itakuwa katika hali ya Simu ya Dharura kwa dakika %s. Ukiwa katika hali hii hakuna programu zinazotumia muunganisho wa data zinazoweza kutumiwa. Je, unataka kuondoka sasa?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Kitendo kilichochaguliwa hakipatikani ikiwa katika Simu ya Dharura. Simu itakuwa katika hali ya Simu ya Dharura kwa dakika %s. Je, unataka kuondoka sasa?</item>
+        <item quantity="one">Kitendo kilichochaguliwa hakipatikani ikiwa katika Simu ya Dharura. Simu itakuwa katika hali ya Simu ya Dharura kwa dakika %s. Je, unataka kuondoka sasa?</item>
+    </plurals>
+</resources>

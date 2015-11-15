@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photo_view_count" formatted="false">%d-ის %d</string>
+    <string name="retry">გამეორება</string>
+    <string name="failed">სურათი ვერ ჩაიტვირთა</string>
+</resources>

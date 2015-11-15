@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Ծրագրավորող դառնալու համար ձեզ մնացել է կատարել %1$d քայլ:</item>
+        <item quantity="one">Ծրագրավորող դառնալու համար ձեզ մնացել է կատարել %1$d քայլ:</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d մատնահետք կարգավորված է</item>
+        <item quantity="one">%1$d մատնահետք կարգավորված է</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Գաղտնաբառը պետք է պարունակի առնվազն %d տառ:</item>
+        <item quantity="one">Գաղտնաբառը պետք է պարունակի առնվազն %d տառ:</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Գաղտնաբառը պետք է պարունակի առնվազն %d փոքրատառ նիշ:</item>
+        <item quantity="one">Գաղտնաբառը պետք է պարունակի առնվազն %d փոքրատառ նիշ:</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Գաղտնաբառը պետք է պարունակի առնվազն %d մեծատառ նիշ:</item>
+        <item quantity="one">Գաղտնաբառը պետք է պարունակի առնվազն %d մեծատառ նիշ:</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Գաղտնաբառը պետք է պարունակի առնվազն %d թվային նիշ:</item>
+        <item quantity="one">Գաղտնաբառը պետք է պարունակի առնվազն %d թվային նիշ:</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Գաղտնաբառը պետք է պարունակի առնվազն %d հատուկ նիշ:</item>
+        <item quantity="one">Գաղտնաբառը պետք է պարունակի առնվազն %d հատուկ նիշ:</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Գաղտնաբառը պետք է պարունակի առնվազն %d ոչ-տառային նիշ:</item>
+        <item quantity="one">Գաղտնաբառը պետք է պարունակի առնվազն %d ոչ-տառային նիշ:</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM PIN կոդը սխալ է: Մնաց %d փորձ:</item>
+        <item quantity="one">SIM PIN կոդը սխալ է: Մնաց %d փորձ:</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d հավելված կարող է ծանուցումներ կարդալ</item>
+        <item quantity="one">%d հավելված կարող է ծանուցումներ կարդալ</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Ակտիվացնել «Միայն զարթուցիչը» ռեժիմը %1$d րոպեով (մինչև %2$s)</item>
+        <item quantity="one">Change to alarms only for %1$d minutes (until %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Ակտիվացնել «Միայն զարթուցիչը» ռեժիմը %1$d ժամով մինչև %2$s</item>
+        <item quantity="one">Change to alarms only for %1$d hours until %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">Տրամադրվել է %d թույլտվություն</item>
+        <item quantity="one">Տրամադրվել է %d թույլտվություն</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">Տրվել է %1$d-ից %2$d թույլտվություն</item>
+        <item quantity="one">%1$d of %2$d permissions granted</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d լրացուցիչ թույլտվություն</item>
+        <item quantity="one">%d լրացուցիչ թույլտվություն</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d հավելված կարող է բացել իր աջակցվող հղումները</item>
+        <item quantity="one">%d հավելված կարող է բացել իր աջակցվող հղումները</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d հավելված կարող է արագ սպառել մարտկոցի լիցքը</item>
+        <item quantity="one">%d հավելված կարող է արագ սպառել մարտկոցի լիցքը</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d հավելված օգտագործել է հիշողությունը վերջին %2$s-ում</item>
+        <item quantity="one">%1$d հավելված օգտագործել է հիշողությունը վերջին %2$s-ում</item>
+    </plurals>
+</resources>

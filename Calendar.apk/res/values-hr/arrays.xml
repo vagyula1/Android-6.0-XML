@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Obavijest</item>
+        <item>E-pošta</item>
+        <item>SMS</item>
+        <item>Alarm</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 minuta</item>
+        <item>1 minuta</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>15 minuta</item>
+        <item>20 minuta</item>
+        <item>25 minuta</item>
+        <item>30 minuta</item>
+        <item>45 minuta</item>
+        <item>1 sat</item>
+        <item>2 sata</item>
+        <item>3 sata</item>
+        <item>12 sati</item>
+        <item>24 sata</item>
+        <item>2 dana</item>
+        <item>1 tjedan</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Ništa</item>
+        <item>0 minuta</item>
+        <item>1 minuta</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>15 minuta</item>
+        <item>20 minuta</item>
+        <item>25 minuta</item>
+        <item>30 minuta</item>
+        <item>45 minuta</item>
+        <item>1 sat</item>
+        <item>2 sata</item>
+        <item>3 sata</item>
+        <item>12 sati</item>
+        <item>24 sata</item>
+        <item>2 dana</item>
+        <item>1 tjedan</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Zadana oznaka zemlje</item>
+        <item>Subota</item>
+        <item>Nedjelja</item>
+        <item>Ponedjeljak</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Zauzet</item>
+        <item>Dostupan</item>
+        <item>Privremena</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Zadano</item>
+        <item>Privatno</item>
+        <item>Javno</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>prvo</item>
+        <item>drugi</item>
+        <item>treće</item>
+        <item>četvrto</item>
+        <item>posljednje</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Nema odgovora</item>
+        <item>Da</item>
+        <item>Možda</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Samo ovaj događaj</item>
+        <item>Ovaj i budući događaji</item>
+        <item>Svi događaji</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Ovaj i budući događaji</item>
+        <item>Svi događaji</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Samo ovaj događaj</item>
+        <item>Svi događaji u nizu</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Dan</item>
+        <item>Tjedan</item>
+        <item>Mjesec</item>
+        <item>Raspored</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Samo ako je odbijeno</item>
+        <item>Ako je odbijeno ili nema odgovora</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>DNEVNO PONAVLJANJE</item>
+        <item>PONAVLJAJ TJEDNO</item>
+        <item>PONAVLJAJ MJESEČNO</item>
+        <item>PONAVLJAJ GODIŠNJE</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>svake prve nedjelje</item>
+        <item>svake druge nedjelje</item>
+        <item>svake treće nedjelje</item>
+        <item>svake četvrte nedjelje</item>
+        <item>svake zadnje nedjelje</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>svakog prvog ponedjeljka</item>
+        <item>svakog drugog ponedjeljka</item>
+        <item>svakog trećeg ponedjeljka</item>
+        <item>svakog četvrtog ponedjeljka</item>
+        <item>svakog zadnjeg ponedjeljka</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>svakog prvog utorka</item>
+        <item>svakog drugog utorka</item>
+        <item>svakog trećeg utorka</item>
+        <item>svakog četvrtog utorka</item>
+        <item>svakog zadnjeg utorka</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>svake prve srijede</item>
+        <item>svake druge srijede</item>
+        <item>svake treće srijede</item>
+        <item>svake četvrte srijede</item>
+        <item>svake zadnje srijede</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>svakog prvog četvrtka</item>
+        <item>svakog drugog četvrtka</item>
+        <item>svakog trećeg četvrtka</item>
+        <item>svakog četvrtog četvrtka</item>
+        <item>svakog zadnjeg četvrtka</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>svakog prvog petka</item>
+        <item>svakog drugog petka</item>
+        <item>svakog trećeg petka</item>
+        <item>svakog četvrtog petka</item>
+        <item>svakog zadnjeg petka</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>svake prve subote</item>
+        <item>svake druge subote</item>
+        <item>svake treće subote</item>
+        <item>svake četvrte subote</item>
+        <item>svake zadnje subote</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Kasni samo nekoliko minuta.</item>
+        <item>Budite tamo za oko 10 minuta.</item>
+        <item>Samo naprijed, počnite bez mene.</item>
+        <item>Žao mi je, ne mogu stići. Moramo promijeniti dogovor.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australsko središnje – NT</item>
+        <item>Australsko središnje – SA</item>
+        <item>Australsko istočno – QLD</item>
+        <item>Australsko istočno – NSW</item>
+        <item>Planinsko standardno – Dawson Creek</item>
+        <item>Središnje standardno – Saskatchewan</item>
+        <item>Istočno standardno – Atikokan</item>
+        <item>Atlantsko standardno – Quebec</item>
+        <item>Havajsko-aleutsko – Havaji</item>
+        <item>Havajsko-aleutsko – Aljaska</item>
+        <item>Pacifičko standardno – Metlakatla</item>
+        <item>Planinsko standardno – Arizona</item>
+        <item>Pacifičko – Baja California</item>
+        <item>Planinsko – Chihuahua</item>
+        <item>Središnje – Tamaulipas</item>
+        <item>Planinsko – Sonora</item>
+        <item>Istočnoafričko vrijeme</item>
+        <item>Atlantsko standardno vrijeme</item>
+        <item>Atlantsko standardno vrijeme</item>
+        <item>Istočnoeuropsko vrijeme</item>
+        <item>Kalinjingradsko vrijeme</item>
+        <item>Amazona – Rondônia</item>
+        <item>Brazilija – Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Karipski otoci Nizozemske</item>
+        <item>Curaçao</item>
+        <item>Južni Sudan</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Guaska</string>
+    <string name="bugreport_finished_title">Raporti i defektit në kod u regjistrua</string>
+    <string name="bugreport_finished_text">Prek për të ndarë raportin e defektit në kod</string>
+    <string name="bugreport_confirm">Raportet e gabimeve përmbajnë të dhëna nga skedarë të ndryshëm ditarësh sistemi, përfshi informacione personale dhe private. Shpërndaji publikisht raportet e gabimeve vetëm me aplikacionet dhe personat që iu beson.</string>
+    <string name="bugreport_confirm_repeat">Tregoje këtë mesazh herën tjetër</string>
+    <string name="bugreport_storage_title">Raportet e gabimeve</string>
+</resources>

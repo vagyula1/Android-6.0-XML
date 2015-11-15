@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Odpowiedz</item>
+        <item>Odpowiedz wszystkim</item>
+        <item>Przekaż dalej</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Udało się</item>
+        <item>Brak połączenia</item>
+        <item>Nie można się zalogować</item>
+        <item>Błąd zabezpieczeń</item>
+        <item>Błąd synchronizacji</item>
+        <item>Błąd wewnętrzny</item>
+        <item>Błąd serwera</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Nowsze wątki</item>
+        <item>Starsze wątki</item>
+        <item>Lista wątków</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Pokazuj nowszą konwersację po usunięciu</item>
+        <item>Pokazuj starszą konwersację po usunięciu</item>
+        <item>Pokazuj listę konwersacji po usunięciu</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Archiwizuj</item>
+        <item>Usuń</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Archiwizuj</item>
+        <item>Usuń</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Zawsze pokazuj pasek opcji u góry ekranu</item>
+        <item>Pokazuj pasek opcji u góry ekranu tylko w trybie pionowym</item>
+        <item>Nie pokazuj paska opcji poza nagłówkiem wiadomości</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Zawsze pokazuj</item>
+        <item>Pokazuj tylko w trybie pionowym</item>
+        <item>Nie pokazuj</item>
+    </string-array>
+</resources>

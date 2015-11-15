@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>A=ອາ​ບິດ​ຈານ</item>
+        <item>A=ອັກ​ຄ​ຣາ</item>
+        <item>A=ແອດ​ດິດ ອາ​ບາ​ບ່າ</item>
+        <item>A=ແອ​ລ​ເຈີ</item>
+        <item>B=ບະ​ລັນ​ໄທ​ຣ໌</item>
+        <item>B=ບ​ຣາ​ຊາ​ວິ​ລ</item>
+        <item>C=ໄຄ​ໂຣ</item>
+        <item>C=ຄາ​ຊາບ​ຣັງ​ກາ</item>
+        <item>C=ໂຄ​ນາກ​ຣີ</item>
+        <item>D=ດັກ​ກາ</item>
+        <item>D=ດາ​ເອ​ສ​ຊາ​ລຳ</item>
+        <item>D=ດິ​ຈິ​ບູ​ຕິ</item>
+        <item>F=ຟ​ຣີ​ທາວ</item>
+        <item>G=ກາ​ໂບ​ໂຣເນ</item>
+        <item>H=ຮາ​ແຣ</item>
+        <item>J=ໂຈ​ຮານ​ເນັ​ສ​ເບີກ</item>
+        <item>K=ກ​ຳ​ປາ​ລາ</item>
+        <item>K=ຄາ​ຕູມ</item>
+        <item>K=ຄິ​ກາ​ລິ</item>
+        <item>K=ກິນ​ຊາ​ຊ່າ</item>
+        <item>L=ລາກອ​ສ</item>
+        <item>M=ມາ​ເຊ​ຣຸ</item>
+        <item>M=ໂມ​ກາ​ດິ​ສ​ຊູ</item>
+        <item>N=ໄນ​ໂຣ​ບີ</item>
+        <item>S=ຊາວ​ໂຕ​ເມະ</item>
+        <item>T=ຕິມ​ບຸກ​ຕູ</item>
+        <item>T=ທ​ຣິ​ໂປ​ລິ</item>
+        <item>T=ຕູ​ນິ​ສ</item>
+        <item>A=ແອນ​ຊໍ​ເຣ​ຈ</item>
+        <item>M=ເມັນ​ໂດ​ຊ່າ</item>
+        <item>A=ອາ​ຣູ​ບາ</item>
+        <item>A=ອາ​ຊຸນ​ຊຽນ</item>
+        <item>B=ບາ​ບາ​ດໍ</item>
+        <item>B=ເບ​ລິ​ສ</item>
+        <item>B=ໂບ​ໂກ​ຕ່າ</item>
+        <item>B=ບູ​ໂນ​ສ ໄອ​ເຣັ​ສ</item>
+        <item>C=ກັງກຸນ</item>
+        <item>C=ຄາ​ຣາ​ຄາ​ສ</item>
+        <item>C=ເຄ​ແມນ</item>
+        <item>C=ຊິ​ກາ​ໂຄ</item>
+        <item>C=ຄອ​ສ​ຕາ​ຣິ​ກາ</item>
+        <item>C=ຄູ​ຣາ​ກາວ</item>
+        <item>D=ດາວ​ຊັນ​ຄ​ຣິກ</item>
+        <item>D=ເດັນ​ເວີ</item>
+        <item>D=ເດ​ຕ​ຣອຍ</item>
+        <item>D=ໂດ​ມິ​ນິ​ກາ</item>
+        <item>E=ເອັດ​ມອນ​ຕັນ</item>
+        <item>E=ແອ​ລ​ຊາ​ລ​ວາ​ດໍ</item>
+        <item>F=ຟໍ​ຕາ​ເຣ​ຊາ</item>
+        <item>G=ແກ​ຣນ​ເຕີກ</item>
+        <item>G=ກ​ຣີ​ນາ​ດາ</item>
+        <item>G=ກົວ​ເຕ​ມາ​ລາ</item>
+        <item>G=ກາຍອານາ</item>
+        <item>H=ຮາ​ລິ​ເຟັກ</item>
+        <item>H=ຮາ​ວາ​ນາ</item>
+        <item>I=ອິນ​ດຽນ​ນາ​ໂປ​ລິ​ສ</item>
+        <item>K=ນັອກ​ຊ໌</item>
+        <item>M=ມາ​ເຣັນ​ໂກ</item>
+        <item>P=ປີ​ເຕີ​ສ​ເບີກ</item>
+        <item>T=ເທ​ລ​ຊິ​ຕີ</item>
+        <item>V=ເວວາຍ</item>
+        <item>V=ວິນ​ເຊັນ​ເນັ​ສ</item>
+        <item>W=ວິນ​ນາ​ແມັກ</item>
+        <item>K=ຄິງ​ສະ​ໂຕນ</item>
+        <item>N=ນິ​ສ​ະ​ຕ​ຣາ ເຊ​ໂນ​ຣາ ເດີ ລາ ປາ​ສ</item>
+        <item>L=ລິ​ມາ</item>
+        <item>L=ລອ​ສ​ແອງ​ເຈ​ລິ​ສ</item>
+        <item>L=ຫຼຸຍ​ສ໌​ວິ​ລ</item>
+        <item>M=ມາ​ນາ​ກົວ</item>
+        <item>M=ມາ​ຕິ​ນິກ</item>
+        <item>M=ເມັນ​ໂດ​ຊ່າ</item>
+        <item>M=ເມັດ​ລາ​ກັດ​ລາ</item>
+        <item>M=ເມັກ​ຊິ​ໂກ​ຊິ​ຕີ</item>
+        <item>M=ມອນ​ເຕີ​ເຣ</item>
+        <item>M=ມອນ​ເຕວິ​ດີ​ໂອ</item>
+        <item>M=ມອນ​ຣຽວ</item>
+        <item>N=ນາ​ສ​ໂຊ</item>
+        <item>N=ນິວຢອກ</item>
+        <item>B=ບິວ​ລາ</item>
+        <item>C=ເຊັນ​ເຕີ</item>
+        <item>N=ນິວ​ຊາ​ເລັມ</item>
+        <item>P=ປາ​ນາ​ມາ</item>
+        <item>P=ໂຟ​ນິກ</item>
+        <item>P=ຜອດ​ອອບ​ສະ​ເປນ</item>
+        <item>P=ປໍໂຕປຣິນຊ໌</item>
+        <item>P=ເປີ​ໂຕ​ຣິ​ໂກ</item>
+        <item>S=ຊານ​ໂຕ​ໂດ​ມິ​ນີ​ໂກ</item>
+        <item>S=ເຊົາ​ເປົາ​ໂລ</item>
+        <item>S=ເຊ້ນ​ຈອນ</item>
+        <item>S=ເຊ້ນ​ຄິດ​ສ໌</item>
+        <item>S=ເຊ້ນ​ລູ​ເຊຍ</item>
+        <item>S=ເຊ້ນ​ໂທ​ມັ​ສ</item>
+        <item>T=ທິ​ຈວນ​ນາ</item>
+        <item>T=ໂຕ​ຣອນ​ໂຕ</item>
+        <item>V=ແວນ​ຄູ​ເວີ</item>
+        <item>W=ວິນ​ນິ​ເປັກ</item>
+        <item>S=ເຊົາ​ໂປ​ເລ</item>
+        <item>L=ລອງ​ເຢຍ​ບີນ</item>
+        <item>A=ອາ​ລ​ມາ​ຕີ</item>
+        <item>A=ອຳ​ມັນ</item>
+        <item>A=ອາ​ນາ​ເດີ</item>
+        <item>A=ອັກ​ເຕົາ</item>
+        <item>B=ແບັກ​ແດດ</item>
+        <item>B=ບາ​ເຣນ</item>
+        <item>B=ບາ​ກຸ</item>
+        <item>B=ບາງກອກ</item>
+        <item>B=ເບ​ຣຸດ</item>
+        <item>C=ຄາ​ລ​ຄູ​ຕາ</item>
+        <item>D=ດາ​ມາ​ສ​ຄັສ</item>
+        <item>D=ດັກ​ກາ</item>
+        <item>D=ດູ​ໄບ</item>
+        <item>G=ກາ​ຊ່າ</item>
+        <item>H=ຮີບ​ຣອນ</item>
+        <item>H=ໂຮ່​ຈິ​ມິນ</item>
+        <item>H=ຮ່ອງກົງ</item>
+        <item>I=ອິດ​ສະ​ຕານ​ບູນ</item>
+        <item>J=ຈາ​ກາຕ້າ</item>
+        <item>J=ເຢ​ຣູ​ຊາ​ເລັມ</item>
+        <item>K=ກາ​ບູນ</item>
+        <item>K=ກາ​ຣາ​ຈີ</item>
+        <item>K=ກັດ​ມານດູ</item>
+        <item>K=ກົວ​ລາ​ລຳ​ເປີ</item>
+        <item>K=ກູ​ເວດ</item>
+        <item>M=ມາ​ເກົາ</item>
+        <item>M=ມະ​ນີ​ລາ</item>
+        <item>M=ມຸ​ສ​ກັດ</item>
+        <item>P=ພະ​ນົມ​ເປັນ</item>
+        <item>P=ພຽງ​ຢາງ</item>
+        <item>Q=ກາ​ຕ້າ</item>
+        <item>R=ຢ້າງ​ກຸ້ງ</item>
+        <item>R=ຣິ​ຢາດ</item>
+        <item>S=ໄຊ​ງ່ອນ</item>
+        <item>S=ໂຊລ</item>
+        <item>S=ຊຽງ​ໄຮ</item>
+        <item>S=ສິງ​ກະ​ໂປ</item>
+        <item>T=ໄທ​ເປ</item>
+        <item>T=ເຕ​ຮາ​ຣານ</item>
+        <item>T=ເທວ​ອາ​ວິບ</item>
+        <item>T=ໂຕ​ກຽວ</item>
+        <item>U=ອູລານ​ບາ​ຕໍ</item>
+        <item>B=ເບີ​ມິວ​ດາ</item>
+        <item>C=ຄາ​ນາ​ຣີ</item>
+        <item>C=ກາບູເວດີ</item>
+        <item>R=ເຣກ​ຈາ​ວິກ</item>
+        <item>S=ສະ​ແຕນ​ເລ</item>
+        <item>A=ອາ​ເດ​ໄລ​ເດ</item>
+        <item>B=ບ​ຣິ​ສ​ເບນ</item>
+        <item>C=ແຄນ​ເບີ​ຣາ</item>
+        <item>D=ດາ​ວິນ</item>
+        <item>M=ເມວ​ເບິ້ນ</item>
+        <item>N=ນິວ​ຊາວ​ເວວ</item>
+        <item>P=ເພີດ</item>
+        <item>Q=ຄວີນ​ສ​ແລນ</item>
+        <item>S=ຊິດ​ນີ</item>
+        <item>V=ວິກ​ຕໍ​ເຣຍ</item>
+        <item>N=ນີວ​ຟາວ​ແລນ</item>
+        <item>S=ຊາດ​ສະ​ກາ​ເຊວານ</item>
+        <item>E=ເກາະ​ອີ​ສ​ເຕີ</item>
+        <item>A=ອຳ​ສະ​ເຕີ​ດາມ</item>
+        <item>A=ອັນ​ດໍ​ຣາ</item>
+        <item>A=ເອ​ເທັນ</item>
+        <item>B=ເບ​ລ​ຟາ​ສ​ທ໌</item>
+        <item>B=ເບ​ລ​ເກ​ຣດ</item>
+        <item>B=ເບີ​ລິນ</item>
+        <item>B=ບ​ຣາ​ສ​ຕິ​ສ​ລາ​ວາ</item>
+        <item>B=ບ​ຣັ​ດ​ເຊ​ວ</item>
+        <item>B=ບູ​ຊາ​ເຣັ​ສ</item>
+        <item>B=ບູ​ດາ​ເປັ​ສ</item>
+        <item>C=ຄີຊີເນົາ</item>
+        <item>C=ໂຄ​ເປັນ​ເຮ​ເກັນ</item>
+        <item>D=ດັບ​ລິນ</item>
+        <item>G=ຢິບບ​ຣານ​ຕາ</item>
+        <item>H=ເຮວ​ຊິນ​ກິ</item>
+        <item>I=ໄອ​ໂຊ​ອອບ​ແມນ</item>
+        <item>I=ອິ​ສ​ຕານ​ບູນ</item>
+        <item>K=ຂຽບ</item>
+        <item>L=ລິດ​ສບອນ</item>
+        <item>L=ລອນດອນ</item>
+        <item>L=ລຸກ​ຊຳ​ບວກ</item>
+        <item>M=ມາດ​ຣິດ</item>
+        <item>M=ມອ​ລ​ຕ້າ</item>
+        <item>M=ມິ້ນ​ສ​ກ໌</item>
+        <item>M=ໂມ​ນາ​ໂຄ</item>
+        <item>M=ມົດ​ສະ​ກູ</item>
+        <item>O=ອອ​ສ​ໂລ</item>
+        <item>P=ປາ​ຣີ</item>
+        <item>P=ປ​ຣາກ</item>
+        <item>R=ຣິ​ກາ</item>
+        <item>R=ໂຣມ</item>
+        <item>S=ຊານ​ມາ​ຣິ​ໂນ</item>
+        <item>S=ຊາ​ຣາ​ເຢຍ​ໂວ</item>
+        <item>S=ຊິມ​ເຟີ​ໂຣ​ໂພ​ລ</item>
+        <item>S=ສະ​ກັອບ​ເຈ</item>
+        <item>S=ໂຊ​ເຟຍ</item>
+        <item>S=ສະ​ຕັອກ​ໂຮມ</item>
+        <item>T=ຕາ​ລ​ລິນ</item>
+        <item>V=ວາ​ຕິ​ກັນ</item>
+        <item>V=ວຽນ​ນາ</item>
+        <item>V=ວິ​ລ​ນຽດ</item>
+        <item>W=ວໍ​ຊໍ</item>
+        <item>Z=ຊາ​ເກ​ຣັບ</item>
+        <item>Z=ຊູ​ຣິ​ດ</item>
+        <item>A=ອັນ​ຕານ​ນາ​ຣິ​ໂວ</item>
+        <item>M=ມາ​ລ​ດິບ</item>
+        <item>M=ໂມ​ຣິ​ຕຽ​ສ</item>
+        <item>A=ໂອກ​ແລນ</item>
+        <item>F=ຟິ​ຈິ</item>
+        <item>G=ກວາມ</item>
+        <item>H=ໂຮ​ໂນ​ລູ​ລູ</item>
+        <item>K=ກິ​ຣິ​ຕິ​ມາ​ຕິ</item>
+        <item>N=ນູ​ມີ</item>
+        <item>S=ຊາ​ມົວ</item>
+        <item>T=ຕາ​ຮິ​ຕິ</item>
+        <item>A=ແອນ​ຕິກວາ</item>
+        <item>A=ອອ​ສ​ຕິນ</item>
+        <item>B=ບອ​ສ​ຕັນ</item>
+        <item>C=ຄາ​ລ​ກາ​ຣີ</item>
+        <item>C=ໂຄ​ລົມ​ບັ​ສ</item>
+        <item>D=ດາ​ລ​ລັ​ສ</item>
+        <item>K=ນັອກ​ວິ​ລ</item>
+        <item>M=ເມັມ​ພິ​ສ</item>
+        <item>M=ໄມ​ອະ​ມີ</item>
+        <item>M=ມິນ​ນາ​ໂປ​ລິ​ສ</item>
+        <item>O=ອອດ​ຕາ​ວາ</item>
+        <item>P=ຟິ​ລາ​ເດລ​ເຟຍ</item>
+        <item>P=ພອດ​ແລນ</item>
+        <item>S=ຊານ​ດິ​ເອ​ໂກ</item>
+        <item>S=ຊານ ຟ​ຣານ​ຊິ​ສ​ໂກ</item>
+        <item>S=ຊອ​ລ​ທ໌​ເລກ​ຊິ​ຕີ</item>
+        <item>S=ຊານ​ໂຈເຊ</item>
+        <item>S=ຊານ​ຊາ​ວາ​ດໍ</item>
+        <item>S=ຊີ​ອາ​ເຕິ​ລ</item>
+        <item>S=ເຊ້ນ​ຫຼຸຍ</item>
+        <item>W=ວໍ​ຊິງ​ຕັນ​ດີ​ຊີ</item>
+        <item>H=ຮຸດ​ສະ​ຕັນ</item>
+        <item>S=ຊານ​ແອັນ​ໂຕ​ນິ​ໂອ</item>
+        <item>J=ແຈັກ​ສັນ​ວິ​ລ</item>
+        <item>B=ບາ​ລ​ຕິ​ມໍ</item>
+        <item>N=ນາ​ສວິ​ລ</item>
+        <item>M=ມິວ​ໂວ​ກີ</item>
+        <item>O=ໂອ​ກະ​ລາ​ໂຮ​ມາ​ຊິ​ຕີ</item>
+        <item>L=ລາ​ສ​ເວ​ກັ​ສ</item>
+        <item>A=ອາ​ລ​ບູ​ເຄີ​ເຄະ</item>
+        <item>T=ທັກ​ສັນ</item>
+        <item>S=ຊາ​ຄ​ຣາ​ເມັນ​ໂຕ</item>
+        <item>A=ແອັດ​ລັນ​ຕາ</item>
+        <item>C=ຄລີບ​ແລນ</item>
+        <item>N=ນິວ​ໂອ​ລີນ</item>
+        <item>T=ແທມ​ປ່າ</item>
+        <item>P=ພິ​ສະ​ເບີກ</item>
+        <item>C=ຊິນ​ຊິນ​ນາ​ຕິ</item>
+        <item>M=ເມົາ​ເທ້ນ​ວິວ</item>
+        <item>R=ເຣ​ໂນ</item>
+        <item>B=ແບ​ລັກ​ຣັອກ​ຊິ​ຕີ</item>
+        <item>D=ໂດ​ຮາ</item>
+        <item>B=ປັກ​ກິ່ງ</item>
+        <item>M=ມູມໄບ</item>
+        <item>D=ເດ​ລິ</item>
+        <item>O=ໂອ​ຊາ​ກະ</item>
+        <item>L=ລາ​ຮໍ</item>
+        <item>S=ຊາ​ນາ​ອາ</item>
+        <item>B=ບາ​ເຊ​ໂລ​ນາ</item>
+        <item>M=ມິວ​ນິກ</item>
+        <item>M=ມິ​ລານ</item>
+        <item>F=ແຟ​ຣງ​ເຟີດ</item>
+        <item>H=ຮ່າ​ໂນ້ຍ</item>
+        <item>A=ອັນ​ຄາ​ຣາ</item>
+        <item>B=ບັງ​ກາ​ລໍ</item>
+        <item>B=ບ​ຣາ​ຊິ​ເລຍ</item>
+        <item>C=ເຄບ​ທາວ</item>
+        <item>I=ອິ​ສ​ລາ​ມາ​ບັດ</item>
+        <item>R=ຣິ​ໂອ​ເດີ​ຈາ​ເນ​ໂຣ</item>
+        <item>A=ແອນ​ອາ​ບໍ</item>
+        <item>B=ບູ​ນ​ເດີ</item>
+        <item>C=ແຄມບ​ຣິດ​ຈ໌</item>
+        <item>K=ເກີກ​ແລນ</item>
+        <item>M=ມາ​ດິ​ສັນ</item>
+        <item>G=ກວາງ​ໂຈ</item>
+        <item>H=ໄຮ​ເດີ​ຣາ​ບັດ</item>
+        <item>R=ເຣັ​ສ​ຕອນ</item>
+        <item>B=ເບ​ໂຣ​ຮໍ​ຣິ​ຊອນ</item>
+        <item>S=ຊານ​ຕິ​ເອ​ໂກ</item>
+        <item>M=ມອນ​ໂຣ​ເວຍ</item>
+        <item>C=ໂຄ​ລົມ​ໂບ</item>
+        <item>C=ຈິ​ຮົວ​ຮົວ</item>
+        <item>S=ຊານ​ວາ​ດໍ</item>
+        <item>G=ຄຸເຄົານ໌</item>
+        <item>M=ແມນ​ເຊັ​ດສະ​ເຕີ</item>
+        <item>K=ກຽບ</item>
+        <item>S=ເຊ້ນ​ປີ​ເຕີ​ສະ​ເບີກ</item>
+        <item>K=ກ​ຣາ​ໂກ</item>
+        <item>W=ວະ​ໂລ​ຄ​ລໍ</item>
+        <item>H=ຮຳ​ບູກ</item>
+        <item>O=ອູ​ລູ</item>
+        <item>H=ໄຮ​ຟາ</item>
+        <item>S=ຊານ​ຈວນ</item>
+        <item>T=ເຕ​ກູ​ຊິ​ກາ​ລ​ປາ</item>
+        <item>P=ປາ​ຣາ​ມາ​ຣິ​ໂບ</item>
+        <item>Q=ກີ​ໂຕ</item>
+        <item>L=ແອ​ລ​ຈຸບ​ຈານ​ນາ</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>ເຫຼືອໜ້ອຍກວ່າ 1 ນາທີ</item>
+        <item>ຍັງເຫຼືອ %1$s</item>
+        <item>ຍັງເຫຼືອ %2$s</item>
+        <item>ຍັງເຫຼືອ %1$s %2$s</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>ໂມງປຸກຖືກຕັ້ງໄວ້ໜ້ອຍກວ່າ 1 ນາທີຫ່າງຈາກຕອນນີ້.</item>
+        <item>ໂມງປຸກຕັ້ງໄວ້ %1$s ຈາກຕອນນີ້.</item>
+        <item>ໂມງປຸກຖືກຕັ້ງໄວ້ %2$s ຈາກຕອນນີ້.</item>
+        <item>ໂມງປຸກຖືກຕັ້ງໄວ້ %1$s ແລະ %2$s ຈາກຕອນນີ້.</item>
+        <item>ໂມງປຸກຖືກຕັ້ງໄວ້ %3$s ຈາກຕອນນີ້.</item>
+        <item>ໂມງປຸກຖືກຕັ້ງໄວ້ %1$s ແລະ %3$s ຈາກຕອນນີ້.</item>
+        <item>ໂມງປຸກຖືກຕັ້ງໄວ້ %2$s ແລະ %3$s ຈາກຕອນນີ້.</item>
+        <item>ໂມງປຸກຖືກຕັ້ງໄວ້ %1$s, %2$s, ແລະ %3$s ຈາກຕອນນີ້.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>1 ນາທີ</item>
+        <item>5 ນາທີ</item>
+        <item>10 ນາທີ</item>
+        <item>15 ນາທີ</item>
+        <item>20 ນາທີ</item>
+        <item>25 ນາທີ</item>
+        <item>ບໍ່ໃຊ້</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>ວັນເສົາ</item>
+        <item>ວັນອາທິດ</item>
+        <item>ວັນຈັນ</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>ປິດສຽງເຕືອນຊົ່ວຄາວ</item>
+        <item>ປິດ</item>
+        <item>ບໍ່ເຮັດຫຍັງ</item>
+    </string-array>
+    <string-array name="sw_lap_number_set">
+        <item>\# %d</item>
+        <item>\# %02d</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>ທ່ານໄວປານຜີພຸ້ນນໍ້.</item>
+        <item>ຂໍໃຫ້ມີຄວາມສຸກກັບໝາກຜົນຈາກເຫື່ອແຮງຂອງທ່ານ.</item>
+        <item>Android ເປັນທີ່ຮູ້ຈັກໃນເລື່ອງຄວາມໄວ, ແຕ່ກໍຍັງບໍ່ໄວຊ່ຳເຈົ້າ!</item>
+        <item>ເຫີ່.</item>
+        <item>ເວລາຂັ້ນເທບ.</item>
+        <item>ຊ່າງເປັນຄວາມໄວອັນມະຫາສານ.</item>
+        <item>ມາເດີນທາງຂ້າມເວລາກັນອີກບາດນຶ່ງເທາະ.</item>
+        <item>ພຽງແຕ່ໂດດໄປທາງຊ້າຍ.</item>
+        <item>ທ່ານມີຖາດສີສຳລັບຄວາມໄວ.</item>
+        <item>ຄວາມໄວໂຟໂຕນິກ.</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>ໂມງເຂັມ</item>
+        <item>ດິຈິຕອນ</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>ໝູ່ເກາະມາແຊວ</item>
+        <item>ເກາະມິດເວ</item>
+        <item>ຮາວາຍ</item>
+        <item>ອາລັສກາ</item>
+        <item>ເວລາແປຊິຟິກ</item>
+        <item>ທິຮວນນາ</item>
+        <item>ອາຣິໂຊນາ</item>
+        <item>ຊິຮົວຮົວ</item>
+        <item>ເວລາເມົາເທນ</item>
+        <item>ອາເມລິກາກາງ</item>
+        <item>ເວລາກາງ</item>
+        <item>ເມັກຊິໂກ ຊິຕີ</item>
+        <item>ຊາເກັດເຊວານ</item>
+        <item>ໂບໂກຕາ</item>
+        <item>ເວລາຕາເວັນອອກ</item>
+        <item>ເວເນຊູເອລາ</item>
+        <item>ເວລາແອັດແລນຕິກ (ບາບາໂດສ)</item>
+        <item>ເວລາແອັດແລນຕິກ (ການາດາ)</item>
+        <item>ມາເນົາສ໌</item>
+        <item>ຊານຕິເອໂກ</item>
+        <item>ນິວຟາວແລນ</item>
+        <item>ບຣາຊິເລຍ</item>
+        <item>ບົວໂນສ ໄອເຣສ</item>
+        <item>ກຣີນແລນ</item>
+        <item>ມອນເທວິດີໂອ</item>
+        <item>ແອັດແລນຕິກກາງ</item>
+        <item>ອະໂຊເຣສ</item>
+        <item>ຫມູ່ເກາະເຄບເວີດ</item>
+        <item>ຄາຊາບລັງກາ</item>
+        <item>ລອນດອນ, ດັບບລິນ</item>
+        <item>ອຳສະເຕີດຳ, ເບີລິນ</item>
+        <item>ເບວເກຣດ</item>
+        <item>ບຣັສເຊວ</item>
+        <item>ຊາຣາເຮໂວ</item>
+        <item>ວິນຮູກຄ</item>
+        <item>ເວລາອາຟຣິກາ</item>
+        <item>ແອັມມານ, ຈໍແດນ</item>
+        <item>ເອເທນ, ອິສຕັນບູ</item>
+        <item>ເບຣຸດ, ເລບານອນ</item>
+        <item>ໄຄໂຣ</item>
+        <item>ເຮວຊິງກິ</item>
+        <item>ເຈີຣູຊາເລມ</item>
+        <item>ມິນສກ໌</item>
+        <item>ຮາຣາເຣ</item>
+        <item>ແບັກແດດ</item>
+        <item>ມອສໂຄ</item>
+        <item>ຄູເວດ</item>
+        <item>ໄນໂຣບີ</item>
+        <item>ເຕຣານ</item>
+        <item>ບາຄຸ</item>
+        <item>ທິບິລິຊີ</item>
+        <item>ເຢເຣວານ</item>
+        <item>ດູໄບ</item>
+        <item>ຄາບູ</item>
+        <item>ອິສລາມາບັດ, ກາຣາຈິ</item>
+        <item>ຢູໂຣເຊກ</item>
+        <item>ເຢກັດເທຣິນເບີກ</item>
+        <item>ໂຄຄາຕາ</item>
+        <item>ສີລັງກາ</item>
+        <item>ຄັດມັນດູ</item>
+        <item>ເອັສຕານາ</item>
+        <item>ຢາງກອນ</item>
+        <item>ຄຣາສໂນຢາກ</item>
+        <item>ບາງກອກ</item>
+        <item>ປັກກິ່ງ</item>
+        <item>ຮົງກົງ</item>
+        <item>ອຽກຄຸກສ໌ຄ</item>
+        <item>ກົວລາ ລຳເປີ</item>
+        <item>ເພີດ</item>
+        <item>ໄທເປ</item>
+        <item>ໂຊ</item>
+        <item>ໂຕກຽວ, ໂອຊາກາ</item>
+        <item>ຢາຄຸດສ໌ຄ</item>
+        <item>ອາເດວເລດ</item>
+        <item>ດາວິນ</item>
+        <item>ບຣິສເບນ</item>
+        <item>ໂຮບາດ</item>
+        <item>ຊິດນີ, ແຄນເບີຣາ</item>
+        <item>ວະລາດິໂວສໂຕກ</item>
+        <item>ກວມ</item>
+        <item>ມາກາດານ</item>
+        <item>ອັອກແລນ</item>
+        <item>ຟີຈິ</item>
+        <item>ທອງກາ</item>
+        <item>ຈາກາຕາ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Видалити вибрані елементи?</item>
+        <item quantity="one">Видалити вибраний елемент?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Вибрано %1$d</item>
+        <item quantity="zero">Вибрано %1$d</item>
+        <item quantity="one">Вибрано %1$d</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">Вибрано %1$d</item>
+        <item quantity="zero">Вибрано %1$d</item>
+        <item quantity="one">Вибрано %1$d</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">Вибрано %1$d</item>
+        <item quantity="zero">Вибрано %1$d</item>
+        <item quantity="one">Вибрано %1$d</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Надання доступу до альбомів у режимі офлайн.</item>
+        <item quantity="one">Надання доступу до альбому в режимі офлайн.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">Проскановано елементів: %1$d</item>
+        <item quantity="zero">Проскановано елементів: %1$d</item>
+        <item quantity="one">Проскановано елементів: %1$d</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">%d с</item>
+        <item quantity="one">1 с</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">%1$d фото</item>
+        <item quantity="one">%1$d фото</item>
+    </plurals>
+</resources>

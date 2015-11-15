@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lydopptak</string>
+    <string name="record_your_message">Ta opp en melding</string>
+    <string name="message_recorded">Melding tatt opp</string>
+    <string name="review_message">Spill tilbake melding</string>
+    <string name="recording">Tar opp</string>
+    <string name="recording_stopped">Opptak avbrutt</string>
+    <string name="storage_is_full">Tomt for plass</string>
+    <string name="max_length_reached">Makslengde nådd</string>
+    <string name="insert_sd_card">Koble til USB-lagring</string>
+    <string name="min_available">%d min. tilgjengelig</string>
+    <string name="sec_available">%ds tilgjengelig</string>
+    <string name="accept">Ferdig</string>
+    <string name="discard">Forkast</string>
+    <string name="button_ok">OK</string>
+    <string name="audio_db_artist_name">Dine opptak</string>
+    <string name="audio_db_album_name">Lydopptak</string>
+    <string name="audio_db_playlist_name">Mine opptak</string>
+    <string name="error_sdcard_access">Får ikke tilgang til USB-lagring.</string>
+    <string name="error_app_internal">Intern feil ved app.</string>
+    <string name="error_mediadb_new_record">Kunne ikke lagre lydopptak.</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Знайдено %d</item>
+        <item quantity="one">Знайдено %d</item>
+        <item quantity="few">Знайдено %d</item>
+        <item quantity="many">Знайдено %d</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d контакта з номерами телефону</item>
+        <item quantity="one">%d контакт із номерами телефону</item>
+        <item quantity="few">%d контакти з номерами телефону</item>
+        <item quantity="many">%d контактів із номерами телефону</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Знайдено %d</item>
+        <item quantity="one">Знайдено %d</item>
+        <item quantity="few">Знайдено %d</item>
+        <item quantity="many">Знайдено %d</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">об’єднано з %0$d джерела</item>
+        <item quantity="one">об’єднано з %0$d джерела</item>
+        <item quantity="few">об’єднано з %0$d джерел</item>
+        <item quantity="many">об’єднано з %0$d джерел</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d групи</item>
+        <item quantity="one">%0$d група</item>
+        <item quantity="few">%0$d групи</item>
+        <item quantity="many">%0$d груп</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d особи з %2$s</item>
+        <item quantity="one">%1$d особа з %2$s</item>
+        <item quantity="few">%1$d особи з %2$s</item>
+        <item quantity="many">%1$d осіб із %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d особи</item>
+        <item quantity="one">%1$d особа</item>
+        <item quantity="few">%1$d особи</item>
+        <item quantity="many">%1$d осіб</item>
+    </plurals>
+</resources>

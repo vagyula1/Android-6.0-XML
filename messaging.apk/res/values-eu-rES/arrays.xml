@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>gairik ez</item>
+        <item>gairik ez</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Bai</item>
+        <item>Ez</item>
+        <item>Ados</item>
+        <item>Kar-kar</item>
+        <item>Eskerrik asko</item>
+        <item>Ados</item>
+        <item>Ederki</item>
+        <item>Banoa</item>
+        <item>Ados, geroago erantzungo dizut</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

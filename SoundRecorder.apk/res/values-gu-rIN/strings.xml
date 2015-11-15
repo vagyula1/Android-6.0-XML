@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">સાઉન્ડ રેકોર્ડર</string>
+    <string name="record_your_message">તમારો સંદેશ રેકોર્ડ કરો</string>
+    <string name="message_recorded">સંદેશ રેકોર્ડ કર્યો</string>
+    <string name="review_message">સંદેશની સમીક્ષા કરો</string>
+    <string name="recording">રેકોર્ડ કરી રહ્યું છે</string>
+    <string name="recording_stopped">રેકોર્ડિંગ બંધ કર્યું</string>
+    <string name="storage_is_full">સ્ટોરેજ ભરાઈ ગયું છે</string>
+    <string name="max_length_reached">મહત્તમ લંબાઈ સુધી પહોંચ્યાં</string>
+    <string name="insert_sd_card">USB સંગ્રહને માઉન્ટ કરો</string>
+    <string name="min_available">%d મિનિટ ઉપલબ્ધ</string>
+    <string name="sec_available">%d ઉપલબ્ધ</string>
+    <string name="accept">થઈ ગયું</string>
+    <string name="discard">નિકાળો</string>
+    <string name="button_ok">ઑકે</string>
+    <string name="audio_db_artist_name">તમારી રેકોર્ડિંગ્સ</string>
+    <string name="audio_db_album_name">ઑડિઓ રેકોર્ડિંગ્સ</string>
+    <string name="audio_db_playlist_name">મારી રેકોર્ડિંગ્સ</string>
+    <string name="error_sdcard_access">USB સંગ્રહને ઍક્સેસ કરી શકતાં નથી.</string>
+    <string name="error_app_internal">આંતરિક એપ્લિકેશન ભૂલ.</string>
+    <string name="error_mediadb_new_record">રેકોર્ડ કરેલ ઑડિઓ સાચવી શકાયો નથી.</string>
+</resources>

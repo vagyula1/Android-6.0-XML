@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Dakika %d</item>
+        <item quantity="one">Dakika %d</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">Saa %d</item>
+        <item quantity="one">Saa %d</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">Siku %d</item>
+        <item quantity="one">Siku %d</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">wiki %d</item>
+        <item quantity="one">wiki</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">miezi %d</item>
+        <item quantity="one">mwezi</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">miaka %d</item>
+        <item quantity="one">mwaka</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">Ujumbe %1$d katika mazungumzo %2$d</item>
+        <item quantity="one">Ujumbe %d katika mazungumzo moja</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">Ujumbe %1$dkatika mazungumzo %2$d</item>
+        <item quantity="one">Ujumbe %d katika mazungumzo moja</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">Ujumbe %d mpya</item>
+        <item quantity="one">Ujumbe mpya</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">Ungependa kufuta mazungumzo haya?</item>
+        <item quantity="one">Ungependa kufuta mazungumzo haya?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">Washiriki %d</item>
+        <item quantity="one">Mshiriki %d</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">Tupa viambatisho</item>
+        <item quantity="one">Tupa kiambatisho</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">Picha %1$d zimehifadhiwa kwenye albamu ya \"%2$s\"</item>
+        <item quantity="one">Picha %1$d imehifadhiwa kwenye albamu ya \"%2$s\"</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">Video %1$d zimehifadhiwa kwenye albamu ya \"%2$s\"</item>
+        <item quantity="one">Video %1$d imehifadhiwa kwenye albamu ya \"%2$s\"</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">Viambatisho %1$d vimehifadhiwa kwenye albamu ya \"%2$s\"</item>
+        <item quantity="one">Kiambatisho %1$d kimehifadhiwa kwenye albamu ya \"%2$s\"</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">Viambatisho %d vimehifadhiwa kwenye \"Vipakuliwa\"</item>
+        <item quantity="one">Kiambatisho %d kimehifadhiwa kwenye \"Vipakuliwa\"</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">Imehifadhi viambatisho %d</item>
+        <item quantity="one">Imehifadhi kiambatisho %d</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">Haikuweza kuhifadhi viambatisho %d</item>
+        <item quantity="one">Haikuweza kuhifadhi kiambatisho %d</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">Tuma picha</item>
+        <item quantity="one">Tuma picha</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">Tuma sauti</item>
+        <item quantity="one">Tuma sauti</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">Tuma video</item>
+        <item quantity="one">Tuma video</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">Tuma kadi za anwani</item>
+        <item quantity="one">Tuma kadi ya anwani</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">Tuma viambatisho</item>
+        <item quantity="one">Tuma kiambatisho</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">Viambatisho %d viko tayari kutumwa</item>
+        <item quantity="one">Kiambatisho kimoja kiko tayari kutumwa</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">Anwani %d</item>
+        <item quantity="one">Anwani %d</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">Anwani zisizo sahihi</item>
+        <item quantity="one">Anwani isiyo sahihi</item>
+    </plurals>
+</resources>

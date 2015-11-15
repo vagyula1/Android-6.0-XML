@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_providers">
+        <item>content://com.android.email.provider/uiaccts</item>
+    </string-array>
+    <array name="letter_tile_colors">
+        <item>#ff90a4ae</item>
+        <item>#ff7baaf7</item>
+        <item>#ff4dd0e1</item>
+        <item>#ff4db6ac</item>
+        <item>#ffaed581</item>
+        <item>#fffdd835</item>
+        <item>#fff2a600</item>
+        <item>#ffff8a65</item>
+        <item>#fff48fb1</item>
+        <item>#ff7986cb</item>
+    </array>
+    <string-array name="compose_modes">
+        <item>Reply</item>
+        <item>Reply all</item>
+        <item>Forward</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Success</item>
+        <item>No connection</item>
+        <item>"Couldn't sign in"</item>
+        <item>Security error</item>
+        <item>"Couldn't sync"</item>
+        <item>Internal Error</item>
+        <item>Server Error</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Newer</item>
+        <item>Older</item>
+        <item>Conversation list</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Show newer conversation after you delete</item>
+        <item>Show older conversation after you delete</item>
+        <item>Show conversation list after you delete</item>
+    </string-array>
+    <string-array name="prefValues_autoAdvance">
+        <item>newer</item>
+        <item>older</item>
+        <item>list</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Archive</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Archive</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="prefValues_removal_action">
+        <item>archive</item>
+        <item>delete</item>
+    </string-array>
+    <string-array name="reply_choices">
+        <item>@string/reply_choice_yes</item>
+        <item>@string/reply_choice_no</item>
+        <item>@string/reply_choice_ok</item>
+        <item>@string/reply_choice_hehe</item>
+        <item>@string/reply_choice_thanks</item>
+        <item>@string/reply_choice_i_agree</item>
+        <item>@string/reply_choice_nice</item>
+        <item>@string/reply_on_my_way</item>
+        <item>@string/reply_choice_later</item>
+        <item>@string/reply_choice_smiling_face</item>
+        <item>@string/reply_choice_frowning_face</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Always show message actions at the top of the screen</item>
+        <item>Only show message actions at the top of the screen when rotated to portrait</item>
+        <item>"Don't show message actions outside the message header"</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Always show</item>
+        <item>Only show in portrait</item>
+        <item>"Don't show"</item>
+    </string-array>
+    <string-array name="prefValues_snapHeader">
+        <item>always</item>
+        <item>portrait</item>
+        <item>never</item>
+    </string-array>
+    <string-array name="account_settings_check_frequency_entries">
+        <item>@string/account_setup_options_mail_check_frequency_never</item>
+        <item>@string/account_setup_options_mail_check_frequency_5min</item>
+        <item>@string/account_setup_options_mail_check_frequency_10min</item>
+        <item>@string/account_setup_options_mail_check_frequency_15min</item>
+        <item>@string/account_setup_options_mail_check_frequency_30min</item>
+        <item>@string/account_setup_options_mail_check_frequency_1hour</item>
+    </string-array>
+    <string-array name="account_settings_check_frequency_values">
+        <item>-1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="account_settings_check_frequency_entries_push">
+        <item>@string/account_setup_options_mail_check_frequency_push</item>
+        <item>@string/account_setup_options_mail_check_frequency_never</item>
+        <item>@string/account_setup_options_mail_check_frequency_5min</item>
+        <item>@string/account_setup_options_mail_check_frequency_10min</item>
+        <item>@string/account_setup_options_mail_check_frequency_15min</item>
+        <item>@string/account_setup_options_mail_check_frequency_30min</item>
+        <item>@string/account_setup_options_mail_check_frequency_1hour</item>
+    </string-array>
+    <string-array name="account_settings_check_frequency_values_push">
+        <item>-2</item>
+        <item>-1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_entries">
+        <item>@string/account_setup_options_mail_window_1day</item>
+        <item>@string/account_setup_options_mail_window_3days</item>
+        <item>@string/account_setup_options_mail_window_1week</item>
+        <item>@string/account_setup_options_mail_window_2weeks</item>
+        <item>@string/account_setup_options_mail_window_1month</item>
+        <item>@string/account_setup_options_mail_window_all</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_entries_with_default">
+        <item>@string/account_setup_options_mail_window_default</item>
+        <item>@string/account_setup_options_mail_window_1day</item>
+        <item>@string/account_setup_options_mail_window_3days</item>
+        <item>@string/account_setup_options_mail_window_1week</item>
+        <item>@string/account_setup_options_mail_window_2weeks</item>
+        <item>@string/account_setup_options_mail_window_1month</item>
+        <item>@string/account_setup_options_mail_window_all</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_values_with_default">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="default_quick_responses">
+        <item>@string/quick_1</item>
+        <item>@string/quick_2</item>
+        <item>@string/quick_3</item>
+        <item>@string/quick_4</item>
+    </string-array>
+    <array name="combined_view_account_colors">
+        <item>@color/combined_view_account_color_1</item>
+        <item>@color/combined_view_account_color_2</item>
+        <item>@color/combined_view_account_color_3</item>
+        <item>@color/combined_view_account_color_4</item>
+        <item>@color/combined_view_account_color_5</item>
+        <item>@color/combined_view_account_color_6</item>
+        <item>@color/combined_view_account_color_7</item>
+        <item>@color/combined_view_account_color_8</item>
+        <item>@color/combined_view_account_color_9</item>
+    </array>
+    <string-array name="smtp_host_prefixes">
+        <item>pop3</item>
+        <item>pop</item>
+        <item>imap</item>
+    </string-array>
+</resources>

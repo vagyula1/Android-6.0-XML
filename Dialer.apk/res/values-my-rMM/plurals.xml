@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d တွေ့ခဲ့၏</item>
+        <item quantity="one">၁ ခု တွေခဲ့၏</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d စက္ကန့်များ</item>
+        <item quantity="one">၁ စက္ကန့်</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d မိနစ်များ</item>
+        <item quantity="one">၁ မိနစ်</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d နာရီများ</item>
+        <item quantity="one">၁ နာရီ</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d အသံမေးလ်များ</item>
+        <item quantity="one">အသံမေးလ်</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">အသံသုံးပို့စာ အသစ် %d ခု</item>
+        <item quantity="one">အသံသုံးပို့စာ အသစ် %d ခု</item>
+    </plurals>
+</resources>

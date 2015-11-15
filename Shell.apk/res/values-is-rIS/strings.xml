@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Skipanalína</string>
+    <string name="bugreport_finished_title">Villutilkynning útbúin</string>
+    <string name="bugreport_finished_text">Snertu til að deila villutilkynningunni</string>
+    <string name="bugreport_confirm">Villutilkynningar innihalda gögn úr hinum ýmsu annálsskrám kerfisins, þ. á m. persónuleg gögn og trúnaðarupplýsingar. Deildu villutilkynningum eingöngu með forritum og fólki sem þú treystir.</string>
+    <string name="bugreport_confirm_repeat">Sýna þessi skilaboð næst</string>
+    <string name="bugreport_storage_title">Villutilkynningar</string>
+</resources>

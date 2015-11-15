@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Мэдэгдэл</item>
+        <item>Имэйл</item>
+        <item>SMS</item>
+        <item>Сэрүүлэг</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 минут</item>
+        <item>1 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 цаг</item>
+        <item>2 цаг</item>
+        <item>3 цаг</item>
+        <item>12 цаг</item>
+        <item>24 цаг</item>
+        <item>2 өдөр</item>
+        <item>1 долоо хоног</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Байхгүй</item>
+        <item>0 минут</item>
+        <item>1 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 цаг</item>
+        <item>2 цаг</item>
+        <item>3 цаг</item>
+        <item>12 цаг</item>
+        <item>24 цаг</item>
+        <item>2 өдөр</item>
+        <item>1 долоо хоног</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Тухайн газрын үндсэн</item>
+        <item>Бямба</item>
+        <item>Ням</item>
+        <item>Даваа</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Завгүй</item>
+        <item>Холбогдсон</item>
+        <item>Урьдчилсан</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Үндсэн</item>
+        <item>Хувийн</item>
+        <item>Нийтийн</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>эхний</item>
+        <item>хоёрдох</item>
+        <item>гуравдах</item>
+        <item>дөрөвдэх</item>
+        <item>сүүлийн</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Хариу байхгүй</item>
+        <item>Тийм</item>
+        <item>Магадгүй</item>
+        <item>Үгүй</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Зөвхөн энэ үйл явдал</item>
+        <item>Энэ болон цаашдын үйл явдлууд</item>
+        <item>Бүх үйл явдал</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Энэ &amp; цаашдын үйл явдлууд</item>
+        <item>Бүх үйл явдал</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Зөвхөн энэ үйл явдал</item>
+        <item>Дараалсан бүх үйл явдал</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Өдөр</item>
+        <item>7 хоног</item>
+        <item>Сар</item>
+        <item>Хөтөлбөр</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Зөвхөн татгалзвал</item>
+        <item>Татгалзсан эсхүл хариулаагүй бол</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>ӨДӨР БҮР ДАВТАХ</item>
+        <item>ДОЛОО ХОНОГ БҮР ДАВТАХ</item>
+        <item>САР БҮР ДАВТАХ</item>
+        <item>ЖИЛ БҮР ДАВТАХ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>Эхний Ням гараг бүрт</item>
+        <item>Хоёрдох Ням гараг бүрт</item>
+        <item>Гуравдах Ням гараг бүрт</item>
+        <item>Дөрөвдэх Ням гараг бүрт</item>
+        <item>Сүүлийн Ням гараг бүрт</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>Эхний Даваа гараг бүрт</item>
+        <item>Хоёрдох Даваа гараг бүрт</item>
+        <item>Гуравдах Даваа гараг бүрт</item>
+        <item>Дөрөвдэх Даваа гараг бүрт</item>
+        <item>Сүүлийн Даваа гараг бүрт</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>Эхний Мягмар гараг бүрт</item>
+        <item>Хоёрдох Мягмар гараг бүрт</item>
+        <item>Гуравдах Мягмар гараг бүрт</item>
+        <item>Дөрөвдэх Мягмар гараг бүрт</item>
+        <item>Сүүлийн Мягмар гараг бүрт</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>Эхний Лхагва гараг бүрт</item>
+        <item>Хоёрдох Лхагва гараг бүрт</item>
+        <item>Гуравдах Лхагва гараг бүрт</item>
+        <item>Дөрөвдэх Лхагва гараг бүрт</item>
+        <item>Сүүлийн Лхагва гараг бүрт</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>Эхний Пүрэв гараг бүрт</item>
+        <item>Хоёрдох Пүрэв гараг бүрт</item>
+        <item>Гуравдах Пүрэв гараг бүрт</item>
+        <item>Дөрөвдэх Пүрэв гараг бүрт</item>
+        <item>Сүүлийн Пүрэв гараг бүрт</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>Эхний Баасан гараг бүрт</item>
+        <item>Хоёрдох Баасан гараг бүрт</item>
+        <item>Гуравдах Баасан гараг бүрт</item>
+        <item>Дөрөвдэх Баасан гараг бүрт</item>
+        <item>Сүүлийн Баасан гараг бүрт</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>Эхний Бямба гараг бүрт</item>
+        <item>Хоёрдох Бямба гараг бүрт</item>
+        <item>Гуравдах Бямба гараг бүрт</item>
+        <item>Дөрөвдэх Бямба гараг бүрт</item>
+        <item>Сүүлийн Бямба гараг бүрт</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Хэдхэн минут хоцорч байна.</item>
+        <item>10 минут дараа тэнд очно уу.</item>
+        <item>Надгүйгээр эхлүүлж байна уу.</item>
+        <item>Уучлаарай, би амжихааргүй боллоо. Уулзалтаа дахин товлоё.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Австралийн төвийн - NT</item>
+        <item>Австралын төвийн - SA</item>
+        <item>Австралийн зүүн - QLD</item>
+        <item>Австралийн зүүн - NSW</item>
+        <item>Уулын стандарт - Давсон Крийк</item>
+        <item>Төвийн стандарт - Саскачеван</item>
+        <item>Зүүн стандарт - Атикокан</item>
+        <item>Атлантик стандарт - Квебек</item>
+        <item>Хавай-Алеутиан - Хавай</item>
+        <item>Хавай-Алеутиан - Аляск</item>
+        <item>Номхон далайн стандарт - Метлакатла</item>
+        <item>Уулын стандарт - Аризона</item>
+        <item>Номхон далайн - Баха Калифорниа</item>
+        <item>Уулын - Чивава</item>
+        <item>Төвийн - Тамаулипас</item>
+        <item>Уулын - Сонора</item>
+        <item>Зүүн Африкын цаг</item>
+        <item>Атлантын стандарт цаг</item>
+        <item>Атлантын стандарт цаг</item>
+        <item>Зүүн Европын цаг</item>
+        <item>Калининградын цаг</item>
+        <item>Амазон - Рондониа</item>
+        <item>Бразилиа - Пара</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Сент-Мартин</item>
+        <item>Карибын Нидерланд</item>
+        <item>Кюрасао</item>
+        <item>Өмнөд Судан</item>
+    </string-array>
+</resources>

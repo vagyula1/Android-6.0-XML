@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى %1$d من الخطوات.</item>
+        <item quantity="zero">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج أية خطوة (%1$d).</item>
+        <item quantity="one">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى خطوة واحدة (%1$d).</item>
+        <item quantity="two">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى خطوتين (%1$d).</item>
+        <item quantity="few">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى %1$d خطوات.</item>
+        <item quantity="many">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى %1$d خطوة.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">إعداد %1$d من بصمات الإصبع</item>
+        <item quantity="zero">عدم إعداد أية بصمة إصبع (%1$d)</item>
+        <item quantity="one">إعداد بصمة إصبع واحدة (%1$d)</item>
+        <item quantity="two">إعداد بصمتي إصبع (%1$d)</item>
+        <item quantity="few">إعداد %1$d بصمات إصبع</item>
+        <item quantity="many">إعداد %1$d بصمة إصبع</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">‏يجب أن تحتوي كلمة المرور على %d من الأحرف على الأقل.</item>
+        <item quantity="zero">‏لا يجب أن تحتوي كلمة المرور على أية أحرف (%d).</item>
+        <item quantity="one">يجب أن تحتوي كلمة المرور على حرف واحد على الأقل.</item>
+        <item quantity="two">‏يجب أن تحتوي كلمة المرور على حرفين (%d) على الأقل.</item>
+        <item quantity="few">‏يجب أن تحتوي كلمة المرور على %d أحرف على الأقل.</item>
+        <item quantity="many">‏يجب أن تحتوي كلمة المرور على %d حرفًا على الأقل.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">‏يجب أن تحتوي كلمة المرور على %d من الأحرف الصغيرة على الأقل.</item>
+        <item quantity="zero">‏لا يجب أن تحتوي كلمة المرور على أية أحرف صغيرة (%d).</item>
+        <item quantity="one">يجب أن تحتوي كلمة المرور على حرف صغير واحد على الأقل.</item>
+        <item quantity="two">‏يجب أن تحتوي كلمة المرور على حرفين صغيرين (%d) على الأقل.</item>
+        <item quantity="few">‏يجب أن تحتوي كلمة المرور على %d أحرف صغيرة على الأقل.</item>
+        <item quantity="many">‏يجب أن تحتوي كلمة المرور على %d حرفًا صغيرًا على الأقل.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">‏يجب أن تحتوي كلمة المرور على %d من الأحرف الكبيرة على الأقل.</item>
+        <item quantity="zero">‏لا يجب أن تحتوي كلمة المرور على أية أحرف كبيرة (%d).</item>
+        <item quantity="one">يجب أن تحتوي كلمة المرور على حرف كبير واحد على الأقل.</item>
+        <item quantity="two">‏يجب أن تحتوي كلمة المرور على حرفين كبيرين (%d) على الأقل.</item>
+        <item quantity="few">‏يجب أن تحتوي كلمة المرور على %d أحرف كبيرة على الأقل.</item>
+        <item quantity="many">‏يجب أن تحتوي كلمة المرور على %d حرفًا كبيرًا على الأقل.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">‏يجب أن تحتوي كلمة المرور على %d من الأرقام العددية على الأقل.</item>
+        <item quantity="zero">‏لا يجب أن تحتوي كلمة المرور على أية أرقام عددية (%d).</item>
+        <item quantity="one">يجب أن تحتوي كلمة المرور على رقم عددي واحد على الأقل.</item>
+        <item quantity="two">‏يجب أن تحتوي كلمة المرور على رقمين عدديين (%d) على الأقل.</item>
+        <item quantity="few">‏يجب أن تحتوي كلمة المرور على %d أرقام عددية على الأقل.</item>
+        <item quantity="many">‏يجب أن تحتوي كلمة المرور على %d رقمًا عدديًا على الأقل.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">‏يجب أن تحتوي كلمة المرور على %d من الرموز الخاصة على الأقل.</item>
+        <item quantity="zero">‏لا يجب أن تحتوي كلمة المرور على أية رموز خاصة (%d).</item>
+        <item quantity="one">يجب أن تحتوي كلمة المرور على رمز خاص واحد على الأقل.</item>
+        <item quantity="two">‏يجب أن تحتوي كلمة المرور على رمزين خاصين (%d) على الأقل.</item>
+        <item quantity="few">‏يجب أن تحتوي كلمة المرور على %d رموز خاصة على الأقل.</item>
+        <item quantity="many">‏يجب أن تحتوي كلمة المرور على %d رمزًا خاصًا على الأقل.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">‏يجب أن تحتوي كلمة المرور على %d من الأحرف ليست من الأحرف الأبجدية على الأقل.</item>
+        <item quantity="zero">‏لا يجب أن تحتوي كلمة المرور على أية أحرف ليست من الأحرف الأبجدية (%d).</item>
+        <item quantity="one">يجب أن تحتوي كلمة المرور على حرف واحد ليس من الأحرف الأبجدية على الأقل.</item>
+        <item quantity="two">‏يجب أن تحتوي كلمة المرور على حرفين (%d) ليسا من الأحرف الأبجدية على الأقل.</item>
+        <item quantity="few">‏يجب أن تحتوي كلمة المرور على %d أحرف ليست من الأحرف الأبجدية على الأقل.</item>
+        <item quantity="many">‏يجب أن تحتوي كلمة المرور على %d حرفًا ليس من الأحرف الأبجدية على الأقل.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">‏رمز رقم التعريف الشخصي لبطاقة SIM غير صحيح، ويتبقى لديك %d من المحاولات.</item>
+        <item quantity="zero">‏رمز رقم التعريف الشخصي لبطاقة SIM غير صحيح، ولم يتبق لديك أية محاولات (%d).</item>
+        <item quantity="one">‏رمزPIN لبطاقة SIM غير صحيح، ولديك محاولة واحدة (%d) يجب أن تتصل بعدها بمشغّل شبكة الجوّال لإلغاء قفل الجهاز.</item>
+        <item quantity="two">‏رمز رقم التعريف الشخصي لبطاقة SIM غير صحيح، ويتبقى لديك محاولتان (%d).</item>
+        <item quantity="few">‏رمز رقم التعريف الشخصي لبطاقة SIM غير صحيح، ويتبقى لديك %d محاولات.</item>
+        <item quantity="many">‏رمز رقم التعريف الشخصي لبطاقة SIM غير صحيح، ويتبقى لديك %d محاولة.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">‏يمكن قراءة الإشعارات بواسطة %d من التطبيقات</item>
+        <item quantity="zero">‏لا يمكن قراءة الإشعارات بواسطة أي تطبيق (%d)</item>
+        <item quantity="one">‏يمكن قراءة الإشعارات بواسطة تطبيق واحد (%d)</item>
+        <item quantity="two">‏يمكن قراءة الإشعارات بواسطة تطبيقين (%d)</item>
+        <item quantity="few">‏يمكن قراءة الإشعارات بواسطة %d تطبيقات</item>
+        <item quantity="many">‏يمكن قراءة الإشعارات بواسطة %d تطبيقًا</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">تغيير إلى تنبيهات فقط لمدة %1$d من الدقائق (حتى %2$s)</item>
+        <item quantity="zero">تغيير إلى تنبيهات فقط لمدة %1$d من الدقائق (حتى %2$s)</item>
+        <item quantity="one">تغيير إلى تنبيهات فقط لمدة دقيقة واحدة حتى %2$s</item>
+        <item quantity="two">تغيير إلى تنبيهات فقط لمدة دقيقتين (%1$d) (حتى %2$s)</item>
+        <item quantity="few">تغيير إلى تنبيهات فقط لمدة %1$d دقائق (حتى %2$s)</item>
+        <item quantity="many">تغيير إلى تنبيهات فقط لمدة %1$d دقيقة (حتى %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">تغيير إلى تنبيهات فقط لمدة %1$d من الساعات حتى %2$s</item>
+        <item quantity="zero">تغيير إلى تنبيهات فقط لمدة %1$d من الساعات حتى %2$s</item>
+        <item quantity="one">تغيير إلى تنبيهات فقط لمدة ساعة واحدة حتى %2$s</item>
+        <item quantity="two">تغيير إلى تنبيهات فقط لمدة ساعتين (%1$d) حتى %2$s</item>
+        <item quantity="few">تغيير إلى تنبيهات فقط لمدة %1$d ساعات حتى %2$s</item>
+        <item quantity="many">تغيير إلى تنبيهات فقط لمدة %1$d ساعة حتى %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">تم منح %d من الأذونات</item>
+        <item quantity="zero">تم منح %d من الأذونات</item>
+        <item quantity="one">تم منح %d إذن</item>
+        <item quantity="two">تم منح إذنين (%d)</item>
+        <item quantity="few">تم منح %d أذونات</item>
+        <item quantity="many">تم منح %d إذنًا</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">تم منح %1$d من %2$d من الأذونات</item>
+        <item quantity="zero">تم منح %1$d من %2$d من الأذونات</item>
+        <item quantity="one">تم منح %1$d من %2$d إذن</item>
+        <item quantity="two">تم منح %1$d من %2$d من الأذونات</item>
+        <item quantity="few">تم منح %1$d من %2$d من الأذونات</item>
+        <item quantity="many">تم منح %1$d من %2$d من الأذونات</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d من الأذونات الإضافية</item>
+        <item quantity="zero">%d من الأذونات الإضافية</item>
+        <item quantity="one">%d إذن إضافي</item>
+        <item quantity="two">إذنان إضافيان (%d)</item>
+        <item quantity="few">%d أذونات إضافية</item>
+        <item quantity="many">%d إذنًا إضافيًا</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">يمكن لعدد %d من التطبيقات فتح روابطها المتوافقة</item>
+        <item quantity="zero">لا يمكن لأي تطبيق فتح أي رابط متوافق</item>
+        <item quantity="one">يمكن لتطبيق واحد فتح روابطه المتوافقة</item>
+        <item quantity="two">يمكن لتطبيقين (%d) فتح روابطهما المتوافقة</item>
+        <item quantity="few">يمكن لعدد %d تطبيقات فتح روابطها المتوافقة</item>
+        <item quantity="many">يمكن لعدد %d تطبيقًا فتح روابطها المتوافقة</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">سمح %d تطبيق بتجاهل تحسين البطارية</item>
+        <item quantity="zero">سمح %d تطبيق بتجاهل تحسين البطارية</item>
+        <item quantity="one">سمح تطبيق واحد بتجاهل تحسين البطارية</item>
+        <item quantity="two">سمح تطبيقان (%d) بتجاهل تحسين البطارية</item>
+        <item quantity="few">سمح %d تطبيقات بتجاهل تحسين البطارية</item>
+        <item quantity="many">سمح %d تطبيقًا بتجاهل تحسين البطارية</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">استخدمت %1$d من التطبيقات الذاكرة في آخر %2$s</item>
+        <item quantity="zero">استخدمت %1$d من التطبيقات الذاكرة في آخر %2$s</item>
+        <item quantity="one">استخدم تطبيق واحد الذاكرة في آخر %2$s</item>
+        <item quantity="two">استخدم تطبيقان (%1$d) الذاكرة في آخر %2$s</item>
+        <item quantity="few">استخدمت %1$d تطبيقات الذاكرة في آخر %2$s</item>
+        <item quantity="many">استخدم %1$d تطبيقًا الذاكرة في آخر %2$s</item>
+    </plurals>
+</resources>

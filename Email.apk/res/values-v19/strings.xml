@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="attach_file_content_description">@string/add_file_attachment</string>
+</resources>

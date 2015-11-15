@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 segundo</item>
+        <item>4 na segundo</item>
+        <item>6 na segundo</item>
+        <item>8 segundo</item>
+        <item>10 segundo</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>Isang beses</item>
+        <item>Bawat 2 minuto</item>
+        <item>Bawat 15 minuto</item>
+        <item>I-off</item>
+    </string-array>
+</resources>

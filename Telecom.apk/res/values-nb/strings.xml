@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Administrering av telefonsamtaler</string>
+    <string name="userCallActivityLabel">Telefon</string>
+    <string name="unknown">Ukjent</string>
+    <string name="notification_missedCallTitle">Tapt anrop</string>
+    <string name="notification_missedCallsTitle">Tapte anrop</string>
+    <string name="notification_missedCallsMsg">%s tapte anrop</string>
+    <string name="notification_missedCallTicker">Tapt anrop fra %s</string>
+    <string name="notification_missedCall_call_back">Ring tilbake</string>
+    <string name="notification_missedCall_message">Melding</string>
+    <string name="accessibility_call_muted">Samtalelyd er kuttet.</string>
+    <string name="accessibility_speakerphone_enabled">Høyttaler er aktivert.</string>
+    <string name="respond_via_sms_canned_response_1">Kan ikke snakke nå. Hva skjer?</string>
+    <string name="respond_via_sms_canned_response_2">Jeg ringer deg tilbake straks.</string>
+    <string name="respond_via_sms_canned_response_3">Jeg ringer deg senere.</string>
+    <string name="respond_via_sms_canned_response_4">Kan ikke nå. Ring meg senere.</string>
+    <string name="respond_via_sms_setting_title">Hurtigsvar</string>
+    <string name="respond_via_sms_setting_title_2">Rediger hurtigsvar</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Hurtigsvar</string>
+    <string name="respond_via_sms_confirmation_format">Melding er sendt til %s.</string>
+    <string name="enable_account_preference_title">Ringekontoer</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Eieren av enheten tillater bare nødanrop.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Denne appen kan ikke ringe uten tillatelse fra telefonen.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Skriv inn et gyldig nummer for å plassere en samtale.</string>
+    <string name="duplicate_video_call_not_allowed">Anrop kan ikke legges til akkurat nå.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Slå av TTY-modus for å starte videosamtaler.</string>
+    <string name="no_vm_number">Mangler nummer til talepostkasse</string>
+    <string name="no_vm_number_msg">Det er ikke lagret noe nummer for talepostkasse på SIM-kortet.</string>
+    <string name="add_vm_number_str">Legg til nummer</string>
+    <string name="change_default_dialer_dialog_title">Vil du endre standard telefonapp?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Vil du bruke %1$s i stedet for %2$s som standard telefonapp?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Vil du bruke %s som standard telefonapp?</string>
+</resources>

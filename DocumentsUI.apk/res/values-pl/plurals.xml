@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Kopiowanie %1$d pliku.</item>
+        <item quantity="one">Kopiowanie %1$d pliku.</item>
+        <item quantity="few">Kopiowanie %1$d plików.</item>
+        <item quantity="many">Kopiowanie %1$d plików.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Nie można skopiować %1$d pliku</item>
+        <item quantity="one">Nie można skopiować %1$d pliku</item>
+        <item quantity="few">Nie można skopiować %1$d plików</item>
+        <item quantity="many">Nie można skopiować %1$d plików</item>
+    </plurals>
+</resources>

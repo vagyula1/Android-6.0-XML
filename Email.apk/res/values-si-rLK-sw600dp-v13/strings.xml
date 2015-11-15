@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">ෆෝල්ඩර කළමනාකරණය කරන්න</string>
+    <string name="add_cc_label">+ කා.පි/ර.කා.පි.</string>
+    <string name="add_bcc_label">+ ර.කා.පි.</string>
+    <string name="preferences_default_reply_all_summary">පණිවිඩ දැනුම්දීම් වලට ප්‍රතිචාර සඳහා සුපුරුදු ලෙස භාවිතා කරන්න</string>
+</resources>

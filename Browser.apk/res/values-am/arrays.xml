@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_content_plugins_choices">
+        <item>ሁልጊዜ እንደበራ</item>
+        <item>በጥየቃ ላይ</item>
+        <item>ውጪ</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>የአሁኑ ገፅ</item>
+        <item>ባዶ ገፅ</item>
+        <item>ነባሪ ገፅ</item>
+        <item>በብዛት የተጎበኙ ገፆች</item>
+        <item>ሌላ</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>ደቃቃ</item>
+        <item>አነስተኛ</item>
+        <item>መደበኛ</item>
+        <item>ትልቅ</item>
+        <item>ግዙፍ</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>ሩቅ</item>
+        <item>መካከለኛ</item>
+        <item>ዝጋ</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>ዩኒኮድ(UTF-8)</item>
+        <item>ቻይንኛ (GBK)</item>
+        <item>ቻይንኛ (Big5)</item>
+        <item>ጃፓንኛ (ISO-2022-JP)</item>
+        <item>"ጃፓንኛ  (SHIFT_JIS)"</item>
+        <item>ጃፓንኛ (EUC-JP)</item>
+        <item>ኮሪያኛ (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>ፈፅሞ</item>
+        <item>በWi-Fi ላይ ብቻ</item>
+        <item>ሁልጊዜ</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>በፍጹም</item>
+        <item>በWi-Fi ላይ ብቻ</item>
+        <item>ዘወትር</item>
+    </string-array>
+</resources>

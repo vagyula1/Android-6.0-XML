@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d ተገኝቷል</item>
+        <item quantity="one">%d ተገኝቷል</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d ዕውቂያዎች ከስልክ ቁጥሮች ጋር</item>
+        <item quantity="one">%d ዕውቂያዎች ከስልክ ቁጥሮች ጋር</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d ተገኝቷል</item>
+        <item quantity="one">%d ተገኝቷል</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">ከ%0$d ምንጮች ተዋህዷል</item>
+        <item quantity="one">ከ%0$d ምንጮች ተዋህዷል</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d ቡድኖች</item>
+        <item quantity="one">%0$d ቡድኖች</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d ሰዎች ከ%2$s</item>
+        <item quantity="one">%1$d ሰዎች ከ%2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d ሰዎች</item>
+        <item quantity="one">%1$d ሰዎች</item>
+    </plurals>
+</resources>

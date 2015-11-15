@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">Папкаларды башкаруу</string>
+    <string name="add_cc_label">+ Кчрм/Жашр.кчрм</string>
+    <string name="add_bcc_label">+ Жашр.кчрм</string>
+    <string name="preferences_default_reply_all_summary">Билдирүү эскертмелерине демейки жооп катары колдонуу</string>
+</resources>

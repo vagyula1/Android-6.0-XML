@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Kas kustutada valitud üksused?</item>
+        <item quantity="one">Kas kustutada valitud üksus?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Valitud %1$d</item>
+        <item quantity="zero">Valitud %1$d</item>
+        <item quantity="one">Valitud %1$d</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">Valitud %1$d</item>
+        <item quantity="zero">Valitud %1$d</item>
+        <item quantity="one">Valitud %1$d</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">Valitud %1$d</item>
+        <item quantity="zero">Valitud %1$d</item>
+        <item quantity="one">Valitud %1$d</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Tegime albumid võrguühenduseta kättesaadavaks.</item>
+        <item quantity="one">Tegime albumi võrguühenduseta kättesaadavaks.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d üksust on skannitud</item>
+        <item quantity="zero">%1$d üksust on skannitud</item>
+        <item quantity="one">%1$d üksus on skannitud</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">%d sekundit</item>
+        <item quantity="one">1 sekund</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">%1$d fotot</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+</resources>

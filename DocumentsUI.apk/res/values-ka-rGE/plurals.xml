@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">მიმდინარეობს %1$d ფაილის კოპირება.</item>
+        <item quantity="one">მიმდინარეობს %1$d ფაილის კოპირება.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">ვერ მოხდა %1$d ფაილის კოპირება</item>
+        <item quantity="one">ვერ მოხდა %1$d ფაილის კოპირება.</item>
+    </plurals>
+</resources>

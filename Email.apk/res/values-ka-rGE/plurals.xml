@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">მონახაზები</item>
+        <item quantity="one">მონახაზი</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">წავშალო ეს %1$d მიმოწერა?</item>
+        <item quantity="one">წავშალო ეს მიმოწერა?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">დაარქივდეს ეს %1$d მიმოწერა?</item>
+        <item quantity="one">დავაარქივო ეს მიმოწერა?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">გაუქმდეს ეს %1$d შეტყობინება?</item>
+        <item quantity="one">გაუქმდეს ეს შეტყობინება?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">ვარსკვლავით მონიშვნა მოეხსნა %1$d მიმოწერას</item>
+        <item quantity="one">ვარსკვლავით მონიშვნა მოეხსნა %1$d მიმოწერას</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> დადუმებულია</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> დადუმებულია</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> მოინიშნა სპამად</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> მოინიშნა სპამად</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b>-ს მოეხსნა სპამად მონიშვნა</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b>-ს მოეხსნა სპამად მონიშვნა</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> მოინიშნა უმნიშვნელოდ</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> მოინიშნა უმნიშვნელოდ</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> მოინიშნა ფიშინგად</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> მოინიშნა ფიშინგად</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> დაარქივდა</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> დაარქივდა</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> წაიშალა</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> წაიშალა</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">შეიცვალა საქაღალდეები</item>
+        <item quantity="one">შეიცვალა საქაღალდე</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d ახალი შეტყობინება</item>
+        <item quantity="one">%1$d ახალი შეტყობინება</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d ძველი წერილის გაშლა</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">გაიშალა %1$d ძველი წერილი</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d წაუკითხავი</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d ახალი შეტყობინება</item>
+        <item quantity="one">%1$d ახალი შეტყობინება</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d შეტყობინება წაიშლება სამუდამოდ.</item>
+        <item quantity="one">%1$d შეტყობინება წაიშლება სამუდამოდ.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d შეტყობინება</item>
+        <item quantity="one">%1$d შეტყობინება</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d დანართი</item>
+        <item quantity="one">%1$d დანართი</item>
+    </plurals>
+</resources>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d मिनट</item>
+        <item quantity="one">%d मिनट</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d घंटे</item>
+        <item quantity="one">%d घंटे</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d दिन</item>
+        <item quantity="one">%d दिन</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d सप्‍ताह</item>
+        <item quantity="one">%d सप्‍ताह</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d महीने</item>
+        <item quantity="one">%d महीने</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d वर्ष</item>
+        <item quantity="one">%d वर्ष</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d वार्तालापों में %2$d संदेश</item>
+        <item quantity="one">%1$d वार्तालापों में %2$d संदेश</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">%1$d वार्तालापों में %2$d संदेश</item>
+        <item quantity="one">%1$d वार्तालापों में %2$d संदेश</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">%d नए संदेश</item>
+        <item quantity="one">%d नए संदेश</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">इन वार्तालापों को हटाएं?</item>
+        <item quantity="one">इन वार्तालापों को हटाएं?</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">%d प्रतिभागी</item>
+        <item quantity="one">%d प्रतिभागी</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">अटैचमेंट छोड़ें</item>
+        <item quantity="one">अटैचमेंट छोड़ें</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">%1$d फ़ोटो \"%2$s\" एल्बम में सहेजी गईं</item>
+        <item quantity="one">%1$d फ़ोटो \"%2$s\" एल्बम में सहेजी गईं</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">%1$d वीडियो \"%2$s\" एल्बम में सहेजे गए</item>
+        <item quantity="one">%1$d वीडियो \"%2$s\" एल्बम में सहेजे गए</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">%1$d अटैचमेंट \"%2$s\" एल्बम में सहेजे गए</item>
+        <item quantity="one">%1$d अटैचमेंट \"%2$s\" एल्बम में सहेजे गए</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">%d अटैचमेंट \"डाउनलोड\" में सहेजे गए</item>
+        <item quantity="one">%d अटैचमेंट \"डाउनलोड\" में सहेजे गए</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">%d अटैचमेंट सहेजे गए</item>
+        <item quantity="one">%d अटैचमेंट सहेजे गए</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">%d अटैचमेंट सहेजे नहीं जा सके</item>
+        <item quantity="one">%d अटैचमेंट सहेजे नहीं जा सके</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">फ़ोटो भेजें</item>
+        <item quantity="one">फ़ोटो भेजें</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">ऑडियो भेजें</item>
+        <item quantity="one">ऑडियो भेजें</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">वीडियो भेजें</item>
+        <item quantity="one">वीडियो भेजें</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">संपर्क कार्ड भेजें</item>
+        <item quantity="one">संपर्क कार्ड भेजें</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">अटैचमेंट भेजें</item>
+        <item quantity="one">अटैचमेंट भेजें</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">%d अटैचमेंट भेजे जाने के लिए तैयार हैं</item>
+        <item quantity="one">%d अटैचमेंट भेजे जाने के लिए तैयार हैं</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">%d संपर्क</item>
+        <item quantity="one">%d संपर्क</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">अमान्‍य संपर्क</item>
+        <item quantity="one">अमान्‍य संपर्क</item>
+    </plurals>
+</resources>

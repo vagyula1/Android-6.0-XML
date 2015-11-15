@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d minutit</item>
+        <item quantity="one">1 minut</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d tundi</item>
+        <item quantity="one">1 tund</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d päeva</item>
+        <item quantity="one">1 päev</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">Nädal: %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d korda</item>
+        <item quantity="one">; ühe korra</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Iga %d päeva järel</item>
+        <item quantity="one">Iga päev</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Iga %1$d nädala tagant: %2$s</item>
+        <item quantity="one">Iga nädal: %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d sündmust</item>
+        <item quantity="one">1 sündmus</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d sündmust</item>
+        <item quantity="one">+1 sündmus</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Iga %d päeva tagant</item>
+        <item quantity="one">Iga %d päeva tagant</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Iga %d nädala tagant</item>
+        <item quantity="one">Iga %d nädala tagant</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Iga %d kuu tagant</item>
+        <item quantity="one">Iga %d kuu tagant</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Iga %d aasta tagant</item>
+        <item quantity="one">Iga %d aasta tagant</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d sündmuse puhul</item>
+        <item quantity="one">%d sündmuse puhul</item>
+    </plurals>
+</resources>

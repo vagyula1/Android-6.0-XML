@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Rapport de bogue enregistré</string>
+    <string name="bugreport_finished_text">Appuyer ici pour partager votre rapport de bogue</string>
+    <string name="bugreport_confirm">"Les rapports de bogue contiennent des données des fichiers journaux du système, y compris des informations personnelles et privées. Ne partagez les rapports de bogue qu'avec les applications et les personnes que vous estimez fiables."</string>
+    <string name="bugreport_confirm_repeat">Afficher ce message la prochaine fois</string>
+    <string name="bugreport_storage_title">Rapports de bogues</string>
+</resources>

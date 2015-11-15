@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">කටු සටහන්</item>
+        <item quantity="one">කටු සටහන</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">මෙම සංවාද %1$d මකන්නද?</item>
+        <item quantity="one">මෙම සංවාදය මකන්න?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">මෙම සංවාද %1$d සංරක්ෂණය කරන්නද?</item>
+        <item quantity="one">මෙම සංවාදය සංරක්ෂණය කරන්නද?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">මෙම පණිවිඩ %1$d ඉවතලන්නද?</item>
+        <item quantity="one">මෙම පණිවිඩය ඉවතලන්නද?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">සංවාද %1$d කින් තරු ඉවත් කරමින්</item>
+        <item quantity="one">සංවාද %1$d කින් තරු ඉවත් කරමින්</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ක් නිහඬ කරන ලදි</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ක් නිහඬ කරන ලදි</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ආයාචිත ලෙස සලකුණු කරන ලදි</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ආයාචිත ලෙස සලකුණු කරන ලදි</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ක් ආයාචිත නොවන බව වාර්තා කරන ලදි</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ක් ආයාචිත නොවන බව වාර්තා කරන ලදි</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ක් වැදගත් නොවන බව සලකුණු කරන ලදි</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ක් වැදගත් නොවන බව සලකුණු කරන ලදි</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ක් තතුබෑම ලෙස වාර්තා කරන ලදි</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ක් තතුබෑම ලෙස වාර්තා කරන ලදි</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ක් සංරක්ෂිත කරන ලදි</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ක් සංරක්ෂිත කරන ලදි</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ක් මකා දමන ලදි</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ක් මකා දමන ලදි</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">ෆෝල්ඩර වෙනස් කරන ලදි</item>
+        <item quantity="one">ෆෝල්ඩරය වෙනස් කරන ලදි</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">අලුත් පණිවිඩ %1$d</item>
+        <item quantity="one">අලුත් පණිවිඩ %1$d</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">පැරණි පණිවිඩ %1$d විදහන්න</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">විහිදන ලද පැරණි පණිවිඩ %1$d</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">නොකියවූ %1$d</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">අලුත් පණිවිඩ %1$d</item>
+        <item quantity="one">අලුත් පණිවිඩ %1$d</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">පණිවිඩ %1$d ක් ස්ථිරවම මැකෙනු ඇත.</item>
+        <item quantity="one">%1$d පණිවිඩයක් ස්ථිරවම මැකෙනු ඇත.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">පණිවිඩ %1$d</item>
+        <item quantity="one">%1$d පණිවිඩයි</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">ඇමුණුම් %1$d</item>
+        <item quantity="one">ඇමුණුම් %1$d</item>
+    </plurals>
+</resources>

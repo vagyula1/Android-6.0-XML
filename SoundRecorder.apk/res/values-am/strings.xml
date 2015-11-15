@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">የድምፅ መቅጃ</string>
+    <string name="record_your_message">መልዕክቶን ይመዝግቡ</string>
+    <string name="message_recorded">መልዕክት ተቀድቷል</string>
+    <string name="review_message">መልዕክት ከልስ</string>
+    <string name="recording">በመመዝብ/በመቅዳት ላይ</string>
+    <string name="recording_stopped">መመዝብ/መቅዳትቆሟል</string>
+    <string name="storage_is_full">ማከማቻ ሙሉ ነው</string>
+    <string name="max_length_reached">ከፍተኛ ርዝመት ደርሷል</string>
+    <string name="insert_sd_card">የUSB ማከማቻ አጣብቅ</string>
+    <string name="min_available">%d ደቂቃ አለ</string>
+    <string name="sec_available">%dአለ</string>
+    <string name="accept">ተከናውኗል</string>
+    <string name="discard">አስወግድ</string>
+    <string name="button_ok">እሺ</string>
+    <string name="audio_db_artist_name">ቅጂዎችዎ</string>
+    <string name="audio_db_album_name">የድምፅ ቅጂዎች</string>
+    <string name="audio_db_playlist_name">የእኔ ቅጂዎች</string>
+    <string name="error_sdcard_access">"የUSB ማህደረ ትውስታ  መድረስ አልተቻለም።"</string>
+    <string name="error_app_internal">የመተግበሪያ ውስጥ ስህተት</string>
+    <string name="error_mediadb_new_record">የተቀዳ ኦዲዮ ለማስቀመጥ አልተቻለም</string>
+</resources>

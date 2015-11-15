@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Komentotulkki</string>
+    <string name="bugreport_finished_title">Virheraportti tallennettu</string>
+    <string name="bugreport_finished_text">Jaa virheraportti koskettamalla tätä</string>
+    <string name="bugreport_confirm">Virheraportit sisältävät järjestelmän lokitietoja, ja niihin voi sisältyä henkilökohtaisia ja yksityisiä tietoja. Jaa virheraportteja vain luotettaville sovelluksille ja käyttäjille.</string>
+    <string name="bugreport_confirm_repeat">Näytä tämä viesti seuraavalla kerralla</string>
+    <string name="bugreport_storage_title">Virheraportit</string>
+</resources>

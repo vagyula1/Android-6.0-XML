@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Жооп берүү</item>
+        <item>Баары жооп бер</item>
+        <item>Багыттоо</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Жаңыраак</item>
+        <item>Эскирээк</item>
+        <item>Маек тизмеси</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Жок кылуудан кийин акыркы маек көрсөтүлсүн</item>
+        <item>Жок кылуудан кийин мурунку маек көрсөтүлсүн</item>
+        <item>Жок кылуудан кийин маектер тизмеси көрсөтүлсүн</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Билдирүү аракеттери ар дайым экрандын жогору жагында көрсөтүлсүн</item>
+        <item>Тигинен көрүнүшкө айландырганда билдирүү аракеттери ар дайым экрандын жогору жагында көрсөтүлсүн.</item>
+        <item>Билдирүү аракеттери билдирүүнүн баш атынан тышкары аймакта көрсөтүлбөсүн</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Ар дайым көрсөтүлсүн</item>
+        <item>Тигинен гана көрсөтүлсүн</item>
+        <item>Көрсөтүлбөсүн</item>
+    </string-array>
+</resources>

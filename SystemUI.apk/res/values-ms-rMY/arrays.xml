@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Mengimbas...</item>
+        <item>Menyambung...</item>
+        <item>Mengesahkan...</item>
+        <item>Mendapatkan alamat IP...</item>
+        <item>Disambungkan</item>
+        <item>Digantung</item>
+        <item>Memutuskan sambungan...</item>
+        <item>Diputuskan sambungan</item>
+        <item>Tidak berjaya</item>
+        <item>Disekat</item>
+        <item>Mengelakkan sambungan lemah buat sementara</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Mengimbas...</item>
+        <item>Menyambung kepada %1$s...</item>
+        <item>Mengesahkan dengan %1$s...</item>
+        <item>Mendapatkan alamat IP dari %1$s...</item>
+        <item>Disambungkan kepada %1$s</item>
+        <item>Digantung</item>
+        <item>Memutuskan sambungan dari %1$s...</item>
+        <item>Diputuskan sambungan</item>
+        <item>Tidak berjaya</item>
+        <item>Disekat</item>
+        <item>Mengelakkan sambungan lemah buat sementara</item>
+    </string-array>
+</resources>

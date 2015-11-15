@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="mark_emergency_call">true</bool>
+    <bool name="enable_home_location">true</bool>
+    <bool name="display_home_location_on_statusbar">true</bool>
+</resources>

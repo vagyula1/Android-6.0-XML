@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hljóðupptaka</string>
+    <string name="record_your_message">Taktu upp skilaboðin</string>
+    <string name="message_recorded">Skilaboð tekin upp</string>
+    <string name="review_message">Fara yfir skilaboð</string>
+    <string name="recording">Upptaka í gangi</string>
+    <string name="recording_stopped">Upptaka stöðvuð</string>
+    <string name="storage_is_full">Geymslan er full</string>
+    <string name="max_length_reached">Hámarkslengd náð</string>
+    <string name="insert_sd_card">Tengdu USB-geymslu</string>
+    <string name="min_available">%d mínútur eftir</string>
+    <string name="sec_available">%d sekúndur eftir</string>
+    <string name="accept">Lokið</string>
+    <string name="discard">Fleygja</string>
+    <string name="button_ok">Í lagi</string>
+    <string name="audio_db_artist_name">Upptökurnar þínar</string>
+    <string name="audio_db_album_name">Hljóðupptökur</string>
+    <string name="audio_db_playlist_name">Upptökurnar mínar</string>
+    <string name="error_sdcard_access">Aðgangur að USB-geymslu fæst ekki.</string>
+    <string name="error_app_internal">Innri forritsvilla.</string>
+    <string name="error_mediadb_new_record">Ekki var hægt að vista hljóðupptöku.</string>
+</resources>

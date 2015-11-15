@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Telefoonoproepbeheer</string>
+    <string name="userCallActivityLabel">Telefoon</string>
+    <string name="unknown">Onbekend</string>
+    <string name="notification_missedCallTitle">Gemiste oproep</string>
+    <string name="notification_missedCallsTitle">Gemiste oproepen</string>
+    <string name="notification_missedCallsMsg">%s gemiste oproepen</string>
+    <string name="notification_missedCallTicker">Gemiste oproep van %s</string>
+    <string name="notification_missedCall_call_back">Terugbellen</string>
+    <string name="notification_missedCall_message">Bericht</string>
+    <string name="accessibility_call_muted">Oproep gedempt.</string>
+    <string name="accessibility_speakerphone_enabled">Telefoonluidspreker is ingeschakeld.</string>
+    <string name="respond_via_sms_canned_response_1">Kan nu niet opnemen. Alles goed?</string>
+    <string name="respond_via_sms_canned_response_2">Ik bel je zo terug.</string>
+    <string name="respond_via_sms_canned_response_3">Ik bel je later.</string>
+    <string name="respond_via_sms_canned_response_4">Kan nu niet opnemen. Bel me later.</string>
+    <string name="respond_via_sms_setting_title">Snelle reacties</string>
+    <string name="respond_via_sms_setting_title_2">Snelle reacties bewerken</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Snelle reactie</string>
+    <string name="respond_via_sms_confirmation_format">Bericht verzonden naar %s.</string>
+    <string name="enable_account_preference_title">Oproepaccounts</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Alleen noodoproepen zijn toegestaan door de apparaateigenaar.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Deze app kan geen uitgaande oproepen starten zonder telefoonrechten.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Als u wilt bellen, moet u een geldig nummer invoeren.</string>
+    <string name="duplicate_video_call_not_allowed">Oproep kan momenteel niet worden toegevoegd.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Schakel de TTY-modus uit om videogesprekken te voeren.</string>
+    <string name="no_vm_number">Voicemailnummer ontbreekt</string>
+    <string name="no_vm_number_msg">Er is geen voicemailnummer op de SIM-kaart opgeslagen.</string>
+    <string name="add_vm_number_str">Nummer toevoegen</string>
+    <string name="change_default_dialer_dialog_title">Standaard kiezerapp wijzigen?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">%1$s in plaats van %2$s gebruiken als standaard kiezerapp?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">%s gebruiken als standaard kiezerapp?</string>
+</resources>

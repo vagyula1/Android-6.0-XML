@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d minutu</item>
+        <item quantity="one">1 minutu</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d ordu</item>
+        <item quantity="one">1 ordu</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d egun</item>
+        <item quantity="one">1 egun</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">%d. ASTEA</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d aldiz</item>
+        <item quantity="one">; behin</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d egunez behin</item>
+        <item quantity="one">Egunero</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d astez behin, egun honetan: %2$s</item>
+        <item quantity="one">Astero, egun honetan: %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d gertaera</item>
+        <item quantity="one">gertaera bat</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d gertaera</item>
+        <item quantity="one">+1 gertaera</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">%d egunez behin</item>
+        <item quantity="one">%d egunez behin</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">%d astez behin</item>
+        <item quantity="one">%d astez behin</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">%d hilabetez behin</item>
+        <item quantity="one">%d hilabetez behin</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">%d urtez behin</item>
+        <item quantity="one">%d urtez behin</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d gertaeratan</item>
+        <item quantity="one">%d gertaeratan</item>
+    </plurals>
+</resources>

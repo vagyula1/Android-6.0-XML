@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Puhelujen hallinta</string>
+    <string name="userCallActivityLabel">Puhelin</string>
+    <string name="unknown">Tuntematon</string>
+    <string name="notification_missedCallTitle">Vastaamatta jäänyt puhelu</string>
+    <string name="notification_missedCallsTitle">Vastaamattomat puhelut</string>
+    <string name="notification_missedCallsMsg">%s vastaamatonta puhelua</string>
+    <string name="notification_missedCallTicker">Vastaamatta jäänyt puhelu numerosta %s</string>
+    <string name="notification_missedCall_call_back">Soita</string>
+    <string name="notification_missedCall_message">Viesti</string>
+    <string name="accessibility_call_muted">Puhelu mykistetty.</string>
+    <string name="accessibility_speakerphone_enabled">Kaiutin käytössä.</string>
+    <string name="respond_via_sms_canned_response_1">En voi vastata - mitä asiaa?</string>
+    <string name="respond_via_sms_canned_response_2">Soitan sinulle pian.</string>
+    <string name="respond_via_sms_canned_response_3">Soitan sinulle myöhemmin.</string>
+    <string name="respond_via_sms_canned_response_4">En voi vastata. Soitatko myöhemmin?</string>
+    <string name="respond_via_sms_setting_title">Pikavastaukset</string>
+    <string name="respond_via_sms_setting_title_2">Muokkaa pikavastausta</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Pikavastaukset</string>
+    <string name="respond_via_sms_confirmation_format">Viesti lähetetty numeroon %s.</string>
+    <string name="enable_account_preference_title">Puhelutilit</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Laitteen omistaja on sallinut vain hätäpuhelut.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Tämä sovellus ei voi soittaa puheluita ilman Puhelin-lupaa.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Soita antamalla kelvollinen numero.</string>
+    <string name="duplicate_video_call_not_allowed">Puhelua ei voi lisätä juuri nyt.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Poista TTY-tila käytöstä, jos haluat soittaa videopuheluita.</string>
+    <string name="no_vm_number">Puhelinvastaajan numero puuttuu</string>
+    <string name="no_vm_number_msg">SIM-kortille ei ole tallennettu puhelinvastaajan numeroa.</string>
+    <string name="add_vm_number_str">Lisää numero</string>
+    <string name="change_default_dialer_dialog_title">Vaihdetaanko oletuspuhelusovellus?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Asetetaanko oletuspuhelusovellukseksi %1$s sovelluksen %2$s sijaan?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Asetetaanko %s oletuspuhelusovellukseksi?</string>
+</resources>

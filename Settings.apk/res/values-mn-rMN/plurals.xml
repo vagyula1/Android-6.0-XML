@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Танд одоо хөгжүүлэгч болоход %1$d алхам дутуу байна.</item>
+        <item quantity="one">Танд одоо хөгжүүлэгч болоход %1$d алхам дутуу байна.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d хурууны хээг тохируулах</item>
+        <item quantity="one">%1$d хурууны хээг тохируулах</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Password must contain at least %d lowercase letters.</item>
+        <item quantity="one">Нууц үгэнд хамгийн багадаа 1 жижиг үсэг оросон байх шаардлагатай.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">СИМ-ны ПИН код буруу байна. Та %d удаа оролдлого хийх боломжтой байна.</item>
+        <item quantity="one">СИМ-ны ПИН код буруу байна. Танд мобайл оператортойгоо холбогдохгүйгээр төхөөрөмжийн түгжээг тайлахад %d оролдлого хийх боломж үлдсэн байна.</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">\"Анхааруул\" горимд (%2$s хүртэл) зөвхөн %1$d минутын турш шилжих</item>
+        <item quantity="one">\"Анхааруул\" горимд %2$s хүртэл зөвхөн нэг минутын турш шилжих</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">\"Анхааруул\" горимд %2$s хүртэл зөвхөн %1$d цагийн турш шилжих</item>
+        <item quantity="one">\"Анхааруул\" горимд %2$s хүртэл зөвхөн нэг цагийн турш шилжих</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d зөвшөөрөл олгогдсон</item>
+        <item quantity="one">%d зөвшөөрөл олгогдсон</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d-аас %2$d зөвшөөрөл олгогдсон</item>
+        <item quantity="one">%1$d-аас %2$d зөвшөөрөл олгогдсон байна</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d нэмэлт зөвшөөрөл</item>
+        <item quantity="one">%d нэмэлт зөвшөөрөл</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d апп нь өөрийн дэмждэг холбоосыг нээж болно</item>
+        <item quantity="one">Нэг апп нь өөрийн дэмждэг холбоосыг нээж болно</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d апп тэжээлийн оновчлолыг хэрэгсэхгүй байж болно</item>
+        <item quantity="one">1 aпп тэжээлийн оновчлолыг хэрэгсэхгүй байж болно</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d апп сүүлийн %2$s хугацаанд санах ой ашигласан байна</item>
+        <item quantity="one">1 апп сүүлийн %2$s хугацаанд санах ой ашигласан байна</item>
+    </plurals>
+</resources>

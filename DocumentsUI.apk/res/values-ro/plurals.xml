@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Se copiază %1$d de fișiere.</item>
+        <item quantity="one">Se copiază %1$d fișier.</item>
+        <item quantity="few">Se copiază %1$d fișiere.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Nu s-au putut copia %1$d de fișiere</item>
+        <item quantity="one">Nu s-a putut copia %1$d fișier</item>
+        <item quantity="few">Nu s-au putut copia %1$d fișiere</item>
+    </plurals>
+</resources>

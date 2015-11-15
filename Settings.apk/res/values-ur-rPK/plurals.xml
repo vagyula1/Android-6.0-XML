@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">اب آپ ایک ڈویلپر بننے سے %1$d قدم دور ہیں۔</item>
+        <item quantity="one">اب آپ ایک ڈویلپر بننے سے %1$d قدم دور ہیں۔</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d فنگر پرنٹس ترتیب دیے گئے</item>
+        <item quantity="one">%1$d فنگر پرنٹ ترتیب دیا گیا</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">‏پاس ورڈ میں کم از کم ‎%d حروف ہونے ضروری ہیں۔</item>
+        <item quantity="one">پاس ورڈ میں کم از کم 1 حرف ہونا ضروری ہے۔</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">‏پاس ورڈ میں کم از کم ‎%d چھوٹے حروف ہونے ضروری ہیں۔</item>
+        <item quantity="one">پاس ورڈ میں کم از کم 1 چھوٹا حرف ہونا ضروری ہے۔</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">‏ پاس ورڈ میں کم از کم ‎%d بڑے حروف ہونے ضروری ہیں۔</item>
+        <item quantity="one">پاس ورڈ میں کم از کم 1 بڑا حرف ہونا ضروری ہے۔</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">‏پاس ورڈ میں کم از کم ‎‎%d عددی ہندسے ہونے ضروری ہیں۔</item>
+        <item quantity="one">پاس ورڈ میں کم از کم 1 عددی ہندسہ ہونا ضروری ہے۔</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">‏پاس ورڈ میں کم از کم ‎%d خصوصی علامات ہونی ضروری ہیں۔</item>
+        <item quantity="one">پاس ورڈ میں کم از کم 1 خصوصی علامت ہونی ضروری ہے۔</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">‏پاس ورڈ میں کم از کم ‎%d ایسے کیرکٹرز ہونے ضروری ہیں جو حروف نہ ہوں۔</item>
+        <item quantity="one">پاس ورڈ میں کم از کم ایک ایسا کیرکٹر ہونا ضروری ہے جو حرف نہ ہو۔</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">‏غلط SIM PIN کوڈ، آپ کے پاس %d کوششیں بچی ہیں۔</item>
+        <item quantity="one">‏غلط SIM PIN کوڈ، آپ کے پاس %d کوشش بچی ہے، اس کے بعد آپ کو اپنا آلہ غیر مقفل کرنے کیلئے اپنے کریئر سے رابطہ کرنا ہوگا۔</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">‏‎%d ایپس اطلاعات پڑھ سکتی ہیں</item>
+        <item quantity="one">‏‎%d ایپ اطلاعات پڑھ سکتی ہے</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">%1$d منٹ (%2$s تک) کیلئے صرف الارمز میں تبدیل کریں</item>
+        <item quantity="one">%2$s تک ایک منٹ کیلئے صرف الارمز میں تبدیل کریں</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">%2$s تک %1$d گھنٹے کیلئے صرف الارمز میں تبدیل کریں</item>
+        <item quantity="one">%2$s تک ایک گھنٹے کیلئے صرف الارمز میں تبدیل کریں</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d اجازتیں دی گئیں</item>
+        <item quantity="one">%d اجازت دی گئی</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d از %2$d اجازتیں منظور کی گئیں</item>
+        <item quantity="one">%1$d از %2$d اجازت منظور کی گئی</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d اضافی اجازتیں</item>
+        <item quantity="one">%d اضافی اجازت</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d ایپس اپنے تعاون یافتہ لنکس کھول سکتی ہیں</item>
+        <item quantity="one">ایک ایپ اپنے تعاون یافتہ لنکس کھول سکتی ہے</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d ایپس کو بیٹری بہترین بنانا نظر انداز کرنے کی اجازت ہے</item>
+        <item quantity="one">1 ایپ کو بیٹری بہترین بنانا نظر انداز کرنے کی اجازت ہے</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">گزشتہ %2$s گھنٹے میں %1$d ایپس نے میموری استعمال کی</item>
+        <item quantity="one">گزشتہ %2$s گھنٹے میں 1 ایپ نے میموری استعمال کی</item>
+    </plurals>
+</resources>

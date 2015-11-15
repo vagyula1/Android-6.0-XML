@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skaņas ierakstītājs</string>
+    <string name="record_your_message">Ierakstiet ziņojumu</string>
+    <string name="message_recorded">Ziņojums ierakstīts</string>
+    <string name="review_message">Ziņojuma pārskatīšana</string>
+    <string name="recording">Notiek ierakstīšana</string>
+    <string name="recording_stopped">Ierakstīšana apturēta</string>
+    <string name="storage_is_full">Krātuve ir pilna</string>
+    <string name="max_length_reached">Sasniegts maksimālais garums</string>
+    <string name="insert_sd_card">Pievienojiet USB atmiņu.</string>
+    <string name="min_available">Pieejamas %d min</string>
+    <string name="sec_available">Pieejamas %d s</string>
+    <string name="accept">Gatavs</string>
+    <string name="discard">Atmest</string>
+    <string name="button_ok">Labi</string>
+    <string name="audio_db_artist_name">Jūsu ieraksti</string>
+    <string name="audio_db_album_name">Audio ieraksti</string>
+    <string name="audio_db_playlist_name">Mani ieraksti</string>
+    <string name="error_sdcard_access">Nevar piekļūt USB atmiņai.</string>
+    <string name="error_app_internal">Iekšēja lietojumprogrammas kļūda</string>
+    <string name="error_mediadb_new_record">Nevarēja saglabāt ierakstīto audio.</string>
+</resources>

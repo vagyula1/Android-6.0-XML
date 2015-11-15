@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <fraction name="config_min_keyboard_height">39.999996%p</fraction>
+    <fraction name="config_keyboard_top_padding_holo">2.726996%p</fraction>
+    <fraction name="config_keyboard_bottom_padding_holo">0.0%p</fraction>
+    <fraction name="config_key_vertical_gap_holo">4.4999957%p</fraction>
+    <fraction name="config_key_horizontal_gap_holo">0.8999944%p</fraction>
+    <fraction name="config_key_letter_ratio_holo">50.0%</fraction>
+    <fraction name="config_key_letter_ratio_lxx">50.0%</fraction>
+    <fraction name="config_key_large_letter_ratio_holo">48.0%</fraction>
+    <fraction name="config_key_large_letter_ratio_lxx">60.000004%</fraction>
+    <fraction name="config_key_label_ratio_holo">32.000004%</fraction>
+    <fraction name="config_key_label_ratio_lxx">32.000004%</fraction>
+    <fraction name="config_key_hint_letter_ratio_holo">23.000002%</fraction>
+    <fraction name="config_key_hint_letter_ratio_lxx">23.000002%</fraction>
+    <fraction name="config_key_hint_label_ratio_holo">34.000004%</fraction>
+    <fraction name="config_key_hint_label_ratio_lxx">20.000004%</fraction>
+    <fraction name="config_key_shifted_letter_hint_ratio_holo">28.999996%</fraction>
+    <fraction name="config_key_shifted_letter_hint_ratio_lxx">28.999996%</fraction>
+    <fraction name="config_language_on_spacebar_text_ratio">29.999996%</fraction>
+    <fraction name="config_key_vertical_gap_5row">3.1999946%p</fraction>
+    <fraction name="config_key_letter_ratio_5row">62.0%</fraction>
+    <fraction name="config_key_shifted_letter_hint_ratio_5row">36.0%</fraction>
+    <fraction name="config_min_more_suggestions_width">50.0%</fraction>
+    <fraction name="config_emoji_keyboard_key_width">10.000002%p</fraction>
+    <fraction name="config_emoji_keyboard_row_height">33.000004%p</fraction>
+    <fraction name="config_emoji_keyboard_key_letter_size">70.00001%p</fraction>
+</resources>

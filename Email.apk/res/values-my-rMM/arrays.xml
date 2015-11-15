@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>ဖြေကြားရန်</item>
+        <item>အားလုံးကို ဖြေ</item>
+        <item>တစ်ဆင့်ပို့</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>အောင်မြင်</item>
+        <item>ချိတ်ဆက်မှု မရှိ</item>
+        <item>လက်မှတ်ထိုး မ၀င်နိုင်ခဲ့ပါ</item>
+        <item>လုံခြုံရေး အမှား</item>
+        <item>စင့်က် မလုပ်နိုင်ခဲ့ပါ</item>
+        <item>အင်တာနက် အမှား</item>
+        <item>ဆာဗား အမှား</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>ပိုသစ်သော</item>
+        <item>ပိုဟောင်း</item>
+        <item>စကားဝိုင်း စာရင်း</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>သင် ဖျက်ပြီး နောက်မှာ ပိုသစ်သော စကားဝိုင်းကို ပြရန်</item>
+        <item>သင် ဖျက်ပြီးနောက်မှာ ပိုဟောင်းသော စကားဝိုင်းကို ပြရန်</item>
+        <item>သင် ဖျက်ပြီး နောက်မှာ စကားဝိုင်း စာရင်းကို ပြရန်</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>မော်ကွန်းတင်ရန်</item>
+        <item>ဖျက်ပစ်ရန်</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>မော်ကွန်းတင်ရန်</item>
+        <item>ဖျက်ပစ်ရန်</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>စာ လုပ်ဆောင်ချက်များကို မျက်နှာပြင် ထိပ်မှာ အမြဲ ပြရန်</item>
+        <item>ပုံတူနှင့် ဆက်စပ်မှသာ စာ လုပ်ဆောင်ချက်များကို မျက်နှာပြင် ထိပ်မှာ အမြဲ ပြရန်</item>
+        <item>စာ လုပ်ဆောင်ချက်များကို စာ၏ ခေါင်းစီး အပြင်မှာ မပြပါနှင့်</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>အမြဲ ပြရန်</item>
+        <item>ပုံတူ ထဲမှာသာ ပြရန်</item>
+        <item>မပြပါနှင့်</item>
+    </string-array>
+</resources>

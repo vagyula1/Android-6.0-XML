@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Відповісти</item>
+        <item>Відповісти всім</item>
+        <item>Переслати</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Виконано</item>
+        <item>Немає з’єднання</item>
+        <item>Не вдалося ввійти</item>
+        <item>Помилка безпеки</item>
+        <item>Не вдалося синхронізувати</item>
+        <item>Внутрішня помилка</item>
+        <item>Помилка сервера</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Новіші</item>
+        <item>Старіші</item>
+        <item>Список ланцюжків</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Показувати новіший ланцюжок повідомлень після видалення</item>
+        <item>Показувати старіший ланцюжок повідомлень після видалення</item>
+        <item>Показувати список ланцюжків повідомлень після видалення</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Архівувати</item>
+        <item>Видалити</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Архівувати</item>
+        <item>Видалити</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Завжди показувати повідомлення про дії вгорі екрана</item>
+        <item>Показувати повідомлення про дії вгорі екрана лише в книжковій орієнтації</item>
+        <item>Не показувати повідомлення про дії за межами заголовка повідомлення</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Завжди показувати</item>
+        <item>Показувати лише в книжковій орієнтації</item>
+        <item>Не показувати</item>
+    </string-array>
+</resources>

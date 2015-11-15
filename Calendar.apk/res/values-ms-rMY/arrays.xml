@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Pemberitahuan</item>
+        <item>E-mel</item>
+        <item>SMS</item>
+        <item>Penggera</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 minit</item>
+        <item>1 minit</item>
+        <item>5 minit</item>
+        <item>10 minit</item>
+        <item>15 minit</item>
+        <item>20 minit</item>
+        <item>25 minit</item>
+        <item>30 minit</item>
+        <item>45 minit</item>
+        <item>1 jam</item>
+        <item>2 jam</item>
+        <item>3 jam</item>
+        <item>12 jam</item>
+        <item>24 jam</item>
+        <item>2 hari</item>
+        <item>1 minggu</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Tiada</item>
+        <item>0 minit</item>
+        <item>1 minit</item>
+        <item>5 minit</item>
+        <item>10 minit</item>
+        <item>15 minit</item>
+        <item>20 minit</item>
+        <item>25 minit</item>
+        <item>30 minit</item>
+        <item>45 minit</item>
+        <item>1 jam</item>
+        <item>2 jam</item>
+        <item>3 jam</item>
+        <item>12 jam</item>
+        <item>24 jam</item>
+        <item>2 hari</item>
+        <item>1 minggu</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Lalai tempat peristiwa</item>
+        <item>Sabtu</item>
+        <item>Ahad</item>
+        <item>Isnin</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Sibuk</item>
+        <item>Ada</item>
+        <item>Tentatif</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Lalai</item>
+        <item>Peribadi</item>
+        <item>Awam</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>pertama</item>
+        <item>saat</item>
+        <item>ketiga</item>
+        <item>keempat</item>
+        <item>terakhir</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Tiada jawapan</item>
+        <item>Ya</item>
+        <item>Mungkin</item>
+        <item>Tidak</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Acara ini sahaja</item>
+        <item>Acara ini dan acara masa depan</item>
+        <item>Semua acara</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Acara ini &amp; masa depan</item>
+        <item>Semua acara</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Acara ini sahaja</item>
+        <item>Semua acara dalam siri</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Hari</item>
+        <item>Minggu</item>
+        <item>Bulan</item>
+        <item>Agenda</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Hanya jika ditolak</item>
+        <item>Jika ditolak atau tidak dijawab</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>ULANG SETIAP HARI</item>
+        <item>ULANG SETIAP MINGGU</item>
+        <item>ULANG SETIAP BULAN</item>
+        <item>ULANG SETIAP TAHUN</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>pada setiap Ahad pertama</item>
+        <item>pada setiap Ahad kedua</item>
+        <item>pada setiap Ahad ketiga</item>
+        <item>pada setiap Ahad keempat</item>
+        <item>pada setiap Ahad terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>pada setiap Isnin pertama</item>
+        <item>pada setiap Isnin kedua</item>
+        <item>pada setiap Isnin ketiga</item>
+        <item>pada setiap Isnin keempat</item>
+        <item>pada setiap Isnin terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>pada setiap Selasa pertama</item>
+        <item>pada setiap Selasa kedua</item>
+        <item>pada setiap Selasa ketiga</item>
+        <item>pada setiap Selasa keempat</item>
+        <item>pada setiap Selasa terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>pada setiap Rabu pertama</item>
+        <item>pada setiap Rabu kedua</item>
+        <item>pada setiap Rabu ketiga</item>
+        <item>pada setiap Rabu keempat</item>
+        <item>pada setiap Rabu terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>pada setiap Khamis pertama</item>
+        <item>pada setiap Khamis kedua</item>
+        <item>pada setiap Khamis ketiga</item>
+        <item>pada setiap Khamis keempat</item>
+        <item>pada setiap Khamis terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>pada setiap Jumaat pertama</item>
+        <item>pada setiap Jumaat kedua</item>
+        <item>pada setiap Jumaat ketiga</item>
+        <item>pada setiap Jumaat keempat</item>
+        <item>pada setiap Jumaat terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>pada setiap Sabtu pertama</item>
+        <item>pada setiap Sabtu kedua</item>
+        <item>pada setiap Sabtu ketiga</item>
+        <item>pada setiap Sabtu keempat</item>
+        <item>pada setiap Sabtu terakhir</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Terlewat beberapa minit sahaja.</item>
+        <item>Ada di sana dalam kira-kira 10 minit.</item>
+        <item>Teruskan dan mulakan tanpa saya.</item>
+        <item>Maaf, saya tidak dapat datang. Kita perlu menjadualkannya semula.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australia Tengah - NT</item>
+        <item>Australia Tengah - SA</item>
+        <item>Australia Timur - QLD</item>
+        <item>Australia Timur - NSW</item>
+        <item>Piawai Pergunungan - Dawson Creek</item>
+        <item>Piawai Tengah - Saskatchewan</item>
+        <item>Piawai Timur - Atikokan</item>
+        <item>Piawai Atlantik - Quebec</item>
+        <item>Aleutian Hawaii - Hawaii</item>
+        <item>Aleutian Hawaii - Alaska</item>
+        <item>Piawai Pasifik - Metlakatla</item>
+        <item>Piawai Pergunungan - Arizona</item>
+        <item>Pasifik - Baja California</item>
+        <item>Pergunungan - Chihuahua</item>
+        <item>Tengah - Tamaulipas</item>
+        <item>Pergunungan - Sonora</item>
+        <item>Waktu Afrika Timur</item>
+        <item>Waktu Piawai Atlantik</item>
+        <item>Waktu Piawai Atlantik</item>
+        <item>Waktu Eropah Timur</item>
+        <item>Waktu Kaliningrad</item>
+        <item>Amazon - Rondônia</item>
+        <item>Brasilia - Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Caribbean Belanda</item>
+        <item>Curaçao</item>
+        <item>Sudan Selatan</item>
+    </string-array>
+</resources>

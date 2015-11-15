@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d دقيقة</item>
+        <item quantity="one">دقيقة واحدة</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d دقيقة</item>
+        <item quantity="one">دقيقة واحدة</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d ساعة</item>
+        <item quantity="one">ساعة واحدة</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d يوم</item>
+        <item quantity="one">يوم واحد</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">الأسبوع %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">؛ لـ %d من المرات</item>
+        <item quantity="one">؛ لمرة واحدة</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">كل %d أيام</item>
+        <item quantity="one">يوميًا</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">يوم %2$s من كل %1$d من الأسابيع</item>
+        <item quantity="one">يوم %2$s من كل أسبوع</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">1+</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d من الأحداث</item>
+        <item quantity="one">حدث واحد</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d من الأحداث</item>
+        <item quantity="one">+ حدث واحد</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">كل %d يوم</item>
+        <item quantity="one">كل %d يوم</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">كل %d أسبوع</item>
+        <item quantity="one">كل %d أسبوع</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">كل %d شهر</item>
+        <item quantity="one">كل %d شهر</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">كل %d عام</item>
+        <item quantity="one">كل %d عام</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">لـ %d من الأحداث</item>
+        <item quantity="one">لـ %d حدث</item>
+    </plurals>
+</resources>

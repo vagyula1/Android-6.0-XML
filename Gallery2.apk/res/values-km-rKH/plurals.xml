@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">លុប​ធាតុ​ដែល​បាន​ជ្រើស​​​?</item>
+        <item quantity="one">លុប​ធាតុ​ដែល​បាន​ជ្រើស​?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">បាន​ជ្រើស %1$d</item>
+        <item quantity="zero">បាន​ជ្រើស %1$d</item>
+        <item quantity="one">បាន​ជ្រើស %1$d</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">បាន​ជ្រើស %1$d</item>
+        <item quantity="zero">បាន​ជ្រើស %1$d</item>
+        <item quantity="one">បាន​ជ្រើស %1$d</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">បាន​ជ្រើស %1$d</item>
+        <item quantity="zero">បាន​ជ្រើស %1$d</item>
+        <item quantity="one">បាន​ជ្រើស %1$d</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">ធ្វើ​ឲ្យ​អាល់ប៊ុម​អាច​ប្រើ​បាន​ក្រៅ​បណ្ដាញ</item>
+        <item quantity="one">ធ្វើ​ឲ្យ​អាល់ប៊ុម​អាច​ប្រើ​បាន​ក្រៅ​បណ្ដាញ។</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">បាន​វិភាគ​រក​ធាតុ %1$d</item>
+        <item quantity="zero">បាន​វិភាគ​រក​ធាតុ %1$d</item>
+        <item quantity="one">បាន​វិភាគ​រក​ធាតុ %1$d</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">%d វិនាទី</item>
+        <item quantity="one">១ វិនាទី</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">រូបថត %1$d</item>
+        <item quantity="one">រូបថត %1$d</item>
+    </plurals>
+</resources>

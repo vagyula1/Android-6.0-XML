@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>סורק...</item>
+        <item>מתחבר ...</item>
+        <item>מאמת…</item>
+        <item>‏משיג כתובת IP…</item>
+        <item>מחובר</item>
+        <item>בהשעיה</item>
+        <item>מתנתק...</item>
+        <item>מנותק</item>
+        <item>נכשל</item>
+        <item>חסומה</item>
+        <item>נמנע זמנית מחיבור חלש</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>סורק...</item>
+        <item>מתחבר אל %1$s…</item>
+        <item>מאמת עם %1$s...</item>
+        <item>‏משיג כתובת IP מ-%1$s…</item>
+        <item>מחובר אל %1$s</item>
+        <item>בהשעיה</item>
+        <item>מתנתק מרשת %1$s...</item>
+        <item>מנותק</item>
+        <item>נכשל</item>
+        <item>חסומה</item>
+        <item>נמנע זמנית מחיבור חלש</item>
+    </string-array>
+</resources>

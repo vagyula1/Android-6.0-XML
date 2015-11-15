@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="layoutHorizontal" format="boolean" />
+    <attr name="iconSizeOverride" format="dimension" />
+    <attr name="iconDisplay" format="integer">
+        <enum name="all_apps" value="1" />
+        <enum name="widget_section" value="2" />
+        <enum name="workspace" value="0" />
+    </attr>
+    <attr name="deferShadowGeneration" format="boolean" />
+    <attr name="customShadows" format="boolean" />
+    <attr name="windowSize" format="integer" />
+    <attr name="defaultScreen" format="integer" />
+    <attr name="cellCountX" format="integer" />
+    <attr name="cellCountY" format="integer" />
+    <attr name="cellWidth" format="dimension" />
+    <attr name="cellHeight" format="dimension" />
+    <attr name="widthGap" format="dimension" />
+    <attr name="heightGap" format="dimension" />
+    <attr name="maxGap" format="dimension" />
+    <attr name="pageLayoutWidthGap" format="dimension" />
+    <attr name="pageLayoutHeightGap" format="dimension" />
+    <attr name="pageIndicator" format="reference" />
+    <attr name="className" format="string" />
+    <attr name="packageName" format="string" />
+    <attr name="container" format="string" />
+    <attr name="screen" format="string" />
+    <attr name="x" format="string" />
+    <attr name="y" format="string" />
+    <attr name="spanX" format="string" />
+    <attr name="spanY" format="string" />
+    <attr name="icon" format="reference" />
+    <attr name="title" format="reference" />
+    <attr name="uri" format="string" />
+    <attr name="key" format="string" />
+    <attr name="value" format="string" />
+    <attr name="workspace" format="reference" />
+    <attr name="folderItems" format="reference" />
+    <attr name="background" format="reference" />
+    <attr name="ringOutset" format="dimension" />
+    <attr name="indicatorSize" format="dimension" />
+    <attr name="layout_ignoreInsets" format="boolean" />
+</resources>

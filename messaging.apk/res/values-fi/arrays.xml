@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>ei aihetta</item>
+        <item>ei aihetta</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Kyllä</item>
+        <item>Ei</item>
+        <item>OK</item>
+        <item>Hehe</item>
+        <item>Kiitos</item>
+        <item>Olen samaa mieltä</item>
+        <item>Kiva</item>
+        <item>Matkalla</item>
+        <item>OK, palaan asiaan</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Buscando...</item>
+        <item>Conectando...</item>
+        <item>Autenticando…</item>
+        <item>Obtendo enderezo IP...</item>
+        <item>Conectada</item>
+        <item>Suspendida</item>
+        <item>Desconectando...</item>
+        <item>Desconectada</item>
+        <item>Incorrecta</item>
+        <item>Bloqueada</item>
+        <item>Evitando conexión deficiente temporalmente</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Buscando...</item>
+        <item>Conectando con %1$s…</item>
+        <item>Autenticando con %1$s…</item>
+        <item>Obtendo enderezo IP de %1$s…</item>
+        <item>Conectado a %1$s</item>
+        <item>Suspendida</item>
+        <item>Desconectando de %1$s…</item>
+        <item>Desconectada</item>
+        <item>Incorrecta</item>
+        <item>Bloqueada</item>
+        <item>Evitando conexión deficiente temporalmente</item>
+    </string-array>
+</resources>

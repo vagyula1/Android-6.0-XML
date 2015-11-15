@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">%1$dफाइलहरू प्रतिलिप गर्दै।</item>
+        <item quantity="one">%1$d फाइल प्रतिलिपि गर्दै।</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">%1$d फाइलहरू प्रतिलिपि गर्न सकेन</item>
+        <item quantity="one">%1$d फाइल प्रतिलिपि गर्न सकेन</item>
+    </plurals>
+</resources>

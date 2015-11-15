@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d de persoane de contact găsite</item>
+        <item quantity="one">O persoană de contact găsită</item>
+        <item quantity="few">%d persoane de contact găsite</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d de persoane de contact cu numere de telefon</item>
+        <item quantity="one">O persoană de contact cu număr de telefon</item>
+        <item quantity="few">%d persoane de contact cu numere de telefon</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d de persoane de contact găsite</item>
+        <item quantity="one">O persoană de contact găsită</item>
+        <item quantity="few">%d persoane de contact găsite</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">au fost îmbinate din %0$d de surse</item>
+        <item quantity="one">nu au fost îmbinate</item>
+        <item quantity="few">au fost îmbinate din %0$d surse</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d de grupuri</item>
+        <item quantity="one">Un grup</item>
+        <item quantity="few">%0$d grupuri</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d de persoane din %2$s</item>
+        <item quantity="one">%1$d persoană din %2$s</item>
+        <item quantity="few">%1$d persoane din %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d de persoane</item>
+        <item quantity="one">%1$d persoană</item>
+        <item quantity="few">%1$d persoane</item>
+    </plurals>
+</resources>

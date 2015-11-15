@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Melnraksti</item>
+        <item quantity="one">Melnraksts</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Vai dzēst šīs sarunas (%1$d)?</item>
+        <item quantity="one">Vai dzēst šo sarunu?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Vai arhivēt šīs sarunas (%1$d)?</item>
+        <item quantity="one">Vai arhivēt šo sarunu?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Vai atmest šos %1$d ziņojumus?</item>
+        <item quantity="one">Vai atmest šo ziņojumu?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Tiek noņemtas zvaigznītes %1$d sarunām</item>
+        <item quantity="one">Tiek noņemta zvaigznīte %1$d sarunai</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">Izslēgta skaņa &amp;lt;b>%1$d&amp;lt;/b> sarunām</item>
+        <item quantity="one">Izslēgta skaņa &amp;lt;b>%1$d&amp;lt;/b> sarunai</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> sarunas atzīmētas kā mēstules</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> saruna atzīmēta kā mēstule</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> sarunas atzīmētas kā mēstules</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> saruna atzīmēta kā mēstule</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> sarunas atzīmētas kā nesvarīgas</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> saruna atzīmēta kā nesvarīga</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">Par &amp;lt;b>%1$d&amp;lt;/b> sarunām ziņots kā par pikšķerēšanu</item>
+        <item quantity="one">Par &amp;lt;b>%1$d&amp;lt;/b> sarunu ziņots kā par pikšķerēšanu</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">Arhivētas &amp;lt;b>%1$d&amp;lt;/b> sarunas</item>
+        <item quantity="one">Arhivēta &amp;lt;b>%1$d&amp;lt;/b> saruna</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">Dzēstas &amp;lt;b>%1$d&amp;lt;/b> sarunas</item>
+        <item quantity="one">Dzēsta &amp;lt;b>%1$d&amp;lt;/b> saruna</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Mainītas mapes</item>
+        <item quantity="one">Mainīta mape</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d jauni ziņojumi</item>
+        <item quantity="one">%1$d jauns ziņojums</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Izvērst %1$d vecākus ziņojumus</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Tika izvērsti %1$d vecāki ziņojumi</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d nelasīti</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d jauni ziņojumi</item>
+        <item quantity="one">%1$d jauns ziņojums</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d ziņojumi tiks neatgriezeniski dzēsti.</item>
+        <item quantity="one">%1$d ziņojums tiks neatgriezeniski dzēsts.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d ziņojumi</item>
+        <item quantity="one">%1$d ziņojums</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d pielikumi</item>
+        <item quantity="one">%1$d pielikums</item>
+    </plurals>
+</resources>

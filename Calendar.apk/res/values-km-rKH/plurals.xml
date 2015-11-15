@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d នាទី</item>
+        <item quantity="one">១ នាទី</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d នាទី</item>
+        <item quantity="one">១ នាទី</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d ម៉ោង</item>
+        <item quantity="one">១ ម៉ោង</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d ថ្ងៃ</item>
+        <item quantity="one">១ ថ្ងៃ</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">សប្ដាហ៍​ទី %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; សម្រាប់ %d ដង</item>
+        <item quantity="one">; សម្រាប់​ម្ដង</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">រាល់ %d ថ្ងៃ</item>
+        <item quantity="one">ប្រចាំថ្ងៃ</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">រាល់ %1$d សប្ដាហ៍​នៃ %2$s</item>
+        <item quantity="one">សប្ដាហ៍​នៃ %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">ព្រឹត្តិការណ៍ %d</item>
+        <item quantity="one">ព្រឹត្តិការណ៍ ១</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d ព្រឹត្តិការណ៍</item>
+        <item quantity="one">+1 ព្រឹត្តិការណ៍</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">រាល់ %d ថ្ងៃ</item>
+        <item quantity="one">រាល់ %d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">រាល់ %d សប្ដាហ៍</item>
+        <item quantity="one">រាល់ %d សប្ដាហ៍</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">រាល់ %d ខែ</item>
+        <item quantity="one">រាល់ %d ខែ</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">ឆ្នាំ %d ឆ្នាំ</item>
+        <item quantity="one">រាល់ %d ឆ្នាំ</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">សម្រាប់ %d ព្រឹត្តិការណ៍</item>
+        <item quantity="one">សម្រាប់ %d ព្រឹត្តិការណ៍</item>
+    </plurals>
+</resources>

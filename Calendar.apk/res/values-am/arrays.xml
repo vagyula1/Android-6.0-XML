@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>ማሳወቂያ</item>
+        <item>ኢሜይል</item>
+        <item>አጭር የፅሁፍ መልዕክት</item>
+        <item>ማንቂያ ደውል</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 ደቂቃዎች</item>
+        <item>1 ደቂቃ</item>
+        <item>5 ደቂቃዎች</item>
+        <item>10 ደቂቃዎች</item>
+        <item>15 ደቂቃዎች</item>
+        <item>20 ደቂቃዎች</item>
+        <item>25 ደቂቃዎች</item>
+        <item>30 ደቂቃዎች</item>
+        <item>45 ደቂቃዎች</item>
+        <item>1 ሰዓት</item>
+        <item>2 ሰዓቶች</item>
+        <item>3 ሰዓቶች</item>
+        <item>12 ሰዓቶች</item>
+        <item>24 ሰዓቶች</item>
+        <item>2 ቀኖች</item>
+        <item>1 ሳምንት</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>የለም</item>
+        <item>0 ደቂቃዎች</item>
+        <item>1 ደቂቃ</item>
+        <item>5 ደቂቃዎች</item>
+        <item>10 ደቂቃዎች</item>
+        <item>15 ደቂቃዎች</item>
+        <item>20 ደቂቃዎች</item>
+        <item>25 ደቂቃዎች</item>
+        <item>30 ደቂቃዎች</item>
+        <item>45 ደቂቃዎች</item>
+        <item>1 ሰዓት</item>
+        <item>2 ሰዓቶች</item>
+        <item>3 ሰዓቶች</item>
+        <item>12 ሰዓቶች</item>
+        <item>24 ሰዓቶች</item>
+        <item>2 ቀኖች</item>
+        <item>1 ሳምንት</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>የአካባቢ ነባሪ</item>
+        <item>ቅዳሜ</item>
+        <item>እሁድ</item>
+        <item>ሰኞ</item>
+    </string-array>
+    <string-array name="availability">
+        <item>ተይዟ ል</item>
+        <item>የሚገኝ</item>
+        <item>ጊዜያዊ</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>ነባሪ</item>
+        <item>የግል</item>
+        <item>ሕዝብ</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>አንደኛ</item>
+        <item>ሁለተኛ</item>
+        <item>ሦስተኛ</item>
+        <item>አራተኛ</item>
+        <item>መጨረሻ</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>"ምንም  ምላሽ የለም"</item>
+        <item>አዎ</item>
+        <item>ምናልባት</item>
+        <item>አይ</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>ይህ ክስተት ብቻ</item>
+        <item>ይሄ እና የወደፊት ክስተቶች</item>
+        <item>ሁሉም ክስተቶች</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>ይህ&amp; የወደፊት ዝግጅቶች</item>
+        <item>ሁሉም ክስተቶች</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>ይህ ክስተት ብቻ</item>
+        <item>ሁሉም ዝግጅቶች በተከታታይ</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>ቀን</item>
+        <item>ሳምንት</item>
+        <item>ወር</item>
+        <item>አጀንዳ</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>ተቀባይነት ካላገኘ ብቻ</item>
+        <item>ተቀባይነት ካላገኘ ወይም ምላሽ ካልተሰጠበት</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>በየቀኑ ድገም</item>
+        <item>በየሳምንቱ ድገም</item>
+        <item>በየወሩ ድገም</item>
+        <item>በየዓመቱ ድገም</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>በሁሉም የመጀመሪያ እሁድ</item>
+        <item>በሁሉም ሁለተኛ እሁድ</item>
+        <item>በሁሉም ሶስተኛ እሁድ</item>
+        <item>በሁሉም አራተኛ እሁድ</item>
+        <item>በሁሉም የመጨረሻ እሁድ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>በሁሉም የመጀመሪያ ሰኞ</item>
+        <item>በሁሉም ሁለተኛ ሰኞ</item>
+        <item>በሁሉም ሶስተኛ ሰኞ</item>
+        <item>በሁሉም አራተኛ ሰኞ</item>
+        <item>በሁሉም የመጨረሻ ሰኞ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>በሁሉም የመጀመሪያ ማክሰኞ</item>
+        <item>በሁሉም ሁለተኛ ማክሰኞ</item>
+        <item>በሁሉም ሶስተኛ ማክሰኞ</item>
+        <item>በሁሉም አራተኛ ማክሰኞ</item>
+        <item>በሁሉም የመጨረሻ ማክሰኞ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>በሁሉም የመጀመሪያ ረቡዕ</item>
+        <item>በሁሉም ሁለተኛ ረቡዕ</item>
+        <item>በሁሉም ሶስተኛ ረቡዕ</item>
+        <item>በሁሉም አራተኛ ረቡዕ</item>
+        <item>በሁሉም የመጨረሻ ረቡዕ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>በሁሉም የመጀመሪያ ሃሙስ</item>
+        <item>በሁሉም ሁለተኛ ሃሙስ</item>
+        <item>በሁሉም ሶስተኛ ሃሙስ</item>
+        <item>በሁሉም አራተኛ ሃሙስ</item>
+        <item>በሁሉም የመጨረሻ ሃሙስ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>በሁሉም የመጀመሪያ አርብ</item>
+        <item>በሁሉም ሁለተኛ አርብ</item>
+        <item>በሁሉም ሶስተኛ አርብ</item>
+        <item>በሁሉም አራተኛ አርብ</item>
+        <item>በሁሉም የመጨረሻ አርብ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>በሁሉም የመጀመሪያ ቅዳሜ</item>
+        <item>በሁሉም ሁለተኛ ቅዳሜ</item>
+        <item>በሁሉም ሶስተኛ ቅዳሜ</item>
+        <item>በሁሉም አራተኛ ቅዳሜ</item>
+        <item>በሁሉም የመጨረሻ ቅዳሜ</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>ደርሻለሁ አንድ ሁለት ደቂቃ ጠብቀኝ።</item>
+        <item>በ10 ደቂቃ ውስጥ እደርሳለሁ።</item>
+        <item>እኔን አትጠብቁኝ፣ ጀምሩ።</item>
+        <item>ይቅርታ ልደርስ አልችልም። ለሌላ ጊዜ ቀጠሮ ማስያዝ ይኖርብናል።</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>የአውስትራሊያ ማዕከላዊ - ኤን ቲ</item>
+        <item>የአውትራሊያ ማዕከላዊ - ኤስ ኤ</item>
+        <item>የአውትራሊያ ምስራቃዊ - ኪዩ ኤል ዲ</item>
+        <item>የአውስትራሊያ ምስራቃዊ - ኤን ኤስ ደብልዩ</item>
+        <item>የተራራ መደበኛ - ዳውሰን ክሪክ</item>
+        <item>ማዕከላዊ መደበኛ - ሳስካቸዋን</item>
+        <item>ምስራቃዊ መደበኛ - አቲኮካን</item>
+        <item>አትላንቲክ መደበኛ - ኴቤክ</item>
+        <item>ሃዋዪ-አሊዩሻን - ሃዋዪ</item>
+        <item>ሃዋዪ-አሊዩሻን - አላስካ</item>
+        <item>ፓሲፊክ መደበኛ - መትላካትላ</item>
+        <item>የተራራ መደበኛ - አሪዞና</item>
+        <item>ፓሲፊክ - ባያ ካሊፎርኒያ</item>
+        <item>ተራራ - ቺዋዋ</item>
+        <item>ማዕከላዊ - ታማውሊፓስ</item>
+        <item>ተራራ - ሶኖራ</item>
+        <item>የምስራቅ አፍሪካ ሰዓት</item>
+        <item>የአትላንቲክ መደበኛ ሰዓት</item>
+        <item>የአትላንቲክ መደበኛ ሰዓት</item>
+        <item>የምስራቃዊ አውሮፓ ሰዓት</item>
+        <item>የካሊኒንግራድ ሰዓት</item>
+        <item>አማዞን - ዶንዶኒያ</item>
+        <item>ብራሲሊያ - ፓራ</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>ሲንት ማርተን</item>
+        <item>የካሪቢያን ኔዘርላንድስ</item>
+        <item>ኩራሳዎ</item>
+        <item>ደቡብ ሱዳን</item>
+    </string-array>
+</resources>

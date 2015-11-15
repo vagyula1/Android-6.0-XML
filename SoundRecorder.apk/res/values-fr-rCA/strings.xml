@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Magnétophone</string>
+    <string name="record_your_message">Enregistrez votre message</string>
+    <string name="message_recorded">Message enregistré</string>
+    <string name="review_message">Revoir le message</string>
+    <string name="recording">Enregistrer</string>
+    <string name="recording_stopped">Enregistrement audio interrompu</string>
+    <string name="storage_is_full">La mémoire est pleine</string>
+    <string name="max_length_reached">Taille maximale atteinte</string>
+    <string name="insert_sd_card">Installer mémoire stockage USB</string>
+    <string name="min_available">Il reste %d minutes.</string>
+    <string name="sec_available">Il reste %d secondes.</string>
+    <string name="accept">Terminé</string>
+    <string name="discard">Supprimer</string>
+    <string name="button_ok">OK</string>
+    <string name="audio_db_artist_name">Vos enregistrements audio</string>
+    <string name="audio_db_album_name">Enregistrements audio</string>
+    <string name="audio_db_playlist_name">Mes enregistrements audio</string>
+    <string name="error_sdcard_access">"Impossible d'accéder à la mémoire de stockage USB."</string>
+    <string name="error_app_internal">"Erreur interne de l'application."</string>
+    <string name="error_mediadb_new_record">Impossible de sauvegarder le fichier audio enregistré.</string>
+</resources>

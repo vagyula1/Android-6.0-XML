@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">מעתיק %1$d קבצים.</item>
+        <item quantity="one">מעתיק קובץ %1$d.</item>
+        <item quantity="two">מעתיק %1$d קבצים.</item>
+        <item quantity="many">מעתיק %1$d קבצים.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">לא ניתן היה להעתיק %1$d קבצים</item>
+        <item quantity="one">לא ניתן היה להעתיק קובץ %1$d</item>
+        <item quantity="two">לא ניתן היה להעתיק %1$d קבצים</item>
+        <item quantity="many">לא ניתן היה להעתיק %1$d קבצים</item>
+    </plurals>
+</resources>

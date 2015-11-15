@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>asikho isihloko</item>
+        <item>asikho isihloko</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Yebo</item>
+        <item>Cha</item>
+        <item>KULUNGILE</item>
+        <item>Hehe</item>
+        <item>Siyabonga</item>
+        <item>Ngiyavuma</item>
+        <item>I-Nice</item>
+        <item>Ngisendleleni</item>
+        <item>KULUNGILE, mangibuye kuwe emuva kwesikhathi</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="bool" name="config_enable_mms_with_mobile_data_off" id="0x7f020001" />
+    <public type="bool" name="config_allowDataCallWithoutDns" id="0x7f020000" />
+    <public type="bool" name="config_ascii_7bit_support_for_long_message" id="0x7f020002" />
+    <public type="bool" name="config_enable_display_14digit_imei" id="0x7f020003" />
+    <public type="bool" name="config_reject_call_via_sms_enabled" id="0x7f020004" />
+</resources>

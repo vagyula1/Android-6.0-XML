@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Správa telefónnych hovorov</string>
+    <string name="userCallActivityLabel">Telefón</string>
+    <string name="unknown">Neznáme</string>
+    <string name="notification_missedCallTitle">Zmeškaný hovor</string>
+    <string name="notification_missedCallsTitle">Zmeškané hovory</string>
+    <string name="notification_missedCallsMsg">Zmeškané hovory: %s.</string>
+    <string name="notification_missedCallTicker">Zmeškaný hovor od volajúceho %s</string>
+    <string name="notification_missedCall_call_back">Zavolať</string>
+    <string name="notification_missedCall_message">Napísať</string>
+    <string name="accessibility_call_muted">Zvuk hovoru bol vypnutý.</string>
+    <string name="accessibility_speakerphone_enabled">Reproduktor je povolený.</string>
+    <string name="respond_via_sms_canned_response_1">Teraz nemôžem hovoriť, o čo ide?</string>
+    <string name="respond_via_sms_canned_response_2">Zavolám späť.</string>
+    <string name="respond_via_sms_canned_response_3">Zavolám neskôr.</string>
+    <string name="respond_via_sms_canned_response_4">Teraz nemôžem, zavolajte inokedy.</string>
+    <string name="respond_via_sms_setting_title">Rýchle odpovede</string>
+    <string name="respond_via_sms_setting_title_2">Upraviť rýchle odpovede</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Rýchla odpoveď</string>
+    <string name="respond_via_sms_confirmation_format">Správa bola odoslaná na číslo %s.</string>
+    <string name="enable_account_preference_title">Telefónne účty</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Vlastník zariadenia povolil iba tiesňové volania</string>
+    <string name="outgoing_call_not_allowed_no_permission">V tejto aplikácii nie je možné uskutočňovať odchádzajúce hovory bez povolenia Telefón</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Ak chcete volať, zadajte platné číslo</string>
+    <string name="duplicate_video_call_not_allowed">Hovor momentálne nie je možné pridať.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Ak chcete uskutočňovať videohovory, deaktivujte režim TTY.</string>
+    <string name="no_vm_number">Chýba číslo hlasovej schránky</string>
+    <string name="no_vm_number_msg">Na SIM karte nie je uložené žiadne číslo hlasovej schránky.</string>
+    <string name="add_vm_number_str">Pridať číslo</string>
+    <string name="change_default_dialer_dialog_title">Chcete zmeniť predvolenú aplikáciu vytáčania?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Chcete použiť aplikáciu %1$s namiesto aplikácie %2$s ako predvolenú aplikáciu vytáčania?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Chcete použiť aplikáciu %s ako predvolenú aplikáciu vytáčania?</string>
+</resources>

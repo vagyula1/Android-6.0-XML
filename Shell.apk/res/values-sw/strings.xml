@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Ganda</string>
+    <string name="bugreport_finished_title">Ripoti ya hitilafu imenaswa</string>
+    <string name="bugreport_finished_text">Gusa ili ushiriki ripoti yako ya hitilafu</string>
+    <string name="bugreport_confirm">Ripoti ya hitilafu ina data kutoka kwenye faili za kumbukumbu mbalimbali za mfumo, pamoja na maelezo ya kibinafsi na faragha. Shiriki ripoti ya hitilafu na programu na watu unaowaamini pekee.</string>
+    <string name="bugreport_confirm_repeat">Onyesha ujumbe huu wakati mwingine</string>
+    <string name="bugreport_storage_title">Ripoti za hitilafu</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">බාහිර ආචයනය</string>
+    <string name="root_internal_storage">අභ්‍යන්තර ආචයනය</string>
+    <string name="root_documents">ලේඛන</string>
+</resources>

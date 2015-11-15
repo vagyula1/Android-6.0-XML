@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Iskanje …</item>
+        <item>Vzpostavljanje povezave ...</item>
+        <item>Preverjanje pristnosti ...</item>
+        <item>Pridobivanje naslova IP …</item>
+        <item>Povezava je vzpostavljena</item>
+        <item>Odloženo</item>
+        <item>Prekinjanje povezave ...</item>
+        <item>Prekinjena povezava</item>
+        <item>Ni uspelo</item>
+        <item>Blokirano</item>
+        <item>Začasno izogibanje slabi povezavi</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Iskanje …</item>
+        <item>Vzpostavljanje povezave z omrežjem %1$s …</item>
+        <item>Preverjanje pristnosti v omrežju %1$s …</item>
+        <item>Pridobivanje naslova IP od %1$s …</item>
+        <item>Povezava z omrežjem %1$s je vzpostavljena</item>
+        <item>Začasno ustavljeno</item>
+        <item>Prekinjanje povezave z omrežjem %1$s …</item>
+        <item>Prekinjena povezava</item>
+        <item>Ni uspelo</item>
+        <item>Blokirano</item>
+        <item>Začasno izogibanje slabi povezavi</item>
+    </string-array>
+</resources>

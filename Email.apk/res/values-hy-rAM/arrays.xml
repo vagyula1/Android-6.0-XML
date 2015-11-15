@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Պատասխանել</item>
+        <item>Պատասխանել բոլորին</item>
+        <item>Փոխանցել</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Հաջողվել է</item>
+        <item>Կապ չկա</item>
+        <item>Հնարավոր չէ մուտք գործել</item>
+        <item>Անվտանգության սխալ</item>
+        <item>Չհաջողվեց համաժամեցնել</item>
+        <item>Ներքին սխալ</item>
+        <item>Սերվերի սխալ</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Ավելի նոր</item>
+        <item>Ավելի հին</item>
+        <item>Խոսակցությունների ցանկ</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Ցուցադրել ավելի նոր խոսակցությունը ջնջելուց հետո</item>
+        <item>Ցուցադրել ավելի վաղ խոսակցությունը ջնջելուց հետո</item>
+        <item>Ցուցադրել խոսակցությունների ցանկը ջնջելուց հետո</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Արխիվացնել</item>
+        <item>Ջնջել</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Արխիվացնել</item>
+        <item>Ջնջել</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Հաղորդագրության գործողությունները միշտ ցուցադրել էկրանի վերևի մասում</item>
+        <item>Հաղորդագրության գործողությունները ցուցադրել միայն էկրանի վերևի մասում, երբ շրջված է դեպի դիմանկարը</item>
+        <item>Ցույց չտալ հաղորդագրությունների գործողությունները հաղորդագրության գլխագրից դուրս</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Միշտ ցույց տալ</item>
+        <item>Ցուցադրել դիմանկարային ռեժիմում</item>
+        <item>Ցույց չտալ</item>
+    </string-array>
+</resources>

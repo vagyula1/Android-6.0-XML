@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Atsakyti</item>
+        <item>Atsakyt visiems</item>
+        <item>Pirmyn</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Sėkmingai</item>
+        <item>Nėra ryšio</item>
+        <item>Nepavyko prisijungti</item>
+        <item>Saugos klaida</item>
+        <item>Nepavyko sinchronizuoti</item>
+        <item>Vidinė klaida</item>
+        <item>Serverio klaida</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Naujesnis</item>
+        <item>Senesnis</item>
+        <item>Pokalbių sąrašas</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Ištrynus rodyti naujesnį pokalbį</item>
+        <item>Ištrynus rodyti senesnį pokalbį</item>
+        <item>Ištrynus rodyti pokalbių sąrašą</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Archyvuoti</item>
+        <item>Ištrinti</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Archyvuoti</item>
+        <item>Ištrinti</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Visada rodyti pranešimų veiksmus ekrano viršuje</item>
+        <item>Rodyti pranešimų veiksmus ekrano viršuje, tik kai ekranas pasuktas portreto režimu</item>
+        <item>Nerodyti pranešimų veiksmų ne pranešimo antraštėje</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Visada rodyti</item>
+        <item>Rodyti tik portreto režimu</item>
+        <item>Nerodyti</item>
+    </string-array>
+</resources>

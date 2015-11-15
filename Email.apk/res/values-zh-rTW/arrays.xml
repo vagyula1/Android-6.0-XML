@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>回覆</item>
+        <item>回覆所有人</item>
+        <item>轉寄</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>成功</item>
+        <item>沒有網路連線</item>
+        <item>無法登入</item>
+        <item>安全性錯誤</item>
+        <item>無法同步處理</item>
+        <item>發生內部錯誤</item>
+        <item>伺服器錯誤</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>較新</item>
+        <item>較舊</item>
+        <item>會話群組清單</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>在刪除動作完成後顯示較新的會話群組</item>
+        <item>在刪除動作完成後顯示較舊的會話群組</item>
+        <item>在刪除動作完成後顯示會話群組清單</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>封存</item>
+        <item>刪除</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>封存</item>
+        <item>刪除</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>一律在螢幕頂端顯示郵件動作</item>
+        <item>旋轉成垂直模式時，才在螢幕頂端顯示郵件動作</item>
+        <item>不要在郵件標頭以外的地方顯示郵件動作</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>一律顯示</item>
+        <item>僅於垂直模式中顯示</item>
+        <item>不顯示</item>
+    </string-array>
+</resources>

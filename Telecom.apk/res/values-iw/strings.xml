@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">ניהול שיחות טלפון</string>
+    <string name="userCallActivityLabel">טלפון</string>
+    <string name="unknown">לא ידוע</string>
+    <string name="notification_missedCallTitle">שיחה שלא נענתה</string>
+    <string name="notification_missedCallsTitle">שיחות שלא נענו</string>
+    <string name="notification_missedCallsMsg">%s שיחות שלא נענו</string>
+    <string name="notification_missedCallTicker">שיחה שלא נענתה מאת %s</string>
+    <string name="notification_missedCall_call_back">התקשר חזרה</string>
+    <string name="notification_missedCall_message">שלח הודעה</string>
+    <string name="accessibility_call_muted">שיחה מושתקת.</string>
+    <string name="accessibility_speakerphone_enabled">רמקול מופעל.</string>
+    <string name="respond_via_sms_canned_response_1">אני לא יכול לדבר עכשיו. מה קורה?</string>
+    <string name="respond_via_sms_canned_response_2">אני מיד חוזר אליך.</string>
+    <string name="respond_via_sms_canned_response_3">אני אתקשר אליך יותר מאוחר.</string>
+    <string name="respond_via_sms_canned_response_4">אני לא יכול לדבר עכשיו. תתקשר אלי מאוחר יותר?</string>
+    <string name="respond_via_sms_setting_title">תגובות מהירות</string>
+    <string name="respond_via_sms_setting_title_2">ערוך תגובות מהירות</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">תגובה מהירה</string>
+    <string name="respond_via_sms_confirmation_format">הודעה נשלחה אל %s.</string>
+    <string name="enable_account_preference_title">חשבונות לביצוע שיחות</string>
+    <string name="outgoing_call_not_allowed_user_restriction">בעל המכשיר מתיר לבצע שיחות חירום בלבד.</string>
+    <string name="outgoing_call_not_allowed_no_permission">"לא ניתן לבצע שיחות יוצאות באמצעות האפליקציה הזו ללא ההרשאה 'טלפון'."</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">כדי להתקשר, הזן מספר טלפון חוקי.</string>
+    <string name="duplicate_video_call_not_allowed">לא ניתן כעת להוסיף את השיחה.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">‏השבת את מצב TTY כדי לבצע שיחות וידאו.</string>
+    <string name="no_vm_number">חסר מספר של דואר קולי</string>
+    <string name="no_vm_number_msg">‏בכרטיס ה-SIM לא מאוחסן מספר של דואר קולי.</string>
+    <string name="add_vm_number_str">הוסף מספר</string>
+    <string name="change_default_dialer_dialog_title">האם לשנות את אפליקציית החייגן שבברירת מחדל?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">האם להשתמש ב-%1$s במקום ב-%2$s כאפליקציית החייגן שבברירת מחדל?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">האם להשתמש ב-%s כאפליקציית החייגן שבברירת מחדל?</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>اسکن کردن...</item>
+        <item>در حال اتصال…</item>
+        <item>در حال تأیید اعتبار...</item>
+        <item>‏در حال دریافت آدرس IP...</item>
+        <item>متصل</item>
+        <item>معلق</item>
+        <item>در حال قطع اتصال...</item>
+        <item>اتصال قطع شد</item>
+        <item>ناموفق</item>
+        <item>مسدود شده</item>
+        <item>جلوگیری موقت از اتصال ضعیف</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>اسکن کردن...</item>
+        <item>در حال اتصال به %1$s…</item>
+        <item>در حال تأیید اعتبار با %1$s...</item>
+        <item>‏در حال دریافت آدرس IP از %1$s...</item>
+        <item>متصل شد به %1$s</item>
+        <item>معلق</item>
+        <item>اتصال قطع شد از %1$s...</item>
+        <item>اتصال قطع شد</item>
+        <item>ناموفق</item>
+        <item>مسدود شده</item>
+        <item>جلوگیری موقت از اتصال ضعیف</item>
+    </string-array>
+</resources>

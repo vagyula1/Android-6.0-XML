@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 amasekhondi</item>
+        <item>4 amasekhondi</item>
+        <item>6 amasekhondi</item>
+        <item>8 amasekhondi</item>
+        <item>10 amasekhondi</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>Kanye</item>
+        <item>Njalo kumaminithi angu-2</item>
+        <item>Njalo kumaminithi angu-15</item>
+        <item>Valiwe</item>
+    </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Zimepatikana %d</item>
+        <item quantity="one">Imepatikana 1</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">Sekunde %d</item>
+        <item quantity="one">Sekunde 1</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">Dakika %d</item>
+        <item quantity="one">Dakika 1</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">Saa %d</item>
+        <item quantity="one">Saa 1</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">Ujumbe %1$d wa sauti</item>
+        <item quantity="one">Ujumbe wa sauti</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">Ujumbe %d mpya wa sauti</item>
+        <item quantity="one">Ujumbe %d mpya wa sauti</item>
+    </plurals>
+</resources>

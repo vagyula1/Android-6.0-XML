@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">%1$d файл көчүрүлүүдө.</item>
+        <item quantity="one">%1$d файл көчүрүлүүдө.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">%1$d файл көчүрүлбөй койду</item>
+        <item quantity="one">%1$d файл көчүрүлбөй койду</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Команден ред</string>
+    <string name="bugreport_finished_title">Отчетът за програмни грешки е записан</string>
+    <string name="bugreport_finished_text">Докоснете, за да споделите отчета си за програмни грешки</string>
+    <string name="bugreport_confirm">Отчетите за програмни грешки съдържат данни от различни регистрационни файлове на системата, включително лична и поверителна информация. Споделяйте ги само с приложения и хора, на които имате доверие.</string>
+    <string name="bugreport_confirm_repeat">Това съобщение да се показва следващия път</string>
+    <string name="bugreport_storage_title">Отчети за прогр. грешки</string>
+</resources>

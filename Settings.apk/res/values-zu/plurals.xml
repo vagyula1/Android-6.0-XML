@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Manje ususele ngamagxathu angu-%1$d ukuthi ube ngunjiniyela.</item>
+        <item quantity="one">Manje ususele ngamagxathu angu-%1$d ukuthi ube ngunjiniyela.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d ukusethwa kwezigxivizo zeminwe</item>
+        <item quantity="one">%1$d ukusethwa kwezigxivizo zeminwe</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Iphasiwedi okungenani kufanele ibenezinhlamvu ezingu-%d.</item>
+        <item quantity="one">Iphasiwedi okungenani kufanele ibenezinhlamvu ezingu-%d.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Iphasiwedi kufanele okungenani ibe nezinhhlamvu ezincane ezingu-%d.</item>
+        <item quantity="one">Iphasiwedi kufanele okungenani ibe nezinhhlamvu ezincane ezingu-%d.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Iphasiwedi kufanele okungenani ibe namafama angofeleba angu-%d.</item>
+        <item quantity="one">Iphasiwedi kufanele okungenani ibe namafama angofeleba angu-%d.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Iphasiwedi kufanele okungenani ibe namadijithi wenombolo angu-%d.</item>
+        <item quantity="one">Iphasiwedi kufanele okungenani ibe namadijithi wenombolo angu-%d.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Iphasiwedi kufanele okungenani ibe nezimpawu ezikhethekile ezingu-%d.</item>
+        <item quantity="one">Iphasiwedi kufanele okungenani ibe nezimpawu ezikhethekile ezingu-%d.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Iphasiwedi kufanele okungenani ibe nezinhlambu ezingezona amagama olungu-%d.</item>
+        <item quantity="one">Iphasiwedi kufanele okungenani ibe nezinhlambu ezingezona amagama olungu-%d.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Ikhodi engalungile yephinikhodi ye-SIM, unemizamo engu-%d esele.</item>
+        <item quantity="one">Ikhodi engalungile yephinikhodi ye-SIM, unemizamo engu-%d esele.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d izinhlelo zokusebenza zingakwazi ukufunda izaziso</item>
+        <item quantity="one">%d izinhlelo zokusebenza zingakwazi ukufunda izaziso</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Guqulela kuma-alamu ngamaminithi angu-%1$d (kuze kube ngu-%2$s)</item>
+        <item quantity="one">Guqulela kuma-alamu ngamaminithi angu-%1$d (kuze kube ngu-%2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Guqulela kuma-alamu kuphela ngamahora angu-%1$d kuze kube ngu-%2$s</item>
+        <item quantity="one">Guqulela kuma-alamu kuphela ngamahora angu-%1$d kuze kube ngu-%2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d izimvume zinikeziwe</item>
+        <item quantity="one">%d izimvume zinikeziwe</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d yezimvume ezingu-%2$d zinikeziwe</item>
+        <item quantity="one">%1$d yezimvume ezingu-%2$d zinikeziwe</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d izimvume ezingeziwe</item>
+        <item quantity="one">%d izimvume ezingeziwe</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d izinhlelo zokusebenza zingavula izixhumanisi zazo ezisekelwayo</item>
+        <item quantity="one">%d izinhlelo zokusebenza zingavula izixhumanisi zazo ezisekelwayo</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d izinhlelo zokusebenza ezivunyelwe ukuziba ukulungiselelwa kwebhethri</item>
+        <item quantity="one">%d izinhlelo zokusebenza ezivunyelwe ukuziba ukulungiselelwa kwebhethri</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d izinhlelo zokusebenza ezisebenzise imemori ngokungu-%2$s okudlule</item>
+        <item quantity="one">%1$d izinhlelo zokusebenza ezisebenzise imemori ngokungu-%2$s okudlule</item>
+    </plurals>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fm_main_header_small">128.0dip</dimen>
+    <dimen name="fm_main_header_big">128.0dip</dimen>
+    <dimen name="fm_description_text_size">14.0dip</dimen>
+    <dimen name="fm_station_rds_text_size">14.0dip</dimen>
+    <dimen name="fm_frequency_text_size_start">56.0dip</dimen>
+    <dimen name="fm_station_name_text_size_start">24.0dip</dimen>
+    <dimen name="fm_description_margin_top_start">8.0dip</dimen>
+    <dimen name="fm_frequency_margin_top_start">0.0dip</dimen>
+    <dimen name="fm_station_name_margin_top_start">24.0dip</dimen>
+    <dimen name="fm_station_rds_margin_top_start">12.0dip</dimen>
+    <dimen name="fm_control_buttons_margin_top_start">44.0dip</dimen>
+    <dimen name="fm_frequency_text_size_first_target">20.0dip</dimen>
+    <dimen name="fm_station_name_text_size_first_target">14.0dip</dimen>
+    <dimen name="fm_description_margin_top_first_target">10.0dip</dimen>
+    <dimen name="fm_frequency_margin_top_first_target">10.0dip</dimen>
+    <dimen name="fm_station_name_margin_top_first_target">8.0dip</dimen>
+    <dimen name="fm_station_rds_margin_top_first_target">-14.0dip</dimen>
+    <dimen name="fm_control_buttons_margin_top_first_target">8.0dip</dimen>
+    <dimen name="fm_recording_station_detail_margin_bottom">16.0dip</dimen>
+</resources>

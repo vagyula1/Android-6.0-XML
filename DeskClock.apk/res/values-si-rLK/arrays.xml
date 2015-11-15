@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>අ=අබිද්ජාන්</item>
+        <item>අ=අක්රා</item>
+        <item>අ=අඩිස් අබාබා</item>
+        <item>අ=ඇල්ජියර්ස්</item>
+        <item>බ=බ්ලෑටියර්</item>
+        <item>බ=බ්‍රසාවිලා</item>
+        <item>ක=කයිරෝ</item>
+        <item>ක=කැසබ්ලෑන්කා</item>
+        <item>ක=කොනක්රී</item>
+        <item>ඩ=ඩකාර්</item>
+        <item>ද=දර් එස් සලාම්</item>
+        <item>ජ=ජිබුටි</item>
+        <item>ෆ=ෆ්රීටවුන්</item>
+        <item>ග=ගැබොරොන්</item>
+        <item>හ=හරාරේ</item>
+        <item>ජ=ජොහැන්නස්බර්ග්</item>
+        <item>ක=කම්පාලා</item>
+        <item>ක=කාටුම්හ</item>
+        <item>ක=කිගාලි</item>
+        <item>ක=කින්ෂාසා</item>
+        <item>ල=ලාගෝස්</item>
+        <item>ම=මසෙරු</item>
+        <item>ම=මොගඩිෂු</item>
+        <item>න=නයිරෝබි</item>
+        <item>ස=සාඕ ටොමේ</item>
+        <item>ට=ටිම්බක්ටු</item>
+        <item>ට=ට්‍රිපොලි</item>
+        <item>ට=ටියුනිස්</item>
+        <item>අ=ඇන්කරේජ්</item>
+        <item>ම=මෙන්ඩෝසා</item>
+        <item>අ=ඇරුබා</item>
+        <item>අ=ඇසුන්සියොන්</item>
+        <item>බ=බාබඩෝස්</item>
+        <item>බ=බෙලිස්</item>
+        <item>බ=බොගෝටා</item>
+        <item>බ=බුවනස් අයර්ස්</item>
+        <item>ක=කැන්කුන්</item>
+        <item>ක=කරකස්</item>
+        <item>ක=කේමන්</item>
+        <item>ච=චිකාගෝ</item>
+        <item>ක=කොස්ට රිකා</item>
+        <item>ක=කුරාකාඕ</item>
+        <item>ඩ=ඩෝසන් ක්රීක්</item>
+        <item>ඩ=ඩෙන්වර්</item>
+        <item>ඩ=ඩිට්රොයිට්</item>
+        <item>ඩ=ඩොමිනිකා</item>
+        <item>එ=එඩ්මන්ටන්</item>
+        <item>එ=එල් සැල්වදෝරය</item>
+        <item>ෆ=ෆෝරටලෙසා</item>
+        <item>ග=ග්රෑන්ඩ් ටර්ක්</item>
+        <item>ග=ග්රෙනේඩා</item>
+        <item>ග=ගෝතමාලාව</item>
+        <item>ග=ගයනා</item>
+        <item>හ=හැලිෆැක්ස්</item>
+        <item>හ=හවානා</item>
+        <item>ඉ=ඉන්ඩියානාපොලිස්</item>
+        <item>න=නොක්ස්</item>
+        <item>ම=මරෙන්ගෝ</item>
+        <item>ප=පීටර්ස්බර්ග්</item>
+        <item>ට=ටෙල් නගරය</item>
+        <item>ව=විවේ</item>
+        <item>ව=වින්සෙනාස්</item>
+        <item>ව=විනැමක්</item>
+        <item>ක=කිංග්ස්ටන්</item>
+        <item>න=නුඑස්ට්‍රා සෙනෝරා ද ලා පැස්</item>
+        <item>ල=ලීමා</item>
+        <item>ල=ලොස් ඇන්ජලීස්</item>
+        <item>ල=ලුයිස්විල්</item>
+        <item>ම=මැනගුආ</item>
+        <item>ම=මාර්ටිනික්</item>
+        <item>ම=මෙන්ඩෝසා</item>
+        <item>ම=මෙට්ලකට්ලා</item>
+        <item>ම=මෙක්සිකෝ නගරය</item>
+        <item>ම=මොන්ටේරේ</item>
+        <item>ම=මොන්ටෙවිඩියෝ</item>
+        <item>ම=මොන්ට්රියල්</item>
+        <item>න=නාසු</item>
+        <item>න=නිව්යෝක්</item>
+        <item>බ=බෙඕලා</item>
+        <item>ස=සෙන්ටර්</item>
+        <item>න=නව සලෙම්</item>
+        <item>ප=පැනමා</item>
+        <item>ෆ=ෆීනික්ස්</item>
+        <item>ස=ස්පාඤ්ඤ වරාය</item>
+        <item>ක=කුමරු වරාය</item>
+        <item>ප=පුවටෝ රිකෝ</item>
+        <item>ස=සැන්ටෝ ඩොමින්ගෝ</item>
+        <item>ස=සාඕ පාවුලෝ</item>
+        <item>ශ=ශාන්ත ජෝන්</item>
+        <item>ශ=ශාන්ත කිට්ස්</item>
+        <item>ශ=ශාන්ත ලුසියා</item>
+        <item>ශ=ශාන්ත තෝමස්</item>
+        <item>ට=ටිජුවානා</item>
+        <item>ට=ටොරොන්ටෝ</item>
+        <item>ව=වැන්කුවර්</item>
+        <item>ව=විනිපෙග්</item>
+        <item>ද=දක්ෂිණ ධ්‍රැවය</item>
+        <item>ල=ලෝන්යිඅර්යෙන්</item>
+        <item>අ=ඇල්මැටි</item>
+        <item>අ=අම්මාන්</item>
+        <item>අ=අනදීර්</item>
+        <item>අ=අක්ටු</item>
+        <item>බ=බැග්ඩෑග්</item>
+        <item>බ=බහරේන්</item>
+        <item>බ=බකු</item>
+        <item>බ=බැංකොක්</item>
+        <item>බ=බේරූට්</item>
+        <item>ක=කල්කටා</item>
+        <item>ඩ=ඩමැස්කස්</item>
+        <item>ඩ=ඩකා</item>
+        <item>ඩ=ඩුබායි</item>
+        <item>ග=ගාසා</item>
+        <item>හ=හෙබ්රොන්</item>
+        <item>හ=හෝ චි මිං</item>
+        <item>හ=හොංකොං</item>
+        <item>ඉ=ඉස්තාන්බුල්</item>
+        <item>ජ=ජකර්තා</item>
+        <item>ජ=ජෙරුසලම්</item>
+        <item>ක=කාබුල්</item>
+        <item>ක=කරච්චි</item>
+        <item>ක=කත්මණ්ඩු</item>
+        <item>ක=ක්වාලාලම්පූර්</item>
+        <item>ක=කුවේට්</item>
+        <item>ම=මැකාවු</item>
+        <item>ම=මැනිලා</item>
+        <item>ම=මස්කට්</item>
+        <item>න=නොම් පෙන්</item>
+        <item>ප=පියොන්යෑන්</item>
+        <item>ක=කටාර්</item>
+        <item>ර=රැන්ගුන්</item>
+        <item>ර=රියාද්</item>
+        <item>ස=සයිගොන්</item>
+        <item>ස=සියොල්</item>
+        <item>ෂ=ෂැංහයි</item>
+        <item>ස=සිංගප්පූරුව</item>
+        <item>ත=තායිපේ</item>
+        <item>ට=ටෙහෙරාන්</item>
+        <item>ට=ටෙල් අවිව්</item>
+        <item>ට=ටෝකියෝ</item>
+        <item>උ=උලාන්බටාර්</item>
+        <item>බ=බර්මියුඩා</item>
+        <item>ක=කැනරි</item>
+        <item>ක=කේප් වර්ඩ්</item>
+        <item>ර=රෙකවික්</item>
+        <item>ස=ස්ටැන්ලි</item>
+        <item>අ=ඇඩිලේඩ්</item>
+        <item>බ=බ්‍රිස්බේන්</item>
+        <item>ක=කැන්බරා</item>
+        <item>ඩ=ඩාවින්</item>
+        <item>ම=මෙල්බර්න්</item>
+        <item>න=නිව් සවුත් වේල්ස්</item>
+        <item>ප=පර්ත්</item>
+        <item>ක=ක්වීන්ස්ලන්ඩ්</item>
+        <item>ස=සිඩ්නි</item>
+        <item>ව=වික්ටෝරියා</item>
+        <item>න=නිව්ෆවුන්ඩ්ලන්ඩ්</item>
+        <item>ස=සස්කැච්වන්</item>
+        <item>ප=පාස්කු දූපත</item>
+        <item>අ=ඇම්ස්ටර්ඩෑම්</item>
+        <item>අ=ඇන්ඩෝරාව</item>
+        <item>අ=ඇතන්ස්</item>
+        <item>බ=බෙල්ෆාස්ට්</item>
+        <item>බ=බෙල්ග්රේඩ්</item>
+        <item>බ=බර්ලින්</item>
+        <item>බ=බ්‍රැටිස්ලාවා</item>
+        <item>බ=බ්රසල්ස්</item>
+        <item>බ=බුකාරෙස්ට්</item>
+        <item>බ=බුඩාපෙස්ට්</item>
+        <item>ච=චිසිනාඕ</item>
+        <item>ක=කෝපන්හේගන්</item>
+        <item>ඩ=ඩබ්ලින්</item>
+        <item>ජ=ජබ්බ්රුල්තා</item>
+        <item>හ=හෙල්සින්කි</item>
+        <item>අ=අයිල් ඔෆ් මෑන්</item>
+        <item>ඉ=ඉස්තාන්බුල්</item>
+        <item>ක=කියෙව්</item>
+        <item>ල=ලිස්බන්</item>
+        <item>ල=ලන්ඩන්</item>
+        <item>ල=ලක්සම්බර්ග්</item>
+        <item>ම=මැඩ්රිඩ්</item>
+        <item>ම=මෝල්ටා</item>
+        <item>ම=මින්ස්ක්</item>
+        <item>ම=මොනාකෝ</item>
+        <item>ම=මොස්කව්</item>
+        <item>ඔ=ඔස්ලෝ</item>
+        <item>ප=පැරිස්</item>
+        <item>ප=ප්රාග්</item>
+        <item>ර=රිගා</item>
+        <item>ර=රෝමය</item>
+        <item>ස=සැන් මරිනෝ</item>
+        <item>ස=සරජෙවෝ</item>
+        <item>ස=සිම්ෆ්රෝපෝල්</item>
+        <item>ස=ස්කෝප්ජේ</item>
+        <item>ස=සොෆියා</item>
+        <item>ස=ස්ටොක්හෝම්</item>
+        <item>ට=ටලීන්</item>
+        <item>ව=වතිකානුව</item>
+        <item>ව=වියානා</item>
+        <item>ව=විල්නියස්</item>
+        <item>ව=වෝර්සෝ</item>
+        <item>ෂ=ෂාග්රෙබ්</item>
+        <item>ස=සූරිච්</item>
+        <item>අ=ඇන්ටන්නරිවෝ</item>
+        <item>ම=මාලදිවයින</item>
+        <item>ම=මොරිෂස්</item>
+        <item>ඔ=ඕක්ලන්ඩ්</item>
+        <item>ෆ=ෆීජි</item>
+        <item>ග=ගුවාම්</item>
+        <item>හ=හොනලුලු</item>
+        <item>කK=කිරිටිමිටි</item>
+        <item>න=නොමෙයා</item>
+        <item>ස=සැමෝවා</item>
+        <item>ට=ටහිටි</item>
+        <item>අ=ඇන්ටිගුවා</item>
+        <item>ඔ=ඔස්ටින්</item>
+        <item>බ=බොස්ටන්</item>
+        <item>ක=කැල්ගරි</item>
+        <item>ක=කොලොම්බස්</item>
+        <item>ඩ=ඩලස්</item>
+        <item>න=නොක්ස්විල්</item>
+        <item>ම=මෙම්ෆිස්</item>
+        <item>ම=මියාමි</item>
+        <item>ම=මිනැපොලිස්</item>
+        <item>ඔ=ඔටාවා</item>
+        <item>ෆ=ෆිලඩෙල්ෆියා</item>
+        <item>ප=පෝට්ලන්ඩ්</item>
+        <item>ස=සැන් ඩියාගෝ</item>
+        <item>ස=සැන් ෆ්රැන්සිස්කෝ</item>
+        <item>ස=සෝල්ට් ලේක් නගරය</item>
+        <item>ස=සැන් ජෝස්</item>
+        <item>ස=සැන් සැල්වදෝර්</item>
+        <item>ස=සියැටල්</item>
+        <item>ශ=ශාන්ත ලුවිස්</item>
+        <item>ව=වොෂින්ටන් ඩී.සී.</item>
+        <item>හ=හූස්ටන්</item>
+        <item>ස=සැන් ඇන්ටෝනියෝ</item>
+        <item>ජ=ජැක්සන්විල්</item>
+        <item>බ=බැල්ටිමෝර්</item>
+        <item>න=නෑශ්විල්</item>
+        <item>ම=මිල්වෞකි</item>
+        <item>ඔ=ඔක්ලහෝමා නගරය</item>
+        <item>ල=ලාස් වේගාස්</item>
+        <item>අ=ඇල්බකැකි</item>
+        <item>ට=ටක්සන්</item>
+        <item>ස=සැක්රමැන්ටෝ</item>
+        <item>අ=ඇට්ලන්ටා</item>
+        <item>ක=ක්ලීව්ලන්ඩ්</item>
+        <item>න=නිව් ඕර්ලියන්ස්</item>
+        <item>ට=ටැම්පා</item>
+        <item>ප=පිට්ස්බර්ග්</item>
+        <item>ස=සින්සිනාටි</item>
+        <item>ම=මවුන්ටන් වීව්</item>
+        <item>ර=රෙනෝ</item>
+        <item>බ=බ්ලැක් රොක් නගරය</item>
+        <item>ඩ=ඩෝහා</item>
+        <item>බ=බීජිං</item>
+        <item>ම=මුම්බායි</item>
+        <item>ද=දිල්ලි</item>
+        <item>ඔ=ඔසකා</item>
+        <item>ල=ලාහෝර්</item>
+        <item>ස=සනා</item>
+        <item>බ=බාසිලෝනා</item>
+        <item>ම=මියුනිච්</item>
+        <item>ම=මිලාන්</item>
+        <item>ෆ=ෆ්රැන්ක්ෆර්ට්</item>
+        <item>හ=හැනෝයි</item>
+        <item>අ=අන්කාරා</item>
+        <item>බ=බැංගලෝර්</item>
+        <item>බ=බ්‍රසීලියා</item>
+        <item>ක=කේප් ටවුන්</item>
+        <item>ඉ=ඉස්ලාමාබාද්</item>
+        <item>ර=රියෝ ද ජැනෙයිරෝ</item>
+        <item>අ=ඇන් ආබර්</item>
+        <item>බ=බෝල්ඩර්</item>
+        <item>ක=කේම්බ්රිජ්</item>
+        <item>ක=කර්ක්ලෑන්ඩ්</item>
+        <item>ම=මැඩිසන්</item>
+        <item>ග=ගුආන්සු</item>
+        <item>හ=හයිඩ්‍රරාබාද්</item>
+        <item>ර=රෙස්ටන්</item>
+        <item>බ=බෙලෝ හොරිසොන්ටේ</item>
+        <item>ස=සන්ටියාගෝ</item>
+        <item>ම=මොන්රෝවියා</item>
+        <item>ක=කොළඹ</item>
+        <item>ච=චිවුවා</item>
+        <item>ස=සැල්වදෝර්</item>
+        <item>ග=ගුර්ගාඔන්</item>
+        <item>ම=මැන්චෙස්ටර්</item>
+        <item>ක=කිව්</item>
+        <item>ශ=ශාන්ත පීටර්ස්බර්ග්</item>
+        <item>ක=ක්‍රකොඕ</item>
+        <item>ව=ව්‍රෝකලො</item>
+        <item>හ=හැම්බර්ග්</item>
+        <item>ඔ=ඖලු</item>
+        <item>හ=හයිෆා</item>
+        <item>ස=සැන් ජුවාන්</item>
+        <item>ට=ටෙගුසිගලපා</item>
+        <item>ප=පැරමරිබෝ</item>
+        <item>ක=කුයිටෝ</item>
+        <item>ල=ලුබ්ජනා</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>තවත් මිනිත්තුවකට අඩුවෙන් ඉතිරිව ඇත</item>
+        <item>%1$s ක් ඉතිරිව ඇත</item>
+        <item>%2$s ක් ඉතිරිව ඇත</item>
+        <item>%1$s %2$s ක් ඉතිරිව ඇත</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>ඇඟවීම මෙතැන් සිට ම්නිත්තු 1 කට අඩුවෙන් සකසා ඇත.</item>
+        <item>ඇඟවීම දැන් සිට %1$s කින් සකසා ඇත.</item>
+        <item>ඇඟවීම දැන් සිට %2$s කින් සකසා ඇත.</item>
+        <item>ඇඟවීම දැන් සිට %1$s සහ %2$s කින් සකසා ඇත.</item>
+        <item>ඇඟවීම දැන් සිට %3$s කින් සකසා ඇත.</item>
+        <item>ඇඟවීම දැන් සිට %1$s සහ %3$s කින් සකසා ඇත.</item>
+        <item>ඇඟවීම දැන් සිට %2$s සහ %3$s කින් සකසා ඇත.</item>
+        <item>ඇඟවීම දැන් සිට %1$s,%2$s සහ %3$s කින් සකසා ඇත.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>මිනිත්තු 1</item>
+        <item>මිනිත්තු 5</item>
+        <item>මිනිත්තු 10</item>
+        <item>මිනිත්තු 15</item>
+        <item>මිනිත්තු 20</item>
+        <item>මිනිත්තු 25</item>
+        <item>කවදාවත් නොවේ</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>සෙනසුරාදා</item>
+        <item>ඉරිදා</item>
+        <item>සඳුදා</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>යළි සිහි කැඳවන්න</item>
+        <item>ඉවතලන්න</item>
+        <item>කිසිවක් නොකරන්න</item>
+    </string-array>
+    <string-array name="sw_lap_number_set">
+        <item>\# %d</item>
+        <item>\# %02d</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>ඔබ ඉතා වේගයෙන් යන්නෙක්.</item>
+        <item>ඔබගේ උත්සාහයේ ප්‍රතිපල භුක්ති විඳින්න.</item>
+        <item>Android වේගවත් යැයි ප්‍රසිද්ධයි, එහෙත් ඔබ තරම් නොවේ!</item>
+        <item>චිහ්.</item>
+        <item>L33t වාර.</item>
+        <item>මෙතරම් අතිවිශාල ප්‍රවේගයක්.</item>
+        <item>දැන් යලිත් කාල ඔතා දමමු.</item>
+        <item>වමට පැනීමක් පමණි.</item>
+        <item>තදියම සඳහා ඔබ සතුව පලත්තක් ඇත.</item>
+        <item>ෆොටෝනමය ප්‍රවේගය.</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>ප්‍රතිසමය</item>
+        <item>ඩිජිටල්</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>මාර්ෂල් දූපත්</item>
+        <item>මිඩ්වේ දූපත</item>
+        <item>හවායි</item>
+        <item>ඇලස්කාව</item>
+        <item>පැසිෆික් වේලාව</item>
+        <item>ටිජුආනා</item>
+        <item>ඇරිසෝනා</item>
+        <item>චිහුආහුආ</item>
+        <item>කඳුකර වේලාව</item>
+        <item>මධ්‍යම ඇමරිකාව</item>
+        <item>මධ්‍යම වේලාව</item>
+        <item>මෙක්සිකෝ නගරය</item>
+        <item>සස්කචෙවන්</item>
+        <item>බොගොටා</item>
+        <item>නැගෙනහිර වේලාව</item>
+        <item>වෙනිසියුලාව</item>
+        <item>අත්ලාන්තික් වේලාව (බාබඩෝස්)</item>
+        <item>අත්ලාන්තික් වේලාව (කැනඩාව)</item>
+        <item>මනාවුස්</item>
+        <item>සන්තියාගෝ</item>
+        <item>නිව්ෆවුන්ඩ්ලන්ඩ්</item>
+        <item>බ්‍රසිලියා</item>
+        <item>බුවනෝස් අයර්ස්</item>
+        <item>ග්‍රීන්ලන්තය</item>
+        <item>මොන්ටෙවීඩි‍යෝ</item>
+        <item>මාධ්‍ය-අත්ලාන්තික්</item>
+        <item>ඇසෝරස්</item>
+        <item>කේප් වෙර්ඩ් දූපත්</item>
+        <item>කැසබලන්කා</item>
+        <item>ලන්ඩන්, ඩබ්ලින්</item>
+        <item>ඇම්ස්ටර්ඩෑම්, බර්ලින්</item>
+        <item>බෙල්ග්‍රේඩ්</item>
+        <item>බ්‍රසල්ස්</item>
+        <item>සරජෙවෝ</item>
+        <item>වින්ඩ්හෝක්</item>
+        <item>බ. අප්‍රිකානු වේලාව</item>
+        <item>අම්මාන්, ජෝර්දානය</item>
+        <item>ඇතැන්ස්, ඉස්තාන්බුල්</item>
+        <item>බෙයිරුට්, ලෙබනනය</item>
+        <item>කයිරෝ</item>
+        <item>හෙල්සින්කි</item>
+        <item>ජෙරුසලම්</item>
+        <item>මින්ස්කි</item>
+        <item>හරාරේ</item>
+        <item>බැග්ඩෑඩ්</item>
+        <item>මොස්කව්</item>
+        <item>කුවේට්</item>
+        <item>නයිරෝබි</item>
+        <item>ටෙහෙරාන්</item>
+        <item>බාකු</item>
+        <item>ටිබිලිස්</item>
+        <item>යෙරෙවන්</item>
+        <item>ඩුබායි</item>
+        <item>කාබුල්</item>
+        <item>ඉස්ලාමාබාද්, කරච්චි</item>
+        <item>යුරාල්ස්ක්</item>
+        <item>යෙකටෙරින්බ්ර්ග්</item>
+        <item>කොල්කටාව</item>
+        <item>ශ්‍රී ලංකාව</item>
+        <item>කත්මන්ඩු</item>
+        <item>ඇස්ටානා</item>
+        <item>යැන්ගොන්</item>
+        <item>ක්‍රස්නොයර්ස්ක්</item>
+        <item>බෑංකොක්</item>
+        <item>බීජිං</item>
+        <item>හොං කොං</item>
+        <item>ඉර්කුට්ස්ක්</item>
+        <item>ක්වාලා ලම්පූර්</item>
+        <item>පර්ත්</item>
+        <item>තයිපෙයි</item>
+        <item>සෝල්</item>
+        <item>ටෝකියෝව, ඔසාකා</item>
+        <item>යකුට්ස්ක්</item>
+        <item>ඇඩිලේඩ්</item>
+        <item>ඩාවින්</item>
+        <item>බ්‍රිස්බේන්</item>
+        <item>හෝබාට්</item>
+        <item>සිඩ්නි, කැන්බරා</item>
+        <item>ව්ලදිවෝස්ටෝක්</item>
+        <item>ගුවාම්</item>
+        <item>මැගඩන්</item>
+        <item>ඕක්ලන්ඩ්</item>
+        <item>ෆිජි</item>
+        <item>ටොන්ගා</item>
+        <item>ජකර්තා</item>
+    </string-array>
+</resources>

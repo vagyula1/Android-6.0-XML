@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">Zarządzaj folderami</string>
+    <string name="add_cc_label">+ DW/UDW</string>
+    <string name="add_bcc_label">+ UDW</string>
+    <string name="preferences_default_reply_all_summary">Używaj domyślnie dla odpowiedzi na powiadomienia o wiadomościach</string>
+</resources>

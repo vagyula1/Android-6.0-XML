@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">ສະບັບຮ່າງ</item>
+        <item quantity="one">ສະບັບຮ່າງ</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">ລຶບ %1$d ການສົນທະນານີ້?</item>
+        <item quantity="one">ລຶບການສົນທະນານີ້?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">ຈັດເກັບ %1$d ການສົນທະນານີ້?</item>
+        <item quantity="one">ຈັດເກັບການສົນທະນານີ້?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">ຖິ້ມ​ອີ​ເມວ %1$d ສະ​ບັບ​ນີ້​ບໍ່?</item>
+        <item quantity="one">ຖິ້ມ​ອີ​ເມວ​ນີ້ບໍ່?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">​ກຳ​ລັງ​ຖອນ​ດາວ %1$d ​ການ​ສົນ​ທະ​ນາ</item>
+        <item quantity="one">​ກຳ​ລັງຖອນ​ດາວ %1$d ​ການ​ສົນ​ທະ​ນາ</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">​ປິດ​ສຽງ &amp;lt;b>%1$d&amp;lt;/b> ການ​ສົນ​ທະ​ນາ​ແລ້ວ</item>
+        <item quantity="one">​ປິດ​ສຽງ &amp;lt;b>%1$d&amp;lt;/b> ການ​ສົນ​ທະ​ນາ​ແລ້ວ</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">ລາຍ​ງານ &amp;lt;b>%1$d&amp;lt;/b> ການ​ສົນ​ທະ​ນາ​ວ່າ​ແມ່ນ​ສະ​ແປມ​ແລ້ວ</item>
+        <item quantity="one">ລາຍ​ງານ &amp;lt;b>%1$d&amp;lt;/b> ການ​ສົນ​ທະ​ນາ​ວ່າ​ແມ່ນ​ສະ​ແປມ​ແລ້ວ</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">ລາຍ​ງານ &amp;lt;b>%1$d&amp;lt;/b> ການ​ສົນ​ທະ​ນາ​ວ່າ​ບໍ່​ແມ່ນ​ສະ​ແປມ​ແລ້ວ</item>
+        <item quantity="one">​ລາຍ​ງານ &amp;lt;b>%1$d&amp;lt;/b> ການ​ສົນ​ທະ​ນາ​ວ່າ​ບໍ່ແມ່ນ​ສະ​ແປມ​ແລ້ວ</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">​ໝາຍ &amp;lt;b>%1$d&amp;lt;/b> ການ​ສົນ​ທະ​ນາ​ວ່າ​ບໍ່​ສຳ​ຄັນ​ແລ້ວ</item>
+        <item quantity="one">​ໝາຍ &amp;lt;b>%1$d&amp;lt;/b> ການ​ສົນ​ທະ​ນາ​ວ່າ​ບໍ່​ສຳ​ຄັນ​ແລ້ວ</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">ລາຍ​ງານ &amp;lt;b>%1$d&amp;lt;/b> ການ​ສົນທະນາ​ວ່າ​ແມ່ນ​ຟິດຊິງຂໍ້ມູນ​ແລ້ວ</item>
+        <item quantity="one">​ລາຍ​ງານ &amp;lt;b>%1$d&amp;lt;/b> ການ​ສົນທະນາ​ວ່າ​ແມ່ນ​ຟິດຊິງຂໍ້ມູນ​ແລ້ວ</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">ຈັດ​ເກັບ &amp;lt;b>%1$d&amp;lt;/b> ການ​ສົນ​ທະ​ນາ​ແລ້ວ</item>
+        <item quantity="one">​ຈັດ​ເກັບ &amp;lt;b>%1$d&amp;lt;/b> ​ການ​ສົນ​ທະ​ນາແລ້ວ</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">​ລຶບ &amp;lt;b>%1$d&amp;lt;/b> ການ​ສົນ​ທະ​ນາ​ແລ້ວ</item>
+        <item quantity="one">​ລຶບ &amp;lt;b>%1$d&amp;lt;/b> ການ​ສົນ​ທະ​ນາ​ແລ້ວ</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">​ປ່ຽນ​ໂຟນ​ເດີ​ແລ້ວ</item>
+        <item quantity="one">​ປ່ຽນ​ໂຟນ​ເດີ​ແລ້ວ</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d ຂໍ້​ຄວາມ​ໃໝ່</item>
+        <item quantity="one">%1$d ຂໍ້​ຄວາມ​ໃໝ່</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">ຂະ​ຫຍາຍ %1$d ຂໍ້​ຄວາມ​ເກົ່າ</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">ຂະ​ຫຍາຍ​ຂໍ້​ຄວາມ​ເກົ່າ %1$d ຂໍ້​ຄວາມ​ແລ້ວ</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d ຂໍ້ຄວາມຍັງບໍ່ໄດ້ອ່ານ</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d ​ອີ​ເມວ​ໃໝ່</item>
+        <item quantity="one">%1$d ຂໍ້​ຄວາມ​ໃໝ່</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d ຂໍ້ຄວາມຈະຖືກລຶບຖິ້ມຢ່າງຖາວອນ.</item>
+        <item quantity="one">%1$d ຂໍ້ຄວາມຈະຖືກລຶບຖິ້ມຢ່າງຖາວອນ.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d ຂໍ້ຄວາມ</item>
+        <item quantity="one">%1$d ຂໍ້ຄວາມ</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d ໄຟລ໌ແນບ</item>
+        <item quantity="one">%1$d ໄຟລ໌ແນບ</item>
+    </plurals>
+</resources>

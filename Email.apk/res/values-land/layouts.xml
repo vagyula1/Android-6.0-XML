@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="conversation_message_upper_header_actions">@layout/conversation_message_upper_header_actions_land_or_tablet</item>
+</resources>

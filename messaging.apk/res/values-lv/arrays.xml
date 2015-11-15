@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>bez temata</item>
+        <item>bez temata</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Jā</item>
+        <item>Nē</item>
+        <item>Labi</item>
+        <item>He-he</item>
+        <item>Paldies!</item>
+        <item>Piekrītu</item>
+        <item>Jauki</item>
+        <item>Esmu ceļā</item>
+        <item>Labi, vēlāk ar tevi sazināšos.</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+</resources>

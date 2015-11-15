@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Ještě %1$d kroků a bude z vás vývojář.</item>
+        <item quantity="one">Ještě %1$d krok a bude z vás vývojář.</item>
+        <item quantity="few">Ještě %1$d kroky a bude z vás vývojář.</item>
+        <item quantity="many">Ještě %1$d kroku a bude z vás vývojář.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">Nastavení %1$d otisků prstu</item>
+        <item quantity="one">Nastavení %1$d otisku prstu</item>
+        <item quantity="few">Nastavení %1$d otisků prstu</item>
+        <item quantity="many">Nastavení %1$d otisku prstu</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Heslo musí obsahovat alespoň %d písmen.</item>
+        <item quantity="one">Heslo musí obsahovat alespoň jedno písmeno.</item>
+        <item quantity="few">Heslo musí obsahovat alespoň %d písmena.</item>
+        <item quantity="many">Heslo musí obsahovat alespoň %d písmena.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Heslo musí obsahovat alespoň %d malých písmen.</item>
+        <item quantity="one">Heslo musí obsahovat alespoň jedno malé písmeno.</item>
+        <item quantity="few">Heslo musí obsahovat alespoň %d malá písmena.</item>
+        <item quantity="many">Heslo musí obsahovat alespoň %d malého písmena.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Heslo musí obsahovat alespoň %d velkých písmen.</item>
+        <item quantity="one">Heslo musí obsahovat alespoň jedno velké písmeno.</item>
+        <item quantity="few">Heslo musí obsahovat alespoň %d velká písmena.</item>
+        <item quantity="many">Heslo musí obsahovat alespoň %d velkého písmena.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Heslo musí obsahovat alespoň %d číslic.</item>
+        <item quantity="one">Heslo musí obsahovat alespoň jednu číslici.</item>
+        <item quantity="few">Heslo musí obsahovat alespoň %d číslice.</item>
+        <item quantity="many">Heslo musí obsahovat alespoň %d číslice.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Heslo musí obsahovat alespoň %d speciálních symbolů.</item>
+        <item quantity="one">Heslo musí obsahovat alespoň jeden speciální symbol.</item>
+        <item quantity="few">Heslo musí obsahovat alespoň %d speciální symboly.</item>
+        <item quantity="many">Heslo musí obsahovat alespoň %d speciálního symbolu.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Heslo musí obsahovat alespoň %d znaků jiných než písmena.</item>
+        <item quantity="one">Heslo musí obsahovat alespoň jeden znak jiný než písmeno.</item>
+        <item quantity="few">Heslo musí obsahovat alespoň %d znaky jiné než písmena.</item>
+        <item quantity="many">Heslo musí obsahovat alespoň %d znaku jiného než písmeno.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Zadali jste nesprávný kód PIN SIM karty. Máte ještě %d pokusů.</item>
+        <item quantity="one">Zadali jste nesprávný PIN SIM karty. Zbývá %d pokus, poté bude muset zařízení odemknout operátor.</item>
+        <item quantity="few">Zadali jste nesprávný kód PIN SIM karty. Máte ještě %d pokusy.</item>
+        <item quantity="many">Zadali jste nesprávný kód PIN SIM karty. Máte ještě %d pokusu.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d aplikací může číst oznámení</item>
+        <item quantity="one">%d aplikace může číst oznámení</item>
+        <item quantity="few">%d aplikace mohou číst oznámení</item>
+        <item quantity="many">%d aplikace může číst oznámení</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Na %1$d minut (tedy do %2$s) přepnout do režimu Pouze budíky</item>
+        <item quantity="one">Na minutu (tedy do %2$s) přepnout do režimu Pouze budíky</item>
+        <item quantity="few">Na %1$d minuty (tedy do %2$s) přepnout do režimu Pouze budíky</item>
+        <item quantity="many">Na %1$d minuty (tedy do %2$s) přepnout do režimu Pouze budíky</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Na %1$d hodin (tedy do %2$s) přepnout do režimu Pouze budíky</item>
+        <item quantity="one">Na hodinu (tedy do %2$s) přepnout do režimu Pouze budíky</item>
+        <item quantity="few">Na %1$d hodiny (tedy do %2$s) přepnout do režimu Pouze budíky</item>
+        <item quantity="many">Na %1$d hodiny (tedy do %2$s) přepnout do režimu Pouze budíky</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">Uděleno %d oprávnění</item>
+        <item quantity="one">Uděleno %d oprávnění</item>
+        <item quantity="few">Udělena %d oprávnění</item>
+        <item quantity="many">Uděleno %d oprávnění</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">Bylo uděleno %1$d z %2$d oprávnění</item>
+        <item quantity="one">Bylo uděleno %1$d z %2$d oprávnění</item>
+        <item quantity="few">Bylo uděleno %1$d z %2$d oprávnění</item>
+        <item quantity="many">Bylo uděleno %1$d z %2$d oprávnění</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d dalších oprávnění</item>
+        <item quantity="one">%d další oprávnění</item>
+        <item quantity="few">%d další oprávnění</item>
+        <item quantity="many">%d dalšího oprávnění</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d aplikací může otevírat podporované odkazy</item>
+        <item quantity="one">Jedna aplikace může otevírat podporované odkazy</item>
+        <item quantity="few">%d aplikace mohou otevírat podporované odkazy</item>
+        <item quantity="many">%d aplikace mohou otevírat podporované odkazy</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">Ignorovat optimalizaci výdrže baterie má povoleno %d aplikací</item>
+        <item quantity="one">Ignorovat optimalizaci výdrže baterie má povoleno jedna aplikace</item>
+        <item quantity="few">Ignorovat optimalizaci výdrže baterie mají povoleno %d aplikace</item>
+        <item quantity="many">Ignorovat optimalizaci výdrže baterie má povoleno %d aplikace</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d aplikací použilo paměť během posledních %2$s</item>
+        <item quantity="one">1 aplikace použila paměť během posledních %2$s</item>
+        <item quantity="few">%1$d aplikace použily paměť během posledních %2$s</item>
+        <item quantity="many">%1$d aplikace použilo paměť během posledních %2$s</item>
+    </plurals>
+</resources>

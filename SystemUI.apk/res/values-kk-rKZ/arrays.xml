@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Тексеруде…</item>
+        <item>Қосылуда...</item>
+        <item>Растауда…</item>
+        <item>IP мекенжайына қол жеткізуде…</item>
+        <item>Қосылған</item>
+        <item>Уақытша тоқтатылды</item>
+        <item>Ажыратуда…</item>
+        <item>Ажыратылған</item>
+        <item>Сәтсіз</item>
+        <item>Бөгелген</item>
+        <item>Нашар байланысты уақытша қолданбау</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Тексеруде…</item>
+        <item>%1$s қосылуда…</item>
+        <item>%1$s арқылы расталуда…</item>
+        <item>IP мекенжайын %1$s арқылы алуда…</item>
+        <item>%1$s жалғанған</item>
+        <item>Уақытша тоқтатылды</item>
+        <item>%1$s байланысынан ажыратылуда…</item>
+        <item>Ажыратылған</item>
+        <item>Сәтсіз</item>
+        <item>Бөгелген</item>
+        <item>Нашар байланысты уақытша қолданбау</item>
+    </string-array>
+</resources>

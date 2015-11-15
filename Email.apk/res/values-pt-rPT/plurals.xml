@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Rascunhos</item>
+        <item quantity="one">Rascunho</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Eliminar estas %1$d conversas?</item>
+        <item quantity="one">Eliminar esta conversa?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Arquivar %1$d conversas?</item>
+        <item quantity="one">Arquivar esta conversa?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Rejeitar estas %1$d mensagens?</item>
+        <item quantity="one">Rejeitar esta mensagem?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">A desmarcar com estrela %1$d conversas</item>
+        <item quantity="one">A desmarcar com estrela %1$d conversa</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ignoradas</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ignorada</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> denunciadas como spam</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> denunciada como spam</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> denunciadas como não sendo spam</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> denunciada como não sendo spam</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> marcadas como não importantes</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> marcada como não importante</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> denunciadas como phishing</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> denunciada como phishing</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> arquivadas</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> arquivada</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> eliminadas</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> eliminada</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Pastas alteradas</item>
+        <item quantity="one">Pasta alterada</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d mensagens novas</item>
+        <item quantity="one">%1$d mensagem nova</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Expandir %1$d mensagens mais antigas</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d mensagens mais antigas expandidas</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d não lidas</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d mensagens novas</item>
+        <item quantity="one">%1$d mensagem nova</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d mensagens serão eliminadas permanentemente.</item>
+        <item quantity="one">%1$d mensagem será eliminada permanentemente.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d mensagens</item>
+        <item quantity="one">%1$d mensagem</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d anexos</item>
+        <item quantity="one">%1$d anexo</item>
+    </plurals>
+</resources>

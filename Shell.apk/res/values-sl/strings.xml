@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Lupina</string>
+    <string name="bugreport_finished_title">Poročilo o napaki je posneto</string>
+    <string name="bugreport_finished_text">Dotaknite se, če želite deliti sporočilo o napaki z drugimi</string>
+    <string name="bugreport_confirm">Poročila o napakah vsebujejo podatke iz različnih dnevniških datotek sistema, vključno z osebnimi in zasebnimi podatki. Poročila o napakah delite samo z aplikacijami in ljudmi, ki jim zaupate.</string>
+    <string name="bugreport_confirm_repeat">Pokaži to sporočilo naslednjič</string>
+    <string name="bugreport_storage_title">Poročila o napakah</string>
+</resources>

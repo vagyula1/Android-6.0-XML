@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Чернови</item>
+        <item quantity="one">Чернова</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Да се изтрият ли тези %1$d кореспонденции?</item>
+        <item quantity="one">Да се изтрие ли тази кореспонденция?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Да се архивират ли тези %1$d кореспонденции?</item>
+        <item quantity="one">Да се архивира ли тази кореспонденция?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Да се отхвърлят ли тези %1$d съобщения?</item>
+        <item quantity="one">Да се отхвърли ли това съобщение?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Премахват се звездите от %1$d кореспонденции</item>
+        <item quantity="one">Премахва се звездата от %1$d кореспонденция</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> бяха спрени</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> бе спряна</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">За &amp;lt;b>%1$d&amp;lt;/b> бе подаден сигнал за спам</item>
+        <item quantity="one">За &amp;lt;b>%1$d&amp;lt;/b> бе подаден сигнал за спам</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">За &amp;lt;b>%1$d&amp;lt;/b> бе сигнализирано, че не са спам</item>
+        <item quantity="one">За &amp;lt;b>%1$d&amp;lt;/b> бе сигнализирано, че не е спам</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> бяха означени като маловажни</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> бе означена като маловажна</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">За &amp;lt;b>%1$d&amp;lt;/b> бе подаден сигнал за фишинг</item>
+        <item quantity="one">За &amp;lt;b>%1$d&amp;lt;/b> бе подаден сигнал за фишинг</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> бяха архивирани</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> бе архивирана</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> бяха изтрити</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> бе изтрита</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Папките бяха променени</item>
+        <item quantity="one">Папката бе променена</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d нови съобщения</item>
+        <item quantity="one">%1$d ново съобщение</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Разгъване на %1$d по-стари съобщения</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Разгънахте %1$d по-стари съобщения</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d непрочетени</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d нови съобщения</item>
+        <item quantity="one">%1$d ново съобщение</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d съобщения ще бъдат изтрити за постоянно.</item>
+        <item quantity="one">%1$d съобщение ще бъде изтрито за постоянно.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d съобщения</item>
+        <item quantity="one">%1$d съобщение</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d прикачени файла</item>
+        <item quantity="one">%1$d прикачен файл</item>
+    </plurals>
+</resources>

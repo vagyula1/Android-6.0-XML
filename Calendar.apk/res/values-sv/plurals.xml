@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d minuter</item>
+        <item quantity="one">1 minut</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d minuter</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d timmar</item>
+        <item quantity="one">1 timme</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d dagar</item>
+        <item quantity="one">1 dag</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">VECKA %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">, %d gånger</item>
+        <item quantity="one">, en gång</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d dagars interv.</item>
+        <item quantity="one">Varje dag</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Med %1$d v. intervall på %2$s</item>
+        <item quantity="one">Varje vecka på %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+ %d</item>
+        <item quantity="one">+ 1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d händelser</item>
+        <item quantity="one">1 händelse</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">%d händelser till</item>
+        <item quantity="one">1 händelse</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Med %d dagars intervall</item>
+        <item quantity="one">Med %d dags intervall</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Med %d veckors intervall</item>
+        <item quantity="one">Med %d veckas intervall</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Med %d månaders intervall</item>
+        <item quantity="one">Med %d månads intervall</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Med %d års intervall</item>
+        <item quantity="one">Med %d års intervall</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">För %d event</item>
+        <item quantity="one">För %d event</item>
+    </plurals>
+</resources>

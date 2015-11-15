@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Медіа-файли</string>
+    <string name="app_label">Збер. медіа-файл.</string>
+    <string name="artist_label">Виконавець</string>
+    <string name="ringtone_default">Сигнал дзвінка за умовчанням</string>
+    <string name="notification_sound_default">Звук сповіщення за умовчанням</string>
+    <string name="alarm_sound_default">Звук сигналу за умовчанням</string>
+    <string name="root_images">Зображення</string>
+    <string name="root_videos">Відео</string>
+    <string name="root_audio">Аудіо</string>
+</resources>

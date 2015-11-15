@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">Dhibiti folda</string>
+    <string name="add_cc_label">+ Nakala kwa/Nakala fiche kwa</string>
+    <string name="add_bcc_label">+ Nakala fiche kwa</string>
+    <string name="preferences_default_reply_all_summary">Tumia kama chaguo-msingi ya majibu kwa arifa za ujumbe</string>
+</resources>

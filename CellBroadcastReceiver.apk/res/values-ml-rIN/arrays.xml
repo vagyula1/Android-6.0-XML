@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 സെക്കൻഡ്</item>
+        <item>4 സെക്കൻഡ്</item>
+        <item>6 സെക്കൻഡ്</item>
+        <item>8 സെക്കൻഡ്</item>
+        <item>10 സെക്കൻഡ്</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>ഒരിക്കല്‍</item>
+        <item>എല്ലാ 2 മിനിറ്റിലും</item>
+        <item>ഓരോ 15 മിനിറ്റിലും</item>
+        <item>ഓഫാണ്</item>
+    </string-array>
+</resources>

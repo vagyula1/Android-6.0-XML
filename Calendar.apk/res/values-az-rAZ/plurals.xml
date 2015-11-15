@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d dəqiqə</item>
+        <item quantity="one">1 dəqiqə</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d dəq</item>
+        <item quantity="one">1 dəq</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">1 saat</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">1 gün</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">HƏFTƏ %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d dəfəlik</item>
+        <item quantity="one">; bir dəfəlik</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Hər %d gün</item>
+        <item quantity="one">Günlük</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Hər %1$d həftədən bir %2$s</item>
+        <item quantity="one">Hər həftə %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d tədbir</item>
+        <item quantity="one">1 tədbir</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d tədbir</item>
+        <item quantity="one">+1 tədbir</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Hər %d gündən bir</item>
+        <item quantity="one">Hər %d gündən bir</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Hər %d həftədən bir</item>
+        <item quantity="one">Hər %d həftədən bir</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Hər %d aydan bir</item>
+        <item quantity="one">Hər %d aydan bir</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Hər %d ildən bir</item>
+        <item quantity="one">Hər %d ildən bir</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Hər %d tədbir</item>
+        <item quantity="one">Hər %d tədbir</item>
+    </plurals>
+</resources>

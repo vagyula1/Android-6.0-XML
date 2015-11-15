@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d தொடர்புகள் உள்ளன</item>
+        <item quantity="one">1 தொடர்பு உள்ளது</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d வினாடிகள்</item>
+        <item quantity="one">1 வினாடி</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d நிமிடங்கள்</item>
+        <item quantity="one">1 நிமிடம்</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d மணிநேரம்</item>
+        <item quantity="one">1 மணிநேரம்</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d குரலஞ்சல்கள்</item>
+        <item quantity="one">குரலஞ்சல்</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d புதிய குரலஞ்சல்கள்</item>
+        <item quantity="one">%d புதிய குரலஞ்சல்</item>
+    </plurals>
+</resources>

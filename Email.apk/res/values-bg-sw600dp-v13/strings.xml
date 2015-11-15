@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">Управление на папките</string>
+    <string name="add_cc_label">+ Як/Ск</string>
+    <string name="add_bcc_label">+ Ск</string>
+    <string name="preferences_default_reply_all_summary">Използване като стандартна опция за отговори на известия за съобщения</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Rasta %d kontaktų</item>
+        <item quantity="one">Rastas %d kontaktas</item>
+        <item quantity="few">Rasti %d kontaktai</item>
+        <item quantity="many">Rasta %d kontakto</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d sekundžių</item>
+        <item quantity="one">%d sekundė</item>
+        <item quantity="few">%d sekundės</item>
+        <item quantity="many">%d sekundės</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minučių</item>
+        <item quantity="one">%d minutė</item>
+        <item quantity="few">%d minutės</item>
+        <item quantity="many">%d minutės</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d valandų</item>
+        <item quantity="one">%d valanda</item>
+        <item quantity="few">%d valandos</item>
+        <item quantity="many">%d valandos</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d balso pašto pranešimų</item>
+        <item quantity="one">%1$d balso pašto pranešimas</item>
+        <item quantity="few">%1$d balso pašto pranešimai</item>
+        <item quantity="many">%1$d balso pašto pranešimo</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d naujų balso pašto pranešimų</item>
+        <item quantity="one">%d naujas balso pašto pranešimas</item>
+        <item quantity="few">%d nauji balso pašto pranešimai</item>
+        <item quantity="many">%d naujo balso pašto pranešimo</item>
+    </plurals>
+</resources>

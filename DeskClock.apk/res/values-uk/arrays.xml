@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>А=Абіджан</item>
+        <item>А=Аккра</item>
+        <item>А=Аддис-Абеба</item>
+        <item>А=Алжир</item>
+        <item>Б=Блантайр</item>
+        <item>Б=Браззавіль</item>
+        <item>К=Каїр</item>
+        <item>К=Касабланка</item>
+        <item>К=Конакрі</item>
+        <item>Д=Дакар</item>
+        <item>Д=Дар-ес-Салам</item>
+        <item>Д=Джибуті</item>
+        <item>Ф=Фрітаун</item>
+        <item>Г=Габороне</item>
+        <item>Х=Хараре</item>
+        <item>Й=Йоганнесбург</item>
+        <item>К=Кампала</item>
+        <item>Х=Хартум</item>
+        <item>К=Кігалі</item>
+        <item>К=Кіншаса</item>
+        <item>Л=Лагос</item>
+        <item>М=Масеру</item>
+        <item>М=Могадишо</item>
+        <item>Н=Найробі</item>
+        <item>С=Сан-Томе</item>
+        <item>Т=Тімбукту</item>
+        <item>Т=Триполі</item>
+        <item>Т=Туніс</item>
+        <item>А=Анкоридж</item>
+        <item>М=Мендоса</item>
+        <item>А=Аруба</item>
+        <item>А=Асунсьйон</item>
+        <item>Б=Барбадос</item>
+        <item>Б=Беліз</item>
+        <item>Б=Богота</item>
+        <item>Б=Буенос-Айрес</item>
+        <item>К=Канкун</item>
+        <item>К=Каракас</item>
+        <item>К=Кайманові острови</item>
+        <item>Ч=Чикаго</item>
+        <item>К=Коста-Рика</item>
+        <item>К=Кюрасао</item>
+        <item>Д=Досон-Крік</item>
+        <item>Д=Денвер</item>
+        <item>Д=Детройт</item>
+        <item>Д=Домініка</item>
+        <item>Е=Едмонтон</item>
+        <item>С=Сальвадор</item>
+        <item>Ф=Форталеза</item>
+        <item>Г=Гранд-Терк</item>
+        <item>Г=Гренада</item>
+        <item>Г=Гватемала</item>
+        <item>Г=Гаяна</item>
+        <item>Г=Галіфакс</item>
+        <item>Г=Гавана</item>
+        <item>І=Індіанаполіс</item>
+        <item>Н=Нокс</item>
+        <item>М=Маренго</item>
+        <item>П=Петербург</item>
+        <item>Т=Телл-Сіті</item>
+        <item>В=Вевей</item>
+        <item>В=Венсенн</item>
+        <item>В=Вінамак</item>
+        <item>К=Кінгстон</item>
+        <item>Н=Нуестра-Сеньйора-де-Ла-Пас</item>
+        <item>Л=Ліма</item>
+        <item>Л=Лос-Анджелес</item>
+        <item>Л=Луїсвілл</item>
+        <item>М=Манагуа</item>
+        <item>М=Мартиніка</item>
+        <item>М=Мендоса</item>
+        <item>М=Метлакатла</item>
+        <item>М=Мехіко</item>
+        <item>М=Монтеррей</item>
+        <item>М=Монтевідео</item>
+        <item>М=Монреаль</item>
+        <item>Н=Нассау</item>
+        <item>Н=Нью-Йорк</item>
+        <item>Б=Беула</item>
+        <item>Ц=Центр</item>
+        <item>Н=Нью-Сейлем</item>
+        <item>П=Панама</item>
+        <item>Ф=Фінікс</item>
+        <item>П=Порт-оф-Спейн</item>
+        <item>П=Порт-о-Пренс</item>
+        <item>П=Пуерто-Рико</item>
+        <item>С=Санто-Домінго</item>
+        <item>С=Сан-Паулу</item>
+        <item>С=Сент-Джонс</item>
+        <item>С=Сент-Кіттс</item>
+        <item>С=Сент-Люсія</item>
+        <item>С=Сент-Томас</item>
+        <item>Т=Тіхуана</item>
+        <item>Т=Торонто</item>
+        <item>В=Ванкувер</item>
+        <item>В=Вінніпег</item>
+        <item>П=Південний полюс</item>
+        <item>Л=Лонг’їр</item>
+        <item>А=Алмати</item>
+        <item>А=Амман</item>
+        <item>А=Анадир</item>
+        <item>А=Актау</item>
+        <item>Б=Багдад</item>
+        <item>Б=Бахрейн</item>
+        <item>Б=Баку</item>
+        <item>Б=Бангкок</item>
+        <item>Б=Бейрут</item>
+        <item>К=Колката</item>
+        <item>Д=Дамаск</item>
+        <item>Д=Дакка</item>
+        <item>Д=Дубай</item>
+        <item>С=Сектор Гази</item>
+        <item>Х=Хеврон</item>
+        <item>Х=Хо Ши Мін</item>
+        <item>Г=Гонконг</item>
+        <item>С=Стамбул</item>
+        <item>Д=Джакарта</item>
+        <item>Є=Єрусалим</item>
+        <item>К=Кабул</item>
+        <item>К=Карачі</item>
+        <item>К=Катманду</item>
+        <item>К=Куала-Лумпур</item>
+        <item>К=Кувейт</item>
+        <item>М=Макао</item>
+        <item>М=Маніла</item>
+        <item>М=Маскат</item>
+        <item>П=Пномпень</item>
+        <item>П=Пхеньян</item>
+        <item>К=Катар</item>
+        <item>Я=Янгон</item>
+        <item>Е=Ер-Ріяд</item>
+        <item>Х=Хошимін</item>
+        <item>С=Сеул</item>
+        <item>Ш=Шанхай</item>
+        <item>С=Сінгапур</item>
+        <item>Т=Тайбей</item>
+        <item>Т=Тегеран</item>
+        <item>Т=Тель-Авів</item>
+        <item>Т=Токіо</item>
+        <item>У=Улан-Батор</item>
+        <item>Б=Бермудські острови</item>
+        <item>К=Канарські острови</item>
+        <item>К=Кабо-Верде</item>
+        <item>Р=Рейк’явік</item>
+        <item>П=Порт-Стенлі</item>
+        <item>А=Аделаїда</item>
+        <item>Б=Брисбен</item>
+        <item>К=Канберра</item>
+        <item>Д=Дарвін</item>
+        <item>М=Мельбурн</item>
+        <item>Н=Новий Південний Уельс</item>
+        <item>П=Перт</item>
+        <item>К=Квінсленд</item>
+        <item>С=Сідней</item>
+        <item>В=Вікторія</item>
+        <item>Н=Ньюфаундленд</item>
+        <item>С=Саскачеван</item>
+        <item>О=Острів Пасхи</item>
+        <item>А=Амстердам</item>
+        <item>А=Андорра</item>
+        <item>А=Афіни</item>
+        <item>Б=Белфаст</item>
+        <item>Б=Белград</item>
+        <item>Б=Берлін</item>
+        <item>Б=Братислава</item>
+        <item>Б=Брюссель</item>
+        <item>Б=Бухарест</item>
+        <item>Б=Будапешт</item>
+        <item>К=Кишинів</item>
+        <item>К=Копенгаген</item>
+        <item>Д=Дублін</item>
+        <item>Г=Гібралтар</item>
+        <item>Г=Гельсінкі</item>
+        <item>О=Острів Мен</item>
+        <item>С=Стамбул</item>
+        <item>К=Київ</item>
+        <item>Л=Лісабон</item>
+        <item>Л=Лондон</item>
+        <item>Л=Люксембург</item>
+        <item>М=Мадрид</item>
+        <item>М=Мальта</item>
+        <item>М=Мінськ</item>
+        <item>М=Монако</item>
+        <item>М=Москва</item>
+        <item>О=Осло</item>
+        <item>П=Париж</item>
+        <item>П=Прага</item>
+        <item>Р=Рига</item>
+        <item>Р=Рим</item>
+        <item>С=Сан-Марино</item>
+        <item>С=Сараєво</item>
+        <item>С=Сімферополь</item>
+        <item>С=Скоп’є</item>
+        <item>С=Софія</item>
+        <item>С=Стокгольм</item>
+        <item>Т=Таллінн</item>
+        <item>В=Ватикан</item>
+        <item>В=Відень</item>
+        <item>В=Вільнюс</item>
+        <item>В=Варшава</item>
+        <item>З=Загреб</item>
+        <item>Ц=Цюрих</item>
+        <item>А=Антананаріву</item>
+        <item>М=Мальдіви</item>
+        <item>М=Маврикій</item>
+        <item>О=Окленд</item>
+        <item>Ф=Фіджі</item>
+        <item>Г=Гуам</item>
+        <item>Г=Гонолулу</item>
+        <item>К=Кіріматі</item>
+        <item>Н=Нумеа</item>
+        <item>С=Самоа</item>
+        <item>Т=Таїті</item>
+        <item>А=Антигуа</item>
+        <item>О=Остін</item>
+        <item>Б=Бостон</item>
+        <item>К=Калгарі</item>
+        <item>К=Колумбус</item>
+        <item>Д=Даллас</item>
+        <item>Н=Ноксвілл</item>
+        <item>М=Мемфіс</item>
+        <item>М=Маямі</item>
+        <item>М=Міннеаполіс</item>
+        <item>О=Оттава</item>
+        <item>Ф=Філадельфія</item>
+        <item>П=Портленд</item>
+        <item>С=Сан-Дієго</item>
+        <item>С=Сан-Франциско</item>
+        <item>С=Солт-Лейк-Сіті</item>
+        <item>С=Сан-Хосе</item>
+        <item>С=Сан-Сальвадор</item>
+        <item>С=Сієтл</item>
+        <item>С=Сент-Луїс</item>
+        <item>В=Вашингтон</item>
+        <item>Х=Х’юстон</item>
+        <item>С=Сан-Антоніо</item>
+        <item>Д=Джексонвілл</item>
+        <item>Б=Балтимор</item>
+        <item>Н=Нашвілл</item>
+        <item>М=Мілуокі</item>
+        <item>О=Оклахома-Сіті</item>
+        <item>Л=Лас-Вегас</item>
+        <item>А=Альбукерке</item>
+        <item>Т=Тусон</item>
+        <item>С=Сакраменто</item>
+        <item>А=Атланта</item>
+        <item>К=Клівленд</item>
+        <item>Н=Новий Орлеан</item>
+        <item>Т=Тампа</item>
+        <item>П=Піттсбург</item>
+        <item>Ц=Цинциннаті</item>
+        <item>М=Маунтін-В’ю</item>
+        <item>Р=Рено</item>
+        <item>Б=Блек-Рок-Сіті</item>
+        <item>Д=Доха</item>
+        <item>П=Пекін</item>
+        <item>М=Мумбаї</item>
+        <item>Д=Делі</item>
+        <item>О=Осака</item>
+        <item>Л=Лахор</item>
+        <item>С=Сана</item>
+        <item>Б=Барселона</item>
+        <item>М=Мюнхен</item>
+        <item>М=Мілан</item>
+        <item>Ф=Франкфурт</item>
+        <item>Х=Ханой</item>
+        <item>А=Анкара</item>
+        <item>Б=Бенґалуру</item>
+        <item>Б=Бразиліа</item>
+        <item>К=Кейптаун</item>
+        <item>І=Ісламабад</item>
+        <item>Р=Ріо-де-Жанейро</item>
+        <item>Е=Енн-Арбор</item>
+        <item>Б=Боулдер</item>
+        <item>К=Кембридж</item>
+        <item>К=Кіркленд</item>
+        <item>М=Медісон</item>
+        <item>Г=Гуанчжоу</item>
+        <item>Х=Хайдерабад</item>
+        <item>Р=Рестон</item>
+        <item>Б=Белу-Оризонті</item>
+        <item>С=Сантьяго</item>
+        <item>М=Монровія</item>
+        <item>К=Коломбо</item>
+        <item>Ч=Чіуауа</item>
+        <item>С=Салвадор</item>
+        <item>Г=Гургаон</item>
+        <item>М=Манчестер</item>
+        <item>К=Київ</item>
+        <item>С=Санкт-Петербург</item>
+        <item>К=Краків</item>
+        <item>В=Вроцлав</item>
+        <item>Г=Гамбург</item>
+        <item>О=Оулу</item>
+        <item>Х=Хайфа</item>
+        <item>С=Сан-Хуан</item>
+        <item>Т=Тегусігальпа</item>
+        <item>П=Парамарибо</item>
+        <item>К=Кіто</item>
+        <item>Л=Любляна</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>Залишилося менше хвилини</item>
+        <item>Залишилося %1$s</item>
+        <item>Залишилося %2$s</item>
+        <item>Залишилося %1$s %2$s</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Будильник пролунає за менше 1 хв</item>
+        <item>Будильник пролунає за %1$s</item>
+        <item>Будильник пролунає за %2$s</item>
+        <item>Будильник пролунає за %1$s і %2$s</item>
+        <item>Будильник пролунає за %3$s</item>
+        <item>Будильник пролунає за %1$s і %3$s</item>
+        <item>Будильник пролунає за %2$s і %3$s</item>
+        <item>Будильник пролунає за %1$s, %2$s і %3$s</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>1 хвилину</item>
+        <item>5 хвилин</item>
+        <item>10 хвилин</item>
+        <item>15 хвилин</item>
+        <item>20 хвилин</item>
+        <item>25 хвилин</item>
+        <item>Ніколи</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>субота</item>
+        <item>неділя</item>
+        <item>понеділок</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Відкласти</item>
+        <item>Вимкнути</item>
+        <item>Не робити нічого</item>
+    </string-array>
+    <string-array name="sw_lap_number_set">
+        <item>№ %d</item>
+        <item>№ %02d</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>Ну ви й швидкі!</item>
+        <item>Насолоджуйтесь плодами своєї праці.</item>
+        <item>Пристрої Android швидкі, але ви – швидші!</item>
+        <item>Фу.</item>
+        <item>Стільки разів: L33t.</item>
+        <item>Неймовірна швидкість.</item>
+        <item>Повторімо \"викривлення часу\".</item>
+        <item>Просто стрибніть ліворуч.</item>
+        <item>Ви дуже поспішаєте.</item>
+        <item>Швидкість світла.</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>Аналоговий</item>
+        <item>Цифровий</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Маршаллові острови</item>
+        <item>Острів Мідвей</item>
+        <item>Гаваї</item>
+        <item>Аляска</item>
+        <item>Тихоокеанський час</item>
+        <item>Тіхуана</item>
+        <item>Аризона</item>
+        <item>Чіхуахуа</item>
+        <item>Гірський час</item>
+        <item>Центральна Америка</item>
+        <item>Центральний час</item>
+        <item>Мехіко</item>
+        <item>Саскачеван</item>
+        <item>Богота</item>
+        <item>Східний час</item>
+        <item>Венесуела</item>
+        <item>Атлантичний час (Барбадос)</item>
+        <item>Атлантичний час (Канада)</item>
+        <item>Манаус</item>
+        <item>Сантьяго</item>
+        <item>Ньюфаундленд</item>
+        <item>Бразиліа</item>
+        <item>Буенос-Айрес</item>
+        <item>Гренландія</item>
+        <item>Монтевідео</item>
+        <item>Центральна Атлантика</item>
+        <item>Азорські острови</item>
+        <item>Острови Кабо-Верде</item>
+        <item>Касабланка</item>
+        <item>Лондон, Дублін</item>
+        <item>Амстердам, Берлін</item>
+        <item>Белград</item>
+        <item>Брюссель</item>
+        <item>Сараєво</item>
+        <item>Віндгук</item>
+        <item>Західноафриканський час</item>
+        <item>Амман, Йорданія</item>
+        <item>Афіни, Стамбул</item>
+        <item>Бейрут, Ліван</item>
+        <item>Каїр</item>
+        <item>Гельсінкі</item>
+        <item>Єрусалим</item>
+        <item>Мінськ</item>
+        <item>Хараре</item>
+        <item>Багдад</item>
+        <item>Москва</item>
+        <item>Кувейт</item>
+        <item>Найробі</item>
+        <item>Тегеран</item>
+        <item>Баку</item>
+        <item>Тбілісі</item>
+        <item>Єреван</item>
+        <item>Дубай</item>
+        <item>Кабул</item>
+        <item>Ісламабад, Карачі</item>
+        <item>Уральськ</item>
+        <item>Єкатеринбург</item>
+        <item>Колката</item>
+        <item>Шри-Ланка</item>
+        <item>Катманду</item>
+        <item>Астана</item>
+        <item>Янгон</item>
+        <item>Красноярськ</item>
+        <item>Бангкок</item>
+        <item>Пекін</item>
+        <item>Гонконг</item>
+        <item>Іркутськ</item>
+        <item>Куала-Лумпур</item>
+        <item>Перт</item>
+        <item>Тайбей</item>
+        <item>Сеул</item>
+        <item>Токіо, Осака</item>
+        <item>Якутськ</item>
+        <item>Аделаїда</item>
+        <item>Дарвін</item>
+        <item>Брісбейн</item>
+        <item>Гобарт</item>
+        <item>Сідней, Канберра</item>
+        <item>Владивосток</item>
+        <item>Гуам</item>
+        <item>Магадан</item>
+        <item>Окленд</item>
+        <item>Фіджі</item>
+        <item>Тонга</item>
+        <item>Джакарта</item>
+    </string-array>
+</resources>

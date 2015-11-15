@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Jakinarazpena</item>
+        <item>Mezu elektronikoa</item>
+        <item>SMSa</item>
+        <item>Alarma</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 minutu</item>
+        <item>1 minutu</item>
+        <item>5 minutu</item>
+        <item>10 minutu</item>
+        <item>15 minutu</item>
+        <item>20 minutu</item>
+        <item>25 minutu</item>
+        <item>30 minutu</item>
+        <item>45 minutu</item>
+        <item>1 ordu</item>
+        <item>2 ordu</item>
+        <item>3 ordu</item>
+        <item>12 ordu</item>
+        <item>24 ordu</item>
+        <item>2 egun</item>
+        <item>1 aste</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Bat ere ez</item>
+        <item>0 minutu</item>
+        <item>1 minutu</item>
+        <item>5 minutu</item>
+        <item>10 minutu</item>
+        <item>15 minutu</item>
+        <item>20 minutu</item>
+        <item>25 minutu</item>
+        <item>30 minutu</item>
+        <item>45 minutu</item>
+        <item>1 ordu</item>
+        <item>2 ordu</item>
+        <item>3 ordu</item>
+        <item>12 ordu</item>
+        <item>24 ordu</item>
+        <item>2 egun</item>
+        <item>1 aste</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Eskualdeko ezarpenek lehenetsia</item>
+        <item>Larunbata</item>
+        <item>Igandea</item>
+        <item>Astelehena</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Lanpetuta</item>
+        <item>Erabilgarri</item>
+        <item>Behin behinekoa</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Lehenetsia</item>
+        <item>Pribatua</item>
+        <item>Publikoa</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>lehenengoa</item>
+        <item>bigarrena</item>
+        <item>hirugarrena</item>
+        <item>laugarrena</item>
+        <item>azkena</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Erantzun gabe</item>
+        <item>Bai</item>
+        <item>Agian</item>
+        <item>Ez</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Gertaera honi bakarrik</item>
+        <item>Gertaera honi eta etorkizunekoei</item>
+        <item>Gertaera guztiei</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Gertaera honi eta etorkizunekoei</item>
+        <item>Gertaera guztiei</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Gertaera honi bakarrik</item>
+        <item>Serieko gertaera guztiei</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Eguna</item>
+        <item>Astea</item>
+        <item>Hilabetea</item>
+        <item>Agenda</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Onartu ez bada bakarrik</item>
+        <item>Onartu edo erantzun ez bada</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>ERREPIKATU EGUNERO</item>
+        <item>ERREPIKATU ASTERO</item>
+        <item>ERREPIKATU HILERO</item>
+        <item>ERREPIKATU URTERO</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>hilaren lehen igandean</item>
+        <item>hilaren bigarren igandean</item>
+        <item>hilaren hirugarren igandean</item>
+        <item>hilaren laugarren igandean</item>
+        <item>hilaren azken igandean</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>hilaren lehen astelehenean</item>
+        <item>hilaren bigarren astelehenean</item>
+        <item>hilaren hirugarren astelehenean</item>
+        <item>hilaren laugarren astelehenean</item>
+        <item>hilaren azken astelehenean</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>hilaren lehen asteartean</item>
+        <item>hilaren bigarren asteartean</item>
+        <item>hilaren hirugarren asteartean</item>
+        <item>hilaren laugarren asteartean</item>
+        <item>hilaren azken asteartean</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>hilaren lehen asteazkenean</item>
+        <item>hilaren bigarren asteazkenean</item>
+        <item>hilaren hirugarren asteazkenean</item>
+        <item>hilaren laugarren asteazkenean</item>
+        <item>hilaren azken asteazkenean</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>hilaren lehen ostegunean</item>
+        <item>hilaren bigarren ostegunean</item>
+        <item>hilaren hirugarren ostegunean</item>
+        <item>hilaren laugarren ostegunean</item>
+        <item>hilaren azken ostegunean</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>hilaren lehen ostiralean</item>
+        <item>hilaren bigarren ostiralean</item>
+        <item>hilaren hirugarren ostiralean</item>
+        <item>hilaren laugarren ostiralean</item>
+        <item>hilaren azken ostiralean</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>hilaren lehen larunbatean</item>
+        <item>hilaren bigarren larunbatean</item>
+        <item>hilaren hirugarren larunbatean</item>
+        <item>hilaren laugarren larunbatean</item>
+        <item>hilaren azken larunbatean</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Minutu batzuk beranduxeago iritsiko naiz.</item>
+        <item>10 minutu barru helduko naiz gutxi gorabehera.</item>
+        <item>Ez itxaron, hasi ni gabe.</item>
+        <item>Barkatu, ezin naiz joan. Beste egun baterako utzi beharko dugu.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australia erdialdekoa - NT</item>
+        <item>Australia erdialdekoa - SA</item>
+        <item>Australia ekialdekoa - QLD</item>
+        <item>Australia ekialdekoa - NSW</item>
+        <item>Mendialdeko estandarra - Dawson Creek</item>
+        <item>Erdialdeko estandarra - Saskatchewan</item>
+        <item>Ekialdeko estandarra - Atikokan</item>
+        <item>Atlantikoko estandarra - Quebec</item>
+        <item>Hawaii-Aleutiarrak - Hawaii</item>
+        <item>Hawaii-Aleutiarrak - Alaska</item>
+        <item>Pazifikoko estandarra - Metlakatla</item>
+        <item>Mendialdeko estandarra - Arizona</item>
+        <item>Pazifikokoa - Hego Kalifornia</item>
+        <item>Mendialdekoa - Chihuahua</item>
+        <item>Erdialdekoa - Tamaulipas</item>
+        <item>Mendialdekoa - Sonora</item>
+        <item>Afrika ekialdeko ordua</item>
+        <item>Atlantikoko ordu estandarra</item>
+        <item>Atlantikoko ordu estandarra</item>
+        <item>Europa ekialdeko ordua</item>
+        <item>Kaliningradeko ordua</item>
+        <item>Amazonia - Rondônia</item>
+        <item>Brasilia - Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>San Martin</item>
+        <item>Karibeko Herbehereak</item>
+        <item>Curaçao</item>
+        <item>Hego Sudan</item>
+    </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d مورد پیدا شد</item>
+        <item quantity="one">%d مورد پیدا شد</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d ثانیه</item>
+        <item quantity="one">%d ثانیه</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d دقیقه</item>
+        <item quantity="one">%d دقیقه</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d ساعت</item>
+        <item quantity="one">%d ساعت</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d پست صوتی</item>
+        <item quantity="one">%1$d پست صوتی</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">‏%d پست صوتی جدید</item>
+        <item quantity="one">‏%d پست صوتی جدید</item>
+    </plurals>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pdf_printer_media_sizes">
+        <item>NA_LETTER</item>
+        <item>NA_GOVT_LETTER</item>
+        <item>NA_LEGAL</item>
+        <item>NA_JUNIOR_LEGAL</item>
+        <item>NA_LEDGER</item>
+        <item>NA_TABLOID</item>
+        <item>NA_INDEX_3X5</item>
+        <item>NA_INDEX_4X6</item>
+        <item>NA_INDEX_5X8</item>
+        <item>NA_MONARCH</item>
+        <item>NA_QUARTO</item>
+        <item>NA_FOOLSCAP</item>
+    </string-array>
+    <string-array name="color_mode_labels">
+        <item>Blanco y negro</item>
+        <item>Color</item>
+    </string-array>
+    <string-array name="duplex_mode_labels">
+        <item>Ninguno</item>
+        <item>Borde largo</item>
+        <item>Borde corto</item>
+    </string-array>
+    <string-array name="orientation_labels">
+        <item>Vertical</item>
+        <item>Horizontal</item>
+    </string-array>
+</resources>

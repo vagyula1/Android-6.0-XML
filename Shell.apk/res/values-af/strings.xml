@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Tuisskerm</string>
+    <string name="bugreport_finished_title">Foutverslag vasgevang</string>
+    <string name="bugreport_finished_text">Raak om jou foutverslag te deel</string>
+    <string name="bugreport_confirm">Foutverslae bevat data van die stelsel se verskillende loglêers af, insluitend persoonlike en private inligting. Deel foutverslae net met programme en mense wat jy vertrou.</string>
+    <string name="bugreport_confirm_repeat">Wys hierdie boodskap volgende keer</string>
+    <string name="bugreport_storage_title">Foutverslae</string>
+</resources>

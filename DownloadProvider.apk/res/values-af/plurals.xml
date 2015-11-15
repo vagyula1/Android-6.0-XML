@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">%d leêrs laai tans af</item>
+        <item quantity="one">1 leêr laai tans af</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d leêrs wag tans</item>
+        <item quantity="one">1 leêr wag tans</item>
+    </plurals>
+</resources>

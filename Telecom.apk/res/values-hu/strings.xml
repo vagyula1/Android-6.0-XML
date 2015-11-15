@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">Híváskezelés</string>
+    <string name="userCallActivityLabel">Telefon</string>
+    <string name="unknown">Ismeretlen</string>
+    <string name="notification_missedCallTitle">Nem fogadott hívás</string>
+    <string name="notification_missedCallsTitle">Nem fogadott hívások</string>
+    <string name="notification_missedCallsMsg">%s nem fogadott hívás</string>
+    <string name="notification_missedCallTicker">Nem fogadott hívás: %s</string>
+    <string name="notification_missedCall_call_back">Visszahívás</string>
+    <string name="notification_missedCall_message">Üzenet</string>
+    <string name="accessibility_call_muted">Hívás némítva.</string>
+    <string name="accessibility_speakerphone_enabled">Kihangosítás engedélyezve.</string>
+    <string name="respond_via_sms_canned_response_1">Most nem alkalmas. Mi újság?</string>
+    <string name="respond_via_sms_canned_response_2">Hamarosan visszahívom.</string>
+    <string name="respond_via_sms_canned_response_3">Később visszahívom.</string>
+    <string name="respond_via_sms_canned_response_4">Most nem alkalmas. Hívna később?</string>
+    <string name="respond_via_sms_setting_title">Gyors válaszok</string>
+    <string name="respond_via_sms_setting_title_2">Gyors válaszok szerkesztése</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">Gyors válasz</string>
+    <string name="respond_via_sms_confirmation_format">Üzenet elküldve ide: %s.</string>
+    <string name="enable_account_preference_title">Telefonos fiókok</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Az eszköz tulajdonosa csak a segélyhívást engedélyezte.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Az alkalmazásból nem lehet kimenő hívást kezdeményezni a Telefon (Phone) engedély nélkül.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Hívásindításhoz adjon meg egy érvényes számot.</string>
+    <string name="duplicate_video_call_not_allowed">Jelenleg nem lehet videohívást hozzáadni.</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Videohívások indításához kapcsolja ki a TTY módot.</string>
+    <string name="no_vm_number">Hiányzik a hangposta száma</string>
+    <string name="no_vm_number_msg">Nincs hangpostaszám a SIM kártyán.</string>
+    <string name="add_vm_number_str">Szám hozzáadása</string>
+    <string name="change_default_dialer_dialog_title">Módosítja az alapértelmezett tárcsázó alkalmazást?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Legyen a(z) %1$s az alapértelmezett tárcsázó alkalmazás a(z) %2$s helyett?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Legyen a(z) %s az alapértelmezett tárcsázó alkalmazás?</string>
+</resources>

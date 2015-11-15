@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d олдсон байна</item>
+        <item quantity="one">1 олдсон байна</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d секунд</item>
+        <item quantity="one">1 секунд</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d минут</item>
+        <item quantity="one">1 минут</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d цаг</item>
+        <item quantity="one">1 цаг</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Дуут шуудан</item>
+        <item quantity="one">Дуут шуудан</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d шинэ дуут шуудан</item>
+        <item quantity="one">%d шинэ дуут шуудан</item>
+    </plurals>
+</resources>

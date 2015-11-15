@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">ឥឡូវនេះអ្នកនៅសល់ %1$d ជំហានទៀតដើម្បីក្លាយជាអ្នកអភិវឌ្ឍន៍។</item>
+        <item quantity="one">ឥឡូវនេះអ្នកនៅសល់ %1$d ជំហានទៀតដើម្បីក្លាយជាអ្នកអភិវឌ្ឍន៍។</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">បានដំឡើងស្នាមម្រាមដៃ %1$d</item>
+        <item quantity="one">បានដំឡើងស្នាមម្រាមដៃ %1$d</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">ពាក្យសម្ងាត់ត្រូវមានយ៉ាងហោចណាស់អក្សរ %d តួ។</item>
+        <item quantity="one">ពាក្យសម្ងាត់ត្រូវមានយ៉ាងហោចណាស់អក្សរ 1 តួ។</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">ពាក្យសម្ងាត់ត្រូវមានយ៉ាងហោចណាស់អក្សរតូច %d តួ។</item>
+        <item quantity="one">ពាក្យសម្ងាត់ត្រូវមានយ៉ាងហោចណាស់អក្សរតូច 1 តួ។</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">ពាក្យសម្ងាត់ត្រូវមានយ៉ាងហោចណាស់អក្សរធំ %d តួ។</item>
+        <item quantity="one">ពាក្យសម្ងាត់ត្រូវមានយ៉ាងហោចណាស់អក្សរធំ 1 តួ។</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">ពាក្យសម្ងាត់ត្រូវមានយ៉ាងហោចណាស់លេខ %d ខ្ទង់។</item>
+        <item quantity="one">ពាក្យសម្ងាត់ត្រូវមានយ៉ាងហោចណាស់លេខ 1 ខ្ទង់។</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">ពាក្យសម្ងាត់ត្រូវមានយ៉ាងហោចណាស់និមិត្តសញ្ញាពិសេស %d។</item>
+        <item quantity="one">ពាក្យសម្ងាត់ត្រូវមានយ៉ាងហោចណាស់និមិត្តសញ្ញាពិសេស 1។</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">ពាក្យសម្ងាត់ត្រូវមានយ៉ាងហោចណាស់តួមិនមែនអក្សរ %d។</item>
+        <item quantity="one">ពាក្យសម្ងាត់ត្រូវមានយ៉ាងហោចណាស់តួមិនមែនអក្សរ 1។</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">លេខកូដសម្ងាត់ស៊ីមមិនត្រឹមត្រូវ អ្នកនៅសល់ការព្យាយាម %d ដងទៀត។</item>
+        <item quantity="one">លេខកូដសម្ងាត់ស៊ីមមិនត្រឹមត្រូវ អ្នកនៅសល់ការព្យាយាម %d ដងទៀត មុនពេលពេលដែលអ្នកត្រូវទាក់ទងទៅអ្នកផ្តល់សេវាកម្មរបស់អ្នកដើម្បីដោះសោឧបករណ៍របស់អ្នក។</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">កម្មវិធី %d អាចអានការជូនដំណឹង</item>
+        <item quantity="one">កម្មវិធី %d អាចអានការជូនដំណឹង</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">ប្តូរទៅសំឡេងរោទិ៍តែ %1$d នាទីប៉ុណ្ណោះ (រហូតដល់ %2$s)</item>
+        <item quantity="one">ប្តូរទៅសំឡេងរោទិ៍តែមួយនាទីប៉ុណ្ណោះរហូតដល់ %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">ប្តូរទៅសំឡេងរោទិ៍តែ %1$d ម៉ោងប៉ុណ្ណោះរហូតដល់ %2$s</item>
+        <item quantity="one">ប្តូរទៅសំឡេងរោទិ៍តែមួយម៉ោងប៉ុណ្ណោះរហូតដល់ %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%dការអនុញ្ញាតដែលទទួលបាន</item>
+        <item quantity="one">%dការអនុញ្ញាតដែលទទួលបាន</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">បានទទួលការអនុញ្ញាត %1$d នៃ %2$d</item>
+        <item quantity="one">បានទទួលការអនុញ្ញាត %1$d នៃ %2$d</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">សិទ្ធិអនុញ្ញាតបន្ថែម %d</item>
+        <item quantity="one">សិទ្ធិអនុញ្ញាតបន្ថែម %d</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">កម្មវិធី %d អាចបើកតំណគាំទ្ររបស់វា</item>
+        <item quantity="one">កម្មវិធីមួយអាចបើកតំណគាំទ្ររបស់វា</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">កម្មវិធី %d ត្រូវបានអនុញ្ញាតមិនអើពើការបង្កើនប្រសិទ្ធភាពថ្ម</item>
+        <item quantity="one">កម្មវិធី 1 ត្រូវបានអនុញ្ញាតមិនអើពើការបង្កើនប្រសិទ្ធភាពថ្ម</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">កម្មវិធី %1$d បានប្រើអង្គចងចាំក្នុងរយៈពេល %2$s ចុងក្រោយ</item>
+        <item quantity="one">កម្មវិធី 1 បានប្រើអង្គចងចាំក្នុងរយៈពេល %2$s ចុងក្រោយ</item>
+    </plurals>
+</resources>

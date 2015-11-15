@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">මිනිත්තු %d</item>
+        <item quantity="one">මිනිත්තු 1</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">මිනි %d</item>
+        <item quantity="one">මිනි 1</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">පැය %d</item>
+        <item quantity="one">පැය 1</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">දින %d</item>
+        <item quantity="one">දවස් 1</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">සතිය %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; වාර %d සඳහා</item>
+        <item quantity="one">; එක් වරක් සඳහා</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">සෑම දින %d කට</item>
+        <item quantity="one">දිනපතා</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">සෑම සති %1$d කට වරක් %2$s දින</item>
+        <item quantity="one">සතිපතාම %2$s දින</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">සිදුවීම් %d</item>
+        <item quantity="one">සිදුවීම් 1</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d සිදුවීම්</item>
+        <item quantity="one">+1 සිදුවීම්</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">සෑම දින %d කට</item>
+        <item quantity="one">සෑම දින %d කට</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">සෑම සති %d කට</item>
+        <item quantity="one">සෑම සති %d කට</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">සෑම මාස %d කට</item>
+        <item quantity="one">සෑම මාස %d කට</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">සෑම වසර %d කට</item>
+        <item quantity="one">සෑම වසර %d කට</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">සිදුවීම් %d සඳහා</item>
+        <item quantity="one">සිදුවීම් %d සඳහා</item>
+    </plurals>
+</resources>

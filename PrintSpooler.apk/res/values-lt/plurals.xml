@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Rasta %1$s spausdintuvų</item>
+        <item quantity="one">Rastas %1$s spausdintuvas</item>
+        <item quantity="few">Rasti %1$s spausdintuvai</item>
+        <item quantity="many">Rasta %1$s spausdintuvo</item>
+    </plurals>
+    <plurals name="composite_notification_title_template">
+        <item quantity="other">%1$d spausdinimo užduočių</item>
+        <item quantity="one">%1$d spausdinimo užduotis</item>
+        <item quantity="few">%1$d spausdinimo užduotys</item>
+        <item quantity="many">%1$d spausdinimo užduoties</item>
+    </plurals>
+</resources>

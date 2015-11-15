@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d (de) minute</item>
+        <item quantity="one">1 minut</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d (de) minute</item>
+        <item quantity="one">1 minut</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d (de) ore</item>
+        <item quantity="one">1 oră</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d (de) zile</item>
+        <item quantity="one">1 zi</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">SĂPTĂMÂNA %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; de %d ori</item>
+        <item quantity="one">; o dată</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">O dată la %d zile</item>
+        <item quantity="one">Zilnic</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">La fiecare %1$d săpt., %2$s</item>
+        <item quantity="one">Săptămânal, %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d (de) evenimente</item>
+        <item quantity="one">1 eveniment</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d (de) evenimente</item>
+        <item quantity="one">+1 eveniment</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">O dată la %d zile</item>
+        <item quantity="one">O dată la %d zi</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">O dată la %d săptămâni</item>
+        <item quantity="one">O dată la %d săptămână</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">O dată la %d luni</item>
+        <item quantity="one">O dată la %d lună</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">O dată la %d ani</item>
+        <item quantity="one">O dată la %d an</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Pentru %d evenimente</item>
+        <item quantity="one">Pentru %d eveniment</item>
+    </plurals>
+</resources>

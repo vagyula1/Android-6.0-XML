@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d gevind</item>
+        <item quantity="one">1 gevind</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d sekondes</item>
+        <item quantity="one">1 sekonde</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minute</item>
+        <item quantity="one">1 minuut</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">1 uur</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Stemboodskappe</item>
+        <item quantity="one">Stemboodskap</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d nuwe stemboodskappe</item>
+        <item quantity="one">%d nuwe stemboodskap</item>
+    </plurals>
+</resources>

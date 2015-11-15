@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">命令介面</string>
+    <string name="bugreport_finished_title">已擷取錯誤報告</string>
+    <string name="bugreport_finished_text">輕觸即可分享您的錯誤報告</string>
+    <string name="bugreport_confirm">錯誤報告中有來自系統各個記錄檔案的資料，包括個人和私人資料。請只與您信任的應用程式和使用者分享錯誤報告。</string>
+    <string name="bugreport_confirm_repeat">下次再顯示這則訊息</string>
+    <string name="bugreport_storage_title">錯誤報告</string>
+</resources>

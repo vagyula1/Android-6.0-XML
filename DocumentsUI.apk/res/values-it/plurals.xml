@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Copia di %1$d file in corso.</item>
+        <item quantity="one">Copia di %1$d file in corso.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Impossibile copiare %1$d file</item>
+        <item quantity="one">Impossibile copiare %1$d file</item>
+    </plurals>
+</resources>

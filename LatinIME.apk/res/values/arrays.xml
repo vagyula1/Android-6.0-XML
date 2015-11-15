@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_correction_threshold_values">
+        <item>floatMaxValue</item>
+        <item>0.185</item>
+        <item>0.067</item>
+        <item>floatNegativeInfinity</item>
+    </string-array>
+    <string-array name="auto_correction_threshold_mode_indexes">
+        <item>@string/auto_correction_threshold_mode_index_off</item>
+        <item>@string/auto_correction_threshold_mode_index_modest</item>
+        <item>@string/auto_correction_threshold_mode_index_aggressive</item>
+        <item>@string/auto_correction_threshold_mode_index_very_aggressive</item>
+    </string-array>
+    <string-array name="auto_correction_threshold_modes">
+        <item>@string/auto_correction_threshold_mode_off</item>
+        <item>@string/auto_correction_threshold_mode_modest</item>
+        <item>@string/auto_correction_threshold_mode_aggressive</item>
+        <item>@string/auto_correction_threshold_mode_very_aggressive</item>
+    </string-array>
+    <string-array name="subtype_locale_exception_keys">
+        <item>en_US</item>
+        <item>en_GB</item>
+        <item>es_US</item>
+        <item>hi_ZZ</item>
+        <item>sr_ZZ</item>
+    </string-array>
+    <string-array name="subtype_locale_displayed_in_root_locale">
+        <item>hi_ZZ</item>
+        <item>sr_ZZ</item>
+    </string-array>
+    <string-array name="predefined_layouts">
+        <item>qwerty</item>
+        <item>qwertz</item>
+        <item>azerty</item>
+        <item>dvorak</item>
+        <item>colemak</item>
+        <item>pcqwerty</item>
+    </string-array>
+    <string-array name="predefined_layout_display_names">
+        <item>QWERTY</item>
+        <item>QWERTZ</item>
+        <item>AZERTY</item>
+        <item>Dvorak</item>
+        <item>Colemak</item>
+        <item>PC</item>
+    </string-array>
+    <string-array name="locale_and_extra_value_to_keyboard_layout_set_map">
+        <item>en_US:TrySuppressingImeSwitcher,AsciiCapable,SupportTouchPositionCorrection,EmojiCapable</item>
+        <item>qwerty</item>
+        <item>en_GB:TrySuppressingImeSwitcher,AsciiCapable,SupportTouchPositionCorrection,EmojiCapable</item>
+        <item>qwerty</item>
+        <item>ar:SupportTouchPositionCorrection,EmojiCapable</item>
+        <item>arabic</item>
+        <item>cs:AsciiCapable,SupportTouchPositionCorrection,EmojiCapable</item>
+        <item>qwertz</item>
+        <item>da:AsciiCapable,SupportTouchPositionCorrection,EmojiCapable</item>
+        <item>nordic</item>
+        <item>de:AsciiCapable,SupportTouchPositionCorrection,EmojiCapable</item>
+        <item>qwertz</item>
+        <item>es:AsciiCapable,SupportTouchPositionCorrection,EmojiCapable</item>
+        <item>spanish</item>
+        <item>fi:AsciiCapable,SupportTouchPositionCorrection,EmojiCapable</item>
+        <item>nordic</item>
+        <item>fr:AsciiCapable,SupportTouchPositionCorrection,EmojiCapable</item>
+        <item>azerty</item>
+        <item>fr_CA:AsciiCapable,SupportTouchPositionCorrection,EmojiCapable</item>
+        <item>qwerty</item>
+        <item>hr:AsciiCapable,SupportTouchPositionCorrection,EmojiCapable</item>
+        <item>qwertz</item>
+        <item>hu:AsciiCapable,SupportTouchPositionCorrection,EmojiCapable</item>
+        <item>qwertz</item>
+        <item>it:AsciiCapable,SupportTouchPositionCorrection,EmojiCapable</item>
+        <item>qwerty</item>
+        <item>iw:SupportTouchPositionCorrection,EmojiCapable</item>
+        <item>hebrew</item>
+        <item>nb:AsciiCapable,SupportTouchPositionCorrection,EmojiCapable</item>
+        <item>nordic</item>
+        <item>nl:AsciiCapable,SupportTouchPositionCorrection,EmojiCapable</item>
+        <item>qwerty</item>
+        <item>pl:AsciiCapable,SupportTouchPositionCorrection,EmojiCapable</item>
+        <item>qwerty</item>
+        <item>ru:SupportTouchPositionCorrection,EmojiCapable</item>
+        <item>east_slavic</item>
+        <item>sr:SupportTouchPositionCorrection,EmojiCapable</item>
+        <item>south_slavic</item>
+        <item>sv:AsciiCapable,SupportTouchPositionCorrection,EmojiCapable</item>
+        <item>nordic</item>
+        <item>tr:AsciiCapable,SupportTouchPositionCorrection,EmojiCapable</item>
+        <item>qwerty</item>
+    </string-array>
+    <string-array name="emoji_recents">
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="emoji_nature">
+        <item>2744</item>
+    </string-array>
+    <string-array name="emoji_symbols">
+        <item>2460</item>
+        <item>2461</item>
+        <item>2462</item>
+        <item>2463</item>
+        <item>2464</item>
+        <item>2465</item>
+        <item>2466</item>
+        <item>2467</item>
+        <item>2468</item>
+        <item>2469</item>
+        <item>00ae</item>
+        <item>00a9</item>
+        <item>2122</item>
+        <item>2734</item>
+        <item>2733</item>
+        <item>2716</item>
+        <item>2195</item>
+        <item>2197</item>
+        <item>27a1</item>
+        <item>2198</item>
+        <item>2199</item>
+        <item>2196</item>
+        <item>2194</item>
+        <item>25c0</item>
+        <item>25b6</item>
+        <item>2747</item>
+        <item>25aa</item>
+        <item>203c</item>
+        <item>2660</item>
+        <item>2665</item>
+        <item>2663</item>
+        <item>2666</item>
+        <item>21a9</item>
+        <item>21aa</item>
+    </string-array>
+    <string-array name="emoji_faces">
+        <item>270C</item>
+        <item>2764</item>
+    </string-array>
+    <string-array name="emoji_objects">
+        <item>260e</item>
+        <item>2709</item>
+        <item>2712</item>
+        <item>270f</item>
+        <item>2702</item>
+        <item>2669</item>
+        <item>266a</item>
+        <item>266c</item>
+    </string-array>
+    <string-array name="emoji_places">
+        <item>2708</item>
+        <item>2668</item>
+    </string-array>
+    <string-array name="emoji_emoticons">
+        <item>=-O</item>
+        <item>:-P</item>
+        <item>;-)</item>
+        <item>:-(</item>
+        <item>:-)</item>
+        <item>:-!</item>
+        <item>:-$</item>
+        <item>B-)</item>
+        <item>:O</item>
+        <item>:-*</item>
+        <item>:-D</item>
+        <item>":'("</item>
+        <item>:-\\</item>
+        <item>O:-)</item>
+        <item>:-[</item>
+    </string-array>
+    <string-array name="keyboard_heights">
+        <item>HARDWARE=sholes,227.0167</item>
+        <item>HARDWARE=mahimahi,217.5932</item>
+        <item>HARDWARE=herring,200.8554</item>
+        <item>HARDWARE=tuna,202.5869</item>
+        <item>HARDWARE=stingray,283.1337</item>
+    </string-array>
+    <string-array name="keyboard_theme_names">
+        <item>@string/keyboard_theme_material_light</item>
+        <item>@string/keyboard_theme_material_dark</item>
+        <item>@string/keyboard_theme_holo_white</item>
+        <item>@string/keyboard_theme_holo_blue</item>
+    </string-array>
+    <integer-array name="keyboard_theme_ids">
+        <item>3</item>
+        <item>4</item>
+        <item>2</item>
+        <item>0</item>
+    </integer-array>
+    <string-array name="keypress_vibration_durations">
+        <item>MODEL=Nexus S:BRAND=google,5</item>
+        <item>MODEL=Galaxy Nexus:BRAND=google,5</item>
+        <item>MODEL=Nexus 4:BRAND=google,8</item>
+        <item>MODEL=Nexus 10:BRAND=google,16</item>
+        <item>MODEL=GT-I(9100[GMPT]?|9108|9210T?):MANUFACTURER=samsung,8</item>
+        <item>MODEL=SGH-(I9[27]7R?|I927|T989D?):MANUFACTURER=samsung,8</item>
+        <item>MODEL=SHW-M250[KLS]?|SPH-D710|SCH-R760:MANUFACTURER=samsung,8</item>
+        <item>MODEL=ISW11SC|SC-02C:MANUFACTURER=samsung,8</item>
+        <item>MODEL=(SAMSUNG-)?GT-I(930[05][NT]?|9308):MANUFACTURER=samsung,8</item>
+        <item>MODEL=(SAMSUNG-)?SGH-(T999[V]?|I747[M]?|N064|N035):MANUFACTURER=samsung,8</item>
+        <item>MODEL=(SAMSUNG-)?SCH-(J021|R530|I535|I939):MANUFACTURER=samsung,8</item>
+        <item>MODEL=(SAMSUNG-)?(SCL21|SC-06D|SC-03E):MANUFACTURER=samsung,8</item>
+        <item>MODEL=(SAMSUNG-)?(SHV-210[KLS]?|SPH-L710):MANUFACTURER=samsung,8</item>
+        <item>MODEL=(SAMSUNG-)?GT-I(950[0258][G]?):MANUFACTURER=samsung,7</item>
+        <item>MODEL=(SAMSUNG-)?SGH-(I337|M919|N045):MANUFACTURER=samsung,7</item>
+        <item>MODEL=(SAMSUNG-)?SCH-(I545|I959|R970):MANUFACTURER=samsung,7</item>
+        <item>MODEL=(SAMSUNG-)?SPH-(L720):MANUFACTURER=samsung,7</item>
+        <item>MODEL=(SAMSUNG-)?(SC-04E):MANUFACTURER=samsung,7</item>
+        <item>MODEL=(SAMSUNG-)?(SHV-E300[KLS]?):MANUFACTURER=samsung,7</item>
+        <item>MODEL=LG-E97[013]|LS970|L-01E:MANUFACTURER=LGE,15</item>
+        <item>MODEL=HTC One X:MANUFACTURER=HTC,20</item>
+        <item>MODEL=HTC One:MANUFACTURER=HTC,15</item>
+        <item>MODEL=HTL22:MANUFACTURER=HTC,15</item>
+        <item>MODEL=XT907:MANUFACTURER=motorola,30</item>
+        <item>MODEL=XT1035:MANUFACTURER=motorola,18</item>
+        <item>MODEL=C6603|C6806:MANUFACTURER=Sony,35</item>
+    </string-array>
+    <string-array name="keypress_volumes">
+        <item>HARDWARE=herring,0.5f</item>
+        <item>HARDWARE=tuna,0.5f</item>
+        <item>HARDWARE=stingray,0.4f</item>
+        <item>HARDWARE=grouper,0.3f</item>
+        <item>HARDWARE=mako,0.3f</item>
+        <item>HARDWARE=manta,0.2f</item>
+    </string-array>
+    <string-array name="phantom_sudden_move_event_device_list">
+        <item>HARDWARE=stingray,true</item>
+    </string-array>
+    <string-array name="predefined_subtypes">
+        <item>de:qwerty:AsciiCapable</item>
+        <item>fr:qwertz:AsciiCapable</item>
+    </string-array>
+    <array name="touch_position_correction_data_default" />
+    <string-array name="touch_position_correction_data_holo">
+        <item>0.0038756</item>
+        <item>-0.0005677</item>
+        <item>0.1577026</item>
+        <item>-0.0236678</item>
+        <item>0.0381731</item>
+        <item>0.1529972</item>
+        <item>-0.0086827</item>
+        <item>0.0880847</item>
+        <item>0.1522819</item>
+    </string-array>
+</resources>

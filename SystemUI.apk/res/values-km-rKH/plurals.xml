@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">អេក្រង់ %d ក្នុងទិដ្ឋភាព</item>
+        <item quantity="one">អេក្រង់ 1 ក្នុងទិដ្ឋភាព</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">លេខកូដសម្ងាត់ស៊ីមមិនត្រឹមត្រូវ អ្នកនៅសល់ការព្យាយាម %d ដងទៀត</item>
+        <item quantity="one">លេខកូដសម្ងាត់ស៊ីមមិនត្រឹមត្រូវ អ្នកនៅសល់ការព្យាយាម %d ដងទៀត មុនពេលពេលដែលអ្នកត្រូវទាក់ទងទៅអ្នកផ្តល់សេវាកម្មរបស់អ្នកដើម្បីដោះសោឧបករណ៍របស់អ្នក។</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">លេខកូដ PUK ស៊ីមមិនត្រឹមត្រូវ អ្នកនៅសល់ការព្យាយាម %d ដងទៀត មុនពេលស៊ីមរបស់អ្នកមិនអាចប្រើបានជាអចិន្ត្រៃយ៍។</item>
+        <item quantity="one">លេខកូដ PUK ស៊ីមមិនត្រឹមត្រូវ អ្នកនៅសល់ការព្យាយាម %d ដងទៀត មុនពេលស៊ីមរបស់អ្នកមិនអាចប្រើបានជាអចិន្ត្រៃយ៍។</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">ឧបករណ៍មិនបានដោះសោអស់រយៈពេល %d ម៉ោងហើយ។ បញ្ជាប់លំនាំ។</item>
+        <item quantity="one">ឧបករណ៍មិនបានដោះសោអស់រយៈពេល %d ម៉ោងហើយ។ បញ្ជាក់លំនាំ។</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">ឧបករណ៍មិនបានដោះសោអស់រយៈពេល %d ម៉ោងហើយ។ បញ្ជាក់កូដ PIN។</item>
+        <item quantity="one">ឧបករណ៍មិនបានដោះសោអស់រយៈពេល %d ម៉ោងហើយ។ បញ្ជាក់កូដ PIN។</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">ឧបករណ៍មិនបានដោះសោអស់រយៈពេល %d ម៉ោងហើយ។ បញ្ជាក់ពាក្យសម្ងាត់។</item>
+        <item quantity="one">ឧបករណ៍មិនបានដោះសោអស់រយៈពេល %d ម៉ោងហើយ។ បញ្ជាក់ពាក្យសម្ងាត់។</item>
+    </plurals>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">மேலோட்டப் பார்வையில் %d திரைகள்</item>
+        <item quantity="one">மேலோட்டப் பார்வையில் 1 திரை</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">சிம்மின் பின் குறியீடு தவறானது, உங்களிடம் %d முயற்சிகள் மீதமுள்ளன.</item>
+        <item quantity="one">சிம்மின் பின் குறியீடு தவறானது, மேலும் %d முயற்சிக்குப் பின்னர், சாதனத்தைத் திறக்க, கண்டிப்பாக உங்கள் மொபைல் நிறுவனத்தைத் தொடர்புகொள்ள வேண்டும்.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">சிம் PUK குறியீடு தவறானது, நிரந்தரமாக சிம் முடக்கப்படும் முன், நீங்கள் %d முறை முயற்சிக்கலாம்.</item>
+        <item quantity="one">சிம்மின் PUK குறியீடு தவறானது, நிரந்தரமாக சிம் முடக்கப்படும் முன், நீங்கள் %d முறை முயற்சிக்கலாம்.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">%d மணிநேரமாகச் சாதனம் திறக்கப்படவில்லை. வடிவத்தை உறுதிப்படுத்தவும்.</item>
+        <item quantity="one">%d மணிநேரமாகச் சாதனம் திறக்கப்படவில்லை. வடிவத்தை உறுதிப்படுத்தவும்.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">%d மணிநேரமாகச் சாதனம் திறக்கப்படவில்லை. பின்னை உறுதிப்படுத்தவும்.</item>
+        <item quantity="one">%d மணிநேரமாகச் சாதனம் திறக்கப்படவில்லை. பின்னை உறுதிப்படுத்தவும்.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">%d மணிநேரமாகச் சாதனம் திறக்கப்படவில்லை. கடவுச்சொல்லை உறுதிப்படுத்தவும்.</item>
+        <item quantity="one">%d மணிநேரமாகச் சாதனம் திறக்கப்படவில்லை. கடவுச்சொல்லை உறுதிப்படுத்தவும்.</item>
+    </plurals>
+</resources>

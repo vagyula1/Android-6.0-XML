@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Mustandid</item>
+        <item quantity="one">Mustand</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Kas kustutada need %1$d meilivestlust?</item>
+        <item quantity="one">Kas kustutada see meilivestlus?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Kas arhiveerida need %1$d meilivestlust?</item>
+        <item quantity="one">Kas arhiveerida see meilivestlus?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Kas loobuda nendest %1$d sõnumist?</item>
+        <item quantity="one">Kas soovite sellest sõnumist loobuda?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d meilivestluselt eemaldatakse tärn</item>
+        <item quantity="one">%1$d meilivestluselt eemaldatakse tärn</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> on vaigistatud</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> on vaigistatud</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> meilivestluse puhul teatati, et tegemist on rämpspostiga</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> meilivestluse puhul teatati, et tegemist on rämpspostiga</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> meilivestluse puhul teatati, et tegemist pole rämpspostiga</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> meilivestluse puhul teatati, et tegemist pole rämpspostiga</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> on märgitud ebaoluliseks</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> on märgitud ebaoluliseks</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> meilivestluse puhul teatati, et tegemist on andmepüügiga</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> meilivestluse puhul teatati, et tegemist on andmepüügiga</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> on arhiivitud</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> on arhiivitud</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> on kustutatud</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> on kustutatud</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Kaustu on muudetud</item>
+        <item quantity="one">Kausta on muudetud</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d uut kirja</item>
+        <item quantity="one">%1$d uus kiri</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d vanema kirja laiendamine</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d vanemat kirja on laiendatud</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d on lugemata</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d uut sõnumit</item>
+        <item quantity="one">%1$d uus sõnum</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d sõnumit kustutatakse jäädavalt.</item>
+        <item quantity="one">%1$d sõnum kustutatakse jäädavalt.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d sõnumit</item>
+        <item quantity="one">%1$d sõnum</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d manust</item>
+        <item quantity="one">%1$d manus</item>
+    </plurals>
+</resources>

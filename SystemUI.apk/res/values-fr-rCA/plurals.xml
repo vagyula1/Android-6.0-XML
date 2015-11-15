@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">Aperçu de %d écrans</item>
+        <item quantity="one">Aperçu de %d écran</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Le NIP de la carte SIM incorrect. Il vous reste %d tentatives.</item>
+        <item quantity="one">Le NIP de la carte SIM incorrect. Il vous reste %d tentative.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Le code PUK de la carte SIM est incorrect. Il vous reste %d tentatives avant que votre carte SIM devienne définitivement inutilisable.</item>
+        <item quantity="one">Le code PUK de la carte SIM est incorrect. Il vous reste %d tentative avant que votre carte SIM devienne définitivement inutilisable.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">"L'appareil n'a pas été déverrouillé depuis %d heures. Confirmez le motif."</item>
+        <item quantity="one">"L'appareil n'a pas été déverrouillé depuis %d heure. Confirmez le motif."</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">"L'appareil n'a pas été déverrouillé depuis %d heures. Confirmez le NIP."</item>
+        <item quantity="one">"L'appareil n'a pas été déverrouillé depuis %d heure. Confirmez le NIP."</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">"L'appareil n'a pas été déverrouillé depuis %d heures. Confirmez le mot de passe."</item>
+        <item quantity="one">"L'appareil n'a pas été déverrouillé depuis %d heure. Confirmez le mot de passe."</item>
+    </plurals>
+</resources>

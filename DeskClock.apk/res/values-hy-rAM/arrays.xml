@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>Ա=Աբդիջան</item>
+        <item>Ա=Ակկրա</item>
+        <item>Ա=Ադդիս-Աբեդա</item>
+        <item>Ա=Ալժիր</item>
+        <item>Բ=Բլանթայր</item>
+        <item>Բ=Բրազզավիլ</item>
+        <item>Կ=Կահիրե</item>
+        <item>Կ=Կասաբլանկա</item>
+        <item>Կ=Կոնակրի</item>
+        <item>Դ=Դակար</item>
+        <item>Դ=Դար-ես-Սալամ</item>
+        <item>Ջ=Ջիբութի</item>
+        <item>Ֆ=Ֆրիթաուն</item>
+        <item>Գ=Գաբրոնե</item>
+        <item>Հ=Հարարե</item>
+        <item>Յ=Յոհաննեսբուրգ</item>
+        <item>Կ=Կամպալա</item>
+        <item>Խ=Խարթում</item>
+        <item>Կ=Կիգալի</item>
+        <item>Կ=Կինշասա</item>
+        <item>Լ=Լագոս</item>
+        <item>Մ=Մասերու</item>
+        <item>Մ=Մոգադիշո</item>
+        <item>Ն=Նաիրոբի</item>
+        <item>Ս=Սան Տոմե</item>
+        <item>Տ=Տիմբուկտու</item>
+        <item>Տ=Տրիպոլի</item>
+        <item>Թ=Թունիս</item>
+        <item>Ա=Անքորիջ</item>
+        <item>Մ=Մենդոզա</item>
+        <item>Ա=Արուբա</item>
+        <item>Ա=Ասունսիոն</item>
+        <item>Բ=Բարբադոս</item>
+        <item>Բ=Բելիզ</item>
+        <item>Բ=Բոգոտա</item>
+        <item>Բ=Բուենոս Այրես</item>
+        <item>Կ=Կանկուն</item>
+        <item>Կ=Կարակաս</item>
+        <item>Կ=Կայման</item>
+        <item>Չ=Չիկագո</item>
+        <item>Կ=Կոստա Ռիկա</item>
+        <item>Կ=Կյուրասաո</item>
+        <item>Դ=Դոուսոն Կրիկ</item>
+        <item>Դ=Դենվեր</item>
+        <item>Դ=Դետրոյթ</item>
+        <item>Դ=Դոմինիկա</item>
+        <item>Է=Էդմոնտոն</item>
+        <item>Ս=Սալվադոր</item>
+        <item>Ֆ=Ֆորտալեզա</item>
+        <item>Գ=Գրանդ Տերկ</item>
+        <item>Գ=Գրենադա</item>
+        <item>Գ=Գվատեմալա</item>
+        <item>Գ=Գայանա</item>
+        <item>Հ=Հալիֆաքս</item>
+        <item>Հ=Հավանա</item>
+        <item>Ի=Ինդիանապոլիս</item>
+        <item>Ն=Նոքս</item>
+        <item>Մ=Մարենգո</item>
+        <item>Պ=Պետերբուրգ</item>
+        <item>Տ=Տելլ Սիթի</item>
+        <item>Վ=Վեվեյ</item>
+        <item>Վ=Վենսան</item>
+        <item>Վ=Վինամակ</item>
+        <item>Ք=Քինգսթոն</item>
+        <item>Ն=Նուեստրա Սենոնա դե Լա Պազ</item>
+        <item>Լ=Լիմա</item>
+        <item>Լ=Լոս Անջելես</item>
+        <item>Լ=Լուիսվիլլ</item>
+        <item>Մ=Մանագուա</item>
+        <item>Մ=Մարտինիկ</item>
+        <item>Մ=Մենդոզա</item>
+        <item>Մ=Մետլակատլա</item>
+        <item>Մ=Մեխիկո Սիթի</item>
+        <item>Մ=Մոնտերեյ</item>
+        <item>Մ=Մոնտեվիդեո</item>
+        <item>Մ=Մոնրեալ</item>
+        <item>Ն=Նասսաու</item>
+        <item>Ն=Նյու Յորք</item>
+        <item>Բ=Բյուլա</item>
+        <item>Ս=Սենթր</item>
+        <item>Ն=Նյու Սալեմ</item>
+        <item>Պ=Պանամա</item>
+        <item>Ֆ=Ֆենիքս</item>
+        <item>Պ=Պորտ օֆ Սպեյն</item>
+        <item>Պ=Պորտ-օ-Պրինս</item>
+        <item>Պ=Պուերտո Ռիկո</item>
+        <item>Ս=Սանտո Դոմինգո</item>
+        <item>Ս=Սան Պաուլո</item>
+        <item>Ս=Սենտ Ջոնս</item>
+        <item>Ս=Սենտ Քիթս</item>
+        <item>Ս=Սենտ Լյուսիա</item>
+        <item>Ս=Սենտ Տոմաս</item>
+        <item>Տ=Տիհուանա</item>
+        <item>Տ=Տորոնտո</item>
+        <item>Վ=Վանկուվեր</item>
+        <item>Վ=Վիննիպեգ</item>
+        <item>Հ=Հարավային Բևեռ</item>
+        <item>Լ=Լոնգյերբյեն</item>
+        <item>Ա=Ալմա Աթա</item>
+        <item>Ա=Ամման</item>
+        <item>Ա=Անադիր</item>
+        <item>Ա=Ակտաու</item>
+        <item>Բ=Բաղդադ</item>
+        <item>Բ=Բահրեյն</item>
+        <item>Բ=Բաքու</item>
+        <item>Բ=Բանգկոկ</item>
+        <item>Բ=Բեյրութ</item>
+        <item>Կ=Կալկաթա</item>
+        <item>Դ=Դամասկոս</item>
+        <item>Դ=Դակկա</item>
+        <item>Դ=Դուբայ</item>
+        <item>Գ=Գազա</item>
+        <item>Հ=Հևրոն</item>
+        <item>Հ=Հո Չի Մին</item>
+        <item>Հ=Հոնկոնգ</item>
+        <item>Ս=Ստամբուլ</item>
+        <item>Ջ=Ջակարտա</item>
+        <item>Ե=Երուսաղեմ</item>
+        <item>Ք=Քաբուլ</item>
+        <item>Կ=Կարաչի</item>
+        <item>Կ=Կատմանդու</item>
+        <item>Կ=Կուալա Լումպուր</item>
+        <item>Ք=Քուվեյթ</item>
+        <item>Մ=Մակաու</item>
+        <item>Մ=Մանիլա</item>
+        <item>Մ=Մուսկաթ</item>
+        <item>Պ=Պնոմպեն</item>
+        <item>Փ=Փխենյան</item>
+        <item>Ք=Քաթար</item>
+        <item>Ռ=Ռանգուն</item>
+        <item>Ռ=Ռիադ</item>
+        <item>Ս=Սայգոն</item>
+        <item>Ս=Սեուլ</item>
+        <item>Շ=Շանհայ</item>
+        <item>Ս=Սինգապուր</item>
+        <item>Տ=Տայպեյ</item>
+        <item>Թ=Թեհրան</item>
+        <item>Տ=Տել Ավիվ</item>
+        <item>Տ=Տոկիո</item>
+        <item>Ու=Ուլան Բատոր</item>
+        <item>Բ=Բերմուդյան կղզիներ</item>
+        <item>Կ=Կանարյան կղզիներ</item>
+        <item>Կ=Կապե Վերդե</item>
+        <item>Ռ=Ռեյկյավիկ</item>
+        <item>Ս=Ստենլի</item>
+        <item>Ա=Ադելեյդ</item>
+        <item>Բ=Բրիսբեն</item>
+        <item>Կ=Կանբերրա</item>
+        <item>Դ=Դարվին</item>
+        <item>Մ=Մելբուրն</item>
+        <item>Ն=Նոր Հարավային Ուելս</item>
+        <item>Պ=Պերտ</item>
+        <item>Ք=Քուինսլենդ</item>
+        <item>Ս=Սիդնեյ</item>
+        <item>Վ=Վիկտորիա</item>
+        <item>Ն=Նյուֆաունդլենդ</item>
+        <item>Ս=Սասկաչևան</item>
+        <item>Զ=Զատիկի կղզի</item>
+        <item>Ա=Ամստերդամ</item>
+        <item>Ա=Անդորրա</item>
+        <item>Ա=Աթենք</item>
+        <item>Բ=Բելֆաստ</item>
+        <item>Բ=Բելգրադ</item>
+        <item>Բ=Բեռլին</item>
+        <item>Բ=Բրատիսլավա</item>
+        <item>Բ=Բրյուսել</item>
+        <item>Բ=Բուխարեստ</item>
+        <item>Բ=Բուդապեշտ</item>
+        <item>Ք=Քիշինև</item>
+        <item>Կ=Կոպենհագեն</item>
+        <item>Դ=Դուբլին</item>
+        <item>Ջ=Ջիբրալթար</item>
+        <item>Հ=Հելսինկի</item>
+        <item>Մ=Մեն կղզի</item>
+        <item>Ս=Ստամբուլ</item>
+        <item>Կ=Կիև</item>
+        <item>Լ=Լիսաբոն</item>
+        <item>Լ=Լոնդոն</item>
+        <item>Լ=Լյուքսեմբուրգ</item>
+        <item>Մ=Մադրիդ</item>
+        <item>Մ=Մալթա</item>
+        <item>Մ=Մինսկ</item>
+        <item>Մ=Մոնակո</item>
+        <item>Մ=Մոսկվա</item>
+        <item>Օ=Օսլո</item>
+        <item>Փ=Փարիզ</item>
+        <item>Պ=Պրահա</item>
+        <item>Ռ=Ռիգա</item>
+        <item>Հ=Հռոմ</item>
+        <item>Ս=Սան Մարինո</item>
+        <item>Ս=Սարաևո</item>
+        <item>Ս=Սիմֆերոպոլ</item>
+        <item>Ս=Սկոպյե</item>
+        <item>Ս=Սոֆիա</item>
+        <item>Ս=Ստոքհոլմ</item>
+        <item>Թ=Թալին</item>
+        <item>Վ=Վատիկան</item>
+        <item>Վ=Վիեննա</item>
+        <item>Վ=Վիլնյուս</item>
+        <item>Վ=Վարշավա</item>
+        <item>Զ=Զագրեբ</item>
+        <item>Ց=Ցյուրիխ</item>
+        <item>Ա=Անտանանարիվու</item>
+        <item>Մ=Մալդիվյան կղզիներ</item>
+        <item>Մ=Մավրիկիոս</item>
+        <item>Օ=Օքլենդ</item>
+        <item>Ֆ=Ֆիջի</item>
+        <item>Գ=Գուամ</item>
+        <item>Հ=Հոնոլուլու</item>
+        <item>Կ=Կիրիտիմատի</item>
+        <item>Ն=Նումեա</item>
+        <item>Ս=Սամոա</item>
+        <item>Թ=Թայիթի</item>
+        <item>Ա=Անտիգուա</item>
+        <item>Օ=Օստին</item>
+        <item>Բ=Բոստոն</item>
+        <item>Կ=Կալգարի</item>
+        <item>Կ=Կոլումբուս</item>
+        <item>Դ=Դալլաս</item>
+        <item>Ն=Նոկսվիլլ</item>
+        <item>Մ=Մեմֆիս</item>
+        <item>Մ=Մայամի</item>
+        <item>Մ=Միննեապոլիս</item>
+        <item>Օ=Օտտավա</item>
+        <item>Ֆ=Ֆիլադելֆիա</item>
+        <item>Պ=Պորտլենդ</item>
+        <item>Ս=Սան Դիեգո</item>
+        <item>Ս=Սան Ֆրանցիսկո</item>
+        <item>Ս=Սոլթ Լեյք Սիթի</item>
+        <item>Ս=Սան Խոսե</item>
+        <item>Ս=Սան Սալվադոր</item>
+        <item>Ս=Սիեթլ</item>
+        <item>Ս=Սենտ Լուիս</item>
+        <item>Վ=Վաշինգտոն</item>
+        <item>Հ=Հյուսթոն</item>
+        <item>Ս=Սան Անտոնիո</item>
+        <item>Ջ=Ջեքսոնվիլ</item>
+        <item>Բ=Բալթիմոր</item>
+        <item>Ն=Նաշվիլ</item>
+        <item>Մ=Միլուոկի</item>
+        <item>Օ=Օկլահոմա Սիթի</item>
+        <item>Լ=Լաս Վեգաս</item>
+        <item>Ա=Ալբուկերկե</item>
+        <item>Տ=Տյուսոն</item>
+        <item>Ս=Սակրամենտո</item>
+        <item>Ա=Ատլանտա</item>
+        <item>Կ=Կլիվլենդ</item>
+        <item>Ն=Նյու Օռլեան</item>
+        <item>Տ=Տամպա</item>
+        <item>Պ=Պիտսբուրգ</item>
+        <item>Ց=Ցինցիննատի</item>
+        <item>Մ=Մաունթին Վյու</item>
+        <item>Ռ=Ռենո</item>
+        <item>Բ=Բլեք Ռոք Սիթի</item>
+        <item>Դ=Դոհա</item>
+        <item>Պ=Պեկին</item>
+        <item>Մ=Մումբայ</item>
+        <item>Դ=Դելի</item>
+        <item>Օ=Օսակա</item>
+        <item>Լ=Լահոր</item>
+        <item>Ս=Սանաա</item>
+        <item>Բ=Բարսելոնա</item>
+        <item>Մ=Մյունխեն</item>
+        <item>Մ=Միլան</item>
+        <item>Ֆ=Ֆրանկֆուրտ</item>
+        <item>Հ=Հանոյ</item>
+        <item>Ա=Անկարա</item>
+        <item>Բ=Բանգալոր</item>
+        <item>Բ=Բրազիլիա</item>
+        <item>Կ=Կապե Թաուն</item>
+        <item>Ի=Իսլամաբադ</item>
+        <item>Ռ=Ռիո դե Ժանեյրո</item>
+        <item>Ա=Անն Արբոր</item>
+        <item>Բ=Բոուլդեր</item>
+        <item>Ք=Քեմփրիջ</item>
+        <item>Կ=Կիրկլենդ</item>
+        <item>Մ=Մեդիսոն</item>
+        <item>Գ=Գուանչժոու</item>
+        <item>Հ=Հայդարաբադ</item>
+        <item>Ռ=Ռեստոն</item>
+        <item>Բ=Բելո Հորիզոնտե</item>
+        <item>Ս=Սանտյագո</item>
+        <item>Մ=Մոնրովիա</item>
+        <item>Կ=Լոլոմբո</item>
+        <item>Չ=Չիուաուա</item>
+        <item>Ս=Սալվադոր</item>
+        <item>Գ=Գարգաոն</item>
+        <item>Մ=Մանչեստր</item>
+        <item>Կ=Կիև</item>
+        <item>Ս=Սանկտ Պետերբուրգ</item>
+        <item>Կ=Կրակով</item>
+        <item>Վ=Վրոցլավ</item>
+        <item>Հ=Համբուրգ</item>
+        <item>Օ=Օուլու</item>
+        <item>Հ=Հայֆա</item>
+        <item>Ս=Սան Խուան</item>
+        <item>Տ=Տեգուսիգալպա</item>
+        <item>Պ=Պարամաիբո</item>
+        <item>Կ=Կիտո</item>
+        <item>Լ=Լյուբլյանա</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>Մնացել է մեկ րոպեից պակաս ժամանակ:</item>
+        <item>%1$s մինչ ավարտը</item>
+        <item>%2$s մինչ ավարտը</item>
+        <item>%1$s %2$s մինչ ավարտը</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Զարթուցիչը դրված է այս պահից 1 րոպեից պակաս:</item>
+        <item>Զարթուցիչը դրված է այս պահից %1$s օր անց:</item>
+        <item>Զարթուցիչը դրված է այս պահից %2$s անց:</item>
+        <item>Զարթուցիչը դրված է այս պահից %1$s և %2$s անց:</item>
+        <item>Զարթուցիչը դրված է այս պահից %3$s անց:</item>
+        <item>Զարթուցիչը դրված է այս պահից %1$s և %3$s անց:</item>
+        <item>Զարթուցիչը դրված է այս պահից %2$s և %3$s անց:</item>
+        <item>Զարթուցիչը դրված է այս պահից %1$s, %2$s և %3$s անց:</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>1 րոպե</item>
+        <item>5 րոպե</item>
+        <item>10 րոպե</item>
+        <item>15 րոպե</item>
+        <item>20 րոպե</item>
+        <item>25 րոպե</item>
+        <item>Երբեք</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>Շաբաթ</item>
+        <item>Կիրակի</item>
+        <item>Երկուշաբթի</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Ննջել</item>
+        <item>Անտեսել</item>
+        <item>Ոչինչ չանել</item>
+    </string-array>
+    <string-array name="sw_lap_number_set">
+        <item>\# %d</item>
+        <item>\# %02d</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>Դուք լրիվ արագության խենթ եք:</item>
+        <item>Վայելեք ձեր աշխատանքի պտուղները:</item>
+        <item>Ռոբոտները հայտնի են արագությամբ, բայց ոչ այնքան, որքան դու՛ք:</item>
+        <item>Է՜հ:</item>
+        <item>Բարձրակարգ արդյունք:</item>
+        <item>Այսպիսի գերազանց արագություն:</item>
+        <item>Եկեք նորից ժամանակ սպանենք:</item>
+        <item>Պարզապես թռիչք դեպի ձախ:</item>
+        <item>Դուք շտապելու կարիք ունեք:</item>
+        <item>Լույսի արագություն:</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>Անալոգ</item>
+        <item>Թվային</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Մարշալյան Կղզիներ</item>
+        <item>Միդուեյ Կղզիներ</item>
+        <item>Հավայի</item>
+        <item>Ալյասկա</item>
+        <item>Խաղաղօվկիանոսյան ժամանակ</item>
+        <item>Տիժուանա</item>
+        <item>Արիզոնա</item>
+        <item>Չիհուահուա</item>
+        <item>Լեռնային ժամանակ</item>
+        <item>Կենտրոնական Ամերիկա</item>
+        <item>Կենտրոնական ժամանակ</item>
+        <item>Մեխիկո Սիթի</item>
+        <item>Սասկաչևան</item>
+        <item>Բոգոտա</item>
+        <item>Արևելյան ժամանակ</item>
+        <item>Վենեսուելա</item>
+        <item>Ատլանտյան ժամանակ (Բարբադոս)</item>
+        <item>Ատլանտյան ժամանակ (Կանադա)</item>
+        <item>Մանաուս</item>
+        <item>Սանտյագո</item>
+        <item>Նյուֆաունդլենդ</item>
+        <item>Բրազիլիա</item>
+        <item>Բուենոս Այրես</item>
+        <item>Գրենլանդիա</item>
+        <item>Մոնտեվիդեո</item>
+        <item>Միջին Ատլանտյան</item>
+        <item>Ազորյան կղզիներ</item>
+        <item>Կապե Վերդե կղզիներ</item>
+        <item>Կասաբլանկա</item>
+        <item>Լոնդոն, Դուբլին</item>
+        <item>Ամստերդամ, Բեռլին</item>
+        <item>Բելգրադ</item>
+        <item>Բրյուսել</item>
+        <item>Սարաևո</item>
+        <item>Վինդհուկ</item>
+        <item>Արևմտյան Աֆրիկյան ժամանակ</item>
+        <item>Ամման, Հորդանան</item>
+        <item>Աթենք, Ստամբուլ</item>
+        <item>Բեյրութ, Լիբանան</item>
+        <item>Կահիրե</item>
+        <item>Հելսինկի</item>
+        <item>Երուսաղեմ</item>
+        <item>Մինսկ</item>
+        <item>Հարարե</item>
+        <item>Բաղդադ</item>
+        <item>Մոսկվա</item>
+        <item>Քուվեյթ</item>
+        <item>Նայրոբի</item>
+        <item>Թեհրան</item>
+        <item>Բաքու</item>
+        <item>Թբիլիսի</item>
+        <item>Երևան</item>
+        <item>Դուբայ</item>
+        <item>Քաբուլ</item>
+        <item>Իսլամաբադ, Կարաչի</item>
+        <item>Ուրալսկ</item>
+        <item>Եկատերինբուրգ</item>
+        <item>Կոլկաթա</item>
+        <item>Շրի Լանկա</item>
+        <item>Կատմանդու</item>
+        <item>Աստանա</item>
+        <item>Յանգոն</item>
+        <item>Կրասնոյարսկ</item>
+        <item>Բանգկոկ</item>
+        <item>Պեկին</item>
+        <item>Հոնկոնգ</item>
+        <item>Իրկուտսկ</item>
+        <item>Կուալա Լումպուր</item>
+        <item>Պերթ</item>
+        <item>Թայպեյ</item>
+        <item>Սեուլ</item>
+        <item>Տոկիո, Օսակա</item>
+        <item>Յակուտսկ</item>
+        <item>Ադելաիդա</item>
+        <item>Դարվին</item>
+        <item>Բրիսբեն</item>
+        <item>Հոբարտ</item>
+        <item>Սիդնեյ, Կանբերա</item>
+        <item>Վլադիվոստոկ</item>
+        <item>Գուամ</item>
+        <item>Մագադան</item>
+        <item>Օքլենդ</item>
+        <item>Ֆիջի</item>
+        <item>Տոնգա</item>
+        <item>Ջակարտա</item>
+    </string-array>
+</resources>

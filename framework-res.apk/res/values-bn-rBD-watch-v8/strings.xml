@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_upgrading_apk">%2$dটির মধ্যে %1$dটি অ্যাপ্লিকেশান</string>
+</resources>

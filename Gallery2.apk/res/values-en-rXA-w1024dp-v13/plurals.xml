@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">[»%1$d« îţéḿš šéļéçţéð one two three]</item>
+        <item quantity="zero">[»%1$d« îţéḿ šéļéçţéð one two three]</item>
+        <item quantity="one">[»%1$d« îţéḿ šéļéçţéð one two three]</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">[»%1$d« åļɓûḿš šéļéçţéð one two three]</item>
+        <item quantity="zero">[»%1$d« åļɓûḿ šéļéçţéð one two three]</item>
+        <item quantity="one">[»%1$d« åļɓûḿ šéļéçţéð one two three]</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">[»%1$d« ĝŕöûþš šéļéçţéð one two three]</item>
+        <item quantity="zero">[»%1$d« ĝŕöûþ šéļéçţéð one two three]</item>
+        <item quantity="one">[»%1$d« ĝŕöûþ šéļéçţéð one two three]</item>
+    </plurals>
+</resources>

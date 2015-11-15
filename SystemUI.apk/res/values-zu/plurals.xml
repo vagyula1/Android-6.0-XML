@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d izikrini eziku-Buka konke</item>
+        <item quantity="one">%d izikrini eziku-Buka konke</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Ikhodi engalungile yephinikhodi ye-SIM, unemizamo engu-%d esele.</item>
+        <item quantity="one">Ikhodi engalungile yephinikhodi ye-SIM, unemizamo engu-%d esele.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Ikhodi ye-PUK ye-SIM engalungile, unemizamo engu-%d esele ngaphambi kokuthi i-SIM ingasasebenziseki unaphakade.</item>
+        <item quantity="one">Ikhodi ye-PUK ye-SIM engalungile, unemizamo engu-%d esele ngaphambi kokuthi i-SIM ingasasebenziseki unaphakade.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Idivayisi ayikavulwa ngamahora angu-%d. Qinisekisa iphethini.</item>
+        <item quantity="one">Idivayisi ayikavulwa ngamahora angu-%d. Qinisekisa iphethini.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">Idivayisi ayikavulwa ngamahora angu-%d. Qinisekisa iphinikhodi.</item>
+        <item quantity="one">Idivayisi ayikavulwa ngamahora angu-%d. Qinisekisa iphinikhodi.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Idivayisi ayikavulwa ngamahora angu-%d. Qinisekisa iphasiwedi.</item>
+        <item quantity="one">Idivayisi ayikavulwa ngamahora angu-%d. Qinisekisa iphasiwedi.</item>
+    </plurals>
+</resources>

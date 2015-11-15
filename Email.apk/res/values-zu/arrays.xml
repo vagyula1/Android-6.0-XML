@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Phendula</item>
+        <item>Phendula konke</item>
+        <item>Dlulisela</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Impumelelo</item>
+        <item>Akukho ukuxhumana</item>
+        <item>Ayikwazanga ukungena ngemvume.</item>
+        <item>Iphutha lokuphepha</item>
+        <item>Ayikwazanga ukuvumelanisa</item>
+        <item>Iphutha langaphakathi</item>
+        <item>Iphutha Leseva</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Okusha kakhulu</item>
+        <item>Okudala</item>
+        <item>Uhlu lwengxoxo</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Bonisa ingxoxo entsha ngemuva kokususa</item>
+        <item>Bonisa ingxoxo endala ngemuva kokususa</item>
+        <item>Bonisa uhlu lwengxoxo ngemuva kokususa</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Ingobo yomlando</item>
+        <item>Susa</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Ingobo yomlando</item>
+        <item>Susa</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Bonisa njalo izenzo zemlayezo ngaphezu kwesikrini</item>
+        <item>Bonisa kuphela izenzo zomlayezo ngaphezulu kwesikrini uma ijikiselwe ekumeni ngobude</item>
+        <item>Ungabonisi izenzo zomlayezo ngaphandle kwesihloko somlayezo</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Bonisa njalo</item>
+        <item>Bonisa kuphela ekumeni ngobude</item>
+        <item>Ungabonisi</item>
+    </string-array>
+</resources>

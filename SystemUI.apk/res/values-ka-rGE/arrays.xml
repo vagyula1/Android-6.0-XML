@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>სკანირება…</item>
+        <item>დაკავშირება…</item>
+        <item>ავტორიზაცია…</item>
+        <item>IP მისამართის მიღება…</item>
+        <item>დაკავშირებულია</item>
+        <item>შეწყვეტილია</item>
+        <item>კავშირის გაწყვეტა…</item>
+        <item>არ არის ხაზზე</item>
+        <item>ვერ მოხერხდა</item>
+        <item>დაბლოკილი</item>
+        <item>ცუდი კავშირის დროებით თავიდან აცილება</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>სკანირება…</item>
+        <item>მიმდინარეობს დაკავშირება %1$s-თან…</item>
+        <item>ავთენტიფიკაცია %1$s-ში…</item>
+        <item>IP მისამართის მოპოვება %1$s-დან…</item>
+        <item>დაკავშირებულია %1$s-თან</item>
+        <item>შეჩერებული</item>
+        <item>კავშირის გაწყვეტა %1$s-თან…</item>
+        <item>კავშირი გაწყვეტილია</item>
+        <item>ვერ მოხერხდა</item>
+        <item>დაბლოკილი</item>
+        <item>ცუდი კავშირის დროებით თავიდან აცილება</item>
+    </string-array>
+</resources>

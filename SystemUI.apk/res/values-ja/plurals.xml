@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">[最近]に%d個の画面があります</item>
+        <item quantity="one">[最近]に1個の画面があります</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">SIM PINコードが無効です。入力できるのはあと%d回です。</item>
+        <item quantity="one">SIM PINコードが無効です。入力できるのはあと%d回です。この回数を超えた場合は、携帯通信会社にお問い合わせください。</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">SIM PUKコードが無効です。入力できるのはあと%d回です。この回数を超えるとSIMは完全に使用できなくなります。</item>
+        <item quantity="one">SIM PUKコードが無効です。入力できるのはあと%d回です。この回数を超えるとSIMは完全に使用できなくなります。</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">端末のロックが%d時間、解除されていません。パターンを確認してください。</item>
+        <item quantity="one">端末のロックが%d時間、解除されていません。パターンを確認してください。</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">端末のロックが%d時間、解除されていません。PINを確認してください。</item>
+        <item quantity="one">端末のロックが%d時間、解除されていません。PINを確認してください。</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">端末のロックが%d時間、解除されていません。パスワードを確認してください。</item>
+        <item quantity="one">端末のロックが%d時間、解除されていません。パスワードを確認してください。</item>
+    </plurals>
+</resources>

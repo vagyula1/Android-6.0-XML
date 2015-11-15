@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">[%d ḿîñš one]</item>
+        <item quantity="one">[%d ḿîñ one]</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">[%d ĥöûŕš one two]</item>
+        <item quantity="one">[%d ĥöûŕ one]</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">[%d ðåýš one]</item>
+        <item quantity="one">[%d ðåý one]</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">[%d ŵééķš one two]</item>
+        <item quantity="one">[å ŵééķ one two]</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">[%d ḿöñţĥš one two]</item>
+        <item quantity="one">[å ḿöñţĥ one two]</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">[%d ýéåŕš one two]</item>
+        <item quantity="one">[å ýéåŕ one two]</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">[%1$d ḿéššåĝéš îñ %2$d çöñVéŕšåţîöñš one two three four]</item>
+        <item quantity="one">[%d ḿéššåĝéš îñ öñé çöñVéŕšåţîöñ one two three four]</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="other">[%1$d ḿéššåĝéš îñ %2$d çöñVéŕšåţîöñš one two three four]</item>
+        <item quantity="one">[%d ḿéššåĝéš îñ öñé çöñVéŕšåţîöñ one two three four]</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="other">[%d ñéŵ ḿéššåĝéš one two]</item>
+        <item quantity="one">[Ñéŵ ḿéššåĝé one two]</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="other">[Ðéļéţé ţĥéšé çöñVéŕšåţîöñš¿ one two three four]</item>
+        <item quantity="one">[Ðéļéţé ţĥîš çöñVéŕšåţîöñ¿ one two three]</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="other">[%d þåŕţîçîþåñţš one two]</item>
+        <item quantity="one">[%d þåŕţîçîþåñţ one two]</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="other">[Ðîšçåŕð åţţåçĥḿéñţš one two three]</item>
+        <item quantity="one">[Ðîšçåŕð åţţåçĥḿéñţ one two three]</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="other">[%1$d þĥöţöš šåVéð ţö \"%2$s\" åļɓûḿ one two three]</item>
+        <item quantity="one">[%1$d þĥöţö šåVéð ţö \"%2$s\" åļɓûḿ one two three]</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="other">[%1$d Vîðéöš šåVéð ţö \"%2$s\" åļɓûḿ one two three]</item>
+        <item quantity="one">[%1$d Vîðéö šåVéð ţö \"%2$s\" åļɓûḿ one two three]</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="other">[%1$d åţţåçĥḿéñţš šåVéð ţö \"%2$s\" åļɓûḿ one two three four]</item>
+        <item quantity="one">[%1$d åţţåçĥḿéñţ šåVéð ţö \"%2$s\" åļɓûḿ one two three four]</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="other">[%d åţţåçĥḿéñţš šåVéð ţö \"Ðöŵñļöåðš\" one two three four]</item>
+        <item quantity="one">[%d åţţåçĥḿéñţ šåVéð ţö \"Ðöŵñļöåðš\" one two three four]</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="other">[%d åţţåçĥḿéñţš šåVéð one two three]</item>
+        <item quantity="one">[%d åţţåçĥḿéñţ šåVéð one two three]</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="other">"[Çöûļðñ'ţ šåVé %d åţţåçĥḿéñţš one two three]"</item>
+        <item quantity="one">"[Çöûļðñ'ţ šåVé %d åţţåçĥḿéñţ one two three]"</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="other">[Šéñð þĥöţöš one two]</item>
+        <item quantity="one">[Šéñð þĥöţö one two]</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="other">[Šéñð åûðîöš one two]</item>
+        <item quantity="one">[Šéñð åûðîö one two]</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="other">[Šéñð Vîðéöš one two]</item>
+        <item quantity="one">[Šéñð Vîðéö one two]</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="other">[Šéñð çöñţåçţ çåŕðš one two three]</item>
+        <item quantity="one">[Šéñð çöñţåçţ çåŕð one two three]</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="other">[Šéñð åţţåçĥḿéñţš one two three]</item>
+        <item quantity="one">[Šéñð åţţåçĥḿéñţ one two three]</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="other">[%d åţţåçĥḿéñţš ŕéåðý ţö šéñð one two three four]</item>
+        <item quantity="zero">[Ñö åţţåçĥḿéñţš šéļéçţéð one two three]</item>
+        <item quantity="one">[Öñé åţţåçĥḿéñţ ŕéåðý ţö šéñð one two three four]</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="other">[%d çöñţåçţš one two]</item>
+        <item quantity="one">[%d çöñţåçţ one two]</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="other">[ÎñVåļîð çöñţåçţš one two three]</item>
+        <item quantity="one">[ÎñVåļîð çöñţåçţ one two three]</item>
+    </plurals>
+</resources>
