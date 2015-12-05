@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="uid_label">미디어</string>
-    <string name="app_label">미디어 저장소</string>
-    <string name="artist_label">아티스트</string>
-    <string name="ringtone_default">기본 벨소리</string>
-    <string name="notification_sound_default">기본 알림 소리</string>
-    <string name="alarm_sound_default">기본 알람 소리</string>
-    <string name="root_images">이미지</string>
-    <string name="root_videos">동영상</string>
-    <string name="root_audio">오디오</string>
+  <string name="alarm_sound_default">기본 알람 소리</string>
+  <string name="app_label">미디어 저장소</string>
+  <string name="artist_label">아티스트</string>
+  <string name="notification_sound_default">기본 알림 소리</string>
+  <string name="ringtone_default">기본 벨소리</string>
+  <string name="root_audio">오디오</string>
+  <string name="root_images">이미지</string>
+  <string name="root_videos">동영상</string>
+  <string name="uid_label">미디어</string>
 </resources>

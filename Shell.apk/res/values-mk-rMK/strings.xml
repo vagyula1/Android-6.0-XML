@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">Обвивка</string>
-    <string name="bugreport_finished_title">Извештајот за грешка е снимен</string>
-    <string name="bugreport_finished_text">Допри да се сподели твојот извештај за грешка</string>
-    <string name="bugreport_confirm">Извештаите за грешка содржат податоци од разни датотеки за евиденција на системот, вклучувајќи лични и приватни информации. Извештаите за грешка споделувајте ги само со апликации и луѓе на коишто им верувате.</string>
-    <string name="bugreport_confirm_repeat">Прикажи ја поракава следниот пат</string>
-    <string name="bugreport_storage_title">Извештаи за грешки</string>
+  <string name="app_label">Обвивка</string>
+  <string name="bugreport_confirm">Извештаите за грешка содржат податоци од разни датотеки за евиденција на системот, вклучувајќи лични и приватни информации. Извештаите за грешка споделувајте ги само со апликации и луѓе на коишто им верувате.</string>
+  <string name="bugreport_confirm_repeat">Прикажи ја поракава следниот пат</string>
+  <string name="bugreport_finished_text">Допри да се сподели твојот извештај за грешка</string>
+  <string name="bugreport_finished_title">Извештајот за грешка е снимен</string>
+  <string name="bugreport_storage_title">Извештаи за грешки</string>
 </resources>

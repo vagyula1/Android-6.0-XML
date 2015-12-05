@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">ශබ්ද රෙකෝඩරය</string>
-    <string name="record_your_message">ඔබගේ පණිවිඩය පටිගත කරන්න</string>
-    <string name="message_recorded">පණිවිඩය පටිගත කළේය</string>
-    <string name="review_message">පණිවිඩය සමාලෝචනය කිරීම</string>
-    <string name="recording">පටිගත කරමින්</string>
-    <string name="recording_stopped">පටිගත කිරීම නවත්වා ඇත</string>
-    <string name="storage_is_full">ආචයනය පිරී ඇත</string>
-    <string name="max_length_reached">උපරිම දිග වෙත ළඟා වුණි</string>
-    <string name="insert_sd_card">USB ආචයනය සවි කරන්න</string>
-    <string name="min_available">විනාඩි %d ක් ඇත</string>
-    <string name="sec_available">තත්පර %d ක් ඇත</string>
-    <string name="accept">හරි</string>
-    <string name="discard">ඉවත ලන්න</string>
-    <string name="button_ok">හරි</string>
-    <string name="audio_db_artist_name">ඔබගේ පටිගතකිරීම්</string>
-    <string name="audio_db_album_name">ශබ්ද පටිගතකිරීම්</string>
-    <string name="audio_db_playlist_name">මගේ පටිගතකිරීම්</string>
-    <string name="error_sdcard_access">USB ආචයනය ප්‍රවේශ කළ නොහැක.</string>
-    <string name="error_app_internal">අභ්‍යන්තර යෙදුම් දෝෂය.</string>
-    <string name="error_mediadb_new_record">පටිගත කළ ශබ්ද සුරැකිය නොහැක.</string>
+  <string name="accept">හරි</string>
+  <string name="app_name">ශබ්ද රෙකෝඩරය</string>
+  <string name="audio_db_album_name">ශබ්ද පටිගතකිරීම්</string>
+  <string name="audio_db_artist_name">ඔබගේ පටිගතකිරීම්</string>
+  <string name="audio_db_playlist_name">මගේ පටිගතකිරීම්</string>
+  <string name="button_ok">හරි</string>
+  <string name="discard">ඉවත ලන්න</string>
+  <string name="error_app_internal">අභ්‍යන්තර යෙදුම් දෝෂය.</string>
+  <string name="error_mediadb_new_record">පටිගත කළ ශබ්ද සුරැකිය නොහැක.</string>
+  <string name="error_sdcard_access">USB ආචයනය ප්‍රවේශ කළ නොහැක.</string>
+  <string name="insert_sd_card">USB ආචයනය සවි කරන්න</string>
+  <string name="max_length_reached">උපරිම දිග වෙත ළඟා වුණි</string>
+  <string name="message_recorded">පණිවිඩය පටිගත කළේය</string>
+  <string name="min_available">විනාඩි %d ක් ඇත</string>
+  <string name="record_your_message">ඔබගේ පණිවිඩය පටිගත කරන්න</string>
+  <string name="recording">පටිගත කරමින්</string>
+  <string name="recording_stopped">පටිගත කිරීම නවත්වා ඇත</string>
+  <string name="review_message">පණිවිඩය සමාලෝචනය කිරීම</string>
+  <string name="sec_available">තත්පර %d ක් ඇත</string>
+  <string name="storage_is_full">ආචයනය පිරී ඇත</string>
 </resources>

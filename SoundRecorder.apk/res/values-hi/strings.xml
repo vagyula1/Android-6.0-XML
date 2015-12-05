@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">ध्वनि रिकॉर्डर</string>
-    <string name="record_your_message">अपना संदेश रिकॉर्ड करें</string>
-    <string name="message_recorded">संदेश रिकॉर्ड किया गया</string>
-    <string name="review_message">संदेश की समीक्षा करें</string>
-    <string name="recording">रिकॉर्ड हो रहा है</string>
-    <string name="recording_stopped">रिकॉर्डिंग रुक गई है</string>
-    <string name="storage_is_full">मेमोरी भर गया है</string>
-    <string name="max_length_reached">अधिकतम लंबाई तक पहुंच गया</string>
-    <string name="insert_sd_card">USB मेमोरी माउंट करें</string>
-    <string name="min_available">%d मिनट उपलब्ध</string>
-    <string name="sec_available">%d उपलब्ध</string>
-    <string name="accept">पूर्ण</string>
-    <string name="discard">अभी नहीं</string>
-    <string name="button_ok">ठीक है</string>
-    <string name="audio_db_artist_name">आपकी रिकॉर्डिंग</string>
-    <string name="audio_db_album_name">ऑडियो रिकॉर्डिंग</string>
-    <string name="audio_db_playlist_name">मेरी रिकॉर्डिंग</string>
-    <string name="error_sdcard_access">USB मेमोरी में नहीं पहुंचा जा सकता.</string>
-    <string name="error_app_internal">"आंतरिक ऐप्स  त्रुटि."</string>
-    <string name="error_mediadb_new_record">रिकॉर्ड किया गया ऑडियो सहेजा नहीं जा सका.</string>
+  <string name="accept">पूर्ण</string>
+  <string name="app_name">ध्वनि रिकॉर्डर</string>
+  <string name="audio_db_album_name">ऑडियो रिकॉर्डिंग</string>
+  <string name="audio_db_artist_name">आपकी रिकॉर्डिंग</string>
+  <string name="audio_db_playlist_name">मेरी रिकॉर्डिंग</string>
+  <string name="button_ok">ठीक है</string>
+  <string name="discard">अभी नहीं</string>
+  <string name="error_app_internal">"आंतरिक ऐप्स  त्रुटि."</string>
+  <string name="error_mediadb_new_record">रिकॉर्ड किया गया ऑडियो सहेजा नहीं जा सका.</string>
+  <string name="error_sdcard_access">USB मेमोरी में नहीं पहुंचा जा सकता.</string>
+  <string name="insert_sd_card">USB मेमोरी माउंट करें</string>
+  <string name="max_length_reached">अधिकतम लंबाई तक पहुंच गया</string>
+  <string name="message_recorded">संदेश रिकॉर्ड किया गया</string>
+  <string name="min_available">%d मिनट उपलब्ध</string>
+  <string name="record_your_message">अपना संदेश रिकॉर्ड करें</string>
+  <string name="recording">रिकॉर्ड हो रहा है</string>
+  <string name="recording_stopped">रिकॉर्डिंग रुक गई है</string>
+  <string name="review_message">संदेश की समीक्षा करें</string>
+  <string name="sec_available">%d उपलब्ध</string>
+  <string name="storage_is_full">मेमोरी भर गया है</string>
 </resources>

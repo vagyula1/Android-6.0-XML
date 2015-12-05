@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">[Þĥöñé åñð Ḿéššåĝîñĝ Šţöŕåĝé one two three four]</string>
-    <string name="read_only">[ŕéåð_öñļý one two]</string>
-    <string name="ppp_number">[þþþ_ñûḿɓéŕ one two]</string>
+  <string name="app_label">[Þĥöñé åñð Ḿéššåĝîñĝ Šţöŕåĝé one two three four]</string>
+  <string name="ppp_number">[þþþ_ñûḿɓéŕ one two]</string>
+  <string name="read_only">[ŕéåð_öñļý one two]</string>
 </resources>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">Shell</string>
-    <string name="bugreport_finished_title">ລາຍງານຈຸດບົກພ່ອງຖືກເກັບກຳແລ້ວ</string>
-    <string name="bugreport_finished_text">ແຕະເພື່ອສົ່ງການລາຍງານປັນຫາຂອງທ່ານ</string>
-    <string name="bugreport_confirm">ການລາຍງານຂໍ້ຜິດພາດປະກອບມີ ຂໍ້ມູນຈາກໄຟລ໌ບັນທຶກຂອງລະບົບຫຼາຍໄຟລ໌, ຮວມທັງຂໍ້ມູນສ່ວນໂຕນຳ. ທ່ານຕ້ອງແບ່ງປັນລາຍງານຂໍ້ຜິດພາດໃຫ້ແອັບຯ ແລະຄົນທີ່ທ່ານເຊື່ອຖືໄດ້ເທົ່ານັ້ນ.</string>
-    <string name="bugreport_confirm_repeat">ສະແດງຂໍ້ຄວາມນີ້ອີກໃນເທື່ອຕໍ່ໄປ</string>
-    <string name="bugreport_storage_title">ລາຍ​ງານ​ບັນ​ຫາ</string>
+  <string name="app_label">Shell</string>
+  <string name="bugreport_confirm">ການລາຍງານຂໍ້ຜິດພາດປະກອບມີ ຂໍ້ມູນຈາກໄຟລ໌ບັນທຶກຂອງລະບົບຫຼາຍໄຟລ໌, ຮວມທັງຂໍ້ມູນສ່ວນໂຕນຳ. ທ່ານຕ້ອງແບ່ງປັນລາຍງານຂໍ້ຜິດພາດໃຫ້ແອັບຯ ແລະຄົນທີ່ທ່ານເຊື່ອຖືໄດ້ເທົ່ານັ້ນ.</string>
+  <string name="bugreport_confirm_repeat">ສະແດງຂໍ້ຄວາມນີ້ອີກໃນເທື່ອຕໍ່ໄປ</string>
+  <string name="bugreport_finished_text">ແຕະເພື່ອສົ່ງການລາຍງານປັນຫາຂອງທ່ານ</string>
+  <string name="bugreport_finished_title">ລາຍງານຈຸດບົກພ່ອງຖືກເກັບກຳແລ້ວ</string>
+  <string name="bugreport_storage_title">ລາຍ​ງານ​ບັນ​ຫາ</string>
 </resources>

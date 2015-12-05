@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">சவுண்ட் ரெக்கார்டர்</string>
-    <string name="record_your_message">உங்கள் செய்தியைப் பதிவு செய்யவும்</string>
-    <string name="message_recorded">செய்தி பதிவானது</string>
-    <string name="review_message">செய்தியை மறுஆய்வு செய்</string>
-    <string name="recording">பதிவு செய்யப்படுகிறது</string>
-    <string name="recording_stopped">பதிவு செய்தல் நிறுத்தப்பட்டது</string>
-    <string name="storage_is_full">சேமிப்பகம் நிரம்பியது</string>
-    <string name="max_length_reached">அதிகபட்ச நீளத்தை அடைந்தது</string>
-    <string name="insert_sd_card">USB சேமிப்பிடத்தைப் பொருத்து</string>
-    <string name="min_available">%d நிமிடம் உள்ளது</string>
-    <string name="sec_available">%dவி உள்ளது</string>
-    <string name="accept">முடிந்தது</string>
-    <string name="discard">நிராகரி</string>
-    <string name="button_ok">சரி</string>
-    <string name="audio_db_artist_name">உங்கள் பதிவுகள்</string>
-    <string name="audio_db_album_name">ஆடியோ பதிவுகள்</string>
-    <string name="audio_db_playlist_name">எனது பதிவுகள்</string>
-    <string name="error_sdcard_access">USB சேமிப்பகத்தை அணுக முடியவில்லை.</string>
-    <string name="error_app_internal">அகப் பயன்பாடு பிழை.</string>
-    <string name="error_mediadb_new_record">பதிவுசெய்த ஆடியோவைச் சேமிக்க முடியவில்லை.</string>
+  <string name="accept">முடிந்தது</string>
+  <string name="app_name">சவுண்ட் ரெக்கார்டர்</string>
+  <string name="audio_db_album_name">ஆடியோ பதிவுகள்</string>
+  <string name="audio_db_artist_name">உங்கள் பதிவுகள்</string>
+  <string name="audio_db_playlist_name">எனது பதிவுகள்</string>
+  <string name="button_ok">சரி</string>
+  <string name="discard">நிராகரி</string>
+  <string name="error_app_internal">அகப் பயன்பாடு பிழை.</string>
+  <string name="error_mediadb_new_record">பதிவுசெய்த ஆடியோவைச் சேமிக்க முடியவில்லை.</string>
+  <string name="error_sdcard_access">USB சேமிப்பகத்தை அணுக முடியவில்லை.</string>
+  <string name="insert_sd_card">USB சேமிப்பிடத்தைப் பொருத்து</string>
+  <string name="max_length_reached">அதிகபட்ச நீளத்தை அடைந்தது</string>
+  <string name="message_recorded">செய்தி பதிவானது</string>
+  <string name="min_available">%d நிமிடம் உள்ளது</string>
+  <string name="record_your_message">உங்கள் செய்தியைப் பதிவு செய்யவும்</string>
+  <string name="recording">பதிவு செய்யப்படுகிறது</string>
+  <string name="recording_stopped">பதிவு செய்தல் நிறுத்தப்பட்டது</string>
+  <string name="review_message">செய்தியை மறுஆய்வு செய்</string>
+  <string name="sec_available">%dவி உள்ளது</string>
+  <string name="storage_is_full">சேமிப்பகம் நிரம்பியது</string>
 </resources>

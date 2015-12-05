@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="uid_label">Multivide</string>
-    <string name="app_label">Multivides krātuve</string>
-    <string name="artist_label">Izpildītājs</string>
-    <string name="ringtone_default">Noklusējuma zvana signāls</string>
-    <string name="notification_sound_default">Paziņojuma noklusējuma skaņa</string>
-    <string name="alarm_sound_default">Signāla noklusējuma skaņa</string>
-    <string name="root_images">Attēli</string>
-    <string name="root_videos">Videoklipi</string>
-    <string name="root_audio">Audio</string>
+  <string name="alarm_sound_default">Signāla noklusējuma skaņa</string>
+  <string name="app_label">Multivides krātuve</string>
+  <string name="artist_label">Izpildītājs</string>
+  <string name="notification_sound_default">Paziņojuma noklusējuma skaņa</string>
+  <string name="ringtone_default">Noklusējuma zvana signāls</string>
+  <string name="root_audio">Audio</string>
+  <string name="root_images">Attēli</string>
+  <string name="root_videos">Videoklipi</string>
+  <string name="uid_label">Multivide</string>
 </resources>

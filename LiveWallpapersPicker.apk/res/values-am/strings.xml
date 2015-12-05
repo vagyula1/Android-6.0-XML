@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="application_name">ቀጥታ የሚተላለፍ ልጣፍ አንሺ</string>
-    <string name="live_wallpaper_picker_title">ተንቀሳቃሽ ልጥፎች ምረጥ</string>
-    <string name="live_wallpaper_picker_label">ተንቀሳቃሽ ልጥፎች</string>
-    <string name="live_wallpaper_preview_title">ቀጥታ የሚተላለፍ ልጣፍ ቅድመ ዕይታ</string>
-    <string name="configure_wallpaper">ቅንብሮች…</string>
-    <string name="wallpaper_instructions">ልጣፍ አዘጋጅ</string>
-    <string name="live_wallpaper_empty">የቀጥታ ስርጭት ልጣፍ የለም።</string>
-    <string name="set_live_wallpaper">ልጣፍ አዘጋጅ</string>
-    <string name="wallpaper_title_and_author">%1$s በ %2$s</string>
-    <string name="live_wallpaper_loading">ቀጥታ የሚተላለፍ ልጣፍ በመስቀል ላይ...</string>
-    <string name="wallpaper_cancel">ይቅር</string>
+  <string name="application_name">ቀጥታ የሚተላለፍ ልጣፍ አንሺ</string>
+  <string name="configure_wallpaper">ቅንብሮች…</string>
+  <string name="live_wallpaper_empty">የቀጥታ ስርጭት ልጣፍ የለም።</string>
+  <string name="live_wallpaper_loading">ቀጥታ የሚተላለፍ ልጣፍ በመስቀል ላይ...</string>
+  <string name="live_wallpaper_picker_label">ተንቀሳቃሽ ልጥፎች</string>
+  <string name="live_wallpaper_picker_title">ተንቀሳቃሽ ልጥፎች ምረጥ</string>
+  <string name="live_wallpaper_preview_title">ቀጥታ የሚተላለፍ ልጣፍ ቅድመ ዕይታ</string>
+  <string name="set_live_wallpaper">ልጣፍ አዘጋጅ</string>
+  <string name="wallpaper_cancel">ይቅር</string>
+  <string name="wallpaper_instructions">ልጣፍ አዘጋጅ</string>
+  <string name="wallpaper_title_and_author">%1$s በ %2$s</string>
 </resources>

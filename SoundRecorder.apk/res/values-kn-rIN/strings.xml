@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">ಧ್ವನಿ ರೆಕಾರ್ಡರ್</string>
-    <string name="record_your_message">ನಿಮ್ಮ ಸಂದೇಶವನ್ನು ರೆಕಾರ್ಡ್ ಮಾಡಿ</string>
-    <string name="message_recorded">ಸಂದೇಶ ರೆಕಾರ್ಡ್ ಆಗಿದೆ</string>
-    <string name="review_message">ಸಂದೇಶವನ್ನು ಪರಿಶೀಲಿಸಿ</string>
-    <string name="recording">ರೆಕಾರ್ಡ್ ಆಗುತ್ತಿದೆ</string>
-    <string name="recording_stopped">ರೆಕಾರ್ಡಿಂಗ್ ನಿಂತಿದೆ</string>
-    <string name="storage_is_full">ಸಂಗ್ರಹಣೆ ತುಂಬಿದೆ</string>
-    <string name="max_length_reached">ಗರಿಷ್ಠ ಮಿತಿ ತಲುಪಿದೆ</string>
-    <string name="insert_sd_card">USB ಸಂಗ್ರಹಣೆಯನ್ನು ಅಳವಡಿಸಿ</string>
-    <string name="min_available">%d ನಿಮಿಷ ಲಭ್ಯ</string>
-    <string name="sec_available">%d ಸೆಕೆಂಡುಗಳು ಲಭ್ಯ</string>
-    <string name="accept">ಮುಗಿದಿದೆ</string>
-    <string name="discard">ತಿರಸ್ಕರಿಸು</string>
-    <string name="button_ok">ಸರಿ</string>
-    <string name="audio_db_artist_name">ನಿಮ್ಮ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳು</string>
-    <string name="audio_db_album_name">ಆಡಿಯೊ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳು</string>
-    <string name="audio_db_playlist_name">ನನ್ನ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳು</string>
-    <string name="error_sdcard_access">USB ಸಂಗ್ರಹಣೆಯನ್ನು ಪ್ರವೇಶಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ.</string>
-    <string name="error_app_internal">ಆಂತರಿಕ ಅಪ್ಲಿಕೇಶನ್ ದೋಷ.</string>
-    <string name="error_mediadb_new_record">ರೆಕಾರ್ಡ್ ಮಾಡಿರುವ ವೀಡಿಯೊವನ್ನು ಉಳಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ.</string>
+  <string name="accept">ಮುಗಿದಿದೆ</string>
+  <string name="app_name">ಧ್ವನಿ ರೆಕಾರ್ಡರ್</string>
+  <string name="audio_db_album_name">ಆಡಿಯೊ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳು</string>
+  <string name="audio_db_artist_name">ನಿಮ್ಮ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳು</string>
+  <string name="audio_db_playlist_name">ನನ್ನ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳು</string>
+  <string name="button_ok">ಸರಿ</string>
+  <string name="discard">ತಿರಸ್ಕರಿಸು</string>
+  <string name="error_app_internal">ಆಂತರಿಕ ಅಪ್ಲಿಕೇಶನ್ ದೋಷ.</string>
+  <string name="error_mediadb_new_record">ರೆಕಾರ್ಡ್ ಮಾಡಿರುವ ವೀಡಿಯೊವನ್ನು ಉಳಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ.</string>
+  <string name="error_sdcard_access">USB ಸಂಗ್ರಹಣೆಯನ್ನು ಪ್ರವೇಶಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ.</string>
+  <string name="insert_sd_card">USB ಸಂಗ್ರಹಣೆಯನ್ನು ಅಳವಡಿಸಿ</string>
+  <string name="max_length_reached">ಗರಿಷ್ಠ ಮಿತಿ ತಲುಪಿದೆ</string>
+  <string name="message_recorded">ಸಂದೇಶ ರೆಕಾರ್ಡ್ ಆಗಿದೆ</string>
+  <string name="min_available">%d ನಿಮಿಷ ಲಭ್ಯ</string>
+  <string name="record_your_message">ನಿಮ್ಮ ಸಂದೇಶವನ್ನು ರೆಕಾರ್ಡ್ ಮಾಡಿ</string>
+  <string name="recording">ರೆಕಾರ್ಡ್ ಆಗುತ್ತಿದೆ</string>
+  <string name="recording_stopped">ರೆಕಾರ್ಡಿಂಗ್ ನಿಂತಿದೆ</string>
+  <string name="review_message">ಸಂದೇಶವನ್ನು ಪರಿಶೀಲಿಸಿ</string>
+  <string name="sec_available">%d ಸೆಕೆಂಡುಗಳು ಲಭ್ಯ</string>
+  <string name="storage_is_full">ಸಂಗ್ರಹಣೆ ತುಂಬಿದೆ</string>
 </resources>

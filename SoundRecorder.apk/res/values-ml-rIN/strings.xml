@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">ശബ്‌ദ റെക്കോർഡർ</string>
-    <string name="record_your_message">നിങ്ങളുടെ സന്ദേശം റെക്കോർഡുചെയ്യുക</string>
-    <string name="message_recorded">സന്ദേശം റെക്കോർഡുചെയ്‌തു</string>
-    <string name="review_message">സന്ദേശം അവലോകനം ചെയ്യുക</string>
-    <string name="recording">റെക്കോർഡിംഗ്</string>
-    <string name="recording_stopped">റെക്കോർഡിംഗ് നിർത്തി</string>
-    <string name="storage_is_full">"സ്റ്റോറേജ്  നിറഞ്ഞു"</string>
-    <string name="max_length_reached">പരമാവധി ദൈർഘ്യത്തിലെത്തി</string>
-    <string name="insert_sd_card">"USB സ്റ്റോറേജ്  മൗണ്ടുചെയ്യുക"</string>
-    <string name="min_available">%d മിനിറ്റ് ലഭ്യമാണ്</string>
-    <string name="sec_available">%dസെ. ലഭ്യമാണ്</string>
-    <string name="accept">പൂർത്തിയായി</string>
-    <string name="discard">നിരസിക്കുക</string>
-    <string name="button_ok">ശരി</string>
-    <string name="audio_db_artist_name">നിങ്ങളുടെ റെക്കോർഡിംഗുകൾ</string>
-    <string name="audio_db_album_name">ഓഡിയോ റെക്കോർഡിംഗുകൾ</string>
-    <string name="audio_db_playlist_name">എന്റെ റെക്കോർഡിംഗുകൾ</string>
-    <string name="error_sdcard_access">"USB സ്റ്റോറേജ്  ആക്‌സസ്സുചെയ്യാനായില്ല."</string>
-    <string name="error_app_internal">ആന്തരിക അപ്ലിക്കേഷൻ പിശക്.</string>
-    <string name="error_mediadb_new_record">റെക്കോർഡുചെയ്‌ത ഓഡിയോ സംരക്ഷിയ്ക്കാനായില്ല.</string>
+  <string name="accept">പൂർത്തിയായി</string>
+  <string name="app_name">ശബ്‌ദ റെക്കോർഡർ</string>
+  <string name="audio_db_album_name">ഓഡിയോ റെക്കോർഡിംഗുകൾ</string>
+  <string name="audio_db_artist_name">നിങ്ങളുടെ റെക്കോർഡിംഗുകൾ</string>
+  <string name="audio_db_playlist_name">എന്റെ റെക്കോർഡിംഗുകൾ</string>
+  <string name="button_ok">ശരി</string>
+  <string name="discard">നിരസിക്കുക</string>
+  <string name="error_app_internal">ആന്തരിക അപ്ലിക്കേഷൻ പിശക്.</string>
+  <string name="error_mediadb_new_record">റെക്കോർഡുചെയ്‌ത ഓഡിയോ സംരക്ഷിയ്ക്കാനായില്ല.</string>
+  <string name="error_sdcard_access">"USB സ്റ്റോറേജ്  ആക്‌സസ്സുചെയ്യാനായില്ല."</string>
+  <string name="insert_sd_card">"USB സ്റ്റോറേജ്  മൗണ്ടുചെയ്യുക"</string>
+  <string name="max_length_reached">പരമാവധി ദൈർഘ്യത്തിലെത്തി</string>
+  <string name="message_recorded">സന്ദേശം റെക്കോർഡുചെയ്‌തു</string>
+  <string name="min_available">%d മിനിറ്റ് ലഭ്യമാണ്</string>
+  <string name="record_your_message">നിങ്ങളുടെ സന്ദേശം റെക്കോർഡുചെയ്യുക</string>
+  <string name="recording">റെക്കോർഡിംഗ്</string>
+  <string name="recording_stopped">റെക്കോർഡിംഗ് നിർത്തി</string>
+  <string name="review_message">സന്ദേശം അവലോകനം ചെയ്യുക</string>
+  <string name="sec_available">%dസെ. ലഭ്യമാണ്</string>
+  <string name="storage_is_full">"സ്റ്റോറേജ്  നിറഞ്ഞു"</string>
 </resources>

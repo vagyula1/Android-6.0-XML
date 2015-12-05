@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">Ljuska</string>
-    <string name="bugreport_finished_title">Prijava programske pogreške snimljena je</string>
-    <string name="bugreport_finished_text">Dodirnite za dijeljenje prijave programske pogreške</string>
-    <string name="bugreport_confirm">Prijave programskih pogrešaka sadržavaju podatke iz različitih datoteka zapisnika sustava, uključujući osobne i privatne informacije. Prijave programskih pogrešaka dijelite samo s aplikacijama i osobama koje smatrate pouzdanima.</string>
-    <string name="bugreport_confirm_repeat">Prikaži tu poruku sljedeći put</string>
-    <string name="bugreport_storage_title">Izvj. o prog. pogreš.</string>
+  <string name="app_label">Ljuska</string>
+  <string name="bugreport_confirm">Prijave programskih pogrešaka sadržavaju podatke iz različitih datoteka zapisnika sustava, uključujući osobne i privatne informacije. Prijave programskih pogrešaka dijelite samo s aplikacijama i osobama koje smatrate pouzdanima.</string>
+  <string name="bugreport_confirm_repeat">Prikaži tu poruku sljedeći put</string>
+  <string name="bugreport_finished_text">Dodirnite za dijeljenje prijave programske pogreške</string>
+  <string name="bugreport_finished_title">Prijava programske pogreške snimljena je</string>
+  <string name="bugreport_storage_title">Izvj. o prog. pogreš.</string>
 </resources>

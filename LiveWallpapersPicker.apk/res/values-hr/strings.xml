@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="application_name">Izbornik animiranih pozadinskih slika</string>
-    <string name="live_wallpaper_picker_title">Odaberite animiranu pozadinu</string>
-    <string name="live_wallpaper_picker_label">Animirane pozadine</string>
-    <string name="live_wallpaper_preview_title">Pregled animirane pozadine</string>
-    <string name="configure_wallpaper">Postavke…</string>
-    <string name="wallpaper_instructions">Postavi pozadinu</string>
-    <string name="live_wallpaper_empty">Nema animiranih pozadina.</string>
-    <string name="set_live_wallpaper">Postavi pozadinu</string>
-    <string name="wallpaper_title_and_author">%1$s od autora/ice: %2$s</string>
-    <string name="live_wallpaper_loading">Učitavanje animirane pozadine…</string>
-    <string name="wallpaper_cancel">Odustani</string>
+  <string name="application_name">Izbornik animiranih pozadinskih slika</string>
+  <string name="configure_wallpaper">Postavke…</string>
+  <string name="live_wallpaper_empty">Nema animiranih pozadina.</string>
+  <string name="live_wallpaper_loading">Učitavanje animirane pozadine…</string>
+  <string name="live_wallpaper_picker_label">Animirane pozadine</string>
+  <string name="live_wallpaper_picker_title">Odaberite animiranu pozadinu</string>
+  <string name="live_wallpaper_preview_title">Pregled animirane pozadine</string>
+  <string name="set_live_wallpaper">Postavi pozadinu</string>
+  <string name="wallpaper_cancel">Odustani</string>
+  <string name="wallpaper_instructions">Postavi pozadinu</string>
+  <string name="wallpaper_title_and_author">%1$s od autora/ice: %2$s</string>
 </resources>

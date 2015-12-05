@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="menu_manage_folders">[Ḿåñåĝé ƒöļðéŕš one two three]</string>
-    <string name="add_cc_label">[+ Çç/βçç one two]</string>
-    <string name="add_bcc_label">[+ βçç one]</string>
-    <string name="preferences_default_reply_all_summary">[Ûšé åš ðéƒåûļţ ƒöŕ ŕéþļîéš ţö ḿéššåĝé ñöţîƒîçåţîöñš one two three four five six]</string>
+  <string name="add_bcc_label">[+ βçç one]</string>
+  <string name="add_cc_label">[+ Çç/βçç one two]</string>
+  <string name="menu_manage_folders">[Ḿåñåĝé ƒöļðéŕš one two three]</string>
+  <string name="preferences_default_reply_all_summary">[Ûšé åš ðéƒåûļţ ƒöŕ ŕéþļîéš ţö ḿéššåĝé ñöţîƒîçåţîöñš one two three four five six]</string>
 </resources>

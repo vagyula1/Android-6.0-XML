@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">Shell</string>
-    <string name="bugreport_finished_title">Informe de erros rexistrado</string>
-    <string name="bugreport_finished_text">Toca aquí para compartir o teu informe de erros</string>
-    <string name="bugreport_confirm">Os informes de erros conteñen datos dos distintos ficheiros de rexistro do sistema, incluída información persoal e privada. Comparte os informes de erros unicamente con aplicacións e persoas de confianza.</string>
-    <string name="bugreport_confirm_repeat">Mostrar esta mensaxe a próxima vez</string>
-    <string name="bugreport_storage_title">Informes de erros</string>
+  <string name="app_label">Shell</string>
+  <string name="bugreport_confirm">Os informes de erros conteñen datos dos distintos ficheiros de rexistro do sistema, incluída información persoal e privada. Comparte os informes de erros unicamente con aplicacións e persoas de confianza.</string>
+  <string name="bugreport_confirm_repeat">Mostrar esta mensaxe a próxima vez</string>
+  <string name="bugreport_finished_text">Toca aquí para compartir o teu informe de erros</string>
+  <string name="bugreport_finished_title">Informe de erros rexistrado</string>
+  <string name="bugreport_storage_title">Informes de erros</string>
 </resources>

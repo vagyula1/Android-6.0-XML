@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Səs Yazan</string>
-    <string name="record_your_message">Mesajınızı qeydə alın</string>
-    <string name="message_recorded">Mesaj qeydə alındı</string>
-    <string name="review_message">Rəy</string>
-    <string name="recording">Qeydəalma</string>
-    <string name="recording_stopped">Qeydəalma dayandırıldı</string>
-    <string name="storage_is_full">Yaddaş doludur</string>
-    <string name="max_length_reached">Maksimum uzunluğa çatdı</string>
-    <string name="insert_sd_card">USB yaddaşı oturdun</string>
-    <string name="min_available">%d dəq qalıb</string>
-    <string name="sec_available">%dsn qaldı</string>
-    <string name="accept">Bitdi</string>
-    <string name="discard">İmtina edin</string>
-    <string name="button_ok">OK</string>
-    <string name="audio_db_artist_name">Sizin qeydləriniz</string>
-    <string name="audio_db_album_name">Səs qeydəalmaları</string>
-    <string name="audio_db_playlist_name">Mənim qeydlərim</string>
-    <string name="error_sdcard_access">USB yaddaşa daxil oluna bilmir.</string>
-    <string name="error_app_internal">Daxili tətbiq xətası.</string>
-    <string name="error_mediadb_new_record">Qeydə alınmış audio yadda saxlanıla bilmədi.</string>
+  <string name="accept">Bitdi</string>
+  <string name="app_name">Səs Yazan</string>
+  <string name="audio_db_album_name">Səs qeydəalmaları</string>
+  <string name="audio_db_artist_name">Sizin qeydləriniz</string>
+  <string name="audio_db_playlist_name">Mənim qeydlərim</string>
+  <string name="button_ok">OK</string>
+  <string name="discard">İmtina edin</string>
+  <string name="error_app_internal">Daxili tətbiq xətası.</string>
+  <string name="error_mediadb_new_record">Qeydə alınmış audio yadda saxlanıla bilmədi.</string>
+  <string name="error_sdcard_access">USB yaddaşa daxil oluna bilmir.</string>
+  <string name="insert_sd_card">USB yaddaşı oturdun</string>
+  <string name="max_length_reached">Maksimum uzunluğa çatdı</string>
+  <string name="message_recorded">Mesaj qeydə alındı</string>
+  <string name="min_available">%d dəq qalıb</string>
+  <string name="record_your_message">Mesajınızı qeydə alın</string>
+  <string name="recording">Qeydəalma</string>
+  <string name="recording_stopped">Qeydəalma dayandırıldı</string>
+  <string name="review_message">Rəy</string>
+  <string name="sec_available">%dsn qaldı</string>
+  <string name="storage_is_full">Yaddaş doludur</string>
 </resources>

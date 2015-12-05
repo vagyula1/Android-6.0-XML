@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="application_name">Կենդանի պաստառի ընտրիչ</string>
-    <string name="live_wallpaper_picker_title">Ընտրեք կենդանի պաստառ</string>
-    <string name="live_wallpaper_picker_label">Կենդանի պաստառներ</string>
-    <string name="live_wallpaper_preview_title">Կենդանի պաստառի նախադիտում</string>
-    <string name="configure_wallpaper">Կարգավորումներ</string>
-    <string name="wallpaper_instructions">Սահմանել պաստառ</string>
-    <string name="live_wallpaper_empty">Կենդանի պաստառներ չկան:</string>
-    <string name="set_live_wallpaper">Սահմանել պաստառ</string>
-    <string name="wallpaper_title_and_author">%1$s ըստ %2$s-ի</string>
-    <string name="live_wallpaper_loading">Բեռնվում է կենդանի պաստառը...</string>
-    <string name="wallpaper_cancel">Չեղարկել</string>
+  <string name="application_name">Կենդանի պաստառի ընտրիչ</string>
+  <string name="configure_wallpaper">Կարգավորումներ</string>
+  <string name="live_wallpaper_empty">Կենդանի պաստառներ չկան:</string>
+  <string name="live_wallpaper_loading">Բեռնվում է կենդանի պաստառը...</string>
+  <string name="live_wallpaper_picker_label">Կենդանի պաստառներ</string>
+  <string name="live_wallpaper_picker_title">Ընտրեք կենդանի պաստառ</string>
+  <string name="live_wallpaper_preview_title">Կենդանի պաստառի նախադիտում</string>
+  <string name="set_live_wallpaper">Սահմանել պաստառ</string>
+  <string name="wallpaper_cancel">Չեղարկել</string>
+  <string name="wallpaper_instructions">Սահմանել պաստառ</string>
+  <string name="wallpaper_title_and_author">%1$s ըստ %2$s-ի</string>
 </resources>

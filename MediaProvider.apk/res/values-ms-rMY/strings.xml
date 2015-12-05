@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="uid_label">Media</string>
-    <string name="app_label">Storan Media</string>
-    <string name="artist_label">Artis</string>
-    <string name="ringtone_default">Nada dering lalai</string>
-    <string name="notification_sound_default">Bunyi pemberitahuan lalai</string>
-    <string name="alarm_sound_default">Bunyi penggera lalai</string>
-    <string name="root_images">Imej</string>
-    <string name="root_videos">Video</string>
-    <string name="root_audio">Audio</string>
+  <string name="alarm_sound_default">Bunyi penggera lalai</string>
+  <string name="app_label">Storan Media</string>
+  <string name="artist_label">Artis</string>
+  <string name="notification_sound_default">Bunyi pemberitahuan lalai</string>
+  <string name="ringtone_default">Nada dering lalai</string>
+  <string name="root_audio">Audio</string>
+  <string name="root_images">Imej</string>
+  <string name="root_videos">Video</string>
+  <string name="uid_label">Media</string>
 </resources>

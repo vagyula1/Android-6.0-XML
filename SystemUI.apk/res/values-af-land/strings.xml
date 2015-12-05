@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="toast_rotation_locked">Skerm is nou in landskapsoriëntering gesluit.</string>
+  <string name="toast_rotation_locked">Skerm is nou in landskapsoriëntering gesluit.</string>
 </resources>

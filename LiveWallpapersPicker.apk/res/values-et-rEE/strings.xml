@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="application_name">Liikuva taustapildi valija</string>
-    <string name="live_wallpaper_picker_title">Liikuva taustapildi valimine</string>
-    <string name="live_wallpaper_picker_label">Liikuvad taustapildid</string>
-    <string name="live_wallpaper_preview_title">Liikuva taustapildi eelvaade</string>
-    <string name="configure_wallpaper">Seaded ...</string>
-    <string name="wallpaper_instructions">Määra taustapilt</string>
-    <string name="live_wallpaper_empty">Pole liikuvaid taustapilte.</string>
-    <string name="set_live_wallpaper">Määra taustapilt</string>
-    <string name="wallpaper_title_and_author">%1$s autorilt %2$s</string>
-    <string name="live_wallpaper_loading">Liikuva taustapildi laadimine ...</string>
-    <string name="wallpaper_cancel">Tühista</string>
+  <string name="application_name">Liikuva taustapildi valija</string>
+  <string name="configure_wallpaper">Seaded ...</string>
+  <string name="live_wallpaper_empty">Pole liikuvaid taustapilte.</string>
+  <string name="live_wallpaper_loading">Liikuva taustapildi laadimine ...</string>
+  <string name="live_wallpaper_picker_label">Liikuvad taustapildid</string>
+  <string name="live_wallpaper_picker_title">Liikuva taustapildi valimine</string>
+  <string name="live_wallpaper_preview_title">Liikuva taustapildi eelvaade</string>
+  <string name="set_live_wallpaper">Määra taustapilt</string>
+  <string name="wallpaper_cancel">Tühista</string>
+  <string name="wallpaper_instructions">Määra taustapilt</string>
+  <string name="wallpaper_title_and_author">%1$s autorilt %2$s</string>
 </resources>

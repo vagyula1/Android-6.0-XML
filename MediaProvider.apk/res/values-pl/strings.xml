@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="uid_label">Multimedia</string>
-    <string name="app_label">Przechowywanie multimediów</string>
-    <string name="artist_label">Wykonawca</string>
-    <string name="ringtone_default">Dzwonek domyślny</string>
-    <string name="notification_sound_default">Domyślny dźwięk powiadomienia</string>
-    <string name="alarm_sound_default">Domyślny dźwięk alarmu</string>
-    <string name="root_images">Obrazy</string>
-    <string name="root_videos">Filmy</string>
-    <string name="root_audio">Dźwięk</string>
+  <string name="alarm_sound_default">Domyślny dźwięk alarmu</string>
+  <string name="app_label">Przechowywanie multimediów</string>
+  <string name="artist_label">Wykonawca</string>
+  <string name="notification_sound_default">Domyślny dźwięk powiadomienia</string>
+  <string name="ringtone_default">Dzwonek domyślny</string>
+  <string name="root_audio">Dźwięk</string>
+  <string name="root_images">Obrazy</string>
+  <string name="root_videos">Filmy</string>
+  <string name="uid_label">Multimedia</string>
 </resources>

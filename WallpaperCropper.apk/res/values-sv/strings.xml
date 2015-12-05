@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="crop_wallpaper">Beskär bakgrund</string>
-    <string name="wallpaper_instructions">Ange bakgrund</string>
-    <string name="wallpaper_load_fail">Det gick inte att läsa in bilden som bakgrund</string>
+  <string name="crop_wallpaper">Beskär bakgrund</string>
+  <string name="wallpaper_instructions">Ange bakgrund</string>
+  <string name="wallpaper_load_fail">Det gick inte att läsa in bilden som bakgrund</string>
 </resources>

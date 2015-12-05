@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">ໂຕບັນທຶກສຽງ</string>
-    <string name="record_your_message">ບັນທຶກຂໍ້ຄວາມຂອງທ່ານ</string>
-    <string name="message_recorded">ຂໍ້ຄວາມຖືກບັນທຶກແລ້ວ</string>
-    <string name="review_message">ກວດຄືນຂໍ້ຄວາມ</string>
-    <string name="recording">ກຳລັງບັນທຶກ</string>
-    <string name="recording_stopped">ຢຸດການບັນທຶກແລ້ວ</string>
-    <string name="storage_is_full">ບ່ອນຈັດເກັບຂໍ້ມູນເຕັມແລ້ວ</string>
-    <string name="max_length_reached">ຄວາມຍາວເຖິງກຳນົດທີ່ວາງໄວ້ແລ້ວ</string>
-    <string name="insert_sd_card">ເຊື່ອມຕໍ່ບ່ອນເກັບຂໍ້ມູນ USB</string>
-    <string name="min_available">ຍັງເຫຼືອ %d ນາທີ</string>
-    <string name="sec_available">ຍັງເຫຼືອ %d ວິນາທີ</string>
-    <string name="accept">ແລ້ວໆ</string>
-    <string name="discard">ຍົກເລີກ</string>
-    <string name="button_ok">ຕົກລົງ</string>
-    <string name="audio_db_artist_name">ການບັນທຶກຂອງທ່ານ</string>
-    <string name="audio_db_album_name">ການບັນທຶກສຽງ</string>
-    <string name="audio_db_playlist_name">ການບັນທຶກຂອງຂ້ອຍ</string>
-    <string name="error_sdcard_access">ບໍ່ສາມາດເຂົ້າເຖິງບ່ອນຈັດເກັບຂໍ້ມູນ USB ໄດ້.</string>
-    <string name="error_app_internal">ຂໍ້ຜິດພາດພາຍໃນແອັບພລິເຄຊັນ.</string>
-    <string name="error_mediadb_new_record">ບໍ່ສາມາດຈັດເກັບການບັນທຶກສຽງໄດ້.</string>
+  <string name="accept">ແລ້ວໆ</string>
+  <string name="app_name">ໂຕບັນທຶກສຽງ</string>
+  <string name="audio_db_album_name">ການບັນທຶກສຽງ</string>
+  <string name="audio_db_artist_name">ການບັນທຶກຂອງທ່ານ</string>
+  <string name="audio_db_playlist_name">ການບັນທຶກຂອງຂ້ອຍ</string>
+  <string name="button_ok">ຕົກລົງ</string>
+  <string name="discard">ຍົກເລີກ</string>
+  <string name="error_app_internal">ຂໍ້ຜິດພາດພາຍໃນແອັບພລິເຄຊັນ.</string>
+  <string name="error_mediadb_new_record">ບໍ່ສາມາດຈັດເກັບການບັນທຶກສຽງໄດ້.</string>
+  <string name="error_sdcard_access">ບໍ່ສາມາດເຂົ້າເຖິງບ່ອນຈັດເກັບຂໍ້ມູນ USB ໄດ້.</string>
+  <string name="insert_sd_card">ເຊື່ອມຕໍ່ບ່ອນເກັບຂໍ້ມູນ USB</string>
+  <string name="max_length_reached">ຄວາມຍາວເຖິງກຳນົດທີ່ວາງໄວ້ແລ້ວ</string>
+  <string name="message_recorded">ຂໍ້ຄວາມຖືກບັນທຶກແລ້ວ</string>
+  <string name="min_available">ຍັງເຫຼືອ %d ນາທີ</string>
+  <string name="record_your_message">ບັນທຶກຂໍ້ຄວາມຂອງທ່ານ</string>
+  <string name="recording">ກຳລັງບັນທຶກ</string>
+  <string name="recording_stopped">ຢຸດການບັນທຶກແລ້ວ</string>
+  <string name="review_message">ກວດຄືນຂໍ້ຄວາມ</string>
+  <string name="sec_available">ຍັງເຫຼືອ %d ວິນາທີ</string>
+  <string name="storage_is_full">ບ່ອນຈັດເກັບຂໍ້ມູນເຕັມແລ້ວ</string>
 </resources>

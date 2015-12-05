@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Shramba poverilnic</string>
-    <string name="title_no_certs">Potrdil ni mogoče najti</string>
-    <string name="title_select_cert">Izberite potrdilo</string>
-    <string name="requesting_application">Aplikacija %s je zahtevala potrdilo. Če izberete potrdilo, boste aplikaciji omogočili uporabo te identitete s strežniki zdaj in v prihodnosti.</string>
-    <string name="requesting_server">Aplikacija je zahtevajoči strežnik prepoznala kot %s, vendar ji dostop do potrdila dovolite le, če ji zaupate.</string>
-    <string name="install_new_cert_message">Namestite lahko potrdila iz datoteke PKCS#12 z razširitvijo %1$s ali %2$s, ki je v zunanjem pomnilniku.</string>
-    <string name="install_new_cert_button_label">Namesti</string>
-    <string name="allow_button">Dovoli</string>
-    <string name="deny_button">Zavrni</string>
+  <string name="allow_button">Dovoli</string>
+  <string name="app_name">Shramba poverilnic</string>
+  <string name="deny_button">Zavrni</string>
+  <string name="install_new_cert_button_label">Namesti</string>
+  <string name="install_new_cert_message">Namestite lahko potrdila iz datoteke PKCS#12 z razširitvijo %1$s ali %2$s, ki je v zunanjem pomnilniku.</string>
+  <string name="requesting_application">Aplikacija %s je zahtevala potrdilo. Če izberete potrdilo, boste aplikaciji omogočili uporabo te identitete s strežniki zdaj in v prihodnosti.</string>
+  <string name="requesting_server">Aplikacija je zahtevajoči strežnik prepoznala kot %s, vendar ji dostop do potrdila dovolite le, če ji zaupate.</string>
+  <string name="title_no_certs">Potrdil ni mogoče najti</string>
+  <string name="title_select_cert">Izberite potrdilo</string>
 </resources>

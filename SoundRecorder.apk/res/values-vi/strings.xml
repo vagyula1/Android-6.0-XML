@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Trình ghi Âm thanh</string>
-    <string name="record_your_message">Ghi lại tin nhắn của bạn</string>
-    <string name="message_recorded">Tin nhắn đã được ghi</string>
-    <string name="review_message">Xem lại tin nhắn</string>
-    <string name="recording">Đang ghi</string>
-    <string name="recording_stopped">Đã dừng ghi</string>
-    <string name="storage_is_full">Bộ nhớ đầy</string>
-    <string name="max_length_reached">Đã đạt đến độ dài tối đa</string>
-    <string name="insert_sd_card">Hãy lắp bộ lưu trữ USB</string>
-    <string name="min_available">Còn %d phút</string>
-    <string name="sec_available">%d giây khả dụng</string>
-    <string name="accept">Xong</string>
-    <string name="discard">Hủy</string>
-    <string name="button_ok">OK</string>
-    <string name="audio_db_artist_name">Bản ghi của bạn</string>
-    <string name="audio_db_album_name">Bản ghi âm thanh</string>
-    <string name="audio_db_playlist_name">Bản ghi của tôi</string>
-    <string name="error_sdcard_access">Không thể truy cập vào bộ lưu trữ USB.</string>
-    <string name="error_app_internal">Lỗi ứng dụng nội bộ.</string>
-    <string name="error_mediadb_new_record">Không thể lưu âm thanh đã ghi.</string>
+  <string name="accept">Xong</string>
+  <string name="app_name">Trình ghi Âm thanh</string>
+  <string name="audio_db_album_name">Bản ghi âm thanh</string>
+  <string name="audio_db_artist_name">Bản ghi của bạn</string>
+  <string name="audio_db_playlist_name">Bản ghi của tôi</string>
+  <string name="button_ok">OK</string>
+  <string name="discard">Hủy</string>
+  <string name="error_app_internal">Lỗi ứng dụng nội bộ.</string>
+  <string name="error_mediadb_new_record">Không thể lưu âm thanh đã ghi.</string>
+  <string name="error_sdcard_access">Không thể truy cập vào bộ lưu trữ USB.</string>
+  <string name="insert_sd_card">Hãy lắp bộ lưu trữ USB</string>
+  <string name="max_length_reached">Đã đạt đến độ dài tối đa</string>
+  <string name="message_recorded">Tin nhắn đã được ghi</string>
+  <string name="min_available">Còn %d phút</string>
+  <string name="record_your_message">Ghi lại tin nhắn của bạn</string>
+  <string name="recording">Đang ghi</string>
+  <string name="recording_stopped">Đã dừng ghi</string>
+  <string name="review_message">Xem lại tin nhắn</string>
+  <string name="sec_available">%d giây khả dụng</string>
+  <string name="storage_is_full">Bộ nhớ đầy</string>
 </resources>

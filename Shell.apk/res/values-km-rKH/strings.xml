@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">សែល</string>
-    <string name="bugreport_finished_title">បាន​ចាប់​យក​របាយការណ៍​កំហុស</string>
-    <string name="bugreport_finished_text">ប៉ះ​ ដើម្បី​ចែក​រំលែក​របាយការណ៍​កំហុស​របស់​អ្នក</string>
-    <string name="bugreport_confirm">របាយការណ៍​កំហុស​រួមមាន​ឯកសារ​កំណត់​ហេតុ​ផ្សេងៗ​របស់​ប្រព័ន្ធ រួមមាន​ព័ត៌មាន​ផ្ទាល់ខ្លួន និង​ឯកជន។ ចែករំលែក​របាយការណ៍​កំហុស​ជា​មួយ​កម្មវិធី និង​មនុស្ស​ដែល​អ្នក​ទុក​ចិត្ត។</string>
-    <string name="bugreport_confirm_repeat">បង្ហាញ​សារ​នេះ​ពេល​ក្រោយ</string>
-    <string name="bugreport_storage_title">រាយការណ៍ពីកំហុស</string>
+  <string name="app_label">សែល</string>
+  <string name="bugreport_confirm">របាយការណ៍​កំហុស​រួមមាន​ឯកសារ​កំណត់​ហេតុ​ផ្សេងៗ​របស់​ប្រព័ន្ធ រួមមាន​ព័ត៌មាន​ផ្ទាល់ខ្លួន និង​ឯកជន។ ចែករំលែក​របាយការណ៍​កំហុស​ជា​មួយ​កម្មវិធី និង​មនុស្ស​ដែល​អ្នក​ទុក​ចិត្ត។</string>
+  <string name="bugreport_confirm_repeat">បង្ហាញ​សារ​នេះ​ពេល​ក្រោយ</string>
+  <string name="bugreport_finished_text">ប៉ះ​ ដើម្បី​ចែក​រំលែក​របាយការណ៍​កំហុស​របស់​អ្នក</string>
+  <string name="bugreport_finished_title">បាន​ចាប់​យក​របាយការណ៍​កំហុស</string>
+  <string name="bugreport_storage_title">រាយការណ៍ពីកំហុស</string>
 </resources>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="uid_label">Média</string>
-    <string name="app_label">Médiatároló</string>
-    <string name="artist_label">Előadó</string>
-    <string name="ringtone_default">Alapértelmezett csengőhang</string>
-    <string name="notification_sound_default">Alapértelmezett értesítési hang</string>
-    <string name="alarm_sound_default">Alapértelmezett ébresztési hang</string>
-    <string name="root_images">Képek</string>
-    <string name="root_videos">Videók</string>
-    <string name="root_audio">Hang</string>
+  <string name="alarm_sound_default">Alapértelmezett ébresztési hang</string>
+  <string name="app_label">Médiatároló</string>
+  <string name="artist_label">Előadó</string>
+  <string name="notification_sound_default">Alapértelmezett értesítési hang</string>
+  <string name="ringtone_default">Alapértelmezett csengőhang</string>
+  <string name="root_audio">Hang</string>
+  <string name="root_images">Képek</string>
+  <string name="root_videos">Videók</string>
+  <string name="uid_label">Média</string>
 </resources>

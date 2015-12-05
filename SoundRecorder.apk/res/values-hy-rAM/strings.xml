@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Ձայնագրիչ</string>
-    <string name="record_your_message">Ձայնագրեք ձեր հաղորդագրությունը</string>
-    <string name="message_recorded">Հաղորդագրությունը ձայնագրված է</string>
-    <string name="review_message">Ստուգել հաղորդագրությունը</string>
-    <string name="recording">Ձայնագրում</string>
-    <string name="recording_stopped">Ձայնագրումը դադարեցված է</string>
-    <string name="storage_is_full">Պահոցը լցված է</string>
-    <string name="max_length_reached">Առավելագույն տևողությունը հատել է</string>
-    <string name="insert_sd_card">Տեղադրեք USB կրիչը</string>
-    <string name="min_available">Մնաց %d րոպե</string>
-    <string name="sec_available">Մնաց %d վայրկյան</string>
-    <string name="accept">Պատրաստ է</string>
-    <string name="discard">Հրաժարվել</string>
-    <string name="button_ok">Լավ</string>
-    <string name="audio_db_artist_name">Ձեր ձայնագրությունները</string>
-    <string name="audio_db_album_name">Աուդիոձայնագրություններ</string>
-    <string name="audio_db_playlist_name">Իմ ձայնագրությունները</string>
-    <string name="error_sdcard_access">Չի հաջողվում մուտք գործել USB կրիչ:</string>
-    <string name="error_app_internal">Ներքին ծրագրային սխալ:</string>
-    <string name="error_mediadb_new_record">Չհաջողվեց պահել աուդիոձայնագրությունը:</string>
+  <string name="accept">Պատրաստ է</string>
+  <string name="app_name">Ձայնագրիչ</string>
+  <string name="audio_db_album_name">Աուդիոձայնագրություններ</string>
+  <string name="audio_db_artist_name">Ձեր ձայնագրությունները</string>
+  <string name="audio_db_playlist_name">Իմ ձայնագրությունները</string>
+  <string name="button_ok">Լավ</string>
+  <string name="discard">Հրաժարվել</string>
+  <string name="error_app_internal">Ներքին ծրագրային սխալ:</string>
+  <string name="error_mediadb_new_record">Չհաջողվեց պահել աուդիոձայնագրությունը:</string>
+  <string name="error_sdcard_access">Չի հաջողվում մուտք գործել USB կրիչ:</string>
+  <string name="insert_sd_card">Տեղադրեք USB կրիչը</string>
+  <string name="max_length_reached">Առավելագույն տևողությունը հատել է</string>
+  <string name="message_recorded">Հաղորդագրությունը ձայնագրված է</string>
+  <string name="min_available">Մնաց %d րոպե</string>
+  <string name="record_your_message">Ձայնագրեք ձեր հաղորդագրությունը</string>
+  <string name="recording">Ձայնագրում</string>
+  <string name="recording_stopped">Ձայնագրումը դադարեցված է</string>
+  <string name="review_message">Ստուգել հաղորդագրությունը</string>
+  <string name="sec_available">Մնաց %d վայրկյան</string>
+  <string name="storage_is_full">Պահոցը լցված է</string>
 </resources>

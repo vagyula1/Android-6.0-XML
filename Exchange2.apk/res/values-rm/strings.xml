@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
-    <string name="meeting_accepted">Acceptà: %s</string>
-    <string name="meeting_declined">Refusà: %s</string>
-    <string name="meeting_tentative">Project dad inscunter: %s</string>
-    <string name="meeting_canceled">Interrut: %s</string>
-    <string name="meeting_updated">Actualisà: %s</string>
-    <string name="meeting_when">Cura: %s</string>
-    <string name="meeting_where">Nua: %s</string>
-    <string name="meeting_recurring">Cura: %s (periodic)</string>
-    <string name="exception_cancel">Questa occurrenza è vegnida annullada: %s</string>
-    <string name="exception_updated">Ils detagls da questa occurrenza èn vegnids modifitgads: %s</string>
-    <string name="account_setup_options_mail_window_1day">In di</string>
-    <string name="account_setup_options_mail_window_3days">Trais dis</string>
-    <string name="account_setup_options_mail_window_1week">Ina emna</string>
-    <string name="account_setup_options_mail_window_2weeks">Duas emnas</string>
-    <string name="account_setup_options_mail_window_1month">In mais</string>
-    <string name="notification_exchange_calendar_added">Agiuntà in chalender Exchange</string>
+  <string name="account_setup_options_mail_window_1day">In di</string>
+  <string name="account_setup_options_mail_window_1month">In mais</string>
+  <string name="account_setup_options_mail_window_1week">Ina emna</string>
+  <string name="account_setup_options_mail_window_2weeks">Duas emnas</string>
+  <string name="account_setup_options_mail_window_3days">Trais dis</string>
+  <string name="exception_cancel">Questa occurrenza è vegnida annullada: %s</string>
+  <string name="exception_updated">Ils detagls da questa occurrenza èn vegnids modifitgads: %s</string>
+  <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+  <string name="meeting_accepted">Acceptà: %s</string>
+  <string name="meeting_canceled">Interrut: %s</string>
+  <string name="meeting_declined">Refusà: %s</string>
+  <string name="meeting_recurring">Cura: %s (periodic)</string>
+  <string name="meeting_tentative">Project dad inscunter: %s</string>
+  <string name="meeting_updated">Actualisà: %s</string>
+  <string name="meeting_when">Cura: %s</string>
+  <string name="meeting_where">Nua: %s</string>
+  <string name="notification_exchange_calendar_added">Agiuntà in chalender Exchange</string>
 </resources>

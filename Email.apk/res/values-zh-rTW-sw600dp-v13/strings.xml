@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="menu_manage_folders">管理資料夾</string>
-    <string name="add_cc_label">新增副本/密件副本</string>
-    <string name="add_bcc_label">新增密件副本</string>
-    <string name="preferences_default_reply_all_summary">設為預設的訊息通知回覆方式</string>
+  <string name="add_bcc_label">新增密件副本</string>
+  <string name="add_cc_label">新增副本/密件副本</string>
+  <string name="menu_manage_folders">管理資料夾</string>
+  <string name="preferences_default_reply_all_summary">設為預設的訊息通知回覆方式</string>
 </resources>

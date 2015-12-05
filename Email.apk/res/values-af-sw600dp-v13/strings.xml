@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="menu_manage_folders">Bestuur vouers</string>
-    <string name="add_cc_label">+ Cc/Bcc</string>
-    <string name="add_bcc_label">+ Bcc</string>
-    <string name="preferences_default_reply_all_summary">Gebruik as verstek vir antwoorde op boodskapkennisgewings</string>
+  <string name="add_bcc_label">+ Bcc</string>
+  <string name="add_cc_label">+ Cc/Bcc</string>
+  <string name="menu_manage_folders">Bestuur vouers</string>
+  <string name="preferences_default_reply_all_summary">Gebruik as verstek vir antwoorde op boodskapkennisgewings</string>
 </resources>

@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">ضبط کننده صدا</string>
-    <string name="record_your_message">ضبط پیام شما</string>
-    <string name="message_recorded">پیام ضبط شد</string>
-    <string name="review_message">بازبینی پیام</string>
-    <string name="recording">در حال ضبط</string>
-    <string name="recording_stopped">ضبط متوقف شد</string>
-    <string name="storage_is_full">ذخیره‌سازی پر است</string>
-    <string name="max_length_reached">به حداکثر طول مجاز رسیده‌اید</string>
-    <string name="insert_sd_card">‏اتصال حافظهٔ USB</string>
-    <string name="min_available">%d دقیقه موجود است</string>
-    <string name="sec_available">%d ثانیه موجود</string>
-    <string name="accept">انجام شد</string>
-    <string name="discard">صرف نظر</string>
-    <string name="button_ok">تأیید</string>
-    <string name="audio_db_artist_name">موارد ضبط شده شما</string>
-    <string name="audio_db_album_name">موارد ضبط شده صوتی</string>
-    <string name="audio_db_playlist_name">موارد ضبط شده من</string>
-    <string name="error_sdcard_access">‏دسترسی به حافظهٔ USB ممکن نیست.</string>
-    <string name="error_app_internal">خطای برنامه داخلی.</string>
-    <string name="error_mediadb_new_record">صدای ضبط شده ذخیره نشد.</string>
+  <string name="accept">انجام شد</string>
+  <string name="app_name">ضبط کننده صدا</string>
+  <string name="audio_db_album_name">موارد ضبط شده صوتی</string>
+  <string name="audio_db_artist_name">موارد ضبط شده شما</string>
+  <string name="audio_db_playlist_name">موارد ضبط شده من</string>
+  <string name="button_ok">تأیید</string>
+  <string name="discard">صرف نظر</string>
+  <string name="error_app_internal">خطای برنامه داخلی.</string>
+  <string name="error_mediadb_new_record">صدای ضبط شده ذخیره نشد.</string>
+  <string name="error_sdcard_access">‏دسترسی به حافظهٔ USB ممکن نیست.</string>
+  <string name="insert_sd_card">‏اتصال حافظهٔ USB</string>
+  <string name="max_length_reached">به حداکثر طول مجاز رسیده‌اید</string>
+  <string name="message_recorded">پیام ضبط شد</string>
+  <string name="min_available">%d دقیقه موجود است</string>
+  <string name="record_your_message">ضبط پیام شما</string>
+  <string name="recording">در حال ضبط</string>
+  <string name="recording_stopped">ضبط متوقف شد</string>
+  <string name="review_message">بازبینی پیام</string>
+  <string name="sec_available">%d ثانیه موجود</string>
+  <string name="storage_is_full">ذخیره‌سازی پر است</string>
 </resources>

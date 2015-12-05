@@ -1,42 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="done_label">ਹੋ ਗਿਆ</string>
-    <string name="hour_picker_description">ਘੰਟੇ ਸਰਕੁਲਰ ਸਲਾਈਡਰ</string>
-    <string name="minute_picker_description">ਮਿੰਟ ਸਰਕੁਲਰ ਸਲਾਈਡਰ</string>
-    <string name="select_hours">ਘੰਟੇ ਚੁਣੋ</string>
-    <string name="select_minutes">ਮਿੰਟ ਚੁਣੋ</string>
-    <string name="day_picker_description">ਦਿਨਾਂ ਦਾ ਮਹੀਨਾ ਗ੍ਰਿਡ</string>
-    <string name="year_picker_description">ਸਾਲ ਸੂਚੀ</string>
-    <string name="select_day">ਮਹੀਨਾ ਅਤੇ ਦਿਨ ਚੁਣੋ</string>
-    <string name="select_year">ਸਾਲ ਚੁਣੋ</string>
-    <string name="item_is_selected">%1$s ਚੁਣੀ ਗਈ</string>
-    <string name="deleted_key">%1$s ਮਿਟਾਈ ਗਈ</string>
-    <string name="abc_action_mode_done">ਹੋ ਗਿਆ</string>
-    <string name="abc_action_bar_home_description">ਹੋਮ ਨੈਵੀਗੇਟ ਕਰੋ</string>
-    <string name="abc_action_bar_up_description">ਉੱਪਰ ਨੈਵੀਗੇਟ ਕਰੋ</string>
-    <string name="abc_action_menu_overflow_description">ਹੋਰ ਚੋਣਾਂ</string>
-    <string name="abc_toolbar_collapse_description">ਨਸ਼ਟ ਕਰੋ</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-    <string name="abc_searchview_description_search">ਖੋਜੋ</string>
-    <string name="abc_search_hint">ਖੋਜ…</string>
-    <string name="abc_searchview_description_query">ਸਵਾਲ ਖੋਜੋ</string>
-    <string name="abc_searchview_description_clear">ਸਵਾਲ ਹਟਾਓ</string>
-    <string name="abc_searchview_description_submit">ਸਵਾਲ ਪ੍ਰਸਤੁਤ ਕਰੋ</string>
-    <string name="abc_searchview_description_voice">ਵੌਇਸ ਖੋਜ</string>
-    <string name="abc_activitychooserview_choose_application">ਇੱਕ ਐਪ ਚੁਣੋ</string>
-    <string name="abc_activity_chooser_view_see_all">ਸਭ ਦੇਖੋ</string>
-    <string name="abc_shareactionprovider_share_with_application">%s ਨਾਲ ਸ਼ੇਅਰ ਕਰੋ</string>
-    <string name="abc_shareactionprovider_share_with">ਇਸ ਨਾਲ ਸ਼ੇਅਰ ਕਰੋ</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="photo_view_count" formatted="false">%d ਦਾ %d</string>
-    <string name="retry">ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
-    <string name="failed">ਚਿੱਤਰ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਿਆ</string>
-    <string name="titles" formatted="false">%s, %s</string>
-    <string name="more_string">+%1$d</string>
-    <string name="copy_email">ਈਮੇਲ ਪਤਾ ਕਾਪੀ ਕਰੋ</string>
-    <string name="copy_number">ਫੋਨ ਨੰਬਰ ਕਾਪੀ ਕਰੋ</string>
-    <string name="action_label">ਵਾਪਸ ਜਾਓ</string>
-    <string name="accessbility_suggestion_dropdown_opened">ਸੰਪਰਕ ਸੁਝਾਅ ਖੋਲ੍ਹੇ ਗਏ</string>
-    <string name="dropdown_delete_button_desc">ਪ੍ਰਾਪਤਕਰਤਾਵਾਂ ਦੇ %s ਹਟਾਓ</string>
+  <string name="abc_action_bar_home_description">ਹੋਮ ਨੈਵੀਗੇਟ ਕਰੋ</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">ਉੱਪਰ ਨੈਵੀਗੇਟ ਕਰੋ</string>
+  <string name="abc_action_menu_overflow_description">ਹੋਰ ਚੋਣਾਂ</string>
+  <string name="abc_action_mode_done">ਹੋ ਗਿਆ</string>
+  <string name="abc_activity_chooser_view_see_all">ਸਭ ਦੇਖੋ</string>
+  <string name="abc_activitychooserview_choose_application">ਇੱਕ ਐਪ ਚੁਣੋ</string>
+  <string name="abc_search_hint">ਖੋਜ…</string>
+  <string name="abc_searchview_description_clear">ਸਵਾਲ ਹਟਾਓ</string>
+  <string name="abc_searchview_description_query">ਸਵਾਲ ਖੋਜੋ</string>
+  <string name="abc_searchview_description_search">ਖੋਜੋ</string>
+  <string name="abc_searchview_description_submit">ਸਵਾਲ ਪ੍ਰਸਤੁਤ ਕਰੋ</string>
+  <string name="abc_searchview_description_voice">ਵੌਇਸ ਖੋਜ</string>
+  <string name="abc_shareactionprovider_share_with">ਇਸ ਨਾਲ ਸ਼ੇਅਰ ਕਰੋ</string>
+  <string name="abc_shareactionprovider_share_with_application">%s ਨਾਲ ਸ਼ੇਅਰ ਕਰੋ</string>
+  <string name="abc_toolbar_collapse_description">ਨਸ਼ਟ ਕਰੋ</string>
+  <string name="accessbility_suggestion_dropdown_opened">ਸੰਪਰਕ ਸੁਝਾਅ ਖੋਲ੍ਹੇ ਗਏ</string>
+  <string name="action_label">ਵਾਪਸ ਜਾਓ</string>
+  <string name="copy_email">ਈਮੇਲ ਪਤਾ ਕਾਪੀ ਕਰੋ</string>
+  <string name="copy_number">ਫੋਨ ਨੰਬਰ ਕਾਪੀ ਕਰੋ</string>
+  <string name="day_picker_description">ਦਿਨਾਂ ਦਾ ਮਹੀਨਾ ਗ੍ਰਿਡ</string>
+  <string name="deleted_key">%1$s ਮਿਟਾਈ ਗਈ</string>
+  <string name="done_label">ਹੋ ਗਿਆ</string>
+  <string name="dropdown_delete_button_desc">ਪ੍ਰਾਪਤਕਰਤਾਵਾਂ ਦੇ %s ਹਟਾਓ</string>
+  <string name="failed">ਚਿੱਤਰ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਿਆ</string>
+  <string name="hour_picker_description">ਘੰਟੇ ਸਰਕੁਲਰ ਸਲਾਈਡਰ</string>
+  <string name="item_is_selected">%1$s ਚੁਣੀ ਗਈ</string>
+  <string name="minute_picker_description">ਮਿੰਟ ਸਰਕੁਲਰ ਸਲਾਈਡਰ</string>
+  <string name="more_string">+%1$d</string>
+  <string name="photo_view_count" formatted="false">%d ਦਾ %d</string>
+  <string name="retry">ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+  <string name="select_day">ਮਹੀਨਾ ਅਤੇ ਦਿਨ ਚੁਣੋ</string>
+  <string name="select_hours">ਘੰਟੇ ਚੁਣੋ</string>
+  <string name="select_minutes">ਮਿੰਟ ਚੁਣੋ</string>
+  <string name="select_year">ਸਾਲ ਚੁਣੋ</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="titles" formatted="false">%s, %s</string>
+  <string name="year_picker_description">ਸਾਲ ਸੂਚੀ</string>
 </resources>

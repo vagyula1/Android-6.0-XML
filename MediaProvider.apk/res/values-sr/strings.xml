@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="uid_label">Медији</string>
-    <string name="app_label">Складиште за медије</string>
-    <string name="artist_label">Извођач</string>
-    <string name="ringtone_default">Подразумевана мелодија звона</string>
-    <string name="notification_sound_default">Подразумевани звук обавештења</string>
-    <string name="alarm_sound_default">Подразумевани звук аларма</string>
-    <string name="root_images">Слике</string>
-    <string name="root_videos">Видео снимци</string>
-    <string name="root_audio">Звук</string>
+  <string name="alarm_sound_default">Подразумевани звук аларма</string>
+  <string name="app_label">Складиште за медије</string>
+  <string name="artist_label">Извођач</string>
+  <string name="notification_sound_default">Подразумевани звук обавештења</string>
+  <string name="ringtone_default">Подразумевана мелодија звона</string>
+  <string name="root_audio">Звук</string>
+  <string name="root_images">Слике</string>
+  <string name="root_videos">Видео снимци</string>
+  <string name="uid_label">Медији</string>
 </resources>

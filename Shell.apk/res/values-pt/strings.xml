@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">Shell</string>
-    <string name="bugreport_finished_title">Relatório de bugs capturado</string>
-    <string name="bugreport_finished_text">Toque para compartilhar seu relatório de bugs</string>
-    <string name="bugreport_confirm">Os relatórios de bugs contêm dados de diversos arquivos de registro do sistema, inclusive informações pessoais e particulares. Compartilhe relatórios de bugs somente com apps e pessoas nos quais você confia.</string>
-    <string name="bugreport_confirm_repeat">Mostrar esta mensagem da próxima vez</string>
-    <string name="bugreport_storage_title">Relatórios de bugs</string>
+  <string name="app_label">Shell</string>
+  <string name="bugreport_confirm">Os relatórios de bugs contêm dados de diversos arquivos de registro do sistema, inclusive informações pessoais e particulares. Compartilhe relatórios de bugs somente com apps e pessoas nos quais você confia.</string>
+  <string name="bugreport_confirm_repeat">Mostrar esta mensagem da próxima vez</string>
+  <string name="bugreport_finished_text">Toque para compartilhar seu relatório de bugs</string>
+  <string name="bugreport_finished_title">Relatório de bugs capturado</string>
+  <string name="bugreport_storage_title">Relatórios de bugs</string>
 </resources>

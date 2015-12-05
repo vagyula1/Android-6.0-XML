@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="uid_label">[Ḿéðîå one]</string>
-    <string name="app_label">[Ḿéðîå Šţöŕåĝé one two]</string>
-    <string name="artist_label">[Åŕţîšţ one two]</string>
-    <string name="ringtone_default">[Ðéƒåûļţ ŕîñĝţöñé one two three]</string>
-    <string name="notification_sound_default">[Ðéƒåûļţ ñöţîƒîçåţîöñ šöûñð one two three four]</string>
-    <string name="alarm_sound_default">[Ðéƒåûļţ åļåŕḿ šöûñð one two three]</string>
-    <string name="root_images">[Îḿåĝéš one two]</string>
-    <string name="root_videos">[νîðéöš one two]</string>
-    <string name="root_audio">[Åûðîö one]</string>
+  <string name="alarm_sound_default">[Ðéƒåûļţ åļåŕḿ šöûñð one two three]</string>
+  <string name="app_label">[Ḿéðîå Šţöŕåĝé one two]</string>
+  <string name="artist_label">[Åŕţîšţ one two]</string>
+  <string name="notification_sound_default">[Ðéƒåûļţ ñöţîƒîçåţîöñ šöûñð one two three four]</string>
+  <string name="ringtone_default">[Ðéƒåûļţ ŕîñĝţöñé one two three]</string>
+  <string name="root_audio">[Åûðîö one]</string>
+  <string name="root_images">[Îḿåĝéš one two]</string>
+  <string name="root_videos">[νîðéöš one two]</string>
+  <string name="uid_label">[Ḿéðîå one]</string>
 </resources>

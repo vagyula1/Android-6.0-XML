@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="installed">インストール済み</string>
-    <string name="not_installed">未インストール</string>
+  <string name="installed">インストール済み</string>
+  <string name="not_installed">未インストール</string>
 </resources>

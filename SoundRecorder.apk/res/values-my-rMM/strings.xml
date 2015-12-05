@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">အသံသွင်းစက်</string>
-    <string name="record_your_message">သင့်စာတိုကို အသံသွင်းနေပါပြီ</string>
-    <string name="message_recorded">စာတိုကို အသံသွင်းယူပြီးပါပြီ</string>
-    <string name="review_message">စာတိုအား ပြန်လည်ဆန်းစစ်ရန်</string>
-    <string name="recording">အသံသွင်းယူနေပါပြီ</string>
-    <string name="recording_stopped">အသံသွင်းယူခြင်း ရပ်သွားပါပြီ</string>
-    <string name="storage_is_full">သိုလှောင်မှုနေရာ ပြည့်နေပါပြီ</string>
-    <string name="max_length_reached">အများဆုံး အရှည်အတိုင်းအတာကို ရောက်ရှိပါပြီ</string>
-    <string name="insert_sd_card">USBသိုလှောင်မှုကိုထိုင်ပါ</string>
-    <string name="min_available">%d မိနစ် ရှိသေးသည်</string>
-    <string name="sec_available">%dစက္ကန့် ရှိသေးသည်</string>
-    <string name="accept">ပြီးပါပြီ</string>
-    <string name="discard">ထားလိုက်တော့</string>
-    <string name="button_ok">ကောင်းပြီ</string>
-    <string name="audio_db_artist_name">သင်ဖမ်းထားသော အသံသွင်းမှုများ</string>
-    <string name="audio_db_album_name">အသံသွင်းမှုများ</string>
-    <string name="audio_db_playlist_name">ကျွန်ုပ်၏ အသံသွင်းမှုများ</string>
-    <string name="error_sdcard_access">USB သိုလှောင်ကတ်ကို ချိတ်ဆက်ကြည့်ရှု၍မရပါ</string>
-    <string name="error_app_internal">စက်တွင်းအပ်ပလီကေးရှင်းမှားယွင်းမှု</string>
-    <string name="error_mediadb_new_record">အသံသွင်းထားမှုကို သိမ်းဆည်း၍မရပါ</string>
+  <string name="accept">ပြီးပါပြီ</string>
+  <string name="app_name">အသံသွင်းစက်</string>
+  <string name="audio_db_album_name">အသံသွင်းမှုများ</string>
+  <string name="audio_db_artist_name">သင်ဖမ်းထားသော အသံသွင်းမှုများ</string>
+  <string name="audio_db_playlist_name">ကျွန်ုပ်၏ အသံသွင်းမှုများ</string>
+  <string name="button_ok">ကောင်းပြီ</string>
+  <string name="discard">ထားလိုက်တော့</string>
+  <string name="error_app_internal">စက်တွင်းအပ်ပလီကေးရှင်းမှားယွင်းမှု</string>
+  <string name="error_mediadb_new_record">အသံသွင်းထားမှုကို သိမ်းဆည်း၍မရပါ</string>
+  <string name="error_sdcard_access">USB သိုလှောင်ကတ်ကို ချိတ်ဆက်ကြည့်ရှု၍မရပါ</string>
+  <string name="insert_sd_card">USBသိုလှောင်မှုကိုထိုင်ပါ</string>
+  <string name="max_length_reached">အများဆုံး အရှည်အတိုင်းအတာကို ရောက်ရှိပါပြီ</string>
+  <string name="message_recorded">စာတိုကို အသံသွင်းယူပြီးပါပြီ</string>
+  <string name="min_available">%d မိနစ် ရှိသေးသည်</string>
+  <string name="record_your_message">သင့်စာတိုကို အသံသွင်းနေပါပြီ</string>
+  <string name="recording">အသံသွင်းယူနေပါပြီ</string>
+  <string name="recording_stopped">အသံသွင်းယူခြင်း ရပ်သွားပါပြီ</string>
+  <string name="review_message">စာတိုအား ပြန်လည်ဆန်းစစ်ရန်</string>
+  <string name="sec_available">%dစက္ကန့် ရှိသေးသည်</string>
+  <string name="storage_is_full">သိုလှောင်မှုနေရာ ပြည့်နေပါပြီ</string>
 </resources>

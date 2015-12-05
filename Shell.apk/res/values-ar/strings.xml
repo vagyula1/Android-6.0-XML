@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">Shell</string>
-    <string name="bugreport_finished_title">تم الحصول على تقرير الأخطاء</string>
-    <string name="bugreport_finished_text">المس لمشاركة تقرير الأخطاء</string>
-    <string name="bugreport_confirm">تحتوي تقارير الأخطاء على بيانات من ملفات سجلات النظام المتنوعة، بما في ذلك معلومات شخصية وخاصة. لا تشارك تقارير الأخطاء إلا مع التطبيقات والأشخاص الموثوق بهم.</string>
-    <string name="bugreport_confirm_repeat">إظهار هذه الرسالة في المرة القادمة</string>
-    <string name="bugreport_storage_title">تقارير الأخطاء</string>
+  <string name="app_label">Shell</string>
+  <string name="bugreport_confirm">تحتوي تقارير الأخطاء على بيانات من ملفات سجلات النظام المتنوعة، بما في ذلك معلومات شخصية وخاصة. لا تشارك تقارير الأخطاء إلا مع التطبيقات والأشخاص الموثوق بهم.</string>
+  <string name="bugreport_confirm_repeat">إظهار هذه الرسالة في المرة القادمة</string>
+  <string name="bugreport_finished_text">المس لمشاركة تقرير الأخطاء</string>
+  <string name="bugreport_finished_title">تم الحصول على تقرير الأخطاء</string>
+  <string name="bugreport_storage_title">تقارير الأخطاء</string>
 </resources>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="menu_manage_folders">Upravljanje map</string>
-    <string name="add_cc_label">+ Kp/Skp</string>
-    <string name="add_bcc_label">+ Skp</string>
-    <string name="preferences_default_reply_all_summary">Uporabi kot privzeto za odgovore na obvestila o sporočilih</string>
+  <string name="add_bcc_label">+ Skp</string>
+  <string name="add_cc_label">+ Kp/Skp</string>
+  <string name="menu_manage_folders">Upravljanje map</string>
+  <string name="preferences_default_reply_all_summary">Uporabi kot privzeto za odgovore na obvestila o sporočilih</string>
 </resources>

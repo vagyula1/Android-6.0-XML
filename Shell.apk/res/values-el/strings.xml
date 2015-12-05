@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">Κέλυφος</string>
-    <string name="bugreport_finished_title">Η λήψη της αναφοράς ήταν επιτυχής</string>
-    <string name="bugreport_finished_text">Αγγίξτε για να μοιραστείτε τη αναφορά σφαλμάτων</string>
-    <string name="bugreport_confirm">Οι αναφορές σφαλμάτων περιέχουν δεδομένα από τα διάφορα αρχεία καταγραφής του συστήματος, συμπεριλαμβανομένων προσωπικών και ιδιωτικών πληροφοριών. Να μοιράζεστε αναφορές σφαλμάτων μόνο με εφαρμογές και άτομα που εμπιστεύεστε.</string>
-    <string name="bugreport_confirm_repeat">Εμφάνιση αυτού του μηνύματος την επόμενη φορά</string>
-    <string name="bugreport_storage_title">Αναφορές σφαλμάτων</string>
+  <string name="app_label">Κέλυφος</string>
+  <string name="bugreport_confirm">Οι αναφορές σφαλμάτων περιέχουν δεδομένα από τα διάφορα αρχεία καταγραφής του συστήματος, συμπεριλαμβανομένων προσωπικών και ιδιωτικών πληροφοριών. Να μοιράζεστε αναφορές σφαλμάτων μόνο με εφαρμογές και άτομα που εμπιστεύεστε.</string>
+  <string name="bugreport_confirm_repeat">Εμφάνιση αυτού του μηνύματος την επόμενη φορά</string>
+  <string name="bugreport_finished_text">Αγγίξτε για να μοιραστείτε τη αναφορά σφαλμάτων</string>
+  <string name="bugreport_finished_title">Η λήψη της αναφοράς ήταν επιτυχής</string>
+  <string name="bugreport_storage_title">Αναφορές σφαλμάτων</string>
 </resources>

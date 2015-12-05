@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Helisalvesti</string>
-    <string name="record_your_message">Oma sõnumi salvestamine</string>
-    <string name="message_recorded">Sõnum on salvestatud</string>
-    <string name="review_message">Sõnumi läbivaatamine</string>
-    <string name="recording">Salvestamine</string>
-    <string name="recording_stopped">Salvestamine peatunud</string>
-    <string name="storage_is_full">Mäluruum on täis</string>
-    <string name="max_length_reached">Suurim pikkus on saavutatud</string>
-    <string name="insert_sd_card">Paigalda USB-mäluseade</string>
-    <string name="min_available">%d min saadaval</string>
-    <string name="sec_available">%d s saadaval</string>
-    <string name="accept">Valmis</string>
-    <string name="discard">Loobu</string>
-    <string name="button_ok">OK</string>
-    <string name="audio_db_artist_name">Teie salvestused</string>
-    <string name="audio_db_album_name">Helisalvestused</string>
-    <string name="audio_db_playlist_name">Minu salvestused</string>
-    <string name="error_sdcard_access">Ei saa juurdepääsu USB-mäluseadmele.</string>
-    <string name="error_app_internal">Sisemine rakenduse viga.</string>
-    <string name="error_mediadb_new_record">Salvestatud heli ei õnnestunud salvestada.</string>
+  <string name="accept">Valmis</string>
+  <string name="app_name">Helisalvesti</string>
+  <string name="audio_db_album_name">Helisalvestused</string>
+  <string name="audio_db_artist_name">Teie salvestused</string>
+  <string name="audio_db_playlist_name">Minu salvestused</string>
+  <string name="button_ok">OK</string>
+  <string name="discard">Loobu</string>
+  <string name="error_app_internal">Sisemine rakenduse viga.</string>
+  <string name="error_mediadb_new_record">Salvestatud heli ei õnnestunud salvestada.</string>
+  <string name="error_sdcard_access">Ei saa juurdepääsu USB-mäluseadmele.</string>
+  <string name="insert_sd_card">Paigalda USB-mäluseade</string>
+  <string name="max_length_reached">Suurim pikkus on saavutatud</string>
+  <string name="message_recorded">Sõnum on salvestatud</string>
+  <string name="min_available">%d min saadaval</string>
+  <string name="record_your_message">Oma sõnumi salvestamine</string>
+  <string name="recording">Salvestamine</string>
+  <string name="recording_stopped">Salvestamine peatunud</string>
+  <string name="review_message">Sõnumi läbivaatamine</string>
+  <string name="sec_available">%d s saadaval</string>
+  <string name="storage_is_full">Mäluruum on täis</string>
 </resources>

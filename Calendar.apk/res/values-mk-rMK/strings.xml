@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="hint_time_zone_search">Напиши име на држава</string>
-    <string name="searchview_description_clear">Исчисти барање</string>
-    <string name="no_results_found">Не се пронајдени резултати</string>
-    <string name="palestine_display_name">Палестина</string>
-    <string name="done_label">Готово</string>
-    <string name="hour_picker_description">Приказ на часови во круг</string>
-    <string name="minute_picker_description">Приказ на минути во круг</string>
-    <string name="select_hours">Избери часови</string>
-    <string name="select_minutes">Избери минути</string>
-    <string name="day_picker_description">Месец со денови</string>
-    <string name="year_picker_description">Список со години</string>
-    <string name="select_day">Избери месец и ден</string>
-    <string name="select_year">Избери година</string>
-    <string name="item_is_selected">Избрано: %1$s</string>
-    <string name="deleted_key">Избришано: %1$s</string>
-    <string name="color_picker_default_title">Изберете боја</string>
-    <string name="color_swatch_description">Боја %1$d</string>
-    <string name="color_swatch_description_selected">Избрана е %1$d боја</string>
-    <string name="more_string">+%1$d</string>
-    <string name="copy_email">Копирај адреса на е-пошта</string>
-    <string name="copy_number">Копирај телефонски број</string>
-    <string name="action_label">Врати</string>
-    <string name="accessbility_suggestion_dropdown_opened">Предлозите за контактот се отворени</string>
-    <string name="dropdown_delete_button_desc">Отстранете го контактот %s од примачи</string>
+  <string name="accessbility_suggestion_dropdown_opened">Предлозите за контактот се отворени</string>
+  <string name="action_label">Врати</string>
+  <string name="color_picker_default_title">Изберете боја</string>
+  <string name="color_swatch_description">Боја %1$d</string>
+  <string name="color_swatch_description_selected">Избрана е %1$d боја</string>
+  <string name="copy_email">Копирај адреса на е-пошта</string>
+  <string name="copy_number">Копирај телефонски број</string>
+  <string name="day_picker_description">Месец со денови</string>
+  <string name="deleted_key">Избришано: %1$s</string>
+  <string name="done_label">Готово</string>
+  <string name="dropdown_delete_button_desc">Отстранете го контактот %s од примачи</string>
+  <string name="hint_time_zone_search">Напиши име на држава</string>
+  <string name="hour_picker_description">Приказ на часови во круг</string>
+  <string name="item_is_selected">Избрано: %1$s</string>
+  <string name="minute_picker_description">Приказ на минути во круг</string>
+  <string name="more_string">+%1$d</string>
+  <string name="no_results_found">Не се пронајдени резултати</string>
+  <string name="palestine_display_name">Палестина</string>
+  <string name="searchview_description_clear">Исчисти барање</string>
+  <string name="select_day">Избери месец и ден</string>
+  <string name="select_hours">Избери часови</string>
+  <string name="select_minutes">Избери минути</string>
+  <string name="select_year">Избери година</string>
+  <string name="year_picker_description">Список со години</string>
 </resources>

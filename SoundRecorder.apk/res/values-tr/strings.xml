@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Ses Kaydedici</string>
-    <string name="record_your_message">Mesajınızı kaydedin</string>
-    <string name="message_recorded">Mesaj kaydedildi</string>
-    <string name="review_message">Mesajı incele</string>
-    <string name="recording">Kaydediyor</string>
-    <string name="recording_stopped">Kayıt durdu</string>
-    <string name="storage_is_full">Depolama alanı dolu</string>
-    <string name="max_length_reached">Maksimum uzunluğa ulaşıldı</string>
-    <string name="insert_sd_card">USB bellek ekleyin</string>
-    <string name="min_available">%d dak. var</string>
-    <string name="sec_available">%d var</string>
-    <string name="accept">Tamam</string>
-    <string name="discard">Sil</string>
-    <string name="button_ok">Tamam</string>
-    <string name="audio_db_artist_name">Kayıtlarınız</string>
-    <string name="audio_db_album_name">Ses kayıtları</string>
-    <string name="audio_db_playlist_name">Kayıtlarım</string>
-    <string name="error_sdcard_access">USB belleğe erişilemiyor.</string>
-    <string name="error_app_internal">Dahili uygulama hatası.</string>
-    <string name="error_mediadb_new_record">Ses kaydı diske kaydedilemedi.</string>
+  <string name="accept">Tamam</string>
+  <string name="app_name">Ses Kaydedici</string>
+  <string name="audio_db_album_name">Ses kayıtları</string>
+  <string name="audio_db_artist_name">Kayıtlarınız</string>
+  <string name="audio_db_playlist_name">Kayıtlarım</string>
+  <string name="button_ok">Tamam</string>
+  <string name="discard">Sil</string>
+  <string name="error_app_internal">Dahili uygulama hatası.</string>
+  <string name="error_mediadb_new_record">Ses kaydı diske kaydedilemedi.</string>
+  <string name="error_sdcard_access">USB belleğe erişilemiyor.</string>
+  <string name="insert_sd_card">USB bellek ekleyin</string>
+  <string name="max_length_reached">Maksimum uzunluğa ulaşıldı</string>
+  <string name="message_recorded">Mesaj kaydedildi</string>
+  <string name="min_available">%d dak. var</string>
+  <string name="record_your_message">Mesajınızı kaydedin</string>
+  <string name="recording">Kaydediyor</string>
+  <string name="recording_stopped">Kayıt durdu</string>
+  <string name="review_message">Mesajı incele</string>
+  <string name="sec_available">%d var</string>
+  <string name="storage_is_full">Depolama alanı dolu</string>
 </resources>

@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Regjistruesi i zërit</string>
-    <string name="record_your_message">Regjistro mesazhin tënd</string>
-    <string name="message_recorded">Mesazhi u regjistrua</string>
-    <string name="review_message">Rishiko mesazhin</string>
-    <string name="recording">Po regjistron</string>
-    <string name="recording_stopped">Regjistrimi ndaloi</string>
-    <string name="storage_is_full">Hapësira ruajtëse është plot</string>
-    <string name="max_length_reached">U arrit gjatësia maksimale</string>
-    <string name="insert_sd_card">Monto USB-në</string>
-    <string name="min_available">%d minuta të mbetura</string>
-    <string name="sec_available">%d sekonda të mbetura</string>
-    <string name="accept">U krye!</string>
-    <string name="discard">Injoro</string>
-    <string name="button_ok">Në rregull</string>
-    <string name="audio_db_artist_name">Regjistrimet e tua</string>
-    <string name="audio_db_album_name">Regjistrimet audio</string>
-    <string name="audio_db_playlist_name">Regjistrimet e mia</string>
-    <string name="error_sdcard_access">Nuk mund të kishte qasje tek USB-ja.</string>
-    <string name="error_app_internal">Gabim i brendshëm i aplikacionit.</string>
-    <string name="error_mediadb_new_record">Audioja e regjistruar nuk mund të ruhej.</string>
+  <string name="accept">U krye!</string>
+  <string name="app_name">Regjistruesi i zërit</string>
+  <string name="audio_db_album_name">Regjistrimet audio</string>
+  <string name="audio_db_artist_name">Regjistrimet e tua</string>
+  <string name="audio_db_playlist_name">Regjistrimet e mia</string>
+  <string name="button_ok">Në rregull</string>
+  <string name="discard">Injoro</string>
+  <string name="error_app_internal">Gabim i brendshëm i aplikacionit.</string>
+  <string name="error_mediadb_new_record">Audioja e regjistruar nuk mund të ruhej.</string>
+  <string name="error_sdcard_access">Nuk mund të kishte qasje tek USB-ja.</string>
+  <string name="insert_sd_card">Monto USB-në</string>
+  <string name="max_length_reached">U arrit gjatësia maksimale</string>
+  <string name="message_recorded">Mesazhi u regjistrua</string>
+  <string name="min_available">%d minuta të mbetura</string>
+  <string name="record_your_message">Regjistro mesazhin tënd</string>
+  <string name="recording">Po regjistron</string>
+  <string name="recording_stopped">Regjistrimi ndaloi</string>
+  <string name="review_message">Rishiko mesazhin</string>
+  <string name="sec_available">%d sekonda të mbetura</string>
+  <string name="storage_is_full">Hapësira ruajtëse është plot</string>
 </resources>

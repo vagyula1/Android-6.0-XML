@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">Шел</string>
-    <string name="bugreport_finished_title">Алдааны мэдээлэл хүлээн авав</string>
-    <string name="bugreport_finished_text">Та алдааны мэдэгдлийг хуваалцах бол хүрнэ үү</string>
-    <string name="bugreport_confirm">Алдааны репорт нь хувийн болон нууц мэдээлэл зэргийг агуулсан системийн төрөл бүрийн лог файлын датаг агуулна. Алдааны репортыг зөвхөн итгэлтэй апп болон хүмүүст хуваалцана уу.</string>
-    <string name="bugreport_confirm_repeat">Энэ мессежийг дараагийн удаа харуулах</string>
-    <string name="bugreport_storage_title">Гэмтлийн тухай тайлан</string>
+  <string name="app_label">Шел</string>
+  <string name="bugreport_confirm">Алдааны репорт нь хувийн болон нууц мэдээлэл зэргийг агуулсан системийн төрөл бүрийн лог файлын датаг агуулна. Алдааны репортыг зөвхөн итгэлтэй апп болон хүмүүст хуваалцана уу.</string>
+  <string name="bugreport_confirm_repeat">Энэ мессежийг дараагийн удаа харуулах</string>
+  <string name="bugreport_finished_text">Та алдааны мэдэгдлийг хуваалцах бол хүрнэ үү</string>
+  <string name="bugreport_finished_title">Алдааны мэдээлэл хүлээн авав</string>
+  <string name="bugreport_storage_title">Гэмтлийн тухай тайлан</string>
 </resources>

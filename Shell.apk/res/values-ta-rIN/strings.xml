@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">ஷெல்</string>
-    <string name="bugreport_finished_title">பிழை அறிக்கைகள் படமெடுக்கப்பட்டன</string>
-    <string name="bugreport_finished_text">உங்கள் பிழை அறிக்கையைப் பகிர, தொடவும்</string>
-    <string name="bugreport_confirm">பிழை அறிக்கைகளில், சொந்த வாழ்க்கை மற்றும் தனிப்பட்ட தகவல் உள்பட கணினியின் பல்வேறு பதிவுகளில் உள்ள தரவு இருக்கும். நீங்கள் நம்பும் பயன்பாடுகள் மற்றும் நபர்களுடன் மட்டும் பிழை அறிக்கைகளைப் பகிரவும்.</string>
-    <string name="bugreport_confirm_repeat">இந்தச் செய்தியை அடுத்த முறைக் காட்டு</string>
-    <string name="bugreport_storage_title">பிழை அறிக்கைகள்</string>
+  <string name="app_label">ஷெல்</string>
+  <string name="bugreport_confirm">பிழை அறிக்கைகளில், சொந்த வாழ்க்கை மற்றும் தனிப்பட்ட தகவல் உள்பட கணினியின் பல்வேறு பதிவுகளில் உள்ள தரவு இருக்கும். நீங்கள் நம்பும் பயன்பாடுகள் மற்றும் நபர்களுடன் மட்டும் பிழை அறிக்கைகளைப் பகிரவும்.</string>
+  <string name="bugreport_confirm_repeat">இந்தச் செய்தியை அடுத்த முறைக் காட்டு</string>
+  <string name="bugreport_finished_text">உங்கள் பிழை அறிக்கையைப் பகிர, தொடவும்</string>
+  <string name="bugreport_finished_title">பிழை அறிக்கைகள் படமெடுக்கப்பட்டன</string>
+  <string name="bugreport_storage_title">பிழை அறிக்கைகள்</string>
 </resources>

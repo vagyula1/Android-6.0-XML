@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="menu_manage_folders">Upravljanje mapama</string>
-    <string name="add_cc_label">+ Kopija/skriv. kop.</string>
-    <string name="add_bcc_label">+ Skrivena kopija</string>
-    <string name="preferences_default_reply_all_summary">Upotrijebi kao zadano za odgovore na obavijesti o porukama</string>
+  <string name="add_bcc_label">+ Skrivena kopija</string>
+  <string name="add_cc_label">+ Kopija/skriv. kop.</string>
+  <string name="menu_manage_folders">Upravljanje mapama</string>
+  <string name="preferences_default_reply_all_summary">Upotrijebi kao zadano za odgovore na obavijesti o porukama</string>
 </resources>

@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">مسجِّل الصوت</string>
-    <string name="record_your_message">تسجيل رسالتك</string>
-    <string name="message_recorded">تم تسجيل الرسالة</string>
-    <string name="review_message">مراجعة الرسالة</string>
-    <string name="recording">جارٍ التسجيل</string>
-    <string name="recording_stopped">توقف التسجيل</string>
-    <string name="storage_is_full">السعة التخزينية ممتلئة</string>
-    <string name="max_length_reached">تم بلوغ الحد الأقصى للطول</string>
-    <string name="insert_sd_card">‏تحميل وحدة تخزين USB</string>
-    <string name="min_available">يتوفر %d دقيقة</string>
-    <string name="sec_available">يتوفر %d ثانية</string>
-    <string name="accept">تم</string>
-    <string name="discard">إلغاء</string>
-    <string name="button_ok">موافق</string>
-    <string name="audio_db_artist_name">تسجيلاتك</string>
-    <string name="audio_db_album_name">التسجيلات الصوتية</string>
-    <string name="audio_db_playlist_name">تسجيلاتي</string>
-    <string name="error_sdcard_access">‏لا يمكن الدخول إلى وحدة تخزين USB.</string>
-    <string name="error_app_internal">حدث خطأ داخلي بالتطبيق.</string>
-    <string name="error_mediadb_new_record">تعذر حفظ الصوت المسجل.</string>
+  <string name="accept">تم</string>
+  <string name="app_name">مسجِّل الصوت</string>
+  <string name="audio_db_album_name">التسجيلات الصوتية</string>
+  <string name="audio_db_artist_name">تسجيلاتك</string>
+  <string name="audio_db_playlist_name">تسجيلاتي</string>
+  <string name="button_ok">موافق</string>
+  <string name="discard">إلغاء</string>
+  <string name="error_app_internal">حدث خطأ داخلي بالتطبيق.</string>
+  <string name="error_mediadb_new_record">تعذر حفظ الصوت المسجل.</string>
+  <string name="error_sdcard_access">‏لا يمكن الدخول إلى وحدة تخزين USB.</string>
+  <string name="insert_sd_card">‏تحميل وحدة تخزين USB</string>
+  <string name="max_length_reached">تم بلوغ الحد الأقصى للطول</string>
+  <string name="message_recorded">تم تسجيل الرسالة</string>
+  <string name="min_available">يتوفر %d دقيقة</string>
+  <string name="record_your_message">تسجيل رسالتك</string>
+  <string name="recording">جارٍ التسجيل</string>
+  <string name="recording_stopped">توقف التسجيل</string>
+  <string name="review_message">مراجعة الرسالة</string>
+  <string name="sec_available">يتوفر %d ثانية</string>
+  <string name="storage_is_full">السعة التخزينية ممتلئة</string>
 </resources>

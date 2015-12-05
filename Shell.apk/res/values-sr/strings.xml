@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">Shell</string>
-    <string name="bugreport_finished_title">Извештај о грешци је снимљен</string>
-    <string name="bugreport_finished_text">Додирните да бисте делили извештај о грешци</string>
-    <string name="bugreport_confirm">Извештаји о грешкама садрже податке из различитих системских датотека евиденције, укључујући личне и приватне податке. Делите извештаје о грешкама само са апликацијама и људима у које имате поверења.</string>
-    <string name="bugreport_confirm_repeat">Прикажи ову поруку следећи пут</string>
-    <string name="bugreport_storage_title">Извештаји о грешкама</string>
+  <string name="app_label">Shell</string>
+  <string name="bugreport_confirm">Извештаји о грешкама садрже податке из различитих системских датотека евиденције, укључујући личне и приватне податке. Делите извештаје о грешкама само са апликацијама и људима у које имате поверења.</string>
+  <string name="bugreport_confirm_repeat">Прикажи ову поруку следећи пут</string>
+  <string name="bugreport_finished_text">Додирните да бисте делили извештај о грешци</string>
+  <string name="bugreport_finished_title">Извештај о грешци је снимљен</string>
+  <string name="bugreport_storage_title">Извештаји о грешкама</string>
 </resources>

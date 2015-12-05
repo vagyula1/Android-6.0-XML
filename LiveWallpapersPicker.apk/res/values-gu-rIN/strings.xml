@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="application_name">લાઇવ વૉલપેપર પીકર</string>
-    <string name="live_wallpaper_picker_title">લાઇવ વૉલપેપર પસંદ કરો</string>
-    <string name="live_wallpaper_picker_label">લાઇવ વૉલપેપર્સ</string>
-    <string name="live_wallpaper_preview_title">લાઇવ વૉલપેપર પૂર્વાવલોકન</string>
-    <string name="configure_wallpaper">સેટિંગ્સ…</string>
-    <string name="wallpaper_instructions">વૉલપેપર સેટ કરો</string>
-    <string name="live_wallpaper_empty">કોઈ લાઇવ વૉલપેપર્સ નથી.</string>
-    <string name="set_live_wallpaper">વૉલપેપર સેટ કરો</string>
-    <string name="wallpaper_title_and_author">%2$s દ્વારા %1$s</string>
-    <string name="live_wallpaper_loading">લાઇવ વૉલપેપર લોડ કરી રહ્યું છે…</string>
-    <string name="wallpaper_cancel">રદ કરો</string>
+  <string name="application_name">લાઇવ વૉલપેપર પીકર</string>
+  <string name="configure_wallpaper">સેટિંગ્સ…</string>
+  <string name="live_wallpaper_empty">કોઈ લાઇવ વૉલપેપર્સ નથી.</string>
+  <string name="live_wallpaper_loading">લાઇવ વૉલપેપર લોડ કરી રહ્યું છે…</string>
+  <string name="live_wallpaper_picker_label">લાઇવ વૉલપેપર્સ</string>
+  <string name="live_wallpaper_picker_title">લાઇવ વૉલપેપર પસંદ કરો</string>
+  <string name="live_wallpaper_preview_title">લાઇવ વૉલપેપર પૂર્વાવલોકન</string>
+  <string name="set_live_wallpaper">વૉલપેપર સેટ કરો</string>
+  <string name="wallpaper_cancel">રદ કરો</string>
+  <string name="wallpaper_instructions">વૉલપેપર સેટ કરો</string>
+  <string name="wallpaper_title_and_author">%2$s દ્વારા %1$s</string>
 </resources>

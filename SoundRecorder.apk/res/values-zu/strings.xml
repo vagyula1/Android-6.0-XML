@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Isiqophi Somsindo</string>
-    <string name="record_your_message">Qopha umyalezo wakho</string>
-    <string name="message_recorded">Umlayezo uqophiwe</string>
-    <string name="review_message">Buyekeza umlayezo</string>
-    <string name="recording">Iyaqopha</string>
-    <string name="recording_stopped">Ukuqopha kumile</string>
-    <string name="storage_is_full">Isitoreji sigcwele</string>
-    <string name="max_length_reached">Ubude obuphezulu bufinyelelwe</string>
-    <string name="insert_sd_card">Khweza isilondolozi se-USB</string>
-    <string name="min_available">%d amaminithi asele</string>
-    <string name="sec_available">%damaminithi asele</string>
-    <string name="accept">Kwenziwe</string>
-    <string name="discard">Lahla</string>
-    <string name="button_ok">KULUNGILE</string>
-    <string name="audio_db_artist_name">Okuqophiwe kwakho</string>
-    <string name="audio_db_album_name">Okuqophiwe komsindo</string>
-    <string name="audio_db_playlist_name">Okuqophiwe kwami</string>
-    <string name="error_sdcard_access">Ayikwazi ukufinyelela isilondolozi se-USB.</string>
-    <string name="error_app_internal">Iphutha lohlelo lokusebenza langaphakathi</string>
-    <string name="error_mediadb_new_record">Ayikwazanga ukugcina umsindo oqoshiwe.</string>
+  <string name="accept">Kwenziwe</string>
+  <string name="app_name">Isiqophi Somsindo</string>
+  <string name="audio_db_album_name">Okuqophiwe komsindo</string>
+  <string name="audio_db_artist_name">Okuqophiwe kwakho</string>
+  <string name="audio_db_playlist_name">Okuqophiwe kwami</string>
+  <string name="button_ok">KULUNGILE</string>
+  <string name="discard">Lahla</string>
+  <string name="error_app_internal">Iphutha lohlelo lokusebenza langaphakathi</string>
+  <string name="error_mediadb_new_record">Ayikwazanga ukugcina umsindo oqoshiwe.</string>
+  <string name="error_sdcard_access">Ayikwazi ukufinyelela isilondolozi se-USB.</string>
+  <string name="insert_sd_card">Khweza isilondolozi se-USB</string>
+  <string name="max_length_reached">Ubude obuphezulu bufinyelelwe</string>
+  <string name="message_recorded">Umlayezo uqophiwe</string>
+  <string name="min_available">%d amaminithi asele</string>
+  <string name="record_your_message">Qopha umyalezo wakho</string>
+  <string name="recording">Iyaqopha</string>
+  <string name="recording_stopped">Ukuqopha kumile</string>
+  <string name="review_message">Buyekeza umlayezo</string>
+  <string name="sec_available">%damaminithi asele</string>
+  <string name="storage_is_full">Isitoreji sigcwele</string>
 </resources>

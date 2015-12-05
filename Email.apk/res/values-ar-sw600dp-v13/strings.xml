@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="menu_manage_folders">إدارة المجلدات</string>
-    <string name="add_cc_label">+ نسخة إلى/ مخفية</string>
-    <string name="add_bcc_label">+ نسخة مخفية الوجهة</string>
-    <string name="preferences_default_reply_all_summary">الاستخدام كافتراضي مع الردود على إشعارات الرسائل</string>
+  <string name="add_bcc_label">+ نسخة مخفية الوجهة</string>
+  <string name="add_cc_label">+ نسخة إلى/ مخفية</string>
+  <string name="menu_manage_folders">إدارة المجلدات</string>
+  <string name="preferences_default_reply_all_summary">الاستخدام كافتراضي مع الردود على إشعارات الرسائل</string>
 </resources>

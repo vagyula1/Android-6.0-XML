@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="uid_label">Medija</string>
-    <string name="app_label">Medijos saugykla</string>
-    <string name="artist_label">Atlikėjas</string>
-    <string name="ringtone_default">Numatytasis skambėjimo tonas</string>
-    <string name="notification_sound_default">Numatytasis pranešimo garsas</string>
-    <string name="alarm_sound_default">Numatytasis signalo garsas</string>
-    <string name="root_images">Vaizdai</string>
-    <string name="root_videos">Vaizdo įrašai</string>
-    <string name="root_audio">Garso įrašai</string>
+  <string name="alarm_sound_default">Numatytasis signalo garsas</string>
+  <string name="app_label">Medijos saugykla</string>
+  <string name="artist_label">Atlikėjas</string>
+  <string name="notification_sound_default">Numatytasis pranešimo garsas</string>
+  <string name="ringtone_default">Numatytasis skambėjimo tonas</string>
+  <string name="root_audio">Garso įrašai</string>
+  <string name="root_images">Vaizdai</string>
+  <string name="root_videos">Vaizdo įrašai</string>
+  <string name="uid_label">Medija</string>
 </resources>

@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="application_name">Zgjedhësi i \"Imazhit të drejtpërdrejtë në sfond\"</string>
-    <string name="live_wallpaper_picker_title">Përzgjidh imazh të drejtpërdrejtë sfondi</string>
-    <string name="live_wallpaper_picker_label">Imazhe dinamike sfondi</string>
-    <string name="live_wallpaper_preview_title">Shikim paraprak i imazhit të drejtpërdrejtë të sfondit</string>
-    <string name="configure_wallpaper">Cilësimet...</string>
-    <string name="wallpaper_instructions">Cakto imazhin në sfond</string>
-    <string name="live_wallpaper_empty">Nuk ka imazhe dinamike sfondi</string>
-    <string name="set_live_wallpaper">Cakto imazhin në sfond</string>
-    <string name="wallpaper_title_and_author">%1$s nga %2$s</string>
-    <string name="live_wallpaper_loading">Po ngarkon imazhe të drejtpërdrejta sfondi...</string>
-    <string name="wallpaper_cancel">Anulo</string>
+  <string name="application_name">Zgjedhësi i \"Imazhit të drejtpërdrejtë në sfond\"</string>
+  <string name="configure_wallpaper">Cilësimet...</string>
+  <string name="live_wallpaper_empty">Nuk ka imazhe dinamike sfondi</string>
+  <string name="live_wallpaper_loading">Po ngarkon imazhe të drejtpërdrejta sfondi...</string>
+  <string name="live_wallpaper_picker_label">Imazhe dinamike sfondi</string>
+  <string name="live_wallpaper_picker_title">Përzgjidh imazh të drejtpërdrejtë sfondi</string>
+  <string name="live_wallpaper_preview_title">Shikim paraprak i imazhit të drejtpërdrejtë të sfondit</string>
+  <string name="set_live_wallpaper">Cakto imazhin në sfond</string>
+  <string name="wallpaper_cancel">Anulo</string>
+  <string name="wallpaper_instructions">Cakto imazhin në sfond</string>
+  <string name="wallpaper_title_and_author">%1$s nga %2$s</string>
 </resources>

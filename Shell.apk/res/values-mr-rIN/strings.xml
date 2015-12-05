@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">शेल</string>
-    <string name="bugreport_finished_title">दोष अहवाल कॅप्‍चर केला</string>
-    <string name="bugreport_finished_text">आपला दोष अहवाल सामायिक करण्‍यासाठी स्‍पर्श करा</string>
-    <string name="bugreport_confirm">दोष अहवालांमध्‍ये वैयक्तिक आणि खाजगी माहितीसह, सिस्‍टमच्‍या अनेक लॉग फायलींमधील डेटा असतो. केवळ आपला विश्वास असलेल्‍या अ‍ॅप्‍स आणि लोकांसह दोष अहवाल सामायिक करा.</string>
-    <string name="bugreport_confirm_repeat">पुढील वेळी हा संदेश दर्शवा</string>
-    <string name="bugreport_storage_title">दोष अहवाल</string>
+  <string name="app_label">शेल</string>
+  <string name="bugreport_confirm">दोष अहवालांमध्‍ये वैयक्तिक आणि खाजगी माहितीसह, सिस्‍टमच्‍या अनेक लॉग फायलींमधील डेटा असतो. केवळ आपला विश्वास असलेल्‍या अ‍ॅप्‍स आणि लोकांसह दोष अहवाल सामायिक करा.</string>
+  <string name="bugreport_confirm_repeat">पुढील वेळी हा संदेश दर्शवा</string>
+  <string name="bugreport_finished_text">आपला दोष अहवाल सामायिक करण्‍यासाठी स्‍पर्श करा</string>
+  <string name="bugreport_finished_title">दोष अहवाल कॅप्‍चर केला</string>
+  <string name="bugreport_storage_title">दोष अहवाल</string>
 </resources>

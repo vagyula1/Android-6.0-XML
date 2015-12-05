@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Дуу Бичигч</string>
-    <string name="record_your_message">Өөрийн мессежийг бичнэ үү</string>
-    <string name="message_recorded">Мессеж бичигдсэн</string>
-    <string name="review_message">Мессежийг хянах</string>
-    <string name="recording">Бичиж байна</string>
-    <string name="recording_stopped">Бичлэгийг зогсоосон</string>
-    <string name="storage_is_full">Сан дүүрсэн</string>
-    <string name="max_length_reached">Дээд уртад хүрсэн</string>
-    <string name="insert_sd_card">USB санг залгана уу</string>
-    <string name="min_available">%d мин ашиглах боломжтой</string>
-    <string name="sec_available">%dс ашиглах боломжтой</string>
-    <string name="accept">Дууссан</string>
-    <string name="discard">Цуцлах</string>
-    <string name="button_ok">Тийм</string>
-    <string name="audio_db_artist_name">Таны бичлэгүүд</string>
-    <string name="audio_db_album_name">Аудио бичлэг</string>
-    <string name="audio_db_playlist_name">Миний бичлэгүүд</string>
-    <string name="error_sdcard_access">USB санд хандалт хийх боломжгүй.</string>
-    <string name="error_app_internal">Аппликешны дотоод алдаа.</string>
-    <string name="error_mediadb_new_record">Бичигдсэн аудиог хадгалж чадсангүй.</string>
+  <string name="accept">Дууссан</string>
+  <string name="app_name">Дуу Бичигч</string>
+  <string name="audio_db_album_name">Аудио бичлэг</string>
+  <string name="audio_db_artist_name">Таны бичлэгүүд</string>
+  <string name="audio_db_playlist_name">Миний бичлэгүүд</string>
+  <string name="button_ok">Тийм</string>
+  <string name="discard">Цуцлах</string>
+  <string name="error_app_internal">Аппликешны дотоод алдаа.</string>
+  <string name="error_mediadb_new_record">Бичигдсэн аудиог хадгалж чадсангүй.</string>
+  <string name="error_sdcard_access">USB санд хандалт хийх боломжгүй.</string>
+  <string name="insert_sd_card">USB санг залгана уу</string>
+  <string name="max_length_reached">Дээд уртад хүрсэн</string>
+  <string name="message_recorded">Мессеж бичигдсэн</string>
+  <string name="min_available">%d мин ашиглах боломжтой</string>
+  <string name="record_your_message">Өөрийн мессежийг бичнэ үү</string>
+  <string name="recording">Бичиж байна</string>
+  <string name="recording_stopped">Бичлэгийг зогсоосон</string>
+  <string name="review_message">Мессежийг хянах</string>
+  <string name="sec_available">%dс ашиглах боломжтой</string>
+  <string name="storage_is_full">Сан дүүрсэн</string>
 </resources>

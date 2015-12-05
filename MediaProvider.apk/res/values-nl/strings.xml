@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="uid_label">Media</string>
-    <string name="app_label">Mediaopslag</string>
-    <string name="artist_label">Artiest</string>
-    <string name="ringtone_default">Standaardbeltoon</string>
-    <string name="notification_sound_default">Standaardmeldingsgeluid</string>
-    <string name="alarm_sound_default">Standaardalarmgeluid</string>
-    <string name="root_images">Afbeeldingen</string>
-    <string name="root_videos">"Video's"</string>
-    <string name="root_audio">Audio</string>
+  <string name="alarm_sound_default">Standaardalarmgeluid</string>
+  <string name="app_label">Mediaopslag</string>
+  <string name="artist_label">Artiest</string>
+  <string name="notification_sound_default">Standaardmeldingsgeluid</string>
+  <string name="ringtone_default">Standaardbeltoon</string>
+  <string name="root_audio">Audio</string>
+  <string name="root_images">Afbeeldingen</string>
+  <string name="root_videos">"Video's"</string>
+  <string name="uid_label">Media</string>
 </resources>

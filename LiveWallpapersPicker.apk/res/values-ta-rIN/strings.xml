@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="application_name">நேரலை வால்பேப்பர் தேர்வி</string>
-    <string name="live_wallpaper_picker_title">நேரலை வால்பேப்பரைத் தேர்ந்தெடுக்கவும்</string>
-    <string name="live_wallpaper_picker_label">லைவ் வால்பேப்பர்கள்</string>
-    <string name="live_wallpaper_preview_title">நேரலை வால்பேப்பரின் மாதிரிக்காட்சி</string>
-    <string name="configure_wallpaper">அமைப்பு...</string>
-    <string name="wallpaper_instructions">வால்பேப்பரை அமை</string>
-    <string name="live_wallpaper_empty">நேரலை வால்பேப்பர்கள் இல்லை.</string>
-    <string name="set_live_wallpaper">வால்பேப்பரை அமை</string>
-    <string name="wallpaper_title_and_author">%1$s வழங்கியது %2$s</string>
-    <string name="live_wallpaper_loading">நேரலை வால்பேப்பரை ஏற்றுகிறது…</string>
-    <string name="wallpaper_cancel">ரத்துசெய்</string>
+  <string name="application_name">நேரலை வால்பேப்பர் தேர்வி</string>
+  <string name="configure_wallpaper">அமைப்பு...</string>
+  <string name="live_wallpaper_empty">நேரலை வால்பேப்பர்கள் இல்லை.</string>
+  <string name="live_wallpaper_loading">நேரலை வால்பேப்பரை ஏற்றுகிறது…</string>
+  <string name="live_wallpaper_picker_label">லைவ் வால்பேப்பர்கள்</string>
+  <string name="live_wallpaper_picker_title">நேரலை வால்பேப்பரைத் தேர்ந்தெடுக்கவும்</string>
+  <string name="live_wallpaper_preview_title">நேரலை வால்பேப்பரின் மாதிரிக்காட்சி</string>
+  <string name="set_live_wallpaper">வால்பேப்பரை அமை</string>
+  <string name="wallpaper_cancel">ரத்துசெய்</string>
+  <string name="wallpaper_instructions">வால்பேப்பரை அமை</string>
+  <string name="wallpaper_title_and_author">%1$s வழங்கியது %2$s</string>
 </resources>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="uid_label">Media</string>
-    <string name="app_label">Imbakan ng Media</string>
-    <string name="artist_label">Artist</string>
-    <string name="ringtone_default">Default na ringtone</string>
-    <string name="notification_sound_default">Default na tunog ng notification</string>
-    <string name="alarm_sound_default">Default na tunog ng alarma</string>
-    <string name="root_images">Mga Larawan</string>
-    <string name="root_videos">Mga Video</string>
-    <string name="root_audio">Audio</string>
+  <string name="alarm_sound_default">Default na tunog ng alarma</string>
+  <string name="app_label">Imbakan ng Media</string>
+  <string name="artist_label">Artist</string>
+  <string name="notification_sound_default">Default na tunog ng notification</string>
+  <string name="ringtone_default">Default na ringtone</string>
+  <string name="root_audio">Audio</string>
+  <string name="root_images">Mga Larawan</string>
+  <string name="root_videos">Mga Video</string>
+  <string name="uid_label">Media</string>
 </resources>

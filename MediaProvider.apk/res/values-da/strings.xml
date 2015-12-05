@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="uid_label">Medier</string>
-    <string name="app_label">Medielagring</string>
-    <string name="artist_label">Kunstner</string>
-    <string name="ringtone_default">Standardringetone</string>
-    <string name="notification_sound_default">Standardlyd for underretninger</string>
-    <string name="alarm_sound_default">Standardlyd for alarmer</string>
-    <string name="root_images">Billeder</string>
-    <string name="root_videos">Videoer</string>
-    <string name="root_audio">Lyd</string>
+  <string name="alarm_sound_default">Standardlyd for alarmer</string>
+  <string name="app_label">Medielagring</string>
+  <string name="artist_label">Kunstner</string>
+  <string name="notification_sound_default">Standardlyd for underretninger</string>
+  <string name="ringtone_default">Standardringetone</string>
+  <string name="root_audio">Lyd</string>
+  <string name="root_images">Billeder</string>
+  <string name="root_videos">Videoer</string>
+  <string name="uid_label">Medier</string>
 </resources>

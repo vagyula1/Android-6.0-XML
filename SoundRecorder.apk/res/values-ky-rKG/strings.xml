@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Ён жаздыргыч</string>
-    <string name="record_your_message">Билдирүү жаздырыңыз</string>
-    <string name="message_recorded">Билдирүү жаздырылды</string>
-    <string name="review_message">Билдирүүнү карап чыгуу</string>
-    <string name="recording">Жаздырууда</string>
-    <string name="recording_stopped">Жаздыруу токтотулду</string>
-    <string name="storage_is_full">Сактагыч толтура</string>
-    <string name="max_length_reached">Максималдык узундукка жетти</string>
-    <string name="insert_sd_card">USB сактагыч кошуу</string>
-    <string name="min_available">%d мүн. бар</string>
-    <string name="sec_available">%dс. бар</string>
-    <string name="accept">Даяр</string>
-    <string name="discard">Жокко чыгаруу</string>
-    <string name="button_ok">OK</string>
-    <string name="audio_db_artist_name">Сиздин жаздыруулар</string>
-    <string name="audio_db_album_name">Аудио жаздыруулар</string>
-    <string name="audio_db_playlist_name">Менин жаздырууларым</string>
-    <string name="error_sdcard_access">USB сактагычка кире албайт.</string>
-    <string name="error_app_internal">Ички колдонмо катасы.</string>
-    <string name="error_mediadb_new_record">Жаздырылган аудиону сактай албайт.</string>
+  <string name="accept">Даяр</string>
+  <string name="app_name">Ён жаздыргыч</string>
+  <string name="audio_db_album_name">Аудио жаздыруулар</string>
+  <string name="audio_db_artist_name">Сиздин жаздыруулар</string>
+  <string name="audio_db_playlist_name">Менин жаздырууларым</string>
+  <string name="button_ok">OK</string>
+  <string name="discard">Жокко чыгаруу</string>
+  <string name="error_app_internal">Ички колдонмо катасы.</string>
+  <string name="error_mediadb_new_record">Жаздырылган аудиону сактай албайт.</string>
+  <string name="error_sdcard_access">USB сактагычка кире албайт.</string>
+  <string name="insert_sd_card">USB сактагыч кошуу</string>
+  <string name="max_length_reached">Максималдык узундукка жетти</string>
+  <string name="message_recorded">Билдирүү жаздырылды</string>
+  <string name="min_available">%d мүн. бар</string>
+  <string name="record_your_message">Билдирүү жаздырыңыз</string>
+  <string name="recording">Жаздырууда</string>
+  <string name="recording_stopped">Жаздыруу токтотулду</string>
+  <string name="review_message">Билдирүүнү карап чыгуу</string>
+  <string name="sec_available">%dс. бар</string>
+  <string name="storage_is_full">Сактагыч толтура</string>
 </resources>

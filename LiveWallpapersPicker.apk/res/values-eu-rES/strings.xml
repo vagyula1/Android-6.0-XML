@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="application_name">Horma-paper dinamikoen hautatzailea</string>
-    <string name="live_wallpaper_picker_title">Hautatu horma-paper dinamikoa</string>
-    <string name="live_wallpaper_picker_label">Horma-paper dinamikoak</string>
-    <string name="live_wallpaper_preview_title">Horma-paper dinamikoaren aurrebista</string>
-    <string name="configure_wallpaper">Ezarpenak…</string>
-    <string name="wallpaper_instructions">Ezarri horma-papera</string>
-    <string name="live_wallpaper_empty">Ez dago horma-paper dinamikorik.</string>
-    <string name="set_live_wallpaper">Ezarri horma-papera</string>
-    <string name="wallpaper_title_and_author">%1$s. Egilea: %2$s</string>
-    <string name="live_wallpaper_loading">Horma-paper dinamikoa kargatzen…</string>
-    <string name="wallpaper_cancel">Utzi</string>
+  <string name="application_name">Horma-paper dinamikoen hautatzailea</string>
+  <string name="configure_wallpaper">Ezarpenak…</string>
+  <string name="live_wallpaper_empty">Ez dago horma-paper dinamikorik.</string>
+  <string name="live_wallpaper_loading">Horma-paper dinamikoa kargatzen…</string>
+  <string name="live_wallpaper_picker_label">Horma-paper dinamikoak</string>
+  <string name="live_wallpaper_picker_title">Hautatu horma-paper dinamikoa</string>
+  <string name="live_wallpaper_preview_title">Horma-paper dinamikoaren aurrebista</string>
+  <string name="set_live_wallpaper">Ezarri horma-papera</string>
+  <string name="wallpaper_cancel">Utzi</string>
+  <string name="wallpaper_instructions">Ezarri horma-papera</string>
+  <string name="wallpaper_title_and_author">%1$s. Egilea: %2$s</string>
 </resources>

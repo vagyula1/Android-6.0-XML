@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="hint_time_zone_search">Mamlakat nomini kiriting</string>
-    <string name="searchview_description_clear">So‘rovni tozalash</string>
-    <string name="no_results_found">Hech narsa topilmadi</string>
-    <string name="palestine_display_name">Falastin</string>
-    <string name="done_label">Tayyor</string>
-    <string name="hour_picker_description">Soat ko‘rsatkichli doira</string>
-    <string name="minute_picker_description">Daqiqa ko‘rsatkichli doira</string>
-    <string name="select_hours">Soatni tanlash</string>
-    <string name="select_minutes">Daqiqani tanlash</string>
-    <string name="day_picker_description">Oy kunlari jadvali</string>
-    <string name="year_picker_description">Yillar ro‘yxati</string>
-    <string name="select_day">Oy va kunni tanlash</string>
-    <string name="select_year">Yilni tanlash</string>
-    <string name="item_is_selected">%1$s tanlandi</string>
-    <string name="deleted_key">%1$s o‘chirildi</string>
-    <string name="color_picker_default_title">Rang tanlash</string>
-    <string name="color_swatch_description">%1$d rangi</string>
-    <string name="color_swatch_description_selected">%1$d rangi tanlandi</string>
-    <string name="more_string">+%1$d ta</string>
-    <string name="copy_email">E-pochta manzilidan nusxa olish</string>
-    <string name="copy_number">Telefon raqamidan nusxa olish</string>
-    <string name="action_label">Enter</string>
-    <string name="accessbility_suggestion_dropdown_opened">Taklif qilingan kontaktlar ochildi</string>
-    <string name="dropdown_delete_button_desc">%s qabul qiluvchilar ro‘yxatidan olib tashlansin</string>
+  <string name="accessbility_suggestion_dropdown_opened">Taklif qilingan kontaktlar ochildi</string>
+  <string name="action_label">Enter</string>
+  <string name="color_picker_default_title">Rang tanlash</string>
+  <string name="color_swatch_description">%1$d rangi</string>
+  <string name="color_swatch_description_selected">%1$d rangi tanlandi</string>
+  <string name="copy_email">E-pochta manzilidan nusxa olish</string>
+  <string name="copy_number">Telefon raqamidan nusxa olish</string>
+  <string name="day_picker_description">Oy kunlari jadvali</string>
+  <string name="deleted_key">%1$s o‘chirildi</string>
+  <string name="done_label">Tayyor</string>
+  <string name="dropdown_delete_button_desc">%s qabul qiluvchilar ro‘yxatidan olib tashlansin</string>
+  <string name="hint_time_zone_search">Mamlakat nomini kiriting</string>
+  <string name="hour_picker_description">Soat ko‘rsatkichli doira</string>
+  <string name="item_is_selected">%1$s tanlandi</string>
+  <string name="minute_picker_description">Daqiqa ko‘rsatkichli doira</string>
+  <string name="more_string">+%1$d ta</string>
+  <string name="no_results_found">Hech narsa topilmadi</string>
+  <string name="palestine_display_name">Falastin</string>
+  <string name="searchview_description_clear">So‘rovni tozalash</string>
+  <string name="select_day">Oy va kunni tanlash</string>
+  <string name="select_hours">Soatni tanlash</string>
+  <string name="select_minutes">Daqiqani tanlash</string>
+  <string name="select_year">Yilni tanlash</string>
+  <string name="year_picker_description">Yillar ro‘yxati</string>
 </resources>

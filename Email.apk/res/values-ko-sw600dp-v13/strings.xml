@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="menu_manage_folders">폴더 관리</string>
-    <string name="add_cc_label">+ 참조/숨은참조</string>
-    <string name="add_bcc_label">+ 숨은참조</string>
-    <string name="preferences_default_reply_all_summary">메일 알림에 답장 시 기본값으로 사용</string>
+  <string name="add_bcc_label">+ 숨은참조</string>
+  <string name="add_cc_label">+ 참조/숨은참조</string>
+  <string name="menu_manage_folders">폴더 관리</string>
+  <string name="preferences_default_reply_all_summary">메일 알림에 답장 시 기본값으로 사용</string>
 </resources>

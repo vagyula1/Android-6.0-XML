@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">Kommandoliste</string>
-    <string name="bugreport_finished_title">Feilrapporten er lagret</string>
-    <string name="bugreport_finished_text">Trykk for å dele feilrapporten din</string>
-    <string name="bugreport_confirm">Feilrapporter inkluderer data fra systemets forskjellige loggfiler. Dette omfatter personlig og privat informasjon. Du bør bare dele feilrapporter med apper og folk du stoler på.</string>
-    <string name="bugreport_confirm_repeat">Vis denne meldingen neste gang</string>
-    <string name="bugreport_storage_title">Feilrapporter</string>
+  <string name="app_label">Kommandoliste</string>
+  <string name="bugreport_confirm">Feilrapporter inkluderer data fra systemets forskjellige loggfiler. Dette omfatter personlig og privat informasjon. Du bør bare dele feilrapporter med apper og folk du stoler på.</string>
+  <string name="bugreport_confirm_repeat">Vis denne meldingen neste gang</string>
+  <string name="bugreport_finished_text">Trykk for å dele feilrapporten din</string>
+  <string name="bugreport_finished_title">Feilrapporten er lagret</string>
+  <string name="bugreport_storage_title">Feilrapporter</string>
 </resources>

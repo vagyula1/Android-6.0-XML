@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Klankopnemer</string>
-    <string name="record_your_message">Neem jou boodskap op</string>
-    <string name="message_recorded">Boodskap opgeneem</string>
-    <string name="review_message">Hersien boodskap</string>
-    <string name="recording">Opname</string>
-    <string name="recording_stopped">Opname gestop</string>
-    <string name="storage_is_full">Berging is vol</string>
-    <string name="max_length_reached">Maksimum lengte bereik</string>
-    <string name="insert_sd_card">Heg USB-berging</string>
-    <string name="min_available">%d min beskikbaar</string>
-    <string name="sec_available">%d s beskikbaar</string>
-    <string name="accept">Klaar</string>
-    <string name="discard">Verwerp</string>
-    <string name="button_ok">OK</string>
-    <string name="audio_db_artist_name">Jou opnames</string>
-    <string name="audio_db_album_name">Klankopnames</string>
-    <string name="audio_db_playlist_name">My opnames</string>
-    <string name="error_sdcard_access">Kan nie toegang tot USB-berging kry nie.</string>
-    <string name="error_app_internal">Interne programfout.</string>
-    <string name="error_mediadb_new_record">Kon nie klankopname stoor nie.</string>
+  <string name="accept">Klaar</string>
+  <string name="app_name">Klankopnemer</string>
+  <string name="audio_db_album_name">Klankopnames</string>
+  <string name="audio_db_artist_name">Jou opnames</string>
+  <string name="audio_db_playlist_name">My opnames</string>
+  <string name="button_ok">OK</string>
+  <string name="discard">Verwerp</string>
+  <string name="error_app_internal">Interne programfout.</string>
+  <string name="error_mediadb_new_record">Kon nie klankopname stoor nie.</string>
+  <string name="error_sdcard_access">Kan nie toegang tot USB-berging kry nie.</string>
+  <string name="insert_sd_card">Heg USB-berging</string>
+  <string name="max_length_reached">Maksimum lengte bereik</string>
+  <string name="message_recorded">Boodskap opgeneem</string>
+  <string name="min_available">%d min beskikbaar</string>
+  <string name="record_your_message">Neem jou boodskap op</string>
+  <string name="recording">Opname</string>
+  <string name="recording_stopped">Opname gestop</string>
+  <string name="review_message">Hersien boodskap</string>
+  <string name="sec_available">%d s beskikbaar</string>
+  <string name="storage_is_full">Berging is vol</string>
 </resources>

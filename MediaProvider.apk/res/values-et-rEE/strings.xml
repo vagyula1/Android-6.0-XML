@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="uid_label">Meedium</string>
-    <string name="app_label">Salvestusmeedium</string>
-    <string name="artist_label">Artist</string>
-    <string name="ringtone_default">Vaikehelin</string>
-    <string name="notification_sound_default">Märguande vaikeheli</string>
-    <string name="alarm_sound_default">Äratuse vaikeheli</string>
-    <string name="root_images">Pildid</string>
-    <string name="root_videos">Videod</string>
-    <string name="root_audio">Heli</string>
+  <string name="alarm_sound_default">Äratuse vaikeheli</string>
+  <string name="app_label">Salvestusmeedium</string>
+  <string name="artist_label">Artist</string>
+  <string name="notification_sound_default">Märguande vaikeheli</string>
+  <string name="ringtone_default">Vaikehelin</string>
+  <string name="root_audio">Heli</string>
+  <string name="root_images">Pildid</string>
+  <string name="root_videos">Videod</string>
+  <string name="uid_label">Meedium</string>
 </resources>

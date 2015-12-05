@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="menu_manage_folders">Qovluqları idarə edin</string>
-    <string name="add_cc_label">+ Nüsxəni alan/Nüsxəni gizli alan</string>
-    <string name="add_bcc_label">+ Nüsxəni gizli alan</string>
-    <string name="preferences_default_reply_all_summary">Mesaj bildirişlərinə defolt cavablar olaraq istifadə edin</string>
+  <string name="add_bcc_label">+ Nüsxəni gizli alan</string>
+  <string name="add_cc_label">+ Nüsxəni alan/Nüsxəni gizli alan</string>
+  <string name="menu_manage_folders">Qovluqları idarə edin</string>
+  <string name="preferences_default_reply_all_summary">Mesaj bildirişlərinə defolt cavablar olaraq istifadə edin</string>
 </resources>

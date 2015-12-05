@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">רשמקול</string>
-    <string name="record_your_message">הקלט את ההודעה</string>
-    <string name="message_recorded">ההודעה הוקלטה</string>
-    <string name="review_message">סקירת הודעה</string>
-    <string name="recording">מקליט</string>
-    <string name="recording_stopped">ההקלטה נעצרה</string>
-    <string name="storage_is_full">שטח האחסון מלא</string>
-    <string name="max_length_reached">זהו האורך המרבי המותר</string>
-    <string name="insert_sd_card">‏טען אחסון USB</string>
-    <string name="min_available">נותרו %d דקות</string>
-    <string name="sec_available">נותרו %d שניות</string>
-    <string name="accept">בוצע</string>
-    <string name="discard">מחק</string>
-    <string name="button_ok">אישור</string>
-    <string name="audio_db_artist_name">ההקלטות שלך</string>
-    <string name="audio_db_album_name">הקלטות אודיו</string>
-    <string name="audio_db_playlist_name">ההקלטות שלי</string>
-    <string name="error_sdcard_access">‏לא ניתן לגשת לאחסון USB.</string>
-    <string name="error_app_internal">שגיאת אפליקציה פנימית</string>
-    <string name="error_mediadb_new_record">לא ניתן לשמור את האודיו שהוקלט</string>
+  <string name="accept">בוצע</string>
+  <string name="app_name">רשמקול</string>
+  <string name="audio_db_album_name">הקלטות אודיו</string>
+  <string name="audio_db_artist_name">ההקלטות שלך</string>
+  <string name="audio_db_playlist_name">ההקלטות שלי</string>
+  <string name="button_ok">אישור</string>
+  <string name="discard">מחק</string>
+  <string name="error_app_internal">שגיאת אפליקציה פנימית</string>
+  <string name="error_mediadb_new_record">לא ניתן לשמור את האודיו שהוקלט</string>
+  <string name="error_sdcard_access">‏לא ניתן לגשת לאחסון USB.</string>
+  <string name="insert_sd_card">‏טען אחסון USB</string>
+  <string name="max_length_reached">זהו האורך המרבי המותר</string>
+  <string name="message_recorded">ההודעה הוקלטה</string>
+  <string name="min_available">נותרו %d דקות</string>
+  <string name="record_your_message">הקלט את ההודעה</string>
+  <string name="recording">מקליט</string>
+  <string name="recording_stopped">ההקלטה נעצרה</string>
+  <string name="review_message">סקירת הודעה</string>
+  <string name="sec_available">נותרו %d שניות</string>
+  <string name="storage_is_full">שטח האחסון מלא</string>
 </resources>

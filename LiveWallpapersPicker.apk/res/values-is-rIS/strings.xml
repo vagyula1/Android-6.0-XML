@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="application_name">Val á kviku veggfóðri</string>
-    <string name="live_wallpaper_picker_title">Veldu kvikt veggfóður</string>
-    <string name="live_wallpaper_picker_label">Kvik veggfóður</string>
-    <string name="live_wallpaper_preview_title">Forskoðun á kviku veggfóðri</string>
-    <string name="configure_wallpaper">Stillingar…</string>
-    <string name="wallpaper_instructions">Velja veggfóður</string>
-    <string name="live_wallpaper_empty">Engin kvik veggfóður.</string>
-    <string name="set_live_wallpaper">Velja veggfóður</string>
-    <string name="wallpaper_title_and_author">%1$s eftir %2$s</string>
-    <string name="live_wallpaper_loading">Hleður kvikt veggfóður…</string>
-    <string name="wallpaper_cancel">Hætta við</string>
+  <string name="application_name">Val á kviku veggfóðri</string>
+  <string name="configure_wallpaper">Stillingar…</string>
+  <string name="live_wallpaper_empty">Engin kvik veggfóður.</string>
+  <string name="live_wallpaper_loading">Hleður kvikt veggfóður…</string>
+  <string name="live_wallpaper_picker_label">Kvik veggfóður</string>
+  <string name="live_wallpaper_picker_title">Veldu kvikt veggfóður</string>
+  <string name="live_wallpaper_preview_title">Forskoðun á kviku veggfóðri</string>
+  <string name="set_live_wallpaper">Velja veggfóður</string>
+  <string name="wallpaper_cancel">Hætta við</string>
+  <string name="wallpaper_instructions">Velja veggfóður</string>
+  <string name="wallpaper_title_and_author">%1$s eftir %2$s</string>
 </resources>

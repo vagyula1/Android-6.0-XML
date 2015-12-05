@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="application_name">Хөдөлгөөнт ханын зураг сонгогч</string>
-    <string name="live_wallpaper_picker_title">Хөдөлгөөнт ханын зураг сонгох</string>
-    <string name="live_wallpaper_picker_label">Хөдөлгөөнт ханын зураг</string>
-    <string name="live_wallpaper_preview_title">Хөдөлгөөнт ханын зураг урьдчилж үзэх</string>
-    <string name="configure_wallpaper">Тохиргоо...</string>
-    <string name="wallpaper_instructions">Ханын зургийг тохируулах</string>
-    <string name="live_wallpaper_empty">Хөдөлгөөнт ханын зураг байхгүй.</string>
-    <string name="set_live_wallpaper">Ханын зургийг тохируулах</string>
-    <string name="wallpaper_title_and_author">%2$s-н %1$s</string>
-    <string name="live_wallpaper_loading">Хөдөлгөөнт ханын зургийг ачааллаж байна…</string>
-    <string name="wallpaper_cancel">Цуцлах</string>
+  <string name="application_name">Хөдөлгөөнт ханын зураг сонгогч</string>
+  <string name="configure_wallpaper">Тохиргоо...</string>
+  <string name="live_wallpaper_empty">Хөдөлгөөнт ханын зураг байхгүй.</string>
+  <string name="live_wallpaper_loading">Хөдөлгөөнт ханын зургийг ачааллаж байна…</string>
+  <string name="live_wallpaper_picker_label">Хөдөлгөөнт ханын зураг</string>
+  <string name="live_wallpaper_picker_title">Хөдөлгөөнт ханын зураг сонгох</string>
+  <string name="live_wallpaper_preview_title">Хөдөлгөөнт ханын зураг урьдчилж үзэх</string>
+  <string name="set_live_wallpaper">Ханын зургийг тохируулах</string>
+  <string name="wallpaper_cancel">Цуцлах</string>
+  <string name="wallpaper_instructions">Ханын зургийг тохируулах</string>
+  <string name="wallpaper_title_and_author">%2$s-н %1$s</string>
 </resources>

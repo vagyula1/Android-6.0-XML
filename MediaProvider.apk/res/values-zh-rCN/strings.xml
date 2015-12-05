@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="uid_label">媒体</string>
-    <string name="app_label">媒体存储</string>
-    <string name="artist_label">音乐人</string>
-    <string name="ringtone_default">默认铃声</string>
-    <string name="notification_sound_default">默认通知提示音</string>
-    <string name="alarm_sound_default">默认闹钟提示音</string>
-    <string name="root_images">图片</string>
-    <string name="root_videos">视频</string>
-    <string name="root_audio">音频</string>
+  <string name="alarm_sound_default">默认闹钟提示音</string>
+  <string name="app_label">媒体存储</string>
+  <string name="artist_label">音乐人</string>
+  <string name="notification_sound_default">默认通知提示音</string>
+  <string name="ringtone_default">默认铃声</string>
+  <string name="root_audio">音频</string>
+  <string name="root_images">图片</string>
+  <string name="root_videos">视频</string>
+  <string name="uid_label">媒体</string>
 </resources>

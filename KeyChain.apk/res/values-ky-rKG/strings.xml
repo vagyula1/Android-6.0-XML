@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Ачкычтар топтому</string>
-    <string name="title_no_certs">Сертификат табылган жок</string>
-    <string name="title_select_cert">Сертификат тандоо</string>
-    <string name="requesting_application">%s колдонмосуна сертификат талап кылынат. Сертификатты тандоо, колдонмого бул тастыктаманы мындан кийин сервер менен колдонууга уруксат берет.</string>
-    <string name="requesting_server">Колдонмо талап кылган серверди %s катары аныктады, бирок сиз колдонмого ишенсеңиз гана ага сертификатка жетки беришиңиз керек.</string>
-    <string name="install_new_cert_message">Сиз сертификаттарды, сырткы сактагычта жайгашкан PKCS#12 файлынан алып, %1$s же %2$s кеңейтмеси менен орното аласыз.</string>
-    <string name="install_new_cert_button_label">Орнотуу</string>
-    <string name="allow_button">Уруксат берүү</string>
-    <string name="deny_button">Баш тартуу</string>
+  <string name="allow_button">Уруксат берүү</string>
+  <string name="app_name">Ачкычтар топтому</string>
+  <string name="deny_button">Баш тартуу</string>
+  <string name="install_new_cert_button_label">Орнотуу</string>
+  <string name="install_new_cert_message">Сиз сертификаттарды, сырткы сактагычта жайгашкан PKCS#12 файлынан алып, %1$s же %2$s кеңейтмеси менен орното аласыз.</string>
+  <string name="requesting_application">%s колдонмосуна сертификат талап кылынат. Сертификатты тандоо, колдонмого бул тастыктаманы мындан кийин сервер менен колдонууга уруксат берет.</string>
+  <string name="requesting_server">Колдонмо талап кылган серверди %s катары аныктады, бирок сиз колдонмого ишенсеңиз гана ага сертификатка жетки беришиңиз керек.</string>
+  <string name="title_no_certs">Сертификат табылган жок</string>
+  <string name="title_select_cert">Сертификат тандоо</string>
 </resources>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="uid_label">" ማህደረ መረጃ"</string>
-    <string name="app_label">" ማህደረ መረጃ  ማከማቻ"</string>
-    <string name="artist_label">አርቲስት</string>
-    <string name="ringtone_default">ነባሪ የደወል ቅላጼ</string>
-    <string name="notification_sound_default">ነባሪ የማሳወቂያ ድምጽ</string>
-    <string name="alarm_sound_default">ነባሪ የማንቂያ ድምጽ</string>
-    <string name="root_images">ምስሎች</string>
-    <string name="root_videos">ቪዲዮዎች</string>
-    <string name="root_audio">ድምጽ</string>
+  <string name="alarm_sound_default">ነባሪ የማንቂያ ድምጽ</string>
+  <string name="app_label">" ማህደረ መረጃ  ማከማቻ"</string>
+  <string name="artist_label">አርቲስት</string>
+  <string name="notification_sound_default">ነባሪ የማሳወቂያ ድምጽ</string>
+  <string name="ringtone_default">ነባሪ የደወል ቅላጼ</string>
+  <string name="root_audio">ድምጽ</string>
+  <string name="root_images">ምስሎች</string>
+  <string name="root_videos">ቪዲዮዎች</string>
+  <string name="uid_label">" ማህደረ መረጃ"</string>
 </resources>

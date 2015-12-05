@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Gravadora de son</string>
-    <string name="record_your_message">Gravar unha mensaxe</string>
-    <string name="message_recorded">Mensaxe gravada</string>
-    <string name="review_message">Revisar mensaxe</string>
-    <string name="recording">Gravando</string>
-    <string name="recording_stopped">Detívose a gravación</string>
-    <string name="storage_is_full">O almacenamento está cheo</string>
-    <string name="max_length_reached">Alcanzouse a duración máxima</string>
-    <string name="insert_sd_card">Activar almacenamento USB</string>
-    <string name="min_available">%d min dispoñibles</string>
-    <string name="sec_available">%d s dispoñibles</string>
-    <string name="accept">Feito</string>
-    <string name="discard">Descartar</string>
-    <string name="button_ok">Aceptar</string>
-    <string name="audio_db_artist_name">As túas gravacións</string>
-    <string name="audio_db_album_name">Gravacións de audio</string>
-    <string name="audio_db_playlist_name">As miñas gravacións</string>
-    <string name="error_sdcard_access">Non se pode acceder ao almacenamento USB.</string>
-    <string name="error_app_internal">Erro interno da aplicación</string>
-    <string name="error_mediadb_new_record">Non se puido gardar o audio gravado.</string>
+  <string name="accept">Feito</string>
+  <string name="app_name">Gravadora de son</string>
+  <string name="audio_db_album_name">Gravacións de audio</string>
+  <string name="audio_db_artist_name">As túas gravacións</string>
+  <string name="audio_db_playlist_name">As miñas gravacións</string>
+  <string name="button_ok">Aceptar</string>
+  <string name="discard">Descartar</string>
+  <string name="error_app_internal">Erro interno da aplicación</string>
+  <string name="error_mediadb_new_record">Non se puido gardar o audio gravado.</string>
+  <string name="error_sdcard_access">Non se pode acceder ao almacenamento USB.</string>
+  <string name="insert_sd_card">Activar almacenamento USB</string>
+  <string name="max_length_reached">Alcanzouse a duración máxima</string>
+  <string name="message_recorded">Mensaxe gravada</string>
+  <string name="min_available">%d min dispoñibles</string>
+  <string name="record_your_message">Gravar unha mensaxe</string>
+  <string name="recording">Gravando</string>
+  <string name="recording_stopped">Detívose a gravación</string>
+  <string name="review_message">Revisar mensaxe</string>
+  <string name="sec_available">%d s dispoñibles</string>
+  <string name="storage_is_full">O almacenamento está cheo</string>
 </resources>

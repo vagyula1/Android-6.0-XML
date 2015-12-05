@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">[Šĥéļļ one]</string>
-    <string name="bugreport_finished_title">[βûĝ ŕéþöŕţ çåþţûŕéð one two three]</string>
-    <string name="bugreport_finished_text">[Ţöûçĥ ţö šĥåŕé ýöûŕ ɓûĝ ŕéþöŕţ one two three four]</string>
-    <string name="bugreport_confirm">"[βûĝ ŕéþöŕţš çöñţåîñ ðåţå ƒŕöḿ ţĥé šýšţéḿ'š Våŕîöûš ļöĝ ƒîļéš, îñçļûðîñĝ þéŕšöñåļ åñð þŕîVåţé îñƒöŕḿåţîöñ. Öñļý šĥåŕé ɓûĝ ŕéþöŕţš ŵîţĥ åþþš åñð þéöþļé ýöû ţŕûšţ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]"</string>
-    <string name="bugreport_confirm_repeat">[Šĥöŵ ţĥîš ḿéššåĝé ñéхţ ţîḿé one two three four]</string>
-    <string name="bugreport_storage_title">[βûĝ ŕéþöŕţš one two]</string>
+  <string name="app_label">[Šĥéļļ one]</string>
+  <string name="bugreport_confirm">"[βûĝ ŕéþöŕţš çöñţåîñ ðåţå ƒŕöḿ ţĥé šýšţéḿ'š Våŕîöûš ļöĝ ƒîļéš, îñçļûðîñĝ þéŕšöñåļ åñð þŕîVåţé îñƒöŕḿåţîöñ. Öñļý šĥåŕé ɓûĝ ŕéþöŕţš ŵîţĥ åþþš åñð þéöþļé ýöû ţŕûšţ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]"</string>
+  <string name="bugreport_confirm_repeat">[Šĥöŵ ţĥîš ḿéššåĝé ñéхţ ţîḿé one two three four]</string>
+  <string name="bugreport_finished_text">[Ţöûçĥ ţö šĥåŕé ýöûŕ ɓûĝ ŕéþöŕţ one two three four]</string>
+  <string name="bugreport_finished_title">[βûĝ ŕéþöŕţ çåþţûŕéð one two three]</string>
+  <string name="bugreport_storage_title">[βûĝ ŕéþöŕţš one two]</string>
 </resources>

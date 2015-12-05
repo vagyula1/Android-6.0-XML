@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="application_name">Canlı Divar kağızı Seçicisi</string>
-    <string name="live_wallpaper_picker_title">Canlı divar kağızı seçin</string>
-    <string name="live_wallpaper_picker_label">Canlı Divar Kağızları</string>
-    <string name="live_wallpaper_preview_title">Canlı divar kağızı önizləməsi</string>
-    <string name="configure_wallpaper">Parametrlər</string>
-    <string name="wallpaper_instructions">Divar kağızı seçin</string>
-    <string name="live_wallpaper_empty">Canlı divar kağızları yoxdur.</string>
-    <string name="set_live_wallpaper">Divar kağızı seçin</string>
-    <string name="wallpaper_title_and_author">%2$s tərəfindən %1$s</string>
-    <string name="live_wallpaper_loading">Canlı divar kağızı yüklənir...</string>
-    <string name="wallpaper_cancel">Ləğv et</string>
+  <string name="application_name">Canlı Divar kağızı Seçicisi</string>
+  <string name="configure_wallpaper">Parametrlər</string>
+  <string name="live_wallpaper_empty">Canlı divar kağızları yoxdur.</string>
+  <string name="live_wallpaper_loading">Canlı divar kağızı yüklənir...</string>
+  <string name="live_wallpaper_picker_label">Canlı Divar Kağızları</string>
+  <string name="live_wallpaper_picker_title">Canlı divar kağızı seçin</string>
+  <string name="live_wallpaper_preview_title">Canlı divar kağızı önizləməsi</string>
+  <string name="set_live_wallpaper">Divar kağızı seçin</string>
+  <string name="wallpaper_cancel">Ləğv et</string>
+  <string name="wallpaper_instructions">Divar kağızı seçin</string>
+  <string name="wallpaper_title_and_author">%2$s tərəfindən %1$s</string>
 </resources>

@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Дауыс жазу құрылғысы</string>
-    <string name="record_your_message">Хабарыңызды жазыңыз</string>
-    <string name="message_recorded">Хабар жазылды</string>
-    <string name="review_message">Хабарды шолу</string>
-    <string name="recording">Жазуда</string>
-    <string name="recording_stopped">Жазу тоқтатылды</string>
-    <string name="storage_is_full">Жад толы</string>
-    <string name="max_length_reached">Ең жоғары ұзындықтан асып кетті</string>
-    <string name="insert_sd_card">USB жадын енгізу</string>
-    <string name="min_available">%d минут бар</string>
-    <string name="sec_available">%d бар</string>
-    <string name="accept">Дайын</string>
-    <string name="discard">Өшіру</string>
-    <string name="button_ok">Жарайды</string>
-    <string name="audio_db_artist_name">Сіздің жазбаларыңыз</string>
-    <string name="audio_db_album_name">Aудио жазбалар</string>
-    <string name="audio_db_playlist_name">Менің жазбаларым</string>
-    <string name="error_sdcard_access">USB жадына кіру мүмкін емес.</string>
-    <string name="error_app_internal">Ішкі қолданба қателігі.</string>
-    <string name="error_mediadb_new_record">Жазылған аудионы сақтай алмады.</string>
+  <string name="accept">Дайын</string>
+  <string name="app_name">Дауыс жазу құрылғысы</string>
+  <string name="audio_db_album_name">Aудио жазбалар</string>
+  <string name="audio_db_artist_name">Сіздің жазбаларыңыз</string>
+  <string name="audio_db_playlist_name">Менің жазбаларым</string>
+  <string name="button_ok">Жарайды</string>
+  <string name="discard">Өшіру</string>
+  <string name="error_app_internal">Ішкі қолданба қателігі.</string>
+  <string name="error_mediadb_new_record">Жазылған аудионы сақтай алмады.</string>
+  <string name="error_sdcard_access">USB жадына кіру мүмкін емес.</string>
+  <string name="insert_sd_card">USB жадын енгізу</string>
+  <string name="max_length_reached">Ең жоғары ұзындықтан асып кетті</string>
+  <string name="message_recorded">Хабар жазылды</string>
+  <string name="min_available">%d минут бар</string>
+  <string name="record_your_message">Хабарыңызды жазыңыз</string>
+  <string name="recording">Жазуда</string>
+  <string name="recording_stopped">Жазу тоқтатылды</string>
+  <string name="review_message">Хабарды шолу</string>
+  <string name="sec_available">%d бар</string>
+  <string name="storage_is_full">Жад толы</string>
 </resources>

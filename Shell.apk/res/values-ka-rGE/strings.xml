@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">გარეკანი</string>
-    <string name="bugreport_finished_title">ანგარიში ხარვეზების შესახებ შექმნილია</string>
-    <string name="bugreport_finished_text">შეეხეთ თქვენი ხარვეზების ანგარიშის გასაზიარებლად</string>
-    <string name="bugreport_confirm">ხარვეზის ანგარიშები მოიცავს მონაცემებს სხვადასხვა სისტემური ჟურნალის ფაილებიდან, მათ შორის პირად და კონფიდენციალურ ინფორმაციას.</string>
-    <string name="bugreport_confirm_repeat">შემდგომში აჩვენე ეს შეტყობინება</string>
-    <string name="bugreport_storage_title">შეცდომების ანგარიშები</string>
+  <string name="app_label">გარეკანი</string>
+  <string name="bugreport_confirm">ხარვეზის ანგარიშები მოიცავს მონაცემებს სხვადასხვა სისტემური ჟურნალის ფაილებიდან, მათ შორის პირად და კონფიდენციალურ ინფორმაციას.</string>
+  <string name="bugreport_confirm_repeat">შემდგომში აჩვენე ეს შეტყობინება</string>
+  <string name="bugreport_finished_text">შეეხეთ თქვენი ხარვეზების ანგარიშის გასაზიარებლად</string>
+  <string name="bugreport_finished_title">ანგარიში ხარვეზების შესახებ შექმნილია</string>
+  <string name="bugreport_storage_title">შეცდომების ანგარიშები</string>
 </resources>

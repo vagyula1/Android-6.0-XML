@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Звукозаписвач</string>
-    <string name="record_your_message">Запишете съобщението си</string>
-    <string name="message_recorded">Съобщението е записано</string>
-    <string name="review_message">Преглед на съобщението</string>
-    <string name="recording">Записва се</string>
-    <string name="recording_stopped">Записването спря</string>
-    <string name="storage_is_full">Хранилището е пълно</string>
-    <string name="max_length_reached">Достигната е максималната дължина</string>
-    <string name="insert_sd_card">Свържете USB хранилище</string>
-    <string name="min_available">Има %d мин</string>
-    <string name="sec_available">Има %d сек</string>
-    <string name="accept">Готово</string>
-    <string name="discard">Отхвърляне</string>
-    <string name="button_ok">OK</string>
-    <string name="audio_db_artist_name">Вашите записи</string>
-    <string name="audio_db_album_name">Записи на звук</string>
-    <string name="audio_db_playlist_name">Моите записи</string>
-    <string name="error_sdcard_access">Няма достъп до USB хранилището.</string>
-    <string name="error_app_internal">Вътрешна грешка в приложението</string>
-    <string name="error_mediadb_new_record">Аудиозаписът не можа да бъде запазен.</string>
+  <string name="accept">Готово</string>
+  <string name="app_name">Звукозаписвач</string>
+  <string name="audio_db_album_name">Записи на звук</string>
+  <string name="audio_db_artist_name">Вашите записи</string>
+  <string name="audio_db_playlist_name">Моите записи</string>
+  <string name="button_ok">OK</string>
+  <string name="discard">Отхвърляне</string>
+  <string name="error_app_internal">Вътрешна грешка в приложението</string>
+  <string name="error_mediadb_new_record">Аудиозаписът не можа да бъде запазен.</string>
+  <string name="error_sdcard_access">Няма достъп до USB хранилището.</string>
+  <string name="insert_sd_card">Свържете USB хранилище</string>
+  <string name="max_length_reached">Достигната е максималната дължина</string>
+  <string name="message_recorded">Съобщението е записано</string>
+  <string name="min_available">Има %d мин</string>
+  <string name="record_your_message">Запишете съобщението си</string>
+  <string name="recording">Записва се</string>
+  <string name="recording_stopped">Записването спря</string>
+  <string name="review_message">Преглед на съобщението</string>
+  <string name="sec_available">Има %d сек</string>
+  <string name="storage_is_full">Хранилището е пълно</string>
 </resources>

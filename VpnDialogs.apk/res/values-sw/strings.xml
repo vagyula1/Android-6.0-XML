@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="prompt">Ombi la muunganisho</string>
-    <string name="warning">%s inataka kusanidi muunganisho wa VPN utakaoiruhusu kufuatilia trafiki ya mtandao. Kubali ikiwa tu unakiamini chanzo. &lt;br /> &lt;br /> &lt;img src=vpn_icon /> huonekana sehemu ya juu ya skrini yako VPN inapofanya kazi.</string>
-    <string name="legacy_title">VPN imeunganishwa</string>
-    <string name="configure">Sanidi</string>
-    <string name="disconnect">Tenganisha</string>
-    <string name="session">Kipindi:</string>
-    <string name="duration">Muda:</string>
-    <string name="data_transmitted">Zilizotumwa:</string>
-    <string name="data_received">Imepokelewa:</string>
-    <string name="data_value_format">baiti %1$s / pakiti %2$s</string>
+  <string name="configure">Sanidi</string>
+  <string name="data_received">Imepokelewa:</string>
+  <string name="data_transmitted">Zilizotumwa:</string>
+  <string name="data_value_format">baiti %1$s / pakiti %2$s</string>
+  <string name="disconnect">Tenganisha</string>
+  <string name="duration">Muda:</string>
+  <string name="legacy_title">VPN imeunganishwa</string>
+  <string name="prompt">Ombi la muunganisho</string>
+  <string name="session">Kipindi:</string>
+  <string name="warning">%s inataka kusanidi muunganisho wa VPN utakaoiruhusu kufuatilia trafiki ya mtandao. Kubali ikiwa tu unakiamini chanzo. &lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt; huonekana sehemu ya juu ya skrini yako VPN inapofanya kazi.</string>
 </resources>

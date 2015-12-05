@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="sharedUserLabel">Android Core Apps</string>
-    <string name="app_label">Stocarea datelor din Agendă</string>
-    <string name="provider_label">Agendă</string>
-    <string name="upgrade_out_of_memory_notification_ticker">Actualizarea agendei necesită mai multă memorie.</string>
-    <string name="upgrade_out_of_memory_notification_title">Măriţi spaţiul de stocare pentru Agendă</string>
-    <string name="upgrade_out_of_memory_notification_text">Atingeţi pentru a finaliza actualizarea.</string>
-    <string name="default_directory">Agendă</string>
-    <string name="local_invisible_directory">Altul</string>
-    <string name="voicemail_from_column">"Mesaj vocal de la "</string>
-    <string name="debug_dump_title">Copiaţi baza de date a agendei</string>
-    <string name="debug_dump_database_message">Sunteţi pe cale 1) să faceţi o copie, pe stocarea internă, a bazei dvs. de date care include toate informaţiile referitoare la agendă și întregul jurnal de apeluri și 2) să trimiteţi această copie prin e-mail. Nu uitaţi să ştergeţi această copie după ce aţi copiat-o de pe dispozitiv sau după ce a fost primit e-mailul.</string>
-    <string name="debug_dump_delete_button">Ștergeţi acum</string>
-    <string name="debug_dump_start_button">Porniţi</string>
-    <string name="debug_dump_email_sender_picker">Alegeţi un program pentru a trimite fişierul</string>
-    <string name="debug_dump_email_subject">Atașată baza de date a agendei</string>
-    <string name="debug_dump_email_body">Vă trimit ataşată baza de date cu toate informaţiile din agenda mea. Vă rog să o gestionaţi cu atenţie.</string>
+  <string name="app_label">Stocarea datelor din Agendă</string>
+  <string name="debug_dump_database_message">Sunteţi pe cale 1) să faceţi o copie, pe stocarea internă, a bazei dvs. de date care include toate informaţiile referitoare la agendă și întregul jurnal de apeluri și 2) să trimiteţi această copie prin e-mail. Nu uitaţi să ştergeţi această copie după ce aţi copiat-o de pe dispozitiv sau după ce a fost primit e-mailul.</string>
+  <string name="debug_dump_delete_button">Ștergeţi acum</string>
+  <string name="debug_dump_email_body">Vă trimit ataşată baza de date cu toate informaţiile din agenda mea. Vă rog să o gestionaţi cu atenţie.</string>
+  <string name="debug_dump_email_sender_picker">Alegeţi un program pentru a trimite fişierul</string>
+  <string name="debug_dump_email_subject">Atașată baza de date a agendei</string>
+  <string name="debug_dump_start_button">Porniţi</string>
+  <string name="debug_dump_title">Copiaţi baza de date a agendei</string>
+  <string name="default_directory">Agendă</string>
+  <string name="local_invisible_directory">Altul</string>
+  <string name="provider_label">Agendă</string>
+  <string name="sharedUserLabel">Android Core Apps</string>
+  <string name="upgrade_out_of_memory_notification_text">Atingeţi pentru a finaliza actualizarea.</string>
+  <string name="upgrade_out_of_memory_notification_ticker">Actualizarea agendei necesită mai multă memorie.</string>
+  <string name="upgrade_out_of_memory_notification_title">Măriţi spaţiul de stocare pentru Agendă</string>
+  <string name="voicemail_from_column">"Mesaj vocal de la "</string>
 </resources>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">ቀፎ</string>
-    <string name="bugreport_finished_title">የሳንካ ሪፖርት ተይዟል</string>
-    <string name="bugreport_finished_text">የሳንካ ሪፖርትዎን ለማጋራት ይንክኩ</string>
-    <string name="bugreport_confirm">የሳንካ ሪፖርቶች የግል መረጃን ጨምሮ ከበርካታ የስርዓቱ ምዝግብ ማስታወሻዎች የመጣ ውሂብን ይዟል። የሳንካ ሪፖርቶች ለሚያምኗቸው መተግበሪያዎችን እና ሰዎችን ብቻ ያጋሩ።</string>
-    <string name="bugreport_confirm_repeat">ይህን መልዕክት በሚቀጥለው ጊዜ አሳይ</string>
-    <string name="bugreport_storage_title">የሳንካ ሪፖርቶች</string>
+  <string name="app_label">ቀፎ</string>
+  <string name="bugreport_confirm">የሳንካ ሪፖርቶች የግል መረጃን ጨምሮ ከበርካታ የስርዓቱ ምዝግብ ማስታወሻዎች የመጣ ውሂብን ይዟል። የሳንካ ሪፖርቶች ለሚያምኗቸው መተግበሪያዎችን እና ሰዎችን ብቻ ያጋሩ።</string>
+  <string name="bugreport_confirm_repeat">ይህን መልዕክት በሚቀጥለው ጊዜ አሳይ</string>
+  <string name="bugreport_finished_text">የሳንካ ሪፖርትዎን ለማጋራት ይንክኩ</string>
+  <string name="bugreport_finished_title">የሳንካ ሪፖርት ተይዟል</string>
+  <string name="bugreport_storage_title">የሳንካ ሪፖርቶች</string>
 </resources>

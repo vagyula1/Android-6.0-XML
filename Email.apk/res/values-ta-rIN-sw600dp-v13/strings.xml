@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="menu_manage_folders">கோப்புறைகளை நிர்வகி</string>
-    <string name="add_cc_label">+ Cc/Bcc</string>
-    <string name="add_bcc_label">+ Bcc</string>
-    <string name="preferences_default_reply_all_summary">செய்தி அறிவிப்புகளுக்கான பதில்களுக்கு இயல்புநிலையாகப் பயன்படுத்து</string>
+  <string name="add_bcc_label">+ Bcc</string>
+  <string name="add_cc_label">+ Cc/Bcc</string>
+  <string name="menu_manage_folders">கோப்புறைகளை நிர்வகி</string>
+  <string name="preferences_default_reply_all_summary">செய்தி அறிவிப்புகளுக்கான பதில்களுக்கு இயல்புநிலையாகப் பயன்படுத்து</string>
 </resources>

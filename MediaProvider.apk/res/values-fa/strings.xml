@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="uid_label">رسانه</string>
-    <string name="app_label">حافظه رسانه</string>
-    <string name="artist_label">هنرمند</string>
-    <string name="ringtone_default">آهنگ زنگ پیش‌فرض</string>
-    <string name="notification_sound_default">صدای اعلان پیش‌فرض</string>
-    <string name="alarm_sound_default">آهنگ زنگ پیش‌فرض</string>
-    <string name="root_images">تصاویر</string>
-    <string name="root_videos">ویدیوها</string>
-    <string name="root_audio">صدا</string>
+  <string name="alarm_sound_default">آهنگ زنگ پیش‌فرض</string>
+  <string name="app_label">حافظه رسانه</string>
+  <string name="artist_label">هنرمند</string>
+  <string name="notification_sound_default">صدای اعلان پیش‌فرض</string>
+  <string name="ringtone_default">آهنگ زنگ پیش‌فرض</string>
+  <string name="root_audio">صدا</string>
+  <string name="root_images">تصاویر</string>
+  <string name="root_videos">ویدیوها</string>
+  <string name="uid_label">رسانه</string>
 </resources>

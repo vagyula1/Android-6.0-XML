@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="uid_label">Médiá</string>
-    <string name="app_label">Ukladací priestor médií</string>
-    <string name="artist_label">Umelec</string>
-    <string name="ringtone_default">Predvolený tón zvonenia</string>
-    <string name="notification_sound_default">Predvolený zvuk upozornenia</string>
-    <string name="alarm_sound_default">Predvolený zvuk budíka</string>
-    <string name="root_images">Obrázky</string>
-    <string name="root_videos">Videá</string>
-    <string name="root_audio">Zvuk</string>
+  <string name="alarm_sound_default">Predvolený zvuk budíka</string>
+  <string name="app_label">Ukladací priestor médií</string>
+  <string name="artist_label">Umelec</string>
+  <string name="notification_sound_default">Predvolený zvuk upozornenia</string>
+  <string name="ringtone_default">Predvolený tón zvonenia</string>
+  <string name="root_audio">Zvuk</string>
+  <string name="root_images">Obrázky</string>
+  <string name="root_videos">Videá</string>
+  <string name="uid_label">Médiá</string>
 </resources>

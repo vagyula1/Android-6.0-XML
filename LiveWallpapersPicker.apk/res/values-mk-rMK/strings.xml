@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="application_name">Бирач на раздвижени тапети</string>
-    <string name="live_wallpaper_picker_title">Избери раздвижен тапет</string>
-    <string name="live_wallpaper_picker_label">Раздвижени тапети</string>
-    <string name="live_wallpaper_preview_title">Преглед на раздвижен тапет</string>
-    <string name="configure_wallpaper">Подесувања...</string>
-    <string name="wallpaper_instructions">Подеси тапет</string>
-    <string name="live_wallpaper_empty">Нема раздвижени тапети.</string>
-    <string name="set_live_wallpaper">Подеси тапет</string>
-    <string name="wallpaper_title_and_author">%1$s од %2$s</string>
-    <string name="live_wallpaper_loading">Вчитување раздвижен тапет...</string>
-    <string name="wallpaper_cancel">Откажи</string>
+  <string name="application_name">Бирач на раздвижени тапети</string>
+  <string name="configure_wallpaper">Подесувања...</string>
+  <string name="live_wallpaper_empty">Нема раздвижени тапети.</string>
+  <string name="live_wallpaper_loading">Вчитување раздвижен тапет...</string>
+  <string name="live_wallpaper_picker_label">Раздвижени тапети</string>
+  <string name="live_wallpaper_picker_title">Избери раздвижен тапет</string>
+  <string name="live_wallpaper_preview_title">Преглед на раздвижен тапет</string>
+  <string name="set_live_wallpaper">Подеси тапет</string>
+  <string name="wallpaper_cancel">Откажи</string>
+  <string name="wallpaper_instructions">Подеси тапет</string>
+  <string name="wallpaper_title_and_author">%1$s од %2$s</string>
 </resources>

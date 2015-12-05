@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">Shell</string>
-    <string name="bugreport_finished_title">Foutenrapport vastgelegd</string>
-    <string name="bugreport_finished_text">Raak aan om uw foutenrapport te delen</string>
-    <string name="bugreport_confirm">Foutenrapporten bevatten gegevens uit de verschillende logbestanden van het systeem, waaronder persoonlijke en privégegevens. Deel foutenrapporten alleen met apps en mensen die u vertrouwt.</string>
-    <string name="bugreport_confirm_repeat">Dit bericht de volgende keer weergeven</string>
-    <string name="bugreport_storage_title">Foutenrapporten</string>
+  <string name="app_label">Shell</string>
+  <string name="bugreport_confirm">Foutenrapporten bevatten gegevens uit de verschillende logbestanden van het systeem, waaronder persoonlijke en privégegevens. Deel foutenrapporten alleen met apps en mensen die u vertrouwt.</string>
+  <string name="bugreport_confirm_repeat">Dit bericht de volgende keer weergeven</string>
+  <string name="bugreport_finished_text">Raak aan om uw foutenrapport te delen</string>
+  <string name="bugreport_finished_title">Foutenrapport vastgelegd</string>
+  <string name="bugreport_storage_title">Foutenrapporten</string>
 </resources>

@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">ឧបករណ៍​ថត​​សំឡេង</string>
-    <string name="record_your_message">កត់ត្រា​សារ​របស់​អ្នក</string>
-    <string name="message_recorded">បាន​កត់ត្រា​សារ</string>
-    <string name="review_message">ពិនិត្យមើល​សារ​ឡើង​វិញ</string>
-    <string name="recording">ការ​កត់ត្រា</string>
-    <string name="recording_stopped">បាន​បញ្ចប់​ការ​កត់ត្រា</string>
-    <string name="storage_is_full">ពេញ​ឧបករណ៍​ផ្ទុក</string>
-    <string name="max_length_reached">បាន​ដល់​ប្រវែង​អតិបរមា</string>
-    <string name="insert_sd_card">ភ្ជាប់​ឧបករណ៍​ផ្ទុក​យូអេសប៊ី</string>
-    <string name="min_available">%d អប្បបរមា​អាច​ប្រើ​បាន</string>
-    <string name="sec_available">%d ដែល​អាច​ប្រើ​បាន</string>
-    <string name="accept">រួចរាល់</string>
-    <string name="discard">បោះបង់</string>
-    <string name="button_ok">យល់​ព្រម​</string>
-    <string name="audio_db_artist_name">ការ​ថត​​របស់​អ្នក</string>
-    <string name="audio_db_album_name">ថត​​សំឡេង</string>
-    <string name="audio_db_playlist_name">ការ​ថត​របស់​ខ្ញុំ</string>
-    <string name="error_sdcard_access">មិន​អាច​ចូល​ដំណើរ​ការ​​ឧបករណ៍​ផ្ទុក​យូអេសប៊ី​។</string>
-    <string name="error_app_internal">កំហុស​កម្មវិធី​ខាង​ក្នុង​។</string>
-    <string name="error_mediadb_new_record">មិន​អាច​រក្សាទុក​​សំឡេង​ដែល​បាន​ថត​បាន​​ទេ។</string>
+  <string name="accept">រួចរាល់</string>
+  <string name="app_name">ឧបករណ៍​ថត​​សំឡេង</string>
+  <string name="audio_db_album_name">ថត​​សំឡេង</string>
+  <string name="audio_db_artist_name">ការ​ថត​​របស់​អ្នក</string>
+  <string name="audio_db_playlist_name">ការ​ថត​របស់​ខ្ញុំ</string>
+  <string name="button_ok">យល់​ព្រម​</string>
+  <string name="discard">បោះបង់</string>
+  <string name="error_app_internal">កំហុស​កម្មវិធី​ខាង​ក្នុង​។</string>
+  <string name="error_mediadb_new_record">មិន​អាច​រក្សាទុក​​សំឡេង​ដែល​បាន​ថត​បាន​​ទេ។</string>
+  <string name="error_sdcard_access">មិន​អាច​ចូល​ដំណើរ​ការ​​ឧបករណ៍​ផ្ទុក​យូអេសប៊ី​។</string>
+  <string name="insert_sd_card">ភ្ជាប់​ឧបករណ៍​ផ្ទុក​យូអេសប៊ី</string>
+  <string name="max_length_reached">បាន​ដល់​ប្រវែង​អតិបរមា</string>
+  <string name="message_recorded">បាន​កត់ត្រា​សារ</string>
+  <string name="min_available">%d អប្បបរមា​អាច​ប្រើ​បាន</string>
+  <string name="record_your_message">កត់ត្រា​សារ​របស់​អ្នក</string>
+  <string name="recording">ការ​កត់ត្រា</string>
+  <string name="recording_stopped">បាន​បញ្ចប់​ការ​កត់ត្រា</string>
+  <string name="review_message">ពិនិត្យមើល​សារ​ឡើង​វិញ</string>
+  <string name="sec_available">%d ដែល​អាច​ប្រើ​បាន</string>
+  <string name="storage_is_full">ពេញ​ឧបករណ៍​ផ្ទុក</string>
 </resources>

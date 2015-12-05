@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">Apvalkalas</string>
-    <string name="bugreport_finished_title">Riktų ataskaita užfiksuota</string>
-    <string name="bugreport_finished_text">Palieskite, kad bendrintumėte riktų ataskaitą</string>
-    <string name="bugreport_confirm">Riktų ataskaitose pateikiami duomenys iš įvairių sistemos žurnalo failų, įskaitant asmeninę ir privačią informaciją. Riktų ataskaitas bendrinkite tik su patikimomis programomis ir žmonėmis.</string>
-    <string name="bugreport_confirm_repeat">Rodyti šį pranešimą kitą kartą</string>
-    <string name="bugreport_storage_title">Riktų ataskaitos</string>
+  <string name="app_label">Apvalkalas</string>
+  <string name="bugreport_confirm">Riktų ataskaitose pateikiami duomenys iš įvairių sistemos žurnalo failų, įskaitant asmeninę ir privačią informaciją. Riktų ataskaitas bendrinkite tik su patikimomis programomis ir žmonėmis.</string>
+  <string name="bugreport_confirm_repeat">Rodyti šį pranešimą kitą kartą</string>
+  <string name="bugreport_finished_text">Palieskite, kad bendrintumėte riktų ataskaitą</string>
+  <string name="bugreport_finished_title">Riktų ataskaita užfiksuota</string>
+  <string name="bugreport_storage_title">Riktų ataskaitos</string>
 </resources>

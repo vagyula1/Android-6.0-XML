@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="menu_manage_folders">គ្រប់គ្រង​ថត</string>
-    <string name="add_cc_label">+ ចម្លង​ជូន/ចម្លង​ជា​សម្ងាត់​ជូន</string>
-    <string name="add_bcc_label">+ ចម្លង​ជា​សម្ងាត់​ជូន</string>
-    <string name="preferences_default_reply_all_summary">ប្រើ​ជា​លំនាំ​ដើម​សម្រាប់​ឆ្លើយតប​​​ការ​ជូន​ដំណឹង​សារ</string>
+  <string name="add_bcc_label">+ ចម្លង​ជា​សម្ងាត់​ជូន</string>
+  <string name="add_cc_label">+ ចម្លង​ជូន/ចម្លង​ជា​សម្ងាត់​ជូន</string>
+  <string name="menu_manage_folders">គ្រប់គ្រង​ថត</string>
+  <string name="preferences_default_reply_all_summary">ប្រើ​ជា​លំនាំ​ដើម​សម្រាប់​ឆ្លើយតប​​​ការ​ជូន​ដំណឹង​សារ</string>
 </resources>

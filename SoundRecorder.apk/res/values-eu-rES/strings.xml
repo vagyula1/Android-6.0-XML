@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Soinu-grabagailua</string>
-    <string name="record_your_message">Grabatu mezua</string>
-    <string name="message_recorded">Mezua grabatu da</string>
-    <string name="review_message">Berrikusi mezua</string>
-    <string name="recording">Grabaketa</string>
-    <string name="recording_stopped">Grabaketa gelditu da</string>
-    <string name="storage_is_full">Memoria beteta dago</string>
-    <string name="max_length_reached">Gehienezko luzerara iritsi zara</string>
-    <string name="insert_sd_card">Muntatu USB memoria</string>
-    <string name="min_available">%d minutu graba ditzakezu</string>
-    <string name="sec_available">%d segundo graba ditzakezu</string>
-    <string name="accept">Eginda</string>
-    <string name="discard">Baztertu</string>
-    <string name="button_ok">Ados</string>
-    <string name="audio_db_artist_name">Zure grabaketak</string>
-    <string name="audio_db_album_name">Audio-grabaketak</string>
-    <string name="audio_db_playlist_name">Nire grabaketak</string>
-    <string name="error_sdcard_access">Ezin da USB memoria atzitu.</string>
-    <string name="error_app_internal">Barneko aplikazioaren errorea.</string>
-    <string name="error_mediadb_new_record">Ezin izan da grabatutako audioa gorde.</string>
+  <string name="accept">Eginda</string>
+  <string name="app_name">Soinu-grabagailua</string>
+  <string name="audio_db_album_name">Audio-grabaketak</string>
+  <string name="audio_db_artist_name">Zure grabaketak</string>
+  <string name="audio_db_playlist_name">Nire grabaketak</string>
+  <string name="button_ok">Ados</string>
+  <string name="discard">Baztertu</string>
+  <string name="error_app_internal">Barneko aplikazioaren errorea.</string>
+  <string name="error_mediadb_new_record">Ezin izan da grabatutako audioa gorde.</string>
+  <string name="error_sdcard_access">Ezin da USB memoria atzitu.</string>
+  <string name="insert_sd_card">Muntatu USB memoria</string>
+  <string name="max_length_reached">Gehienezko luzerara iritsi zara</string>
+  <string name="message_recorded">Mezua grabatu da</string>
+  <string name="min_available">%d minutu graba ditzakezu</string>
+  <string name="record_your_message">Grabatu mezua</string>
+  <string name="recording">Grabaketa</string>
+  <string name="recording_stopped">Grabaketa gelditu da</string>
+  <string name="review_message">Berrikusi mezua</string>
+  <string name="sec_available">%d segundo graba ditzakezu</string>
+  <string name="storage_is_full">Memoria beteta dago</string>
 </resources>
